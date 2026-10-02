@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Monsoon &amp; Harbour backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(340.4 33.2% 6%)"/><stop offset="0.5" stop-color="hsl(356.4 38% 13%)"/><stop offset="1" stop-color="hsl(302 42.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(302 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(302 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="720.5" cy="446.7" r="336.5" fill="url(#glow)"/>
+<circle cx="720.5" cy="446.7" r="67.3" fill="hsl(302 96% 88%)" opacity=".85"/>
+<path d="M1458.9 0L1620.9 0L1008.9 900L693.9 900Z" fill="hsl(302 96% 88%)" opacity=".04"/><path d="M915.4 0L1077.4 0L465.4 900L150.4 900Z" fill="hsl(302 96% 88%)" opacity=".04"/><path d="M762.8 0L924.8 0L312.8 900L-2.2 900Z" fill="hsl(302 96% 88%)" opacity=".04"/><path d="M207.7 0L369.7 0L-242.3 900L-557.3 900Z" fill="hsl(302 96% 88%)" opacity=".04"/><circle cx="1488.3" cy="311.5" r="70.1" fill="hsl(302 96% 88%)" opacity="0.3"/><circle cx="469.3" cy="416.7" r="108.7" fill="hsl(302 92% 62%)" opacity="0.2"/><circle cx="266.6" cy="617.7" r="86.3" fill="hsl(302 96% 88%)" opacity="0.2"/><circle cx="412.8" cy="591.3" r="177.4" fill="hsl(302 92% 62%)" opacity="0.2"/><circle cx="237.6" cy="266.9" r="177.1" fill="hsl(302 96% 88%)" opacity="0.2"/><circle cx="391.2" cy="265.5" r="130.5" fill="hsl(302 92% 62%)" opacity="0.3"/><circle cx="120.4" cy="416" r="107.5" fill="hsl(302 96% 88%)" opacity="0.3"/><circle cx="49.5" cy="516.8" r="55.4" fill="hsl(302 92% 62%)" opacity="0.2"/><circle cx="732.1" cy="298.7" r="90.5" fill="hsl(302 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q100 784.3 200 792.9Q300 760.9 400 769.5Q500 709 600 717.6Q700 709 800 729.6Q900 690.9 1000 699.5Q1100 690.9 1200 769.2Q1300 760.6 1400 786.3Q1500 777.7 1600 828L1610 1428Z" fill="hsl(167.7 42.7% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

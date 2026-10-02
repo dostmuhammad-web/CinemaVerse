@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Naming Wavelength poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(331.3 47.7% 24%)"/><stop offset="0.5" stop-color="hsl(351.3 42.9% 62%)"/><stop offset="1" stop-color="hsl(322.7 47.7% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(322.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(322.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="452.4" cy="340.9" r="441.4" fill="url(#glow)"/><circle cx="452.4" cy="340.9" r="105.1" fill="hsl(322.7 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(148.7 38.2% 18%)"/><path d="M6.8 0L73.5 0L54.8 738L25.5 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.5"/><path d="M73.3 0L140 0L121.3 738L92 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.4"/><path d="M141.3 0L208 0L189.3 738L160 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.6"/><path d="M202.8 0L269.5 0L250.8 738L221.5 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.3"/><path d="M275.9 0L342.6 0L323.9 738L294.6 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.6"/><path d="M340.9 0L407.6 0L388.9 738L359.6 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.5"/><path d="M409.6 0L476.3 0L457.6 738L428.3 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.6"/><path d="M473 0L539.7 0L521 738L491.7 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.3"/><path d="M537.3 0L604 0L585.3 738L556 738Z" fill="hsl(156.7 42.9% 10%)" opacity="0.5"/><path d="M243.4 0L423.4 774L63.4 774Z" fill="hsl(322.7 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(322.7 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(162.7 47.7% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(322.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NAMING WAVELENGTH</text>
+<path d="M44 709.4h72" stroke="hsl(322.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  118 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(322.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

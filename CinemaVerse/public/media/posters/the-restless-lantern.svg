@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Restless Lantern poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(28.4 40.1% 6%)"/><stop offset="0.5" stop-color="hsl(44.4 45.8% 13%)"/><stop offset="1" stop-color="hsl(12.5 51.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(232.3 45.8% 10%)"/><path d="M141.4 190.7L396.5 190.7L447.6 900L121 900Z" fill="hsl(12.5 96% 78%)" opacity="0.1"/><path d="M141.4 190.7L396.5 190.7L475.6 900L109.8 900Z" fill="hsl(12.5 96% 78%)" opacity="0"/><path d="M141.4 190.7L396.5 190.7L503.7 900L98.5 900Z" fill="hsl(12.5 96% 78%)" opacity="0"/><rect x="141.4" y="144" width="255.1" height="467.5" fill="hsl(28.4 40.1% 6%)"/><rect x="141.4" y="144" width="255.1" height="467.5" fill="hsl(12.5 100% 62% / 0.4)" opacity=".5"/><path d="M141.4 144h255.1v467.5h-255.1Z" fill="none" stroke="hsl(246.3 57.2% 3%)" stroke-width="7"/><path d="M141.4 377.7h255.1M269 144v467.5" stroke="hsl(246.3 57.2% 3%)" stroke-width="4"/><path d="M205.7 864q-20.5 -113.6 20.5 -140.9q22.7 27.3 13.6 68.2q-4.5 45.5 4.5 72.7Z" fill="hsl(246.3 57.2% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(12.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE RESTLESS LANTERN</text>
+<path d="M44 709.4h72" stroke="hsl(12.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  152 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(12.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

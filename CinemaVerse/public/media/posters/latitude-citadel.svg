@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Latitude &amp; Citadel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(53.6 43.3% 24%)"/><stop offset="0.5" stop-color="hsl(73.6 39% 62%)"/><stop offset="1" stop-color="hsl(47.1 43.3% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(47.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(47.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="208" cy="198.4" r="254.1" fill="url(#glow)"/><circle cx="208" cy="198.4" r="60.5" fill="hsl(47.1 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(219.2 34.6% 18%)"/><path d="M0.1 0L66.8 0L48.1 738L18.8 738Z" fill="hsl(227.2 39% 10%)" opacity="0.4"/><path d="M69.3 0L136 0L117.3 738L88 738Z" fill="hsl(227.2 39% 10%)" opacity="0.6"/><path d="M135.8 0L202.5 0L183.8 738L154.5 738Z" fill="hsl(227.2 39% 10%)" opacity="0.4"/><path d="M206 0L272.7 0L254 738L224.7 738Z" fill="hsl(227.2 39% 10%)" opacity="0.6"/><path d="M267.6 0L334.3 0L315.6 738L286.3 738Z" fill="hsl(227.2 39% 10%)" opacity="0.4"/><path d="M341.9 0L408.6 0L389.9 738L360.6 738Z" fill="hsl(227.2 39% 10%)" opacity="0.4"/><path d="M401 0L467.7 0L449 738L419.7 738Z" fill="hsl(227.2 39% 10%)" opacity="0.5"/><path d="M470.1 0L536.8 0L518.1 738L488.8 738Z" fill="hsl(227.2 39% 10%)" opacity="0.5"/><path d="M536 0L602.7 0L584 738L554.7 738Z" fill="hsl(227.2 39% 10%)" opacity="0.6"/><path d="M317.8 0L497.8 774L137.8 774Z" fill="hsl(47.1 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(47.1 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(233.2 43.3% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(47.1 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LATITUDE &amp; CITADEL</text>
+<path d="M44 709.4h72" stroke="hsl(47.1 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1967  ·  121 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(47.1 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Bastion of the Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(204.2 48.3% 6%)"/><stop offset="0.5" stop-color="hsl(220.2 55.2% 13%)"/><stop offset="1" stop-color="hsl(170.6 62.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(170.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(170.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 517.5L51.2 517.5L62.3 437.7L129.1 437.7L139.1 388.5L196.3 388.5L207.1 392.4L258 392.4L262.8 503.5L325.2 503.5L332.7 367.4L425.7 367.4L439.4 411.5L502.6 411.5L510.9 413L579.7 413L589.7 364.5L623.3 364.5L610 1248Z" fill="hsl(349 48.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(357 62.1% 6%)"/><path d="M397.7 294.1l-13.9 87.1M122.1 181.6l-8.4 52.5M319 557.8l-9.9 62M216.3 205.5l-12.6 78.9M337.1 130l-14.4 89.7M492.3 719.5l-12.8 79.8M435 596.1l-6 37.2M359.1 586.8l-8.1 50.6M558.6 625.4l-8.5 53.1M579.1 345.8l-10.2 63.6M577.3 235.5l-10.4 64.9M40.3 576.4l-12.4 77.3M286.8 744.7l-10.1 63.1M354.3 611l-8.8 55.1M244.1 204.8l-6.4 40.1M473.7 341.4l-6.4 39.9M85.2 357.1l-12 74.9M126.7 187.5l-10.5 65.5M584.5 669.5l-13.2 82.3M94.5 395.6l-10.5 65.8M492.6 561.9l-13.3 83.4M44.3 511.6l-12.7 79.4M544.8 525.8l-11.8 73.8M255.8 302.6l-11.6 72.4M337.9 80.9l-9 56.1M233.2 433l-4.6 28.5M172.3 608.6l-9.1 56.9M344 197.8l-12.9 80.6M262.5 654l-9.1 57M347.5 666.5l-8.6 53.5M488.3 676.5l-10.5 65.4M469.8 210.7l-7.9 49.2M109.2 414.8l-9.5 59.3M193 668l-14.1 88.3M592.4 381.2l-12.4 77.3M154.6 436.9l-6.1 38.4M53 762.5l-7.4 46.2M583.3 443.8l-7.6 47.5M595.9 742.5l-11.1 69.7M144.7 379.5l-9.9 61.8M275.4 305.3l-14.4 89.9M391.3 91.6l-14.3 89.3M193.2 281.7l-5.2 32.5M27.3 294l-13.2 82.8M265.8 539.9l-12.1 75.9M307.7 671.4l-11.3 70.6" fill="none" stroke="hsl(170.6 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="300.6" cy="837" rx="132" ry="27" fill="hsl(170.6 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(170.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE BASTION OF THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THRESHOLD</text>
+<path d="M44 726.8h72" stroke="hsl(170.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2022  ·  133 MIN  ·  THRILLER</text>
+<text x="556" y="750.8" fill="hsl(170.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

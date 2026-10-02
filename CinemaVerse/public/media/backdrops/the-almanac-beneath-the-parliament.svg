@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Almanac beneath the Parliament backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(59.8 62.1% 24%)"/><stop offset="0.5" stop-color="hsl(79.8 55.9% 62%)"/><stop offset="1" stop-color="hsl(53.1 62.1% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(53.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(53.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="346.3" cy="296.8" r="701.5" fill="url(#glow)"/>
+<circle cx="346.3" cy="296.8" r="140.3" fill="hsl(53.1 96% 88%)" opacity=".85"/>
+<path d="M947.9 0L1109.9 0L497.9 900L182.9 900Z" fill="hsl(53.1 96% 88%)" opacity=".04"/><path d="M123.5 0L285.5 0L-326.5 900L-641.5 900Z" fill="hsl(53.1 96% 88%)" opacity=".04"/><path d="M977.7 0L1139.7 0L527.7 900L212.7 900Z" fill="hsl(53.1 96% 88%)" opacity=".04"/><path d="M84 0L246 0L-366 900L-681 900Z" fill="hsl(53.1 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(244.8 49.7% 18%)"/><path d="M1.5 0L179.3 0L129.5 738L51.3 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.5"/><path d="M183.6 0L361.4 0L311.6 738L233.4 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.6"/><path d="M356.8 0L534.6 0L484.8 738L406.6 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.5"/><path d="M537.6 0L715.4 0L665.6 738L587.4 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.4"/><path d="M719.1 0L896.9 0L847.1 738L768.9 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.5"/><path d="M890.3 0L1068.1 0L1018.3 738L940.1 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.7"/><path d="M1075.1 0L1252.9 0L1203.1 738L1124.9 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.6"/><path d="M1247.1 0L1424.9 0L1375.1 738L1296.9 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.6"/><path d="M1424.1 0L1601.9 0L1552.1 738L1473.9 738Z" fill="hsl(252.8 55.9% 10%)" opacity="0.4"/><path d="M1016.2 0L1496.2 774L536.2 774Z" fill="hsl(53.1 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(53.1 92% 52%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(258.8 62.1% 5%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

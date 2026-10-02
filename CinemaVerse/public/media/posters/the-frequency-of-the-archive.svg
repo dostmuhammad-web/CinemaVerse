@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Frequency of the Archive poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(354.7 51.1% 24%)"/><stop offset="0.5" stop-color="hsl(14.7 46% 42%)"/><stop offset="1" stop-color="hsl(347.6 51.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="347.1" cy="340.8" r="297.8" fill="url(#glow)"/><circle cx="347.1" cy="340.8" r="70.9" fill="hsl(347.6 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 460.5 85.7 476.7Q128.6 399.8 171.4 416Q214.3 308.4 257.1 324.6Q300 308.4 342.9 341Q385.8 324.8 428.6 412.4Q471.5 396.2 514.3 450.6Q557.2 434.4 600 558L610 1158Z" fill="hsl(156.7 35.8% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 562.5 66.7 580.9Q100 474.4 133.3 492.8Q166.7 411.1 200 429.5Q233.4 411.1 266.7 485.1Q300 399.1 333.3 417.5Q366.7 399.1 400 525.8Q433.4 482.3 466.7 500.7Q500 482.3 533.3 587.6Q566.7 569.2 600 666L610 1266Z" fill="hsl(156.7 40.9% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 741.4 54.5 755.4Q81.8 728.3 109.1 742.3Q136.4 667.4 163.6 681.4Q190.9 585.3 218.2 599.3Q245.5 585.3 272.7 638.8Q300 601.1 327.3 615.1Q354.6 544 381.8 558Q409.1 544 436.4 652.3Q463.7 638.3 490.9 691.9Q518.2 677.9 545.5 730.8Q572.8 716.8 600 792L610 1392Z" fill="hsl(164.7 46% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FREQUENCY OF THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ARCHIVE</text>
+<path d="M44 726.8h72" stroke="hsl(347.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1986  ·  148 MIN  ·  ACTION</text>
+<text x="556" y="750.8" fill="hsl(347.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

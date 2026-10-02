@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Orbit &amp; Tundra poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(271 40.3% 6%)"/><stop offset="0.5" stop-color="hsl(287 46.1% 13%)"/><stop offset="1" stop-color="hsl(259.6 51.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(259.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(259.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-5.5 828L-84.8 828L-5.5 421.3L73.8 828ZM28.3 828L-51.9 828L28.3 387.4L108.5 828ZM66.5 828L0.8 828L66.5 524.8L132.2 828ZM117.7 828L46.6 828L117.7 455.5L188.8 828ZM162.8 828L87.6 828L162.8 387.8L238 828ZM187.2 828L81.2 828L187.2 318.3L293.2 828ZM212.2 828L136.6 828L212.2 515.2L287.8 828ZM256 828L207.6 828L256 555.8L304.4 828ZM292.7 828L219 828L292.7 513.5L366.4 828ZM342.5 828L232.9 828L342.5 206.5L452.1 828ZM382 828L329.3 828L382 533.3L434.7 828ZM414 828L308.5 828L414 239.5L519.5 828ZM460.7 828L345.5 828L460.7 193.5L575.9 828ZM479.9 828L351 828L479.9 263L608.8 828ZM511.7 828L424.7 828L511.7 487.1L598.7 828ZM567.5 828L490.5 828L567.5 417.8L644.5 828Z" fill="hsl(90.3 46.1% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(104.3 57.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(259.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ORBIT &amp; TUNDRA</text>
+<path d="M44 709.4h72" stroke="hsl(259.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  109 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(259.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

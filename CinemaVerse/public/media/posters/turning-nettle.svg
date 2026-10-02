@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Turning Nettle poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(350.6 31.1% 6%)"/><stop offset="0.5" stop-color="hsl(6.6 35.5% 13%)"/><stop offset="1" stop-color="hsl(320.4 40% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(320.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(320.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-4.9 828L-121.2 828L-4.9 330.3L111.4 828ZM38.5 828L-18.2 828L38.5 533.9L95.2 828ZM81.2 828L11.4 828L81.2 489.6L151 828ZM99.9 828L32.5 828L99.9 478.3L167.3 828ZM147.2 828L62.4 828L147.2 398L232 828ZM193 828L72.7 828L193 191L313.3 828ZM225.6 828L153.6 828L225.6 470.7L297.6 828ZM264.3 828L155.7 828L264.3 344.3L372.9 828ZM309.4 828L179.9 828L309.4 201.4L438.9 828ZM335.8 828L244.6 828L335.8 372.6L427 828ZM372.3 828L278 828L372.3 429.7L466.6 828ZM406.7 828L319.3 828L406.7 348.2L494.1 828ZM453.3 828L320 828L453.3 193.9L586.6 828ZM490.6 828L371.7 828L490.6 334.7L609.5 828ZM532.5 828L467.9 828L532.5 541.9L597.1 828ZM569.4 828L459.4 828L569.4 346.6L679.4 828Z" fill="hsl(197.2 35.5% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(211.2 44.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(320.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TURNING NETTLE</text>
+<path d="M44 709.4h72" stroke="hsl(320.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1987  ·  83 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(320.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

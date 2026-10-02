@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Reckoning: First Draft poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(357.4 43.8% 6%)"/><stop offset="0.5" stop-color="hsl(13.4 50% 13%)"/><stop offset="1" stop-color="hsl(351.1 56.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(351.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(351.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 468.3 85.7 484.5Q128.6 378.7 171.4 394.9Q214.3 313.8 257.1 330Q300 313.8 342.9 339.2Q385.8 323 428.6 375.8Q471.5 359.6 514.3 474.1Q557.2 457.9 600 558L610 1158Z" fill="hsl(159.2 43.8% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 557.6 66.7 576Q100 447.4 133.3 465.8Q166.7 425.9 200 444.3Q233.4 425.9 266.7 481.9Q300 463.5 333.3 484.1Q366.7 405.3 400 423.7Q433.4 405.3 466.7 483.6Q500 465.2 533.3 569.6Q566.7 551.2 600 666L610 1266Z" fill="hsl(159.2 50% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 736.6 54.5 750.6Q81.8 703.2 109.1 717.2Q136.4 676.3 163.6 690.3Q190.9 585.2 218.2 599.2Q245.5 585.1 272.7 599.1Q300 585.1 327.3 611.8Q354.6 561.5 381.8 575.5Q409.1 561.5 436.4 630.8Q463.7 616.8 490.9 741.4Q518.2 716.2 545.5 730.2Q572.8 716.2 600 792L610 1392Z" fill="hsl(167.2 56.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(351.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RECKONING: FIRST DRAFT</text>
+<path d="M44 709.4h72" stroke="hsl(351.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  98 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(351.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

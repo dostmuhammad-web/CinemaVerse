@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Salt Prism poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(234.7 47% 6%)"/><stop offset="0.5" stop-color="hsl(250.7 53.7% 13%)"/><stop offset="1" stop-color="hsl(217.6 60.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(217.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(217.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(79.2 53.7% 10%)"/><path d="M290.2 192.6L482.3 192.6L520.7 900L274.8 900Z" fill="hsl(217.6 96% 78%)" opacity="0.1"/><path d="M290.2 192.6L482.3 192.6L541.9 900L266.4 900Z" fill="hsl(217.6 96% 78%)" opacity="0"/><path d="M290.2 192.6L482.3 192.6L563 900L257.9 900Z" fill="hsl(217.6 96% 78%)" opacity="0"/><rect x="290.2" y="144" width="192.1" height="485.7" fill="hsl(234.7 47% 6%)"/><rect x="290.2" y="144" width="192.1" height="485.7" fill="hsl(217.6 100% 62% / 0.4)" opacity=".5"/><path d="M290.2 144h192.1v485.7h-192.1Z" fill="none" stroke="hsl(93.2 67.2% 3%)" stroke-width="7"/><path d="M290.2 386.8h192.1M386.3 144v485.7" stroke="hsl(93.2 67.2% 3%)" stroke-width="4"/><path d="M366.3 864q-16.5 -91.6 16.5 -113.6q18.3 22 11 55q-3.7 36.7 3.7 58.6Z" fill="hsl(93.2 67.2% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(217.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SALT PRISM</text>
+<path d="M44 709.4h72" stroke="hsl(217.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  113 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(217.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

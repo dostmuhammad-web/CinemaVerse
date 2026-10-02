@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bearing Inkwell poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(232.3 41.7% 6%)"/><stop offset="0.5" stop-color="hsl(248.3 47.6% 13%)"/><stop offset="1" stop-color="hsl(219.3 53.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(219.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(219.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 382.2L76.3 382.2L80.1 376.4L147 376.4L157.2 458.7L239 458.7L246.4 508.6L306 508.6L312.3 519.4L342.8 519.4L355.6 466.8L392.8 466.8L400.8 369.3L481.7 369.3L485.8 349L555 349L568 508.9L654.9 508.9L610 1248Z" fill="hsl(34.3 41.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(42.3 53.6% 6%)"/><path d="M342.9 342.1l-5 31.3M506.9 229.4l-9.7 60.4M598.5 562.4l-11.3 70.4M99 47l-9.4 58.6M181.7 571l-7.5 47M394 649.5l-8.8 55.1M424.8 196.8l-8.4 52.3M235.7 676.7l-8.5 53M189.2 223.2l-10.5 65.7M431 525l-8.2 51M346 592.6l-9.9 62.1M441.7 87.1l-6.4 39.9M240 483.2l-13.8 86.2M595.1 409.6l-6.3 39.1M262.5 642.6l-10 62.7M508.3 756.8l-13.3 83.3M5.1 761.8l-4.7 29.1M411.8 100.7l-8.4 52.7M208.7 50.3l-10.4 65M304.6 647.2l-6.7 41.8M406.5 691.4l-13.7 85.7M92.3 298.5l-7 43.7M114.1 269.5l-10.4 65.1M236.8 33.7l-4.5 28.4M556.1 679.3l-11.2 69.9M255.8 767.6l-10.2 63.7M574.2 119.8l-9.1 57M562 28l-9.6 60M55.5 156.5l-11 68.8M587.6 680.7l-11 68.4M594.1 185.1l-8.3 51.8M356.9 195.6l-13.7 85.6M400 514.7l-10.7 67M195.1 190.4l-10.5 65.7M495.4 314.9l-9.8 61.2M228.8 0.2l-7.1 44.2M492.7 300.8l-9.8 61.3M261.8 514.9l-6.7 41.8M115.4 669.8l-8.7 54.2M387.4 51.3l-7 43.6M414.4 480.4l-13.5 84.6M232.4 663l-5.3 33.1M575.9 27.7l-6.8 42.3M224.9 323.6l-13.1 81.6M539 315.1l-9.5 59.6M108.5 382l-9.8 61" fill="none" stroke="hsl(219.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="293.1" cy="837" rx="132" ry="27" fill="hsl(219.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(219.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BEARING INKWELL</text>
+<path d="M44 709.4h72" stroke="hsl(219.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  108 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(219.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Chasing Kiln poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(245.3 34.1% 6%)"/><stop offset="0.5" stop-color="hsl(261.3 39% 13%)"/><stop offset="1" stop-color="hsl(238.8 43.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(238.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(238.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M4.1 828L-80.6 828L4.1 340.7L88.8 828ZM37 828L-64.6 828L37 197.1L138.6 828ZM85.8 828L-56.4 828L85.8 243.4L228 828ZM122.8 828L70.6 828L122.8 511L175 828ZM139.6 828L55.9 828L139.6 376.9L223.3 828ZM190.1 828L91.3 828L190.1 361.2L288.9 828ZM224.7 828L112.1 828L224.7 205L337.3 828ZM251.5 828L114.9 828L251.5 230.7L388.1 828ZM312.1 828L228.3 828L312.1 487.2L395.9 828ZM341.3 828L220.4 828L341.3 339.4L462.2 828ZM381.9 828L294.8 828L381.9 338.9L469 828ZM405.9 828L302.8 828L405.9 228.4L509 828ZM442.4 828L357.4 828L442.4 470.8L527.4 828ZM491.1 828L343.8 828L491.1 208.2L638.4 828ZM512.5 828L443 828L512.5 504.3L582 828ZM567.5 828L494 828L567.5 526.5L641 828Z" fill="hsl(43.6 39% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(57.6 48.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(238.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CHASING KILN</text>
+<path d="M44 709.4h72" stroke="hsl(238.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1985  ·  126 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(238.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

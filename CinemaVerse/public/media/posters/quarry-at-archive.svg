@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quarry at Archive poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(23.6 40.3% 6%)"/><stop offset="0.5" stop-color="hsl(39.6 46.1% 13%)"/><stop offset="1" stop-color="hsl(351.7 51.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(351.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(351.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 463.3L37.5 463.3L50 388.5L113.8 388.5L119.1 513.8L202 513.8L206.8 529.9L253.5 529.9L263.4 412L324.4 412L338.9 361L376.3 361L383.2 393.5L444.3 393.5L449.6 368.3L511.7 368.3L520.9 424.2L599.2 424.2L607.3 509.2L668.1 509.2L610 1248Z" fill="hsl(183.8 40.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(191.8 51.8% 6%)"/><path d="M364.1 490.5l-7.8 48.5M35.7 55.8l-12.6 78.6M141.5 686.9l-11.2 69.8M369.3 331.3l-12.5 77.9M208 711l-11 69M150.6 373.3l-9.2 57.7M38 685l-12.3 77.1M254.8 586.3l-14.1 88.3M580.3 729.2l-11 68.6M298.8 532l-11.6 72.8M596.3 346.5l-13.8 86.3M464.3 411.8l-5.4 33.6M206.4 164.1l-13.3 83.3M545.3 697.8l-12.4 77.2M191.4 770.9l-11.5 71.7M318.6 385.2l-5.5 34.7M396.8 655.2l-6.2 38.9M122.2 353.9l-7.5 46.6M192 732.9l-8.9 55.4M469.4 508.5l-9.7 60.5M144.5 624.8l-10.9 68.2M366.1 25.3l-6.5 40.4M413.8 296.7l-9.7 60.6M146.1 735.4l-9 56.5M531.3 253.2l-12.3 77.1M398.4 394.3l-5.9 37.1M451.3 128l-8.7 54.6M212.3 334.2l-5 31.4M474.1 325l-7.7 47.8M446.3 297.2l-8.4 52.7M319.4 688.8l-5.7 35.6M50.7 416.6l-9.9 62M370.6 440.9l-7.5 47.2M35 462.7l-10.6 66.4M130.9 17.1l-9.7 60.8M17.7 129.9l-10.5 65.5M84.4 431.6l-8.6 53.9M425.2 167.7l-12.6 78.5M110 696.3l-9.8 61M398.9 551.6l-9.1 57M312.7 4.4l-6.4 40.3M537.4 463l-11.1 69.5M331.2 303.5l-10.8 67.3M338.5 297.1l-10.4 65.1M213 415l-13.5 84.1M327.3 678.8l-8.1 50.8" fill="none" stroke="hsl(351.7 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="180" cy="837" rx="132" ry="27" fill="hsl(351.7 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(351.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUARRY AT ARCHIVE</text>
+<path d="M44 709.4h72" stroke="hsl(351.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  112 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(351.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

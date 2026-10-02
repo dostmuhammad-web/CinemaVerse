@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Returning Vertex poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(226.5 40.8% 6%)"/><stop offset="0.5" stop-color="hsl(242.5 46.6% 13%)"/><stop offset="1" stop-color="hsl(203 52.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(203 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(203 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(43.2 46.6% 10%)"/><path d="M273.7 184.4L463 184.4L500.8 900L258.6 900Z" fill="hsl(203 96% 78%)" opacity="0.1"/><path d="M273.7 184.4L463 184.4L521.6 900L250.2 900Z" fill="hsl(203 96% 78%)" opacity="0"/><path d="M273.7 184.4L463 184.4L542.5 900L241.9 900Z" fill="hsl(203 96% 78%)" opacity="0"/><rect x="273.7" y="144" width="189.3" height="404.4" fill="hsl(226.5 40.8% 6%)"/><rect x="273.7" y="144" width="189.3" height="404.4" fill="hsl(203 100% 62% / 0.4)" opacity=".5"/><path d="M273.7 144h189.3v404.4h-189.3Z" fill="none" stroke="hsl(57.2 58.2% 3%)" stroke-width="7"/><path d="M273.7 346.2h189.3M368.3 144v404.4" stroke="hsl(57.2 58.2% 3%)" stroke-width="4"/><path d="M244.7 864q-17.5 -97.3 17.5 -120.6q19.5 23.3 11.7 58.4q-3.9 38.9 3.9 62.3Z" fill="hsl(57.2 58.2% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(203 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RETURNING VERTEX</text>
+<path d="M44 709.4h72" stroke="hsl(203 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  90 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(203 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

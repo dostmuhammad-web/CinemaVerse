@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Second Prism poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(194.2 36.3% 6%)"/><stop offset="0.5" stop-color="hsl(210.2 41.5% 13%)"/><stop offset="1" stop-color="hsl(155.4 46.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(155.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(155.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 353.1L56.9 353.1L71.4 559.6L139.3 559.6L147.4 454.1L226.7 454.1L240 430.7L276.2 430.7L285.8 486.4L332.4 486.4L343.4 351L424.4 351L433 405.9L490.5 405.9L501.3 503.8L559.3 503.8L573.5 410.6L670.1 410.6L610 1248Z" fill="hsl(12.3 36.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(20.3 46.7% 6%)"/><path d="M138 492.4l-4.4 27.8M408.3 432.6l-7.2 45.2M340.8 664.2l-4.4 27.4M8.1 576.5l-5.6 35.2M212.8 250.9l-7.1 44.3M434.1 83.7l-7.7 48.2M292.3 622.8l-14.2 88.9M60.4 129.1l-13.4 83.7M192.7 28.4l-12.9 80.9M78 539.6l-7.8 48.5M318.9 578.7l-6.2 38.8M460.7 155.9l-5.5 34.2M511.1 380.7l-8.6 53.9M203.6 447.1l-6.1 38.1M298.4 202.8l-13.3 83.2M528.7 457.3l-14.3 89.3M188.1 286.2l-10.4 65.2M559.3 718.3l-5.9 36.9M251 422.4l-9.2 57.6M81.4 668.7l-8.3 51.9M481.6 70.4l-7.4 46.1M380.8 741.4l-12.8 79.8M231.9 740.2l-10.7 67.1M426.2 73.7l-8.3 52.1M96.1 521.8l-9.5 59.1M461.3 546.5l-8.6 53.5M180.6 480.3l-11.4 71.3M199.5 639.7l-9 56M78.2 784.4l-8.6 54M44.8 76.1l-5.3 33.2M478.1 348.6l-5.4 33.9M583.9 809.9l-11.5 72.1M284.8 166.7l-8.3 51.6M478.1 565.8l-8.2 51M233.2 290l-8.8 54.9M339.4 309.8l-11.5 71.7M74.3 710.2l-5.7 35.4M375.3 692.5l-4.8 29.8M212.6 673.5l-9.1 56.6M505.6 583.7l-9.5 59.1M324.2 308.5l-5.1 31.6M217.4 229.3l-10.8 67.7M293.9 127l-11.9 74.6M536.4 705.3l-5.7 35.7M514.6 534l-7.1 44.4M141.8 172.2l-7.7 48.2" fill="none" stroke="hsl(155.4 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="381" cy="837" rx="132" ry="27" fill="hsl(155.4 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(155.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SECOND PRISM</text>
+<path d="M44 709.4h72" stroke="hsl(155.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  129 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(155.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

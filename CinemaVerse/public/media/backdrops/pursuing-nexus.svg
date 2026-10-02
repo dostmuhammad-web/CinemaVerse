@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Pursuing Nexus backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(52.7 38.5% 6%)"/><stop offset="0.5" stop-color="hsl(68.7 44% 13%)"/><stop offset="1" stop-color="hsl(36.1 49.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(36.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(36.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="790.3" cy="321.2" r="477" fill="url(#glow)"/>
+<circle cx="790.3" cy="321.2" r="95.4" fill="hsl(36.1 96% 78%)" opacity=".85"/>
+<path d="M1151.4 0L1313.4 0L701.4 900L386.4 900Z" fill="hsl(36.1 96% 78%)" opacity=".04"/><path d="M276.1 0L438.1 0L-173.9 900L-488.9 900Z" fill="hsl(36.1 96% 78%)" opacity=".04"/><path d="M1039.3 0L1201.3 0L589.3 900L274.3 900Z" fill="hsl(36.1 96% 78%)" opacity=".04"/><path d="M1041 0L1203 0L591 900L276 900Z" fill="hsl(36.1 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(197.7 44% 10%)"/><path d="M481.2 191.8L1116.9 191.8L1244 900L430.3 900Z" fill="hsl(36.1 96% 78%)" opacity="0.1"/><path d="M481.2 191.8L1116.9 191.8L1313.9 900L402.4 900Z" fill="hsl(36.1 96% 78%)" opacity="0"/><path d="M481.2 191.8L1116.9 191.8L1383.9 900L374.4 900Z" fill="hsl(36.1 96% 78%)" opacity="0"/><rect x="481.2" y="144" width="635.7" height="477.6" fill="hsl(52.7 38.5% 6%)"/><rect x="481.2" y="144" width="635.7" height="477.6" fill="hsl(36.1 100% 62% / 0.4)" opacity=".5"/><path d="M481.2 144h635.7v477.6h-635.7Z" fill="none" stroke="hsl(211.7 55% 3%)" stroke-width="7"/><path d="M481.2 382.8h635.7M799 144v477.6" stroke="hsl(211.7 55% 3%)" stroke-width="4"/><path d="M1140.8 864q-18 -100 18 -124q20 24 12 60q-4 40 4 64Z" fill="hsl(211.7 55% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

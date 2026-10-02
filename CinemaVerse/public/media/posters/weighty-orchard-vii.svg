@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Weighty Orchard VII poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(43.7 48.6% 6%)"/><stop offset="0.5" stop-color="hsl(59.7 55.6% 13%)"/><stop offset="1" stop-color="hsl(15 62.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(15 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(15 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 415.9L87.5 415.9L96 378.2L178.3 378.2L192.5 480.4L258.9 480.4L272.6 494.8L310 494.8L314.6 460L386.8 460L397.6 388.5L430.5 388.5L444.3 514.2L510.5 514.2L524.9 417.5L553.8 417.5L559.2 536.6L614.8 536.6L610 1248Z" fill="hsl(241.4 48.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(249.4 62.5% 6%)"/><path d="M480.3 237.7l-9.4 58.6M465.3 728.7l-5.2 32.3M529.6 517.2l-12.8 80.2M470.8 137l-11 68.5M412.1 104.2l-6.5 40.6M467.1 683l-8.1 50.6M289.7 423.4l-7.5 46.8M275 666.5l-5.3 33M1.2 702l-8.3 52.1M403.4 561.7l-8.4 52.4M560 700.5l-6.5 40.4M424.7 660.8l-12.7 79.2M237.6 481.3l-13.8 86.2M427.1 654.4l-9.8 61.3M408.4 770.6l-8.9 55.5M423.6 312.4l-10.3 64.5M76.4 461.5l-4.8 30.1M491.3 697.2l-7.4 46.2M163.3 721.6l-9.1 56.9M565.5 540.2l-11.4 71.4M91 666.5l-7.3 45.8M521.7 57l-4.6 29M475.9 581.4l-10.1 63M584.3 559l-11.8 73.7M397.7 703.5l-7.8 48.6M344.3 322.2l-11 68.5M589.4 395.9l-11.4 71.1M107.3 642.1l-4.4 27.4M180.4 207.4l-10.9 68.4M259.8 262.2l-4.4 27.7M52.9 439.7l-10.3 64.6M334.8 732l-5.8 36.2M319 792.7l-11.5 72M155 20.2l-13.5 84.1M462.4 106.9l-13.6 84.8M503.7 214.6l-13.5 84.5M403 292.3l-12 75.2M526.8 582.7l-9.4 58.6M82.8 281.8l-4.6 28.8M383.3 87.2l-8.8 55.2M485.5 496.1l-7.2 45M234.4 420.3l-8.4 52.3M372.1 255.5l-13.8 86.4M323.5 580l-6.4 40.1M250.5 22.4l-13.4 83.8M329 51.6l-14.1 88.2" fill="none" stroke="hsl(15 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="333.2" cy="837" rx="132" ry="27" fill="hsl(15 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(15 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WEIGHTY ORCHARD VII</text>
+<path d="M44 709.4h72" stroke="hsl(15 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2022  ·  158 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(15 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

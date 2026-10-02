@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Trellis at Marrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(19.4 39.6% 24%)"/><stop offset="0.5" stop-color="hsl(39.4 35.7% 42%)"/><stop offset="1" stop-color="hsl(338.5 39.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(338.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(338.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="333.2" cy="271.5" r="461.2" fill="url(#glow)"/><circle cx="333.2" cy="271.5" r="109.8" fill="hsl(338.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 489L86.2 489L99 362.9L164.6 362.9L175 485.2L231.1 485.2L244.8 550.7L334.3 550.7L345.4 352.9L413 352.9L423.4 378.3L472 378.3L481.9 442L540.1 442L545.9 507.6L595 507.6L603.2 373.5L669.4 373.5L610 1248Z" fill="hsl(221.8 27.7% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(229.8 35.7% 10%)"/><path d="M451 380.9l-9.8 61.4M488 227.3l-10.3 64.6M477.3 263.1l-13.8 86.1M104.7 130.8l-6.3 39.6M225.3 632l-11.3 70.9M543.9 287.2l-12.6 78.4M282.6 665l-7.8 48.7M437.9 184l-6.5 40.6M446.7 407.1l-9.5 59.3M587.9 781.5l-10.6 66M495 141.2l-9.5 59.2M62.5 51.2l-5.5 34.5M269.4 365.2l-11.7 73.1M251.8 403.3l-6.6 41M94.3 246.1l-5.2 32.2M55.6 364.9l-12.5 78M47.9 338.7l-6.1 38M163.4 282.2l-13.6 85.1M399.8 614.7l-10 62.3M498.4 35.4l-10.5 65.4M515.7 222.6l-9.5 59.7M236.1 643.3l-8 50.1M540.8 210.3l-6.4 40M191.7 59.9l-6.3 39.2M41.4 666.5l-8.4 52.3M1.3 67.8l-12.2 76.2M32.8 24.4l-13.7 85.8M411.7 799l-10.1 62.9M16.9 731.5l-4.4 27.7M561.4 307.2l-11.9 74.4M16.2 235.5l-7.6 47.3M528 2.8l-7.6 47.4M278.5 627.8l-6.5 40.4M540.6 676.3l-8.6 53.6M162.6 302.2l-5.4 33.7M205.3 110.5l-13 81M560.1 554.8l-4.9 30.7M178.1 157.2l-12.6 79M212.7 411.9l-13.7 85.3M388.4 244.3l-10.5 65.4M428.6 397.8l-14.3 89.1M149.6 593.4l-4.5 28.3M189.1 775.7l-10.5 65.9M102.7 464.7l-9.4 58.8M375.8 494.4l-8.3 51.8M413.3 174l-4.4 27.4" fill="none" stroke="hsl(338.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="412.7" cy="837" rx="132" ry="27" fill="hsl(338.5 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(338.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TRELLIS AT MARROW</text>
+<path d="M44 709.4h72" stroke="hsl(338.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1979  ·  118 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(338.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

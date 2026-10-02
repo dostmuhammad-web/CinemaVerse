@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Migration beneath the Undertow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(214.1 43.7% 6%)"/><stop offset="0.5" stop-color="hsl(230.1 50% 13%)"/><stop offset="1" stop-color="hsl(207.7 56.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(207.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(207.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 526.3L75.5 526.3L81 345.5L133.9 345.5L142.3 368.8L178.2 368.8L183.7 519.6L276 519.6L280.2 432.4L357.8 432.4L364.8 454.8L419 454.8L431.6 549.1L499.3 549.1L514.1 387.2L613.2 387.2L610 1248Z" fill="hsl(31.7 43.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(39.7 56.2% 6%)"/><path d="M575.6 268.9l-4.6 28.9M127 47.5l-12.6 78.9M477.1 605.6l-5.1 32.1M5.6 631l-6.6 41.1M455 206.4l-6.5 40.4M343.1 50.5l-14.2 88.6M5.2 332.1l-9.8 61.1M420.8 314.7l-7.8 48.9M320.9 31.9l-13.1 81.6M490.5 427.2l-7.3 45.8M495.1 8.4l-7.6 47.2M462.2 265.6l-7.6 47.7M276.8 356.4l-11.4 71.3M469.4 488.7l-8.9 55.7M127.3 361.2l-12.4 77.4M198.3 797.3l-8.3 51.7M277.2 95.6l-8.4 52.2M565.1 454l-14.1 88.1M457.8 601.5l-9.1 57M205.7 270.6l-11.1 69.1M557.5 118.4l-6.4 39.8M403.5 502.6l-10.7 66.9M452.4 37.3l-13.9 87M386.9 452.6l-7.4 46M222.9 523.4l-8.8 55.2M560.8 274.7l-9.8 61.2M426.8 169.1l-5.2 32.5M449 297l-7.8 48.6M161.3 512.7l-13.9 86.7M97.6 446.9l-10.1 63M335 628.6l-5.8 36.1M256.8 240l-6.8 42.2M514.1 332.2l-14.1 88M295.8 484l-13 81.4M408.5 8.4l-6.7 41.9M45.8 806.6l-11.1 69.6M249.3 114.4l-10.7 67.1M541.9 696l-7 43.7M397.3 443.5l-11.1 69.5M576.7 393.8l-13 81.2M258.6 469.8l-14 87.6M406.4 743.8l-5.3 33.1M164.4 387.1l-6.7 41.7M0.2 36.7l-6.1 38.4M70.9 402.2l-10.4 64.9M521.9 572.3l-5.1 31.9" fill="none" stroke="hsl(207.7 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="251" cy="837" rx="132" ry="27" fill="hsl(207.7 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(207.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE MIGRATION BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">UNDERTOW</text>
+<path d="M44 726.8h72" stroke="hsl(207.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2007  ·  111 MIN  ·  THRILLER</text>
+<text x="556" y="750.8" fill="hsl(207.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

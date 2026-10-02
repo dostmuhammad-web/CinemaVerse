@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Cathedral: Last Table poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(181.1 39.9% 24%)"/><stop offset="0.5" stop-color="hsl(201.1 35.9% 42%)"/><stop offset="1" stop-color="hsl(168.6 39.9% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(168.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(168.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="282.4" cy="196.5" r="252.8" fill="url(#glow)"/><circle cx="282.4" cy="196.5" r="60.2" fill="hsl(168.6 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 416.3 85.7 432.5Q128.6 416.3 171.4 437.5Q214.3 420.7 257.1 436.9Q300 339.8 342.9 356Q385.8 339.8 428.6 435.5Q471.5 419.3 514.3 466.1Q557.2 449.9 600 558L610 1158Z" fill="hsl(359.5 27.9% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 562.1 66.7 580.5Q100 490 133.3 508.4Q166.7 466.1 200 484.5Q233.4 466.1 266.7 525.3Q300 414.8 333.3 433.2Q366.7 397.6 400 416Q433.4 397.6 466.7 549.9Q500 531.5 533.3 634.7Q566.7 616.3 600 666L610 1266Z" fill="hsl(359.5 31.9% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 721.3 54.5 735.3Q81.8 682.8 109.1 696.8Q136.4 663.4 163.6 677.4Q190.9 595.1 218.2 609.1Q245.5 595.1 272.7 687.1Q300 575.8 327.3 589.8Q354.6 575.8 381.8 648.3Q409.1 634.3 436.4 650.7Q463.7 636.7 490.9 730Q518.2 716 545.5 739.2Q572.8 725.2 600 792L610 1392Z" fill="hsl(7.5 35.9% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(168.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CATHEDRAL: LAST TABLE</text>
+<path d="M44 709.4h72" stroke="hsl(168.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1972  ·  125 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(168.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

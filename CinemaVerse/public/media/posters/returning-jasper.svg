@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Returning Jasper poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(43.9 36.1% 6%)"/><stop offset="0.5" stop-color="hsl(59.9 41.3% 13%)"/><stop offset="1" stop-color="hsl(13.3 46.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(13.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(13.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 445.9 85.7 462.1Q128.6 437.3 171.4 453.5Q214.3 382.2 257.1 398.4Q300 351.3 342.9 367.5Q385.8 351.3 428.6 416.8Q471.5 400.6 514.3 461.5Q557.2 445.3 600 558L610 1158Z" fill="hsl(183.9 36.1% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 566.2 66.7 584.6Q100 528.5 133.3 546.9Q166.7 380.5 200 398.9Q233.4 380.5 266.7 506.2Q300 402.7 333.3 421.1Q366.7 402.7 400 450.2Q433.4 431.8 466.7 557.7Q500 539.3 533.3 563Q566.7 544.6 600 666L610 1266Z" fill="hsl(183.9 41.3% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 698.6 54.5 712.6Q81.8 675.6 109.1 689.6Q136.4 640.9 163.6 654.9Q190.9 640.9 218.2 677.1Q245.5 615.5 272.7 629.5Q300 615.5 327.3 649.4Q354.6 613.7 381.8 627.7Q409.1 613.7 436.4 665.8Q463.7 651.8 490.9 670.3Q518.2 656.3 545.5 721.3Q572.8 707.3 600 792L610 1392Z" fill="hsl(191.9 46.4% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(13.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RETURNING JASPER</text>
+<path d="M44 709.4h72" stroke="hsl(13.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  140 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(13.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Halo for the Undertow backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(200.8 47.7% 6%)"/><stop offset="0.5" stop-color="hsl(216.8 54.5% 13%)"/><stop offset="1" stop-color="hsl(165.2 61.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(165.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(165.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="331.3" cy="485.3" r="649.5" fill="url(#glow)"/>
+<circle cx="331.3" cy="485.3" r="129.9" fill="hsl(165.2 96% 78%)" opacity=".85"/>
+<path d="M180.7 0L342.7 0L-269.3 900L-584.3 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M444.8 0L606.8 0L-5.2 900L-320.2 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M910.6 0L1072.6 0L460.6 900L145.6 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M547.9 0L709.9 0L97.9 900L-217.1 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(7.2 54.5% 10%)"/><path d="M668.2 183L1229.2 183L1341.4 900L623.3 900Z" fill="hsl(165.2 96% 78%)" opacity="0.1"/><path d="M668.2 183L1229.2 183L1403.1 900L598.6 900Z" fill="hsl(165.2 96% 78%)" opacity="0"/><path d="M668.2 183L1229.2 183L1464.8 900L574 900Z" fill="hsl(165.2 96% 78%)" opacity="0"/><rect x="668.2" y="144" width="561" height="390" fill="hsl(200.8 47.7% 6%)"/><rect x="668.2" y="144" width="561" height="390" fill="hsl(165.2 100% 62% / 0.4)" opacity=".5"/><path d="M668.2 144h561v390h-561Z" fill="none" stroke="hsl(21.2 68.2% 3%)" stroke-width="7"/><path d="M668.2 339h561M948.7 144v390" stroke="hsl(21.2 68.2% 3%)" stroke-width="4"/><path d="M580.7 864q-19.5 -108.5 19.5 -134.6q21.7 26 13 65.1q-4.3 43.4 4.3 69.5Z" fill="hsl(21.2 68.2% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

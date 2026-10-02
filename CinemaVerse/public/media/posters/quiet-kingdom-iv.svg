@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quiet Kingdom IV poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(349.1 39.8% 6%)"/><stop offset="0.5" stop-color="hsl(5.1 45.5% 13%)"/><stop offset="1" stop-color="hsl(330.1 51.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(330.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(330.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-6.8 828L-53 828L-6.8 554L39.4 828ZM34 828L-45.4 828L34 514.5L113.4 828ZM71.4 828L-1.8 828L71.4 452.6L144.6 828ZM100.6 828L27.4 828L100.6 502.6L173.8 828ZM153.6 828L87.8 828L153.6 512.6L219.4 828ZM197.2 828L137.5 828L197.2 478.4L256.9 828ZM219.6 828L59.9 828L219.6 201.8L379.3 828ZM274.5 828L155 828L274.5 363.7L394 828ZM290.2 828L191.4 828L290.2 398.9L389 828ZM337.5 828L250.7 828L337.5 468.5L424.3 828ZM382.1 828L295.8 828L382.1 494.6L468.4 828ZM399.4 828L338.5 828L399.4 541.7L460.3 828ZM450.5 828L320.3 828L450.5 193L580.7 828ZM484 828L406.5 828L484 447.8L561.5 828ZM522.2 828L443.7 828L522.2 385.1L600.7 828ZM571.4 828L438.8 828L571.4 308L704 828Z" fill="hsl(142 45.5% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(156 56.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(330.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUIET KINGDOM IV</text>
+<path d="M44 709.4h72" stroke="hsl(330.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2013  ·  85 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(330.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

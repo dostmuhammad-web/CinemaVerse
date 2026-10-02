@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Crimson Bastion poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(197.6 45.8% 6%)"/><stop offset="0.5" stop-color="hsl(213.6 52.3% 13%)"/><stop offset="1" stop-color="hsl(158 58.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(158 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(158 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect y="558" width="620" height="360" fill="hsl(20.8 52.3% 10%)"/><path d="M-10 594Q50 579.6 100 594Q150 608.4 200 594Q250 579.6 300 594Q350 608.4 400 594Q450 579.6 500 594Q550 608.4 600 594" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="1" opacity="0.5"/><path d="M-10 630Q50 601.2 100 630Q150 658.8 200 630Q250 601.2 300 630Q350 658.8 400 630Q450 601.2 500 630Q550 658.8 600 630" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="1.3" opacity="0.5"/><path d="M-10 666Q50 622.8 100 666Q150 709.2 200 666Q250 622.8 300 666Q350 709.2 400 666Q450 622.8 500 666Q550 709.2 600 666" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="1.5" opacity="0.4"/><path d="M-10 702Q50 644.4 100 702Q150 759.6 200 702Q250 644.4 300 702Q350 759.6 400 702Q450 644.4 500 702Q550 759.6 600 702" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="1.8" opacity="0.4"/><path d="M-10 738Q50 666 100 738Q150 810 200 738Q250 666 300 738Q350 810 400 738Q450 666 500 738Q550 810 600 738" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="2" opacity="0.3"/><path d="M-10 774Q50 687.6 100 774Q150 860.4 200 774Q250 687.6 300 774Q350 860.4 400 774Q450 687.6 500 774Q550 860.4 600 774" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="2.3" opacity="0.3"/><path d="M-10 810Q50 709.2 100 810Q150 910.8 200 810Q250 709.2 300 810Q350 910.8 400 810Q450 709.2 500 810Q550 910.8 600 810" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="2.5" opacity="0.3"/><path d="M-10 846Q50 730.8 100 846Q150 961.2 200 846Q250 730.8 300 846Q350 961.2 400 846Q450 730.8 500 846Q550 961.2 600 846" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="2.8" opacity="0.2"/><path d="M-10 882Q50 752.4 100 882Q150 1011.6 200 882Q250 752.4 300 882Q350 1011.6 400 882Q450 752.4 500 882Q550 1011.6 600 882" fill="none" stroke="hsl(28.8 58.8% 6%)" stroke-width="3" opacity="0.2"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(158 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE CRIMSON BASTION</text>
+<path d="M44 709.4h72" stroke="hsl(158 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  127 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(158 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

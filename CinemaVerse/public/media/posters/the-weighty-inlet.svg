@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Weighty Inlet poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.3 43% 6%)"/><stop offset="0.5" stop-color="hsl(212.3 49.1% 13%)"/><stop offset="1" stop-color="hsl(182.5 55.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 485.4 85.7 501.6Q128.6 392 171.4 408.2Q214.3 349.7 257.1 365.9Q300 349.7 342.9 429.1Q385.8 399.3 428.6 415.5Q471.5 399.3 514.3 477.4Q557.2 461.2 600 558L610 1158Z" fill="hsl(25.3 43% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 579.9 66.7 598.3Q100 448.7 133.3 467.1Q166.7 420.6 200 439Q233.4 412.2 266.7 430.6Q300 412.2 333.3 436Q366.7 417.6 400 551.1Q433.4 522.6 466.7 541Q500 522.6 533.3 589.7Q566.7 571.3 600 666L610 1266Z" fill="hsl(25.3 49.1% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 740.7 54.5 754.7Q81.8 635 109.1 649Q136.4 635 163.6 655.3Q190.9 570.3 218.2 584.3Q245.5 570.3 272.7 622Q300 586.7 327.3 600.7Q354.6 586.7 381.8 628.3Q409.1 614.3 436.4 646.3Q463.7 632.3 490.9 692.5Q518.2 678.5 545.5 740.2Q572.8 726.2 600 792L610 1392Z" fill="hsl(33.3 55.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(182.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WEIGHTY INLET</text>
+<path d="M44 709.4h72" stroke="hsl(182.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2006  ·  138 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(182.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

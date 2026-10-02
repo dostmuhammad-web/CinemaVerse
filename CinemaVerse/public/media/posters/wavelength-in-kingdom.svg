@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Wavelength in Kingdom poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(62.6 54.8% 24%)"/><stop offset="0.5" stop-color="hsl(82.6 49.3% 62%)"/><stop offset="1" stop-color="hsl(24.3 54.8% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(24.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(24.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="289" cy="295.7" r="500.2" fill="url(#glow)"/><circle cx="289" cy="295.7" r="119.1" fill="hsl(24.3 96% 88%)" opacity=".92"/>
+<circle cx="81.8" cy="423.1" r="169.5" fill="hsl(24.3 96% 88%)" opacity="0.3"/><circle cx="213.2" cy="661.9" r="137.5" fill="hsl(24.3 92% 52%)" opacity="0.2"/><circle cx="410.3" cy="185.8" r="120" fill="hsl(24.3 96% 88%)" opacity="0.3"/><circle cx="73.1" cy="613.8" r="119.8" fill="hsl(24.3 92% 52%)" opacity="0.2"/><circle cx="168.9" cy="245.3" r="156.6" fill="hsl(24.3 96% 88%)" opacity="0.3"/><circle cx="65.1" cy="245.2" r="60.4" fill="hsl(24.3 92% 52%)" opacity="0.3"/><circle cx="328.4" cy="260.9" r="90.5" fill="hsl(24.3 96% 88%)" opacity="0.3"/><circle cx="87.5" cy="580.2" r="134.8" fill="hsl(24.3 92% 52%)" opacity="0.2"/><circle cx="97.2" cy="121.2" r="97.4" fill="hsl(24.3 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 776.3 75 784.9Q112.5 771.5 150 780.1Q187.5 721.6 225 730.2Q262.5 721.6 300 732.6Q337.5 724 375 737.6Q412.5 727.7 450 736.3Q487.5 727.7 525 791.7Q562.5 783.1 600 828L610 1428Z" fill="hsl(246.5 49.3% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(24.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WAVELENGTH IN KINGDOM</text>
+<path d="M44 709.4h72" stroke="hsl(24.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  85 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(24.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

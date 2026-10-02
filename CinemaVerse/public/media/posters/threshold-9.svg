@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Threshold 9 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(62.2 42.6% 6%)"/><stop offset="0.5" stop-color="hsl(78.2 48.7% 13%)"/><stop offset="1" stop-color="hsl(28.3 54.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(28.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(28.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="307.2" cy="439.9" r="159.9" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="273.6" cy="135.9" r="125.4" fill="hsl(28.3 92% 62%)" opacity="0.2"/><circle cx="326" cy="196.9" r="52.9" fill="hsl(28.3 96% 88%)" opacity="0.2"/><circle cx="286.8" cy="275.8" r="128.7" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="440.8" cy="508.5" r="97.5" fill="hsl(28.3 96% 88%)" opacity="0.1"/><circle cx="520.6" cy="564.3" r="132.4" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="274.9" cy="623.3" r="171.3" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="430.8" cy="329.9" r="184.8" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="215.4" cy="463.5" r="86.1" fill="hsl(28.3 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 771.8 75 780.4Q112.5 757.8 150 766.4Q187.5 746.3 225 754.9Q262.5 745.4 300 754Q337.5 726.9 375 735.5Q412.5 726.9 450 770.9Q487.5 762.3 525 782.8Q562.5 774.2 600 828L610 1428Z" fill="hsl(248.3 54.8% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(28.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THRESHOLD 9</text>
+<path d="M44 709.4h72" stroke="hsl(28.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2003  ·  104 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(28.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

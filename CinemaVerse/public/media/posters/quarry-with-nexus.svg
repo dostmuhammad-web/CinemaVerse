@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quarry with Nexus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(190 47.9% 6%)"/><stop offset="0.5" stop-color="hsl(206 54.8% 13%)"/><stop offset="1" stop-color="hsl(150 61.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(150 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(150 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 412.4L32 412.4L42.8 470.7L95.1 470.7L108.6 500.2L160.3 500.2L171.4 385.9L224.2 385.9L237.4 482.9L276.1 482.9L286.5 443.9L368.3 443.9L377.9 500.3L404.1 500.3L409.4 544.6L476.9 544.6L481.8 517L560.8 517L573.3 472.8L646 472.8L610 1248Z" fill="hsl(16.8 47.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(24.8 61.6% 6%)"/><path d="M35.3 315.8l-7.9 49.4M251.4 253.2l-8.4 52.7M593.8 200.8l-7.7 48.4M117.3 617l-12.9 80.4M18.3 11l-8.8 54.9M223.1 564.1l-13.9 87.2M209.1 805.7l-10 62.5M488.3 655.3l-13.7 85.5M132.9 613.8l-10.1 63M505 56.4l-11.3 70.9M321.3 434.9l-12.9 80.6M79.6 510.7l-13.2 82.3M44.2 377.5l-9.1 57.2M233.2 518.2l-7.8 48.6M178.5 692.7l-11.3 70.7M417.1 42.7l-12 74.7M109.7 91.6l-8.1 50.7M329.6 782.8l-12.4 77.3M579.8 119.7l-5.6 34.8M156.5 396.2l-9.3 58.1M237.4 428.5l-11.8 73.8M228.1 512.8l-13.4 83.9M464 522.3l-7.9 49.2M411.2 91.9l-9.3 58.4M157.2 539.6l-12.6 78.9M554.4 735.1l-13.6 84.7M107.8 17.4l-10.8 67.6M501.2 279.1l-7.6 47.8M372.4 273.5l-10.5 65.5M446.2 461.4l-9.1 56.9M444.1 743.6l-13.7 85.3M339.8 747.3l-8.4 52.4M313.4 27.5l-5.6 35.3M97.5 497.1l-8.8 54.9M579 393.4l-12.3 77.1M212.8 304.3l-7 43.6M514.1 746l-7.9 49.4M221 367.7l-9.4 58.7M432.5 542l-5.6 34.8M560.4 456.2l-7.9 49.5M580.7 245.5l-5.5 34.1M64.7 650.9l-6.2 38.6M537.7 37.7l-12.9 80.7M258 670.5l-11.3 70.7M84.6 9.7l-4.9 30.6M129.6 602l-10.6 66.4" fill="none" stroke="hsl(150 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="252.1" cy="837" rx="132" ry="27" fill="hsl(150 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(150 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUARRY WITH NEXUS</text>
+<path d="M44 709.4h72" stroke="hsl(150 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  99 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(150 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

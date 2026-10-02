@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Marble Lighthouse poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(269.5 37.8% 6%)"/><stop offset="0.5" stop-color="hsl(285.5 43.2% 13%)"/><stop offset="1" stop-color="hsl(263.2 48.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(263.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(263.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M11.5 828L-99.4 828L11.5 202.5L122.4 828ZM42 828L-43.4 828L42 323.2L127.4 828ZM71.9 828L-51.8 828L71.9 255.8L195.6 828ZM117.9 828L30.4 828L117.9 334.9L205.4 828ZM143.3 828L75.8 828L143.3 523.3L210.8 828ZM176 828L74.7 828L176 325.1L277.3 828ZM237.5 828L162.2 828L237.5 503.6L312.8 828ZM271.9 828L174 828L271.9 328.5L369.8 828ZM303 828L187.6 828L303 319.1L418.4 828ZM339.3 828L281 828L339.3 488.4L397.6 828ZM384.4 828L273.3 828L384.4 317.5L495.5 828ZM399.4 828L286.3 828L399.4 183.5L512.5 828ZM446.2 828L367.2 828L446.2 514.1L525.2 828ZM485.2 828L337.6 828L485.2 205.5L632.8 828ZM522.5 828L397.7 828L522.5 198.9L647.3 828ZM555.2 828L477.5 828L555.2 502.9L632.9 828Z" fill="hsl(54 43.2% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(68 54% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(263.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE MARBLE LIGHTHOUSE</text>
+<path d="M44 709.4h72" stroke="hsl(263.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2004  ·  134 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(263.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

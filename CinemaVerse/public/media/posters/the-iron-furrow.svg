@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Iron Furrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(3.9 39.8% 6%)"/><stop offset="0.5" stop-color="hsl(19.9 45.5% 13%)"/><stop offset="1" stop-color="hsl(342.1 51.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(342.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(342.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 478.8 85.7 495Q128.6 359 171.4 375.2Q214.3 359 257.1 378.3Q300 264.8 342.9 281Q385.8 264.8 428.6 405.7Q471.5 389.5 514.3 450.2Q557.2 434 600 558L610 1158Z" fill="hsl(148.3 39.8% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 578.1 66.7 596.5Q100 484.5 133.3 502.9Q166.7 418.5 200 436.9Q233.4 389.3 266.7 407.7Q300 389.3 333.3 457Q366.7 399.8 400 418.2Q433.4 399.8 466.7 502.1Q500 483.7 533.3 562.3Q566.7 543.9 600 666L610 1266Z" fill="hsl(148.3 45.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 712.6 54.5 726.6Q81.8 712.6 109.1 734Q136.4 682.4 163.6 696.4Q190.9 602 218.2 616Q245.5 536.5 272.7 550.5Q300 536.5 327.3 670.6Q354.6 656.6 381.8 692.3Q409.1 677.2 436.4 691.2Q463.7 662.7 490.9 676.7Q518.2 662.7 545.5 750.1Q572.8 736.1 600 792L610 1392Z" fill="hsl(156.3 51.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(342.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE IRON FURROW</text>
+<path d="M44 709.4h72" stroke="hsl(342.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  110 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(342.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

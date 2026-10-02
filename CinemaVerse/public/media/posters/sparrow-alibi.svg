@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sparrow &amp; Alibi poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(184.6 46.9% 6%)"/><stop offset="0.5" stop-color="hsl(200.6 53.6% 13%)"/><stop offset="1" stop-color="hsl(159.2 60.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(159.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(159.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 484.5 85.7 500.7Q128.6 437.8 171.4 454Q214.3 362.5 257.1 378.7Q300 358.2 342.9 374.4Q385.8 358.2 428.6 464.8Q471.5 448.6 514.3 472.5Q557.2 456.3 600 558L610 1158Z" fill="hsl(14.6 46.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 535 66.7 553.4Q100 508.9 133.3 527.3Q166.7 399.8 200 418.2Q233.4 368.8 266.7 387.2Q300 368.8 333.3 491.6Q366.7 473.2 400 515.3Q433.4 471 466.7 489.4Q500 471 533.3 567.9Q566.7 549.5 600 666L610 1266Z" fill="hsl(14.6 53.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 745.4 54.5 759.4Q81.8 671.8 109.1 685.8Q136.4 649 163.6 663Q190.9 592.6 218.2 606.6Q245.5 592.6 272.7 677.4Q300 584.1 327.3 598.1Q354.6 584.1 381.8 656.6Q409.1 642.6 436.4 684Q463.7 630.7 490.9 644.7Q518.2 630.7 545.5 775.8Q572.8 761.8 600 792L610 1392Z" fill="hsl(22.6 60.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(159.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SPARROW &amp; ALIBI</text>
+<path d="M44 709.4h72" stroke="hsl(159.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  163 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(159.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

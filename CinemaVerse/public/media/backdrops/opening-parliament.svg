@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Opening Parliament backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(311.9 47% 6%)"/><stop offset="0.5" stop-color="hsl(327.9 53.8% 13%)"/><stop offset="1" stop-color="hsl(282.9 60.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(282.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(282.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="794.8" cy="345.8" r="518.5" fill="url(#glow)"/>
+<circle cx="794.8" cy="345.8" r="103.7" fill="hsl(282.9 96% 88%)" opacity=".85"/>
+<path d="M612.2 0L774.2 0L162.2 900L-152.8 900Z" fill="hsl(282.9 96% 88%)" opacity=".04"/><path d="M50.1 0L212.1 0L-399.9 900L-714.9 900Z" fill="hsl(282.9 96% 88%)" opacity=".04"/><path d="M135.4 0L297.4 0L-314.6 900L-629.6 900Z" fill="hsl(282.9 96% 88%)" opacity=".04"/><path d="M1268.3 0L1430.3 0L818.3 900L503.3 900Z" fill="hsl(282.9 96% 88%)" opacity=".04"/><circle cx="386.1" cy="487.8" r="149.6" fill="hsl(282.9 96% 88%)" opacity="0.3"/><circle cx="980.3" cy="130.7" r="142.4" fill="hsl(282.9 92% 62%)" opacity="0.2"/><circle cx="1549" cy="290.9" r="136.5" fill="hsl(282.9 96% 88%)" opacity="0.3"/><circle cx="613.2" cy="171.2" r="140.4" fill="hsl(282.9 92% 62%)" opacity="0.2"/><circle cx="7.9" cy="110.2" r="61.7" fill="hsl(282.9 96% 88%)" opacity="0.3"/><circle cx="418.9" cy="299" r="73.4" fill="hsl(282.9 92% 62%)" opacity="0.1"/><circle cx="970.1" cy="542.4" r="173.2" fill="hsl(282.9 96% 88%)" opacity="0.1"/><circle cx="1010.2" cy="155.4" r="124.8" fill="hsl(282.9 92% 62%)" opacity="0.3"/><circle cx="973.3" cy="185" r="152.8" fill="hsl(282.9 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q100 773.8 200 782.4Q300 728 400 736.6Q500 728 600 736.9Q700 701.6 800 710.2Q900 701.6 1000 761Q1100 752.4 1200 780.9Q1300 772.3 1400 781.6Q1500 773 1600 828L1610 1428Z" fill="hsl(112.7 60.5% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

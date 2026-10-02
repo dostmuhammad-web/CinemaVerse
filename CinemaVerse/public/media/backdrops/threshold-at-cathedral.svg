@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Threshold at Cathedral backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(185.9 38.3% 6%)"/><stop offset="0.5" stop-color="hsl(201.9 43.7% 13%)"/><stop offset="1" stop-color="hsl(177.9 49.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(177.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(177.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1290" cy="496.9" r="688.5" fill="url(#glow)"/>
+<circle cx="1290" cy="496.9" r="137.7" fill="hsl(177.9 96% 78%)" opacity=".85"/>
+<path d="M1365.4 0L1527.4 0L915.4 900L600.4 900Z" fill="hsl(177.9 96% 78%)" opacity=".04"/><path d="M1505.1 0L1667.1 0L1055.1 900L740.1 900Z" fill="hsl(177.9 96% 78%)" opacity=".04"/><path d="M419.9 0L581.9 0L-30.1 900L-345.1 900Z" fill="hsl(177.9 96% 78%)" opacity=".04"/><path d="M1188.1 0L1350.1 0L738.1 900L423.1 900Z" fill="hsl(177.9 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 474.2 228.6 490.4Q342.9 385.6 457.1 401.8Q571.4 375.9 685.7 392.1Q800 325.7 914.3 341.9Q1028.6 325.7 1142.9 461Q1257.2 444.8 1371.4 476.5Q1485.7 460.3 1600 558L1610 1158Z" fill="hsl(1.4 38.3% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 583.8 177.8 602.2Q266.7 504.7 355.6 523.1Q444.5 500.8 533.3 519.2Q622.2 479.8 711.1 498.2Q800 337.1 888.9 355.5Q977.8 337.1 1066.7 443.7Q1155.6 425.3 1244.4 515.3Q1333.3 496.9 1422.2 595.1Q1511.1 576.7 1600 666L1610 1266Z" fill="hsl(1.4 43.7% 10%)"/><path d="M-10 1392L-10 792L0 792Q72.8 744.8 145.5 758.8Q218.2 630.4 290.9 644.4Q363.7 630.4 436.4 651.6Q509.1 579.1 581.8 593.1Q654.6 579.1 727.3 632.2Q800 548.7 872.7 562.7Q945.5 548.7 1018.2 672Q1090.9 658 1163.6 680.5Q1236.4 666.5 1309.1 738.2Q1381.8 724.2 1454.5 760.5Q1527.3 746.5 1600 792L1610 1392Z" fill="hsl(9.4 49.2% 6%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

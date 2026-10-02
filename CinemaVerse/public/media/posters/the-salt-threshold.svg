@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Salt Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(208.4 40.6% 6%)"/><stop offset="0.5" stop-color="hsl(224.4 46.4% 13%)"/><stop offset="1" stop-color="hsl(192.9 52.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(192.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(192.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 554.2L38.9 554.2L45 423.9L79.2 423.9L93.9 523.2L137 523.2L141.7 490L223.2 490L229.9 518.8L268.8 518.8L276.8 471.1L321.5 471.1L330.1 373.3L404.6 373.3L410.5 490.6L475.1 490.6L485.5 454.4L537.7 454.4L550.5 544L593.2 544L606.8 414.2L636.1 414.2L610 1248Z" fill="hsl(3.3 40.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(11.3 52.2% 6%)"/><path d="M65.7 648l-12.3 76.9M281.6 484.6l-4.9 30.7M262.5 426.4l-14.4 89.8M363.5 487.4l-9.9 62M489.2 538.6l-11.5 71.7M238 193.3l-6.9 43.2M409.1 606.4l-5 31.2M362 459.5l-5.1 31.7M245.2 451.1l-4.5 27.9M163 0.1l-8.2 51.4M439.5 466.2l-13.7 85.9M49.9 736.2l-9 56.3M524.8 607.9l-12.6 78.5M258 218.3l-10.3 64.1M103.7 382.8l-13.9 86.9M355.1 293.3l-8.3 52M343.8 626.8l-4.9 30.4M95.3 322.9l-9 56.1M439.5 744.3l-8.5 53.3M35.7 533.6l-6.6 41.2M558 652.4l-5.3 33.1M106.3 366l-7.1 44.4M561.9 623.3l-5.1 31.6M514.4 73.9l-13.6 85.2M559.2 807.1l-8 50M35.3 419.4l-8.7 54.3M482.5 299.8l-5.6 34.9M350.9 470.4l-4.7 29.5M463.7 132.2l-5.9 36.6M563.7 150.6l-5.2 32.8M338.5 780.2l-14.1 88.2M159.1 339l-10.6 66.5M19.6 495.5l-6.6 41.4M232.1 554.3l-12.5 77.9M241.9 194.7l-13.4 83.9M571.9 399.6l-11.2 70M453.9 743.7l-11.2 69.8M59.7 519.5l-10.1 63.2M533.9 418.9l-13.4 84M240.2 334.6l-10.2 63.5M277.9 558.1l-9.9 61.7M497.5 490.8l-5.3 33M306.3 491.2l-9.7 60.5M489.4 667.9l-10.4 64.7M438.3 406.9l-13.5 84.1M251 21.4l-9.9 61.7" fill="none" stroke="hsl(192.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="234.8" cy="837" rx="132" ry="27" fill="hsl(192.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(192.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SALT THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(192.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1997  ·  125 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(192.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

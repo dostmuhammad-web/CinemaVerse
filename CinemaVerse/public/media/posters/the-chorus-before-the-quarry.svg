@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Chorus before the Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(5.3 40.2% 24%)"/><stop offset="0.5" stop-color="hsl(25.3 36.2% 42%)"/><stop offset="1" stop-color="hsl(332.4 40.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(332.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(332.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="329.6" cy="299.4" r="361.6" fill="url(#glow)"/><circle cx="329.6" cy="299.4" r="86.1" fill="hsl(332.4 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 429 85.7 445.2Q128.6 379.9 171.4 396.1Q214.3 359.2 257.1 375.4Q300 335.3 342.9 351.5Q385.8 335.3 428.6 388.5Q471.5 372.3 514.3 495Q557.2 478.8 600 558L610 1158Z" fill="hsl(182.2 28.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 551.3 66.7 569.7Q100 465.1 133.3 483.5Q166.7 413.4 200 431.8Q233.4 413.4 266.7 522.7Q300 469.3 333.3 487.7Q366.7 445 400 463.4Q433.4 445 466.7 544.4Q500 526 533.3 602Q566.7 583.6 600 666L610 1266Z" fill="hsl(182.2 32.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 715 54.5 729Q81.8 685 109.1 699Q136.4 655 163.6 669Q190.9 651.2 218.2 665.2Q245.5 536.4 272.7 550.4Q300 536.4 327.3 595Q354.6 581 381.8 666.3Q409.1 652.3 436.4 678.7Q463.7 664.7 490.9 725.4Q518.2 711.4 545.5 750Q572.8 736 600 792L610 1392Z" fill="hsl(190.2 36.2% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(332.4 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE CHORUS BEFORE THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUARRY</text>
+<path d="M44 726.8h72" stroke="hsl(332.4 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1974  ·  120 MIN  ·  ACTION</text>
+<text x="556" y="750.8" fill="hsl(332.4 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

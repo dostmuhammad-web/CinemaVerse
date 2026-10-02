@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sacred Carousel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(259.1 67.6% 24%)"/><stop offset="0.5" stop-color="hsl(279.1 60.9% 42%)"/><stop offset="1" stop-color="hsl(247.6 67.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(247.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(247.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="199.7" cy="211.8" r="406.1" fill="url(#glow)"/><circle cx="199.7" cy="211.8" r="96.7" fill="hsl(247.6 96% 78%)" opacity=".92"/>
+<path d="M-6.4 828L-126.6 828L-6.4 320.1L113.8 828ZM33.5 828L-44.4 828L33.5 488.2L111.4 828ZM81.5 828L-40.9 828L81.5 229.7L203.9 828ZM119.2 828L-16.4 828L119.2 281.7L254.8 828ZM160.2 828L68.4 828L160.2 399.8L252 828ZM195.1 828L114.7 828L195.1 414.2L275.5 828ZM216.1 828L132.4 828L216.1 378L299.8 828ZM257.2 828L150.3 828L257.2 200.9L364.1 828ZM304 828L250.2 828L304 538.5L357.8 828ZM346 828L254.3 828L346 469.3L437.7 828ZM377.2 828L233.7 828L377.2 272.9L520.7 828ZM420.3 828L321.1 828L420.3 318.5L519.5 828ZM445.3 828L342.3 828L445.3 203.8L548.3 828ZM495.3 828L370.5 828L495.3 183.7L620.1 828ZM530.7 828L442.7 828L530.7 429.1L618.7 828ZM562.6 828L442.4 828L562.6 285.2L682.8 828Z" fill="hsl(84.9 54.1% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(98.9 67.6% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(247.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SACRED CAROUSEL</text>
+<path d="M44 709.4h72" stroke="hsl(247.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  142 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(247.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

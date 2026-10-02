@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Vantage before the Interval backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(189.7 37.9% 6%)"/><stop offset="0.5" stop-color="hsl(205.7 43.3% 13%)"/><stop offset="1" stop-color="hsl(168.2 48.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(168.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(168.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="458.2" cy="392.1" r="695.5" fill="url(#glow)"/>
+<circle cx="458.2" cy="392.1" r="139.1" fill="hsl(168.2 96% 78%)" opacity=".85"/>
+<path d="M374.4 0L536.4 0L-75.6 900L-390.6 900Z" fill="hsl(168.2 96% 78%)" opacity=".04"/><path d="M685.1 0L847.1 0L235.1 900L-79.9 900Z" fill="hsl(168.2 96% 78%)" opacity=".04"/><path d="M191.7 0L353.7 0L-258.3 900L-573.3 900Z" fill="hsl(168.2 96% 78%)" opacity=".04"/><path d="M1482.4 0L1644.4 0L1032.4 900L717.4 900Z" fill="hsl(168.2 96% 78%)" opacity=".04"/><path d="M-10 1230L-10 630L0 630Q133.4 580 266.7 588.6Q400 521.6 533.3 530.2Q666.7 473.5 800 482.1Q933.4 473.5 1066.7 570.2Q1200 561.6 1333.3 579.8Q1466.7 571.2 1600 630L1610 1230Z" fill="hsl(347.5 37.9% 15%)" opacity=".55"/><ellipse cx="636.4" cy="522" rx="662.5" ry="49.1" fill="hsl(355.5 48.7% 6%)" opacity="0.6"/><ellipse cx="543.5" cy="589.5" rx="491.4" ry="68.4" fill="hsl(355.5 48.7% 6%)" opacity="0.6"/><ellipse cx="1244.8" cy="657" rx="814.4" ry="32.5" fill="hsl(355.5 48.7% 6%)" opacity="0.7"/><ellipse cx="521.3" cy="724.5" rx="677.6" ry="45.4" fill="hsl(355.5 48.7% 6%)" opacity="0.5"/><ellipse cx="934.3" cy="792" rx="488.8" ry="48.6" fill="hsl(355.5 48.7% 6%)" opacity="0.6"/><ellipse cx="901.2" cy="859.5" rx="553.1" ry="56.6" fill="hsl(355.5 48.7% 6%)" opacity="0.7"/><path d="M953.5 855L953.5 706.5M899.5 733.5L953.5 652.5L1007.5 733.5M910.3 801L953.5 733.5L999.4 801" fill="none" stroke="hsl(1.5 54.2% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="1620" height="90" fill="hsl(1.5 54.2% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

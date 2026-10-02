@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hollow Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(251 42.9% 6%)"/><stop offset="0.5" stop-color="hsl(267 49.1% 13%)"/><stop offset="1" stop-color="hsl(211.1 55.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(211.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(211.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M3.7 828L-57 828L3.7 510.6L64.4 828ZM38.7 828L-92.3 828L38.7 309.7L169.7 828ZM67 828L19.2 828L67 555.9L114.8 828ZM107 828L55 828L107 507.5L159 828ZM163.5 828L62.7 828L163.5 209.5L264.3 828ZM183.4 828L120 828L183.4 458L246.8 828ZM227.7 828L173.7 828L227.7 491.8L281.7 828ZM263.4 828L137.7 828L263.4 226L389.1 828ZM290.2 828L199 828L290.2 416.9L381.4 828ZM325.5 828L252.9 828L325.5 531.9L398.1 828ZM385.9 828L293 828L385.9 461.5L478.8 828ZM426.1 828L336.2 828L426.1 324.1L516 828ZM452.2 828L343.3 828L452.2 342.6L561.1 828ZM480 828L352.9 828L480 195.6L607.1 828ZM513.8 828L452.9 828L513.8 536L574.7 828ZM564 828L451.8 828L564 285.3L676.2 828Z" fill="hsl(90.9 49.1% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(104.9 61.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(211.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HOLLOW SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(211.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2002  ·  117 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(211.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Wander against the Vessel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(205.4 29.5% 6%)"/><stop offset="0.5" stop-color="hsl(221.4 33.7% 13%)"/><stop offset="1" stop-color="hsl(184.4 37.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(184.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(184.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 440 85.7 456.2Q128.6 339.6 171.4 355.8Q214.3 339.6 257.1 366.4Q300 350.2 342.9 367.6Q385.8 351.4 428.6 423.1Q471.5 406.9 514.3 499.2Q557.2 483 600 558L610 1158Z" fill="hsl(30.5 29.5% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 585 66.7 603.4Q100 492.4 133.3 510.8Q166.7 474.8 200 493.2Q233.4 441.5 266.7 459.9Q300 388.2 333.3 406.6Q366.7 388.2 400 468.3Q433.4 449.9 466.7 536.6Q500 518.2 533.3 613.7Q566.7 595.3 600 666L610 1266Z" fill="hsl(30.5 33.7% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 741.4 54.5 755.4Q81.8 708.5 109.1 722.5Q136.4 669.9 163.6 683.9Q190.9 646.4 218.2 660.4Q245.5 549.1 272.7 563.1Q300 528.2 327.3 542.2Q354.6 528.2 381.8 609.1Q409.1 595.1 436.4 701.9Q463.7 660.5 490.9 674.5Q518.2 660.5 545.5 754.4Q572.8 740.4 600 792L610 1392Z" fill="hsl(38.5 37.9% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(184.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WANDER AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">VESSEL</text>
+<path d="M44 726.8h72" stroke="hsl(184.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1983  ·  139 MIN  ·  ADVENTURE</text>
+<text x="556" y="750.8" fill="hsl(184.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

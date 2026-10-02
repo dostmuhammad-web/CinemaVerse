@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Frequency of the Verge backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(335.7 37.3% 6%)"/><stop offset="0.5" stop-color="hsl(351.7 42.7% 13%)"/><stop offset="1" stop-color="hsl(324.8 48% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(324.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(324.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1020.8" cy="341.8" r="353" fill="url(#glow)"/>
+<circle cx="1020.8" cy="341.8" r="70.6" fill="hsl(324.8 96% 88%)" opacity=".85"/>
+<path d="M19.1 0L181.1 0L-430.9 900L-745.9 900Z" fill="hsl(324.8 96% 88%)" opacity=".04"/><path d="M409.1 0L571.1 0L-40.9 900L-355.9 900Z" fill="hsl(324.8 96% 88%)" opacity=".04"/><path d="M1354.2 0L1516.2 0L904.2 900L589.2 900Z" fill="hsl(324.8 96% 88%)" opacity=".04"/><path d="M1363.8 0L1525.8 0L913.8 900L598.8 900Z" fill="hsl(324.8 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(179 42.7% 10%)"/><path d="M3.7 0L181.5 0L131.7 738L53.5 738Z" fill="hsl(187 48% 6%)" opacity="0.6"/><path d="M187.6 0L365.4 0L315.6 738L237.4 738Z" fill="hsl(187 48% 6%)" opacity="0.3"/><path d="M365.3 0L543.1 0L493.3 738L415.1 738Z" fill="hsl(187 48% 6%)" opacity="0.4"/><path d="M535.8 0L713.6 0L663.8 738L585.6 738Z" fill="hsl(187 48% 6%)" opacity="0.3"/><path d="M711.6 0L889.4 0L839.6 738L761.4 738Z" fill="hsl(187 48% 6%)" opacity="0.3"/><path d="M897.4 0L1075.2 0L1025.4 738L947.2 738Z" fill="hsl(187 48% 6%)" opacity="0.6"/><path d="M1068.9 0L1246.7 0L1196.9 738L1118.7 738Z" fill="hsl(187 48% 6%)" opacity="0.4"/><path d="M1251.2 0L1429 0L1379.2 738L1301 738Z" fill="hsl(187 48% 6%)" opacity="0.4"/><path d="M1428.1 0L1605.9 0L1556.1 738L1477.9 738Z" fill="hsl(187 48% 6%)" opacity="0.3"/><path d="M1030.2 0L1510.2 774L550.2 774Z" fill="hsl(324.8 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(324.8 92% 62%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(193 53.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

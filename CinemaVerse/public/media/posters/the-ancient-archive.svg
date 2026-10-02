@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Ancient Archive poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(275.4 54.7% 24%)"/><stop offset="0.5" stop-color="hsl(295.4 49.2% 42%)"/><stop offset="1" stop-color="hsl(248.9 54.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(248.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(248.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="202.1" cy="331.9" r="346.5" fill="url(#glow)"/><circle cx="202.1" cy="331.9" r="82.5" fill="hsl(248.9 96% 78%)" opacity=".92"/>
+<path d="M-0.1 828L-78.8 828L-0.1 507.7L78.6 828ZM44.2 828L-40.9 828L44.2 399.8L129.3 828ZM84.5 828L13.2 828L84.5 442.7L155.8 828ZM124.5 828L10.6 828L124.5 333.8L238.4 828ZM156.1 828L26.7 828L156.1 204.6L285.5 828ZM191.5 828L61.6 828L191.5 280.5L321.4 828ZM223.2 828L157.2 828L223.2 436.7L289.2 828ZM249.3 828L157.5 828L249.3 372.8L341.1 828ZM291.5 828L206.4 828L291.5 362.7L376.6 828ZM346 828L273.6 828L346 451.7L418.4 828ZM368.6 828L281.7 828L368.6 347.8L455.5 828ZM410.2 828L309 828L410.2 268.5L511.4 828ZM459.4 828L369.5 828L459.4 373.5L549.3 828ZM479.6 828L331.9 828L479.6 258.9L627.3 828ZM516.8 828L426.7 828L516.8 374.6L606.9 828ZM557.1 828L484.4 828L557.1 455L629.8 828Z" fill="hsl(72.1 43.7% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(86.1 54.7% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(248.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE ANCIENT ARCHIVE</text>
+<path d="M44 709.4h72" stroke="hsl(248.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  157 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(248.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

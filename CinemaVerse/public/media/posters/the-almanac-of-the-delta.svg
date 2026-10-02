@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Almanac of the Delta poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(235.5 39.4% 6%)"/><stop offset="0.5" stop-color="hsl(251.5 45.1% 13%)"/><stop offset="1" stop-color="hsl(196.1 50.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(196.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(196.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(17.3 45.1% 10%)"/><path d="M346.3 183.2L560.7 183.2L603.5 900L329.2 900Z" fill="hsl(196.1 96% 78%)" opacity="0.1"/><path d="M346.3 183.2L560.7 183.2L627.1 900L319.7 900Z" fill="hsl(196.1 96% 78%)" opacity="0"/><path d="M346.3 183.2L560.7 183.2L650.7 900L310.3 900Z" fill="hsl(196.1 96% 78%)" opacity="0"/><rect x="346.3" y="144" width="214.4" height="392.2" fill="hsl(235.5 39.4% 6%)"/><rect x="346.3" y="144" width="214.4" height="392.2" fill="hsl(196.1 100% 62% / 0.4)" opacity=".5"/><path d="M346.3 144h214.4v392.2h-214.4Z" fill="none" stroke="hsl(31.3 56.4% 3%)" stroke-width="7"/><path d="M346.3 340.1h214.4M453.5 144v392.2" stroke="hsl(31.3 56.4% 3%)" stroke-width="4"/><path d="M158.9 864q-21.7 -120.5 21.7 -149.4q24.1 28.9 14.5 72.3q-4.8 48.2 4.8 77.1Z" fill="hsl(31.3 56.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(196.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE ALMANAC OF THE DELTA</text>
+<path d="M44 709.4h72" stroke="hsl(196.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2014  ·  97 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(196.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

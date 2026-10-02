@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Weighty Inlet backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.3 43% 6%)"/><stop offset="0.5" stop-color="hsl(212.3 49.1% 13%)"/><stop offset="1" stop-color="hsl(182.5 55.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="540.5" cy="273.9" r="366.5" fill="url(#glow)"/>
+<circle cx="540.5" cy="273.9" r="73.3" fill="hsl(182.5 96% 78%)" opacity=".85"/>
+<path d="M687.4 0L849.4 0L237.4 900L-77.6 900Z" fill="hsl(182.5 96% 78%)" opacity=".04"/><path d="M1194 0L1356 0L744 900L429 900Z" fill="hsl(182.5 96% 78%)" opacity=".04"/><path d="M367.3 0L529.3 0L-82.7 900L-397.7 900Z" fill="hsl(182.5 96% 78%)" opacity=".04"/><path d="M27.3 0L189.3 0L-422.7 900L-737.7 900Z" fill="hsl(182.5 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 448.8 228.6 465Q342.9 411.7 457.1 427.9Q571.4 326.5 685.7 342.7Q800 323.5 914.3 339.7Q1028.6 323.5 1142.9 434.6Q1257.2 418.4 1371.4 474.4Q1485.7 458.2 1600 558L1610 1158Z" fill="hsl(25.3 43% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 577.1 177.8 595.5Q266.7 484.6 355.6 503Q444.5 472.4 533.3 490.8Q622.2 472.4 711.1 514.5Q800 489.9 888.9 508.3Q977.8 398.6 1066.7 417Q1155.6 398.6 1244.4 541.7Q1333.3 523.3 1422.2 588.6Q1511.1 570.2 1600 666L1610 1266Z" fill="hsl(25.3 49.1% 10%)"/><path d="M-10 1392L-10 792L0 792Q72.8 734.7 145.5 748.7Q218.2 717.2 290.9 731.2Q363.7 644.8 436.4 658.8Q509.1 607.9 581.8 621.9Q654.6 559.9 727.3 573.9Q800 559.9 872.7 639.9Q945.5 594.6 1018.2 608.6Q1090.9 594.6 1163.6 701Q1236.4 687 1309.1 713.8Q1381.8 699.8 1454.5 721.3Q1527.3 707.3 1600 792L1610 1392Z" fill="hsl(33.3 55.3% 6%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

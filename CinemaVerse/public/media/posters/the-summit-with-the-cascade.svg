@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Summit with the Cascade poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(160.1 33.7% 6%)"/><stop offset="0.5" stop-color="hsl(176.1 38.5% 13%)"/><stop offset="1" stop-color="hsl(135.8 43.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(135.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(135.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 425.2 85.7 441.4Q128.6 346.5 171.4 362.7Q214.3 312.3 257.1 328.5Q300 312.3 342.9 435.9Q385.8 371.4 428.6 387.6Q471.5 371.4 514.3 511.3Q557.2 495.1 600 558L610 1158Z" fill="hsl(342.2 33.7% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 543.6 66.7 562Q100 457 133.3 475.4Q166.7 412.1 200 430.5Q233.4 412.1 266.7 473Q300 454.6 333.3 517Q366.7 488.3 400 506.7Q433.4 488.3 466.7 540.1Q500 521.7 533.3 616.4Q566.7 598 600 666L610 1266Z" fill="hsl(342.2 38.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 690.5 54.5 704.5Q81.8 690.5 109.1 738.3Q136.4 671.6 163.6 685.6Q190.9 548.8 218.2 562.8Q245.5 548.8 272.7 567.7Q300 553.7 327.3 602.7Q354.6 588.7 381.8 674.6Q409.1 660.6 436.4 696.9Q463.7 682.9 490.9 705.2Q518.2 691.2 545.5 749.2Q572.8 735.2 600 792L610 1392Z" fill="hsl(350.2 43.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(135.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SUMMIT WITH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CASCADE</text>
+<path d="M44 726.8h72" stroke="hsl(135.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  106 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="750.8" fill="hsl(135.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Wander beneath Frequency poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(29.4 58.2% 24%)"/><stop offset="0.5" stop-color="hsl(49.4 52.3% 62%)"/><stop offset="1" stop-color="hsl(347.7 58.2% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="402.5" cy="339.6" r="446.5" fill="url(#glow)"/><circle cx="402.5" cy="339.6" r="106.3" fill="hsl(347.7 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(169 46.5% 18%)"/><path d="M4.5 0L71.2 0L52.5 738L23.2 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M76 0L142.7 0L124 738L94.7 738Z" fill="hsl(177 52.3% 10%)" opacity="0.7"/><path d="M138.4 0L205.1 0L186.4 738L157.1 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M200.6 0L267.3 0L248.6 738L219.3 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M272.4 0L339.1 0L320.4 738L291.1 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M334.6 0L401.3 0L382.6 738L353.3 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M401.6 0L468.3 0L449.6 738L420.3 738Z" fill="hsl(177 52.3% 10%)" opacity="0.4"/><path d="M469.4 0L536.1 0L517.4 738L488.1 738Z" fill="hsl(177 52.3% 10%)" opacity="0.5"/><path d="M541.5 0L608.2 0L589.5 738L560.2 738Z" fill="hsl(177 52.3% 10%)" opacity="0.4"/><path d="M288.5 0L468.5 774L108.5 774Z" fill="hsl(347.7 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(347.7 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(183 58.2% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WANDER BENEATH FREQUENCY</text>
+<path d="M44 709.4h72" stroke="hsl(347.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  105 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(347.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

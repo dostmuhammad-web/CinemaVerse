@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Estuary for Quiver poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(38.6 36.7% 6%)"/><stop offset="0.5" stop-color="hsl(54.6 42% 13%)"/><stop offset="1" stop-color="hsl(7.3 47.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(7.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(7.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(209.9 42% 10%)"/><path d="M6.5 0L73.2 0L54.5 738L25.2 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.5"/><path d="M69.7 0L136.4 0L117.7 738L88.4 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.4"/><path d="M139.9 0L206.6 0L187.9 738L158.6 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.5"/><path d="M200.4 0L267.1 0L248.4 738L219.1 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.4"/><path d="M270.7 0L337.4 0L318.7 738L289.4 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.7"/><path d="M337.6 0L404.3 0L385.6 738L356.3 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.3"/><path d="M400.4 0L467.1 0L448.4 738L419.1 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.7"/><path d="M475.6 0L542.3 0L523.6 738L494.3 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.7"/><path d="M536.9 0L603.6 0L584.9 738L555.6 738Z" fill="hsl(217.9 47.2% 6%)" opacity="0.5"/><path d="M303.5 0L483.5 774L123.5 774Z" fill="hsl(7.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(7.3 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(223.9 52.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(7.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ESTUARY FOR QUIVER</text>
+<path d="M44 709.4h72" stroke="hsl(7.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  94 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(7.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

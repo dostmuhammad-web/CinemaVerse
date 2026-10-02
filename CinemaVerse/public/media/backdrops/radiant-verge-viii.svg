@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Radiant Verge VIII backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(209.4 39.8% 6%)"/><stop offset="0.5" stop-color="hsl(225.4 45.5% 13%)"/><stop offset="1" stop-color="hsl(176.5 51.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(176.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(176.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="690.6" cy="291.9" r="641" fill="url(#glow)"/>
+<circle cx="690.6" cy="291.9" r="128.2" fill="hsl(176.5 96% 78%)" opacity=".85"/>
+<path d="M86.7 0L248.7 0L-363.3 900L-678.3 900Z" fill="hsl(176.5 96% 78%)" opacity=".04"/><path d="M526 0L688 0L76 900L-239 900Z" fill="hsl(176.5 96% 78%)" opacity=".04"/><path d="M702.7 0L864.7 0L252.7 900L-62.3 900Z" fill="hsl(176.5 96% 78%)" opacity=".04"/><path d="M79.3 0L241.3 0L-370.7 900L-685.7 900Z" fill="hsl(176.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(349.5 45.5% 10%)"/><path d="M790 191.7L1486.2 191.7L1625.4 900L734.3 900Z" fill="hsl(176.5 96% 78%)" opacity="0.1"/><path d="M790 191.7L1486.2 191.7L1702 900L703.7 900Z" fill="hsl(176.5 96% 78%)" opacity="0"/><path d="M790 191.7L1486.2 191.7L1778.6 900L673 900Z" fill="hsl(176.5 96% 78%)" opacity="0"/><rect x="790" y="144" width="696.2" height="477.2" fill="hsl(209.4 39.8% 6%)"/><rect x="790" y="144" width="696.2" height="477.2" fill="hsl(176.5 100% 62% / 0.4)" opacity=".5"/><path d="M790 144h696.2v477.2h-696.2Z" fill="none" stroke="hsl(3.5 56.9% 3%)" stroke-width="7"/><path d="M790 382.6h696.2M1138.1 144v477.2" stroke="hsl(3.5 56.9% 3%)" stroke-width="4"/><path d="M671.1 864q-21.5 -119.5 21.5 -148.2q23.9 28.7 14.3 71.7q-4.8 47.8 4.8 76.5Z" fill="hsl(3.5 56.9% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

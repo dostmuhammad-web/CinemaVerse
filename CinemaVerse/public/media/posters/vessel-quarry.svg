@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Vessel &amp; Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(26.1 35.3% 6%)"/><stop offset="0.5" stop-color="hsl(42.1 40.3% 13%)"/><stop offset="1" stop-color="hsl(12.2 45.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 546L19.9 546L33.1 350.9L114.1 350.9L124.5 516.5L215.1 516.5L227.6 345.4L316.6 345.4L327.6 408.7L408.3 408.7L413.2 404L501.7 404L514.2 369.8L560.1 369.8L568.6 461.7L651.9 461.7L610 1248Z" fill="hsl(196.1 35.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(204.1 45.4% 6%)"/><path d="M545.7 635.2l-8.4 52.6M27.1 62.8l-5.9 36.6M581 803.5l-6.4 40.1M261.6 63l-11.4 71.4M148.7 653.7l-13.1 81.8M292.4 39.7l-8.3 52.1M367.6 211l-4.9 30.8M114.8 757.6l-11.7 72.9M535.9 568.1l-8.2 51.5M146.8 630.7l-14 87.5M262.5 528.5l-11.9 74.3M287.9 262.9l-9.3 58M311 752.2l-10.5 65.7M257.5 439.5l-12.1 75.7M174.5 343.6l-5.6 34.9M404.6 228.4l-13.8 86.4M288.8 614l-5 31.5M174.4 180.3l-6.1 38.3M412.7 43.1l-13.3 83.4M62.1 297.7l-4.4 27.3M154.5 629.4l-6 37.6M573.9 36.5l-8.8 54.9M435 662.1l-12.1 75.8M412.4 317.8l-14.4 89.8M408.1 350.8l-5.1 31.9M5.6 62.5l-5.6 34.8M312.3 342.6l-10.5 65.4M93.5 720.2l-9.2 57.5M6.9 110.3l-9.3 57.8M432.7 808l-13.7 85.4M20 574.4l-6.5 40.4M27 192.7l-7.2 45M229.4 118.6l-5 31.5M188.8 409.9l-9.5 59.4M426.1 282.8l-9.9 61.7M391.7 780.8l-11 68.8M414.3 574.6l-10.5 65.8M146.3 199.3l-11 69M189 641.1l-7.8 48.6M525 439.6l-8.2 51.3M515.1 730.9l-8.2 51.4M355.2 705.1l-13 81.2M5.5 640.2l-7.1 44.7M497.3 199.5l-12.9 80.4M432.6 532.5l-6.3 39.6M498.6 452.5l-7.8 48.5" fill="none" stroke="hsl(12.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="229.4" cy="837" rx="132" ry="27" fill="hsl(12.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(12.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">VESSEL &amp; QUARRY</text>
+<path d="M44 709.4h72" stroke="hsl(12.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1997  ·  119 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(12.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

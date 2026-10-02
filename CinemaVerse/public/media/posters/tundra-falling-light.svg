@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Tundra: Falling Light poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(227.9 42.1% 6%)"/><stop offset="0.5" stop-color="hsl(243.9 48.2% 13%)"/><stop offset="1" stop-color="hsl(192.3 54.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(192.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(192.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 540.8L67.5 540.8L74 541.4L167.8 541.4L177.1 544.7L276.2 544.7L285.1 491.4L351.6 491.4L359.7 469.6L409.8 469.6L420.3 440.9L480.3 440.9L488.5 445.9L522.6 445.9L536.5 535.1L619.9 535.1L610 1248Z" fill="hsl(12.5 42.1% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(20.5 54.2% 6%)"/><path d="M273.7 62.5l-10.3 64.2M449.4 763l-11.1 69.4M495 66.6l-9.6 60.3M337.4 461.4l-9.9 61.8M125.9 360.1l-9.2 57.6M416.4 104.6l-9.1 57.1M588.6 61.1l-12 75.1M33 524.9l-5.7 35.9M155.7 75.4l-13.7 85.8M293.9 251.5l-12.7 79.2M54.8 197.9l-6.8 42.5M442.5 558.6l-8.7 54.2M168.2 395.5l-10.1 63M567.7 335.5l-10.4 65.3M216.8 608.8l-8.8 55M529.3 575.7l-10.9 68.3M591.3 624.1l-4.8 30M50.8 146.6l-10.7 66.9M76.5 401.3l-7.2 44.9M28 787.9l-7.5 47.1M141.8 263.8l-13.9 87.2M554.2 443.8l-11.9 74.6M188.1 88.2l-8.2 51M229.8 71.5l-7.4 46.5M201.1 242.2l-5.4 33.8M389.3 767.8l-9.8 61.4M284.5 529.1l-8.6 53.9M272.6 273.7l-6.1 38.3M96.9 419.1l-7.5 46.7M220.7 153.5l-5.9 37.2M261.4 620.9l-9.4 58.7M505.5 93.3l-6.5 40.8M295.3 90.3l-12.5 78.2M305.5 430.3l-13.3 83.4M146.9 199.9l-4.5 28M250.9 697.3l-13.6 84.9M67.3 230.3l-8.2 51.1M321.3 39.9l-8.3 51.8M319.7 326.3l-8.5 52.8M403.6 515.7l-13.5 84.1M329.8 149.7l-6 37.8M108.4 578.7l-12.1 75.5M122.8 67l-7.4 45.9M37.3 778.6l-11 68.8M351 56.6l-12.7 79.4M474.2 97.5l-6.4 39.7" fill="none" stroke="hsl(192.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="203.4" cy="837" rx="132" ry="27" fill="hsl(192.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(192.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TUNDRA: FALLING LIGHT</text>
+<path d="M44 709.4h72" stroke="hsl(192.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2006  ·  108 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(192.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

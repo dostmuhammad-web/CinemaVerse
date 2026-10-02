@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Second Gantry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(189.7 37.1% 6%)"/><stop offset="0.5" stop-color="hsl(205.7 42.4% 13%)"/><stop offset="1" stop-color="hsl(174.6 47.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(174.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(174.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 536.4L24.6 536.4L39.5 395.9L138.9 395.9L153.3 481.1L186 481.1L197.5 499.4L297.1 499.4L309.4 527.9L357.9 527.9L362.2 384.4L454.5 384.4L465.9 499.7L525.2 499.7L540.1 372.2L587 372.2L601.2 373.1L675.8 373.1L610 1248Z" fill="hsl(1.5 37.1% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(9.5 47.7% 6%)"/><path d="M132.5 406l-9.7 60.4M354.1 562.3l-9.1 56.6M207.1 507.6l-10.8 67.2M150.9 343.1l-14.2 88.5M553.7 705.8l-7.8 48.7M270.7 539.9l-8.2 51.3M248.1 531l-12 75.1M128.6 394.9l-11.7 73M462.1 459.6l-5.2 32.6M328 336.5l-5.2 32.3M489.5 88.7l-12.8 79.9M290.9 337.9l-14.4 90M529.7 122l-13.8 86.1M74.6 726.8l-8.6 53.9M310.6 310.8l-11.5 72M279.6 114.3l-7.7 48M502.4 468.5l-10.9 68.1M388.7 255.9l-7.6 47.5M49.4 147.9l-12.3 77.1M478.8 97l-12.7 79.4M178 705.5l-13.9 87.2M123.3 441.2l-7.3 45.8M205.4 520.7l-11.8 73.7M286.2 446.4l-7.1 44.1M270.7 442.4l-7.3 45.4M534.8 297.2l-5.5 34.6M18.2 803.3l-8.4 52.6M250.9 729.2l-13.8 85.9M54.3 748.4l-6 37.7M354.4 716.1l-14.3 89.5M457.3 555.9l-7.4 46M129.3 77l-8.2 51M323.4 201.4l-13.9 87.1M46.6 163.2l-12.7 79.7M452.2 409.3l-8.6 54M33.6 219.2l-9.5 59.7M340.3 596l-7.8 48.8M430.2 646l-6.6 41.1M234.3 683.7l-13.2 82.5M464.8 189.9l-9.3 58M79.3 409.2l-7.9 49.4M90.9 654l-6.1 37.8M145.5 416.9l-6.3 39.6M379.1 95.1l-8.9 55.8M195.6 676.8l-12.3 76.8M254.2 467.9l-9.9 62" fill="none" stroke="hsl(174.6 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="311.1" cy="837" rx="132" ry="27" fill="hsl(174.6 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(174.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SECOND GANTRY</text>
+<path d="M44 709.4h72" stroke="hsl(174.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1998  ·  151 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(174.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

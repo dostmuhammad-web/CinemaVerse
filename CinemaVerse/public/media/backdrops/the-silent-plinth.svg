@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Silent Plinth backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(42.9 52% 24%)"/><stop offset="0.5" stop-color="hsl(62.9 46.8% 42%)"/><stop offset="1" stop-color="hsl(28.4 52% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(28.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(28.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="640.9" cy="478.1" r="576" fill="url(#glow)"/>
+<circle cx="640.9" cy="478.1" r="115.2" fill="hsl(28.4 96% 78%)" opacity=".85"/>
+<path d="M326.1 0L488.1 0L-123.9 900L-438.9 900Z" fill="hsl(28.4 96% 78%)" opacity=".04"/><path d="M76.4 0L238.4 0L-373.6 900L-688.6 900Z" fill="hsl(28.4 96% 78%)" opacity=".04"/><path d="M192.1 0L354.1 0L-257.9 900L-572.9 900Z" fill="hsl(28.4 96% 78%)" opacity=".04"/><path d="M33.6 0L195.6 0L-416.4 900L-731.4 900Z" fill="hsl(28.4 96% 78%)" opacity=".04"/><path d="M-10 1194L-10 594L0 594Q160 536.8 320 543.3Q480 511.1 640 517.6Q800 509.1 960 515.6Q1120 509.1 1280 545.6Q1440 539.1 1600 594L1610 1194Z" fill="hsl(216.2 36.4% 30%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q200 667 400 672.4Q600 643.8 800 649.2Q1000 643.8 1200 665.4Q1400 660 1600 720L1610 1320Z" fill="hsl(216.2 41.6% 18%)"/><path d="M-10 1455L-10 855L0 855Q200 822.4 400 826.7Q600 789.6 800 793.9Q1000 789.6 1200 816.5Q1400 812.2 1600 855L1610 1455Z" fill="hsl(224.2 46.8% 10%)"/><path d="M-10 1545L-10 945L0 945Q266.7 912.2 533.3 914.9Q800 910.8 1066.7 913.5Q1333.4 910.8 1600 945L1610 1545Z" fill="hsl(230.2 52% 5%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

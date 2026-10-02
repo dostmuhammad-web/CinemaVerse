@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Migration before the Vessel backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(59.9 40.2% 6%)"/><stop offset="0.5" stop-color="hsl(75.9 45.9% 13%)"/><stop offset="1" stop-color="hsl(35.1 51.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(35.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(35.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="903.6" cy="447.1" r="548.5" fill="url(#glow)"/>
+<circle cx="903.6" cy="447.1" r="109.7" fill="hsl(35.1 96% 88%)" opacity=".85"/>
+<path d="M566 0L728 0L116 900L-199 900Z" fill="hsl(35.1 96% 88%)" opacity=".04"/><path d="M1561.9 0L1723.9 0L1111.9 900L796.9 900Z" fill="hsl(35.1 96% 88%)" opacity=".04"/><path d="M413.3 0L575.3 0L-36.7 900L-351.7 900Z" fill="hsl(35.1 96% 88%)" opacity=".04"/><path d="M1265.8 0L1427.8 0L815.8 900L500.8 900Z" fill="hsl(35.1 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(244.9 45.9% 10%)"/><path d="M1.7 0L179.5 0L129.7 738L51.5 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.3"/><path d="M182.4 0L360.2 0L310.4 738L232.2 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.6"/><path d="M356.2 0L534 0L484.2 738L406 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.4"/><path d="M540.9 0L718.7 0L668.9 738L590.7 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.4"/><path d="M714.5 0L892.3 0L842.5 738L764.3 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.5"/><path d="M894 0L1071.8 0L1022 738L943.8 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.7"/><path d="M1070.5 0L1248.3 0L1198.5 738L1120.3 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.6"/><path d="M1252.5 0L1430.3 0L1380.5 738L1302.3 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.3"/><path d="M1425.4 0L1603.2 0L1553.4 738L1475.2 738Z" fill="hsl(252.9 51.7% 6%)" opacity="0.4"/><path d="M955.3 0L1435.3 774L475.3 774Z" fill="hsl(35.1 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(35.1 92% 62%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(258.9 57.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

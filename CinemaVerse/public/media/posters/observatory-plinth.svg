@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Observatory &amp; Plinth poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(55.5 51.1% 24%)"/><stop offset="0.5" stop-color="hsl(75.5 46% 62%)"/><stop offset="1" stop-color="hsl(22 51.1% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(22 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(22 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="165.7" cy="233.4" r="319.2" fill="url(#glow)"/><circle cx="165.7" cy="233.4" r="76" fill="hsl(22 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(195.2 40.9% 18%)"/><path d="M9.2 0L75.9 0L57.2 738L27.9 738Z" fill="hsl(203.2 46% 10%)" opacity="0.4"/><path d="M69.3 0L136 0L117.3 738L88 738Z" fill="hsl(203.2 46% 10%)" opacity="0.3"/><path d="M142.4 0L209.1 0L190.4 738L161.1 738Z" fill="hsl(203.2 46% 10%)" opacity="0.6"/><path d="M208.4 0L275.1 0L256.4 738L227.1 738Z" fill="hsl(203.2 46% 10%)" opacity="0.4"/><path d="M270.9 0L337.6 0L318.9 738L289.6 738Z" fill="hsl(203.2 46% 10%)" opacity="0.6"/><path d="M335.4 0L402.1 0L383.4 738L354.1 738Z" fill="hsl(203.2 46% 10%)" opacity="0.3"/><path d="M406.4 0L473.1 0L454.4 738L425.1 738Z" fill="hsl(203.2 46% 10%)" opacity="0.5"/><path d="M476.2 0L542.9 0L524.2 738L494.9 738Z" fill="hsl(203.2 46% 10%)" opacity="0.5"/><path d="M534.6 0L601.3 0L582.6 738L553.3 738Z" fill="hsl(203.2 46% 10%)" opacity="0.6"/><path d="M337.2 0L517.2 774L157.2 774Z" fill="hsl(22 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(22 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(209.2 51.1% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(22 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">OBSERVATORY &amp; PLINTH</text>
+<path d="M44 709.4h72" stroke="hsl(22 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1997  ·  98 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(22 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

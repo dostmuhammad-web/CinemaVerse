@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Threshold 3 backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(332.7 36.3% 6%)"/><stop offset="0.5" stop-color="hsl(348.7 41.5% 13%)"/><stop offset="1" stop-color="hsl(319 46.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(319 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(319 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="881.8" cy="399.3" r="510" fill="url(#glow)"/>
+<circle cx="881.8" cy="399.3" r="102" fill="hsl(319 96% 88%)" opacity=".85"/>
+<path d="M102.5 0L264.5 0L-347.5 900L-662.5 900Z" fill="hsl(319 96% 88%)" opacity=".04"/><path d="M494.8 0L656.8 0L44.8 900L-270.2 900Z" fill="hsl(319 96% 88%)" opacity=".04"/><path d="M445 0L607 0L-5 900L-320 900Z" fill="hsl(319 96% 88%)" opacity=".04"/><path d="M609.4 0L771.4 0L159.4 900L-155.6 900Z" fill="hsl(319 96% 88%)" opacity=".04"/><circle cx="829.2" cy="367.4" r="99" fill="hsl(319 96% 88%)" opacity="0.3"/><circle cx="1424.1" cy="463.8" r="158.9" fill="hsl(319 92% 62%)" opacity="0.2"/><circle cx="1538.5" cy="317.5" r="155" fill="hsl(319 96% 88%)" opacity="0.2"/><circle cx="683.1" cy="451.1" r="68.6" fill="hsl(319 92% 62%)" opacity="0.2"/><circle cx="1511.3" cy="409.6" r="48.9" fill="hsl(319 96% 88%)" opacity="0.1"/><circle cx="90.6" cy="436" r="98.8" fill="hsl(319 92% 62%)" opacity="0.3"/><circle cx="1380" cy="625" r="145.3" fill="hsl(319 96% 88%)" opacity="0.2"/><circle cx="1410.6" cy="621.2" r="172.4" fill="hsl(319 92% 62%)" opacity="0.3"/><circle cx="1265.1" cy="303.8" r="80" fill="hsl(319 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 769.3 200 777.9Q300 724 400 732.6Q500 689.2 600 697.8Q700 689.2 800 745Q900 714.6 1000 723.2Q1100 714.6 1200 724.3Q1300 715.7 1400 796Q1500 787.4 1600 828L1610 1428Z" fill="hsl(168 46.6% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

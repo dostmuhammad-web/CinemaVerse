@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Golden Overture backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(218.8 35.2% 6%)"/><stop offset="0.5" stop-color="hsl(234.8 40.3% 13%)"/><stop offset="1" stop-color="hsl(209.2 45.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(209.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(209.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="387.2" cy="483.2" r="548.5" fill="url(#glow)"/>
+<circle cx="387.2" cy="483.2" r="109.7" fill="hsl(209.2 96% 78%)" opacity=".85"/>
+<path d="M193.5 0L355.5 0L-256.5 900L-571.5 900Z" fill="hsl(209.2 96% 78%)" opacity=".04"/><path d="M165.1 0L327.1 0L-284.9 900L-599.9 900Z" fill="hsl(209.2 96% 78%)" opacity=".04"/><path d="M68 0L230 0L-382 900L-697 900Z" fill="hsl(209.2 96% 78%)" opacity=".04"/><path d="M1113.7 0L1275.7 0L663.7 900L348.7 900Z" fill="hsl(209.2 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(7.3 40.3% 10%)"/><path d="M815.3 180.4L1496.9 180.4L1633.2 900L760.8 900Z" fill="hsl(209.2 96% 78%)" opacity="0.1"/><path d="M815.3 180.4L1496.9 180.4L1708.1 900L730.8 900Z" fill="hsl(209.2 96% 78%)" opacity="0"/><path d="M815.3 180.4L1496.9 180.4L1783.1 900L700.8 900Z" fill="hsl(209.2 96% 78%)" opacity="0"/><rect x="815.3" y="144" width="681.6" height="363.5" fill="hsl(218.8 35.2% 6%)"/><rect x="815.3" y="144" width="681.6" height="363.5" fill="hsl(209.2 100% 62% / 0.4)" opacity=".5"/><path d="M815.3 144h681.6v363.5h-681.6Z" fill="none" stroke="hsl(21.3 50.3% 3%)" stroke-width="7"/><path d="M815.3 325.8h681.6M1156.1 144v363.5" stroke="hsl(21.3 50.3% 3%)" stroke-width="4"/><path d="M820.7 864q-21.6 -119.9 21.6 -148.7q24 28.8 14.4 72q-4.8 48 4.8 76.8Z" fill="hsl(21.3 50.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

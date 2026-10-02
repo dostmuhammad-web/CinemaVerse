@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Frequency in the Quiver poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(28.2 48.6% 6%)"/><stop offset="0.5" stop-color="hsl(44.2 55.5% 13%)"/><stop offset="1" stop-color="hsl(16.6 62.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(16.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(16.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 444.7L34.3 444.7L41.2 411.3L138.1 411.3L142.8 424.9L213 424.9L221 438.2L296.1 438.2L307.4 383.1L347.8 383.1L362.6 437.9L394 437.9L403.2 381.6L448.3 381.6L456.2 509.7L517.2 509.7L523.5 530L567.8 530L577.1 406L631.9 406L610 1248Z" fill="hsl(174.7 48.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(182.7 62.5% 6%)"/><path d="M578.4 689.7l-14.2 88.5M295.3 125.3l-6.5 40.4M511.8 410.9l-13 81.2M368.1 371l-6 37.5M299.6 593.3l-13.6 85M488.9 543.4l-8.5 53.2M163 261.7l-5.7 35.7M18.1 623.3l-4.5 28.3M168 363.2l-8.1 50.6M518.5 515.1l-6.4 40.2M9.1 739.4l-9.9 62.1M411.5 645.2l-11.1 69.1M395.3 793.4l-8.9 55.8M404.3 407.3l-7.5 47.2M252.6 327.9l-11.3 70.6M321.6 769.2l-6.1 38.4M448.7 628.4l-13.3 83M502.5 401.8l-4.7 29.7M123.7 95.7l-10.3 64.2M574.9 572.8l-4.5 28.2M118.6 481.8l-11.8 73.6M70 222.9l-7.1 44.2M542.3 173.5l-4.7 29.4M121.3 149.8l-12.2 76.2M580.5 243.2l-11 68.6M378.6 706.3l-11.2 69.9M347.1 447.2l-4.4 27.6M417.6 657l-6.4 39.8M143.6 637.6l-7.2 45.2M492 498.3l-11.4 71.3M347.6 14.3l-6.6 41.1M190.2 705.1l-6.8 42.7M287.7 19.3l-11.4 71M450.2 155.4l-4.6 28.9M210.2 255.5l-9.6 60.3M59.5 674.1l-11.1 69.7M69.6 780.8l-7.8 48.7M335.7 579.5l-13 81.5M376.9 462.6l-10.2 63.9M253.5 205.2l-7.7 48.4M127.4 788.3l-14.3 89.6M221.6 187.2l-11.1 69.2M15.4 645.2l-12 75.2M568.6 299.3l-12.3 77.1M299.2 104.6l-7.7 48.2M66.1 721.4l-7.6 47.3" fill="none" stroke="hsl(16.6 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="413.4" cy="837" rx="132" ry="27" fill="hsl(16.6 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(16.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FREQUENCY IN THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUIVER</text>
+<path d="M44 726.8h72" stroke="hsl(16.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  122 MIN  ·  WAR</text>
+<text x="556" y="750.8" fill="hsl(16.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Requiem before Kernel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(25.5 41.5% 6%)"/><stop offset="0.5" stop-color="hsl(41.5 47.4% 13%)"/><stop offset="1" stop-color="hsl(2.5 53.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(2.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(2.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 439.1 85.7 455.3Q128.6 316.6 171.4 332.8Q214.3 268.8 257.1 285Q300 268.8 342.9 289.6Q385.8 273.4 428.6 348Q471.5 331.8 514.3 459.6Q557.2 443.4 600 558L610 1158Z" fill="hsl(212.8 41.5% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 544.1 66.7 562.5Q100 509.3 133.3 527.7Q166.7 435.7 200 454.1Q233.4 417.1 266.7 435.5Q300 417.1 333.3 501.7Q366.7 431.1 400 449.5Q433.4 431.1 466.7 516.3Q500 497.9 533.3 584Q566.7 565.6 600 666L610 1266Z" fill="hsl(212.8 47.4% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 743.2 54.5 757.2Q81.8 684.1 109.1 698.1Q136.4 684.1 163.6 702.6Q190.9 590.5 218.2 604.5Q245.5 589.1 272.7 603.1Q300 589.1 327.3 616.2Q354.6 602.2 381.8 630.7Q409.1 616.7 436.4 685.7Q463.7 671.7 490.9 692.1Q518.2 678.1 545.5 761.4Q572.8 747.4 600 792L610 1392Z" fill="hsl(220.8 53.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(2.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">REQUIEM BEFORE KERNEL</text>
+<path d="M44 709.4h72" stroke="hsl(2.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2014  ·  143 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(2.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

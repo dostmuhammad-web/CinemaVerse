@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Parliament &amp; Requiem backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.2 50% 6%)"/><stop offset="0.5" stop-color="hsl(212.2 57.1% 13%)"/><stop offset="1" stop-color="hsl(178.5 64.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="592.6" cy="369.4" r="338.5" fill="url(#glow)"/>
+<circle cx="592.6" cy="369.4" r="67.7" fill="hsl(178.5 96% 78%)" opacity=".85"/>
+<path d="M915.7 0L1077.7 0L465.7 900L150.7 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M612.3 0L774.3 0L162.3 900L-152.7 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M1134.3 0L1296.3 0L684.3 900L369.3 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M197.1 0L359.1 0L-252.9 900L-567.9 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(35.9 57.1% 10%)"/><path d="M355.5 180.9L939.2 180.9L1056 900L308.8 900Z" fill="hsl(178.5 96% 78%)" opacity="0.1"/><path d="M355.5 180.9L939.2 180.9L1120.2 900L283.1 900Z" fill="hsl(178.5 96% 78%)" opacity="0"/><path d="M355.5 180.9L939.2 180.9L1184.4 900L257.4 900Z" fill="hsl(178.5 96% 78%)" opacity="0"/><rect x="355.5" y="144" width="583.7" height="369.3" fill="hsl(196.2 50% 6%)"/><rect x="355.5" y="144" width="583.7" height="369.3" fill="hsl(178.5 100% 62% / 0.4)" opacity=".5"/><path d="M355.5 144h583.7v369.3h-583.7Z" fill="none" stroke="hsl(49.9 71.4% 3%)" stroke-width="7"/><path d="M355.5 328.7h583.7M647.4 144v369.3" stroke="hsl(49.9 71.4% 3%)" stroke-width="4"/><path d="M541 864q-21 -116.9 21 -145q23.4 28.1 14 70.2q-4.7 46.8 4.7 74.8Z" fill="hsl(49.9 71.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Plinth 2 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(181.1 62.8% 24%)"/><stop offset="0.5" stop-color="hsl(201.1 56.5% 42%)"/><stop offset="1" stop-color="hsl(144.8 62.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(144.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(144.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="161.9" cy="354.5" r="468.7" fill="url(#glow)"/><circle cx="161.9" cy="354.5" r="111.6" fill="hsl(144.8 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 446.5 85.7 462.7Q128.6 423.3 171.4 439.5Q214.3 349.3 257.1 365.5Q300 271.6 342.9 287.8Q385.8 271.6 428.6 363.5Q471.5 347.3 514.3 476.4Q557.2 460.2 600 558L610 1158Z" fill="hsl(12.3 44% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 582 66.7 600.4Q100 496.7 133.3 515.1Q166.7 496.7 200 546.9Q233.4 487.2 266.7 505.6Q300 367.2 333.3 385.6Q366.7 367.2 400 467.3Q433.4 448.9 466.7 490.7Q500 472.3 533.3 583.4Q566.7 565 600 666L610 1266Z" fill="hsl(12.3 50.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 742.3 54.5 756.3Q81.8 713.3 109.1 727.3Q136.4 627.3 163.6 641.3Q190.9 566 218.2 580Q245.5 566 272.7 609.4Q300 595.4 327.3 639.5Q354.6 580.2 381.8 594.2Q409.1 580.2 436.4 708.3Q463.7 644.6 490.9 658.6Q518.2 644.6 545.5 742.4Q572.8 728.4 600 792L610 1392Z" fill="hsl(20.3 56.5% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(144.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PLINTH 2</text>
+<path d="M44 709.4h72" stroke="hsl(144.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2008  ·  155 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(144.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

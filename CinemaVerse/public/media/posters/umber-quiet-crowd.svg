@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Umber: Quiet Crowd poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(221.2 36.7% 6%)"/><stop offset="0.5" stop-color="hsl(237.2 42% 13%)"/><stop offset="1" stop-color="hsl(191.1 47.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(191.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(191.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 520.3L33.7 520.3L41.6 539.8L139.3 539.8L151.9 504.8L243.8 504.8L255.4 427.9L324.3 427.9L327.3 461.3L371.1 461.3L381 509.8L463.6 509.8L472.7 371.9L546.9 371.9L551.7 451.7L610 451.7L610 1248Z" fill="hsl(67.5 36.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(75.5 47.2% 6%)"/><path d="M425.2 221.5l-8.1 50.5M395.8 590.7l-11.7 73.4M126.9 416.6l-6.6 41.3M405 79l-7.4 46.2M185.6 794.8l-12.7 79.4M582 51.1l-10.8 67.6M572.3 796.3l-9.9 62.1M65 639.9l-4.5 28M196.3 386.3l-14.4 89.9M186.8 682.1l-8.6 53.8M587.1 424.4l-13.2 82.6M571.2 294.9l-9.5 59.1M262.1 422.7l-7.5 47.2M370.9 193.1l-4.6 28.6M485.8 360.7l-12 75.1M193 21.8l-9.2 57.3M426 192.2l-13.3 82.9M220.6 795l-8.1 50.6M65.7 377.1l-6.8 42.5M253.6 704.8l-5.7 35.8M98.7 376l-10.7 67.2M363.3 24.3l-4.8 29.8M582.4 147.3l-9.4 59M378.4 803.6l-5.2 32.5M443.8 636.3l-14.2 88.5M135.5 132.7l-12.1 75.4M373.9 141.1l-7.8 48.5M409.3 203.6l-13.6 85.2M186.8 28l-7.7 48.2M479.1 184.1l-10.8 67.3M134.8 349.2l-6 37.4M580.8 457.7l-6.8 42.2M102.4 373.7l-12.5 78M362 661.8l-9.5 59.2M288.4 502.2l-14.3 89.6M22.8 372.9l-4.9 30.5M121.7 648.2l-5.4 34M567.4 698.2l-6.5 40.5M146.3 510.6l-14.4 89.9M579.4 559.9l-9.4 58.9M13.5 151.9l-5.9 36.8M376.3 485l-12.6 79M517.7 432l-11.3 70.5M257.3 656.7l-8 49.7M40.5 302.1l-10.9 68.1M70.2 347.5l-11.2 70.3" fill="none" stroke="hsl(191.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="218.5" cy="837" rx="132" ry="27" fill="hsl(191.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(191.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">UMBER: QUIET CROWD</text>
+<path d="M44 709.4h72" stroke="hsl(191.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  101 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(191.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

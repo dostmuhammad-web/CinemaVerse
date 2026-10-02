@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Golden Undertow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(238.3 41.5% 6%)"/><stop offset="0.5" stop-color="hsl(254.3 47.4% 13%)"/><stop offset="1" stop-color="hsl(231.3 53.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(231.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(231.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M10.3 828L-132.4 828L10.3 249.1L153 828ZM40.6 828L-20.5 828L40.6 546.6L101.7 828ZM84.2 828L-59.2 828L84.2 257.5L227.6 828ZM118 828L-13.8 828L118 198L249.8 828ZM155 828L80.3 828L155 485.2L229.7 828ZM183.8 828L76.9 828L183.8 413.2L290.7 828ZM231.1 828L138.9 828L231.1 371.5L323.3 828ZM262.3 828L163.3 828L262.3 237L361.3 828ZM307.5 828L211.7 828L307.5 341.8L403.3 828ZM340.5 828L279.1 828L340.5 511.2L401.9 828ZM363.9 828L249.5 828L363.9 250.7L478.3 828ZM401.9 828L260.9 828L401.9 246.4L542.9 828ZM455.9 828L378.7 828L455.9 421.6L533.1 828ZM477.2 828L393.5 828L477.2 492.4L560.9 828ZM529.6 828L410 828L529.6 296L649.2 828ZM555.1 828L457.1 828L555.1 448.6L653.1 828Z" fill="hsl(23.9 47.4% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(37.9 59.2% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(231.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE GOLDEN UNDERTOW</text>
+<path d="M44 709.4h72" stroke="hsl(231.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  86 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(231.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

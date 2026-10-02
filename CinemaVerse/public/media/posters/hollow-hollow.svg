@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hollow Hollow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(275.7 34.1% 6%)"/><stop offset="0.5" stop-color="hsl(291.7 39% 13%)"/><stop offset="1" stop-color="hsl(248.1 43.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(248.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(248.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M3.1 828L-77.3 828L3.1 362L83.5 828ZM24.1 828L-80.8 828L24.1 379L129 828ZM68.2 828L-2.8 828L68.2 528L139.2 828ZM100.7 828L-1.7 828L100.7 309.7L203.1 828ZM146.3 828L76.9 828L146.3 470.6L215.7 828ZM191.4 828L65.2 828L191.4 233L317.6 828ZM212.9 828L145.5 828L212.9 442.1L280.3 828ZM253.6 828L197.8 828L253.6 540.9L309.4 828ZM295.8 828L164.5 828L295.8 217.3L427.1 828ZM349 828L205.4 828L349 229.1L492.6 828ZM372 828L310.8 828L372 476.6L433.2 828ZM408.7 828L355.8 828L408.7 507.8L461.6 828ZM451.3 828L351.9 828L451.3 441.6L550.7 828ZM494.5 828L416.8 828L494.5 499.9L572.2 828ZM522.1 828L439.9 828L522.1 362.8L604.3 828ZM569.7 828L468.9 828L569.7 230.6L670.5 828Z" fill="hsl(120.5 39% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(134.5 48.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(248.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HOLLOW HOLLOW</text>
+<path d="M44 709.4h72" stroke="hsl(248.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1988  ·  104 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(248.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

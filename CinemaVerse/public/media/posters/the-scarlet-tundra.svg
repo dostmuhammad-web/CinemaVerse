@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Scarlet Tundra poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(268.5 52% 24%)"/><stop offset="0.5" stop-color="hsl(288.5 46.8% 42%)"/><stop offset="1" stop-color="hsl(249.7 52% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(249.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(249.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="415.6" cy="243.1" r="270.5" fill="url(#glow)"/><circle cx="415.6" cy="243.1" r="64.4" fill="hsl(249.7 96% 78%)" opacity=".92"/>
+<path d="M0.2 828L-81.9 828L0.2 450.3L82.3 828ZM50.7 828L-7.7 828L50.7 481.3L109.1 828ZM85.6 828L-14.2 828L85.6 383L185.4 828ZM118.1 828L23.1 828L118.1 245.1L213.1 828ZM141.3 828L78.6 828L141.3 479.1L204 828ZM174.8 828L123.2 828L174.8 536.5L226.4 828ZM235.7 828L128.8 828L235.7 288.9L342.6 828ZM249.3 828L143.5 828L249.3 360.4L355.1 828ZM287.8 828L151.9 828L287.8 208.2L423.7 828ZM349 828L246 828L349 269.9L452 828ZM364.9 828L297 828L364.9 494.1L432.8 828ZM400.9 828L282.8 828L400.9 226.7L519 828ZM438.5 828L334 828L438.5 385.9L543 828ZM478.9 828L364.8 828L478.9 384.1L593 828ZM535.5 828L459.6 828L535.5 386.7L611.4 828ZM566.1 828L500.7 828L566.1 505.9L631.5 828Z" fill="hsl(60.3 41.6% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(74.3 52% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(249.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SCARLET TUNDRA</text>
+<path d="M44 709.4h72" stroke="hsl(249.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1998  ·  120 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(249.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

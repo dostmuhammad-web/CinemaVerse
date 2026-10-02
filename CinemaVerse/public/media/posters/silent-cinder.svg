@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Silent Cinder poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(201.7 65.9% 24%)"/><stop offset="0.5" stop-color="hsl(221.7 59.3% 42%)"/><stop offset="1" stop-color="hsl(163.2 65.9% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(163.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(163.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="149.5" cy="202" r="298.6" fill="url(#glow)"/><circle cx="149.5" cy="202" r="71.1" fill="hsl(163.2 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 465.6 85.7 481.8Q128.6 313.4 171.4 329.6Q214.3 313.4 257.1 337.7Q300 314 342.9 330.2Q385.8 314 428.6 357.4Q471.5 341.2 514.3 507.2Q557.2 491 600 558L610 1158Z" fill="hsl(29.8 46.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 548.9 66.7 567.3Q100 475.3 133.3 493.7Q166.7 467.8 200 486.2Q233.4 319.2 266.7 337.6Q300 319.2 333.3 439.4Q366.7 421 400 479.1Q433.4 460.7 466.7 520.7Q500 502.3 533.3 597.8Q566.7 579.4 600 666L610 1266Z" fill="hsl(29.8 52.7% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 730.3 54.5 744.3Q81.8 698.7 109.1 712.7Q136.4 622 163.6 636Q190.9 598.2 218.2 612.2Q245.5 565.7 272.7 579.7Q300 565.7 327.3 582.2Q354.6 568.2 381.8 592.9Q409.1 578.9 436.4 673.7Q463.7 646.3 490.9 660.3Q518.2 646.3 545.5 746.1Q572.8 732.1 600 792L610 1392Z" fill="hsl(37.8 59.3% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(163.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SILENT CINDER</text>
+<path d="M44 709.4h72" stroke="hsl(163.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  128 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(163.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

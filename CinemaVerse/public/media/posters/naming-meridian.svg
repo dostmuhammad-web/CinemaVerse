@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Naming Meridian poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(8.9 62.1% 24%)"/><stop offset="0.5" stop-color="hsl(28.9 55.9% 42%)"/><stop offset="1" stop-color="hsl(327.5 62.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(327.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(327.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="145.8" cy="244" r="280.6" fill="url(#glow)"/><circle cx="145.8" cy="244" r="66.8" fill="hsl(327.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 485.8L76.1 485.8L79.9 526.6L163.5 526.6L178.3 462.1L238 462.1L249.2 409.1L282.3 409.1L296.1 499.6L367.7 499.6L372.7 472.8L421.5 472.8L433.7 525L517.7 525L524.2 429.2L559.4 429.2L569.8 556L651.4 556L610 1248Z" fill="hsl(174.9 43.5% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(182.9 55.9% 10%)"/><path d="M18.3 776.7l-6.7 41.9M579.1 313.1l-7.4 46.2M188.4 105.4l-6.5 40.7M69.4 436.7l-9 56.5M134.7 38.8l-10.8 67.7M408.2 78.4l-6.2 39M69.6 439.6l-12.2 76M476.6 133.3l-11.9 74.7M150.9 397.2l-5.1 31.9M98.8 105.6l-10.6 66.1M487.7 537l-5.1 31.9M594.4 522.6l-7.6 47.3M175.7 666l-7.6 47.8M543.9 572.9l-5.5 34.2M142.4 394.7l-11.6 72.4M36.2 649.9l-8.8 54.9M305.3 419.6l-14.2 88.5M89.6 60.1l-8 50.3M143.7 548.8l-9.9 61.8M206.8 687.3l-6.3 39.6M306.7 386.5l-10.7 67.1M190.4 259.1l-8.7 54.5M366.5 577.3l-13.7 85.8M491.5 290.4l-5.2 32.6M501.1 226.8l-12.9 80.4M226.2 10.7l-5.7 35.3M258.6 265.5l-13.9 86.6M245.7 612.4l-8.3 52M199.4 478.2l-4.6 28.7M249.5 357.8l-13.8 86.2M195.1 696.5l-12.7 79.5M175.3 541.1l-13.8 86.1M122.7 394.6l-13.5 84.3M115 557.1l-10.1 63M210.8 645.5l-6.5 40.4M257.2 12.5l-6.9 43.3M187.3 804.7l-12.9 80.9M377.9 569.7l-8.7 54.6M546.1 321.9l-4.6 28.6M263.5 524.9l-8.7 54.4M312 627.1l-14.1 88.3M168.9 145.8l-10.7 66.8M469.9 676.6l-11.2 70.2M373.5 657.1l-11.1 69.3M309.7 185.6l-12.7 79.1M176.2 715.5l-7.2 45.1" fill="none" stroke="hsl(327.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="304.9" cy="837" rx="132" ry="27" fill="hsl(327.5 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(327.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NAMING MERIDIAN</text>
+<path d="M44 709.4h72" stroke="hsl(327.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  124 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(327.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Foundry &amp; Furrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(208.2 38.9% 6%)"/><stop offset="0.5" stop-color="hsl(224.2 44.5% 13%)"/><stop offset="1" stop-color="hsl(200 50.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(200 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(200 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 468.7 85.7 484.9Q128.6 413.6 171.4 429.8Q214.3 387.4 257.1 403.6Q300 321 342.9 337.2Q385.8 321 428.6 428Q471.5 411.8 514.3 469.1Q557.2 452.9 600 558L610 1158Z" fill="hsl(49.8 38.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 575 66.7 593.4Q100 495.4 133.3 513.8Q166.7 470.2 200 488.6Q233.4 350.5 266.7 368.9Q300 350.5 333.3 530.9Q366.7 453 400 471.4Q433.4 453 466.7 566.1Q500 547.7 533.3 589.7Q566.7 571.3 600 666L610 1266Z" fill="hsl(49.8 44.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 703.9 54.5 717.9Q81.8 690.6 109.1 704.6Q136.4 675.2 163.6 689.2Q190.9 648.5 218.2 662.5Q245.5 597.7 272.7 611.7Q300 538 327.3 552Q354.6 538 381.8 617.8Q409.1 603.8 436.4 649.2Q463.7 635.2 490.9 731.7Q518.2 717.7 545.5 764.4Q572.8 750.4 600 792L610 1392Z" fill="hsl(57.8 50.1% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(200 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FOUNDRY &amp; FURROW</text>
+<path d="M44 709.4h72" stroke="hsl(200 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1993  ·  106 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(200 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

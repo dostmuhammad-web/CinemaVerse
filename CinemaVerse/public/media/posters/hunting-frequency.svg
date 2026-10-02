@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hunting Frequency poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(356.4 47.4% 6%)"/><stop offset="0.5" stop-color="hsl(12.4 54.1% 13%)"/><stop offset="1" stop-color="hsl(328.2 60.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(328.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(328.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10.8 828L-119.6 828L-10.8 263.5L98 828ZM37.2 828L-35.7 828L37.2 477.5L110.1 828ZM80.7 828L-8.3 828L80.7 483.2L169.7 828ZM117.3 828L38.8 828L117.3 424.9L195.8 828ZM149.8 828L76.4 828L149.8 393.1L223.2 828ZM184.2 828L61.5 828L184.2 226.7L306.9 828ZM220.6 828L146.3 828L220.6 490.6L294.9 828ZM271.5 828L134.1 828L271.5 288.6L408.9 828ZM290.9 828L206.3 828L290.9 449.1L375.5 828ZM334.4 828L196.5 828L334.4 209.8L472.3 828ZM388.4 828L284.6 828L388.4 420.7L492.2 828ZM405.4 828L347.4 828L405.4 511.3L463.4 828ZM444 828L359.3 828L444 350.4L528.7 828ZM500.6 828L369.8 828L500.6 259.7L631.4 828ZM528 828L467.4 828L528 492.9L588.6 828ZM574.3 828L476.5 828L574.3 383.7L672.1 828Z" fill="hsl(181.9 54.1% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(195.9 67.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(328.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HUNTING FREQUENCY</text>
+<path d="M44 709.4h72" stroke="hsl(328.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  84 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(328.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

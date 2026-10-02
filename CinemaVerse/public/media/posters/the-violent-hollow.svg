@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Violent Hollow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(188.5 33.6% 6%)"/><stop offset="0.5" stop-color="hsl(204.5 38.4% 13%)"/><stop offset="1" stop-color="hsl(170.4 43.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(170.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(170.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 447.5 85.7 463.7Q128.6 425.3 171.4 441.5Q214.3 320.6 257.1 336.8Q300 278 342.9 294.2Q385.8 278 428.6 351.7Q471.5 335.5 514.3 492.3Q557.2 476.1 600 558L610 1158Z" fill="hsl(351 33.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 546.4 66.7 564.8Q100 511 133.3 529.4Q166.7 369.9 200 388.3Q233.4 369.9 266.7 455.6Q300 336.2 333.3 354.6Q366.7 336.2 400 517.4Q433.4 499 466.7 527Q500 508.6 533.3 628.6Q566.7 610.2 600 666L610 1266Z" fill="hsl(351 38.4% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 727.6 54.5 741.6Q81.8 693.8 109.1 707.8Q136.4 671.6 163.6 685.6Q190.9 670.1 218.2 684.1Q245.5 560.8 272.7 574.8Q300 560.8 327.3 629Q354.6 591.7 381.8 605.7Q409.1 591.7 436.4 707.8Q463.7 693.8 490.9 720.3Q518.2 706.3 545.5 745.2Q572.8 731.2 600 792L610 1392Z" fill="hsl(359 43.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(170.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE VIOLENT HOLLOW</text>
+<path d="M44 709.4h72" stroke="hsl(170.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  130 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="733.4" fill="hsl(170.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

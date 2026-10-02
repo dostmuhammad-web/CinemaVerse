@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Marking Signal poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(214 58.8% 24%)"/><stop offset="0.5" stop-color="hsl(234 52.9% 42%)"/><stop offset="1" stop-color="hsl(179.5 58.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(179.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(179.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="316.2" cy="291.3" r="475.9" fill="url(#glow)"/><circle cx="316.2" cy="291.3" r="113.3" fill="hsl(179.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 440.3 85.7 456.5Q128.6 381 171.4 397.2Q214.3 309.8 257.1 326Q300 309.8 342.9 384.6Q385.8 368.4 428.6 439.4Q471.5 423.2 514.3 467.2Q557.2 451 600 558L610 1158Z" fill="hsl(55.6 41.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 574.9 66.7 593.3Q100 441.5 133.3 459.9Q166.7 441.5 200 491.5Q233.4 423.6 266.7 442Q300 349.1 333.3 367.5Q366.7 349.1 400 429.5Q433.4 411.1 466.7 558.8Q500 540.4 533.3 601.4Q566.7 583 600 666L610 1266Z" fill="hsl(55.6 47% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 745.3 54.5 759.3Q81.8 675.8 109.1 689.8Q136.4 675.8 163.6 699.1Q190.9 672 218.2 686Q245.5 670.5 272.7 684.5Q300 532.8 327.3 546.8Q354.6 532.8 381.8 572.2Q409.1 558.2 436.4 631.3Q463.7 617.3 490.9 738.6Q518.2 724.6 545.5 768.4Q572.8 754.4 600 792L610 1392Z" fill="hsl(63.6 52.9% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(179.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MARKING SIGNAL</text>
+<path d="M44 709.4h72" stroke="hsl(179.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2014  ·  135 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(179.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

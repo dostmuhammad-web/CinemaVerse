@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Borrowed Kiln backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(350.6 39.7% 6%)"/><stop offset="0.5" stop-color="hsl(6.6 45.4% 13%)"/><stop offset="1" stop-color="hsl(321.5 51.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(321.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(321.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="957.8" cy="461.2" r="753" fill="url(#glow)"/>
+<circle cx="957.8" cy="461.2" r="150.6" fill="hsl(321.5 96% 78%)" opacity=".85"/>
+<path d="M934.1 0L1096.1 0L484.1 900L169.1 900Z" fill="hsl(321.5 96% 78%)" opacity=".04"/><path d="M89.5 0L251.5 0L-360.5 900L-675.5 900Z" fill="hsl(321.5 96% 78%)" opacity=".04"/><path d="M422.4 0L584.4 0L-27.6 900L-342.6 900Z" fill="hsl(321.5 96% 78%)" opacity=".04"/><path d="M548.1 0L710.1 0L98.1 900L-216.9 900Z" fill="hsl(321.5 96% 78%)" opacity=".04"/><path d="M-10 1230L-10 630L0 630Q133.4 568.4 266.7 577Q400 524.4 533.3 533Q666.7 524.4 800 557.2Q933.4 531.5 1066.7 540.1Q1200 531.5 1333.3 551.9Q1466.7 543.3 1600 630L1610 1230Z" fill="hsl(173.4 39.7% 15%)" opacity=".55"/><ellipse cx="450.4" cy="522" rx="614.6" ry="64.3" fill="hsl(181.4 51.1% 6%)" opacity="0.7"/><ellipse cx="1007.9" cy="589.5" rx="665.1" ry="60.5" fill="hsl(181.4 51.1% 6%)" opacity="0.7"/><ellipse cx="1118.2" cy="657" rx="803.4" ry="49.8" fill="hsl(181.4 51.1% 6%)" opacity="0.7"/><ellipse cx="819.5" cy="724.5" rx="727.2" ry="38" fill="hsl(181.4 51.1% 6%)" opacity="0.6"/><ellipse cx="1147.9" cy="792" rx="832" ry="48.9" fill="hsl(181.4 51.1% 6%)" opacity="0.6"/><ellipse cx="725.1" cy="859.5" rx="787" ry="42.5" fill="hsl(181.4 51.1% 6%)" opacity="0.5"/><path d="M522.6 855L522.6 706.5M468.6 733.5L522.6 652.5L576.6 733.5M479.4 801L522.6 733.5L568.5 801" fill="none" stroke="hsl(187.4 56.8% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="1620" height="90" fill="hsl(187.4 56.8% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

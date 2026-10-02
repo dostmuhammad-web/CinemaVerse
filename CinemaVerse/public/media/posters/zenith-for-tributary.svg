@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Zenith for Tributary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(17.5 44.1% 6%)"/><stop offset="0.5" stop-color="hsl(33.5 50.4% 13%)"/><stop offset="1" stop-color="hsl(345.2 56.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(345.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(345.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 435.9 85.7 452.1Q128.6 435.9 171.4 457Q214.3 304.4 257.1 320.6Q300 304.4 342.9 432Q385.8 343.4 428.6 359.6Q471.5 343.4 514.3 431.1Q557.2 414.9 600 558L610 1158Z" fill="hsl(204.6 44.1% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 595.4 66.7 613.8Q100 453.7 133.3 472.1Q166.7 453.7 200 539.6Q233.4 404 266.7 422.4Q300 387.7 333.3 406.1Q366.7 387.7 400 528Q433.4 509.3 466.7 527.7Q500 509.3 533.3 626.6Q566.7 608.2 600 666L610 1266Z" fill="hsl(204.6 50.4% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 748.7 54.5 762.7Q81.8 669 109.1 683Q136.4 660.4 163.6 674.4Q190.9 586.9 218.2 600.9Q245.5 586.9 272.7 617.6Q300 600.4 327.3 614.4Q354.6 600.4 381.8 626.3Q409.1 612.3 436.4 644.3Q463.7 630.3 490.9 725.4Q518.2 711.4 545.5 752.5Q572.8 738.5 600 792L610 1392Z" fill="hsl(212.6 56.7% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(345.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ZENITH FOR TRIBUTARY</text>
+<path d="M44 709.4h72" stroke="hsl(345.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  126 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(345.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Trellis at the Carousel backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(199.7 43.9% 6%)"/><stop offset="0.5" stop-color="hsl(215.7 50.2% 13%)"/><stop offset="1" stop-color="hsl(169.4 56.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(169.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(169.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1012.1" cy="296.9" r="366" fill="url(#glow)"/>
+<circle cx="1012.1" cy="296.9" r="73.2" fill="hsl(169.4 96% 78%)" opacity=".85"/>
+<path d="M155.4 0L317.4 0L-294.6 900L-609.6 900Z" fill="hsl(169.4 96% 78%)" opacity=".04"/><path d="M1385.7 0L1547.7 0L935.7 900L620.7 900Z" fill="hsl(169.4 96% 78%)" opacity=".04"/><path d="M593.8 0L755.8 0L143.8 900L-171.2 900Z" fill="hsl(169.4 96% 78%)" opacity=".04"/><path d="M1320.1 0L1482.1 0L870.1 900L555.1 900Z" fill="hsl(169.4 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(20.3 50.2% 10%)"/><path d="M567.1 180.9L1200.8 180.9L1327.6 900L516.4 900Z" fill="hsl(169.4 96% 78%)" opacity="0.1"/><path d="M567.1 180.9L1200.8 180.9L1397.3 900L488.5 900Z" fill="hsl(169.4 96% 78%)" opacity="0"/><path d="M567.1 180.9L1200.8 180.9L1467 900L460.6 900Z" fill="hsl(169.4 96% 78%)" opacity="0"/><rect x="567.1" y="144" width="633.7" height="368.8" fill="hsl(199.7 43.9% 6%)"/><rect x="567.1" y="144" width="633.7" height="368.8" fill="hsl(169.4 100% 62% / 0.4)" opacity=".5"/><path d="M567.1 144h633.7v368.8h-633.7Z" fill="none" stroke="hsl(34.3 62.7% 3%)" stroke-width="7"/><path d="M567.1 328.4h633.7M884 144v368.8" stroke="hsl(34.3 62.7% 3%)" stroke-width="4"/><path d="M737.3 864q-20 -111.3 20 -138q22.3 26.7 13.4 66.8q-4.5 44.5 4.5 71.2Z" fill="hsl(34.3 62.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

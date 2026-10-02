@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Wander: New Year poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(63.9 27.7% 6%)"/><stop offset="0.5" stop-color="hsl(79.9 31.6% 13%)"/><stop offset="1" stop-color="hsl(25 35.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(25 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(25 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(209.9 31.6% 10%)"/><path d="M0.1 0L66.8 0L48.1 738L18.8 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.3"/><path d="M72.6 0L139.3 0L120.6 738L91.3 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.5"/><path d="M137.5 0L204.2 0L185.5 738L156.2 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.4"/><path d="M204.5 0L271.2 0L252.5 738L223.2 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.3"/><path d="M272.3 0L339 0L320.3 738L291 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.4"/><path d="M335.3 0L402 0L383.3 738L354 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.7"/><path d="M409.6 0L476.3 0L457.6 738L428.3 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.7"/><path d="M467.5 0L534.2 0L515.5 738L486.2 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.5"/><path d="M539.4 0L606.1 0L587.4 738L558.1 738Z" fill="hsl(217.9 35.6% 6%)" opacity="0.6"/><path d="M321.6 0L501.6 774L141.6 774Z" fill="hsl(25 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(25 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(223.9 39.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(25 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WANDER: NEW YEAR</text>
+<path d="M44 709.4h72" stroke="hsl(25 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1969  ·  112 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(25 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

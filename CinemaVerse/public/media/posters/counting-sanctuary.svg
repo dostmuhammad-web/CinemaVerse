@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Counting Sanctuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(357.7 35.3% 6%)"/><stop offset="0.5" stop-color="hsl(13.7 40.3% 13%)"/><stop offset="1" stop-color="hsl(321.8 45.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(321.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(321.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M13.6 828L-64.7 828L13.6 378.3L91.9 828ZM31.6 828L-79.5 828L31.6 302.8L142.7 828ZM62.8 828L-2 828L62.8 477.3L127.6 828ZM122.3 828L38.7 828L122.3 341.1L205.9 828ZM155.9 828L73.3 828L155.9 506.3L238.5 828ZM186.7 828L57.7 828L186.7 210.6L315.7 828ZM225.2 828L132.4 828L225.2 419.8L318 828ZM269.8 828L200.7 828L269.8 538.2L338.9 828ZM309.3 828L236.5 828L309.3 425.4L382.1 828ZM337.7 828L218.2 828L337.7 260.9L457.2 828ZM363.2 828L239.3 828L363.2 200.1L487.1 828ZM402.4 828L277.7 828L402.4 306.3L527.1 828ZM447.2 828L378.2 828L447.2 400.6L516.2 828ZM480.6 828L401.5 828L480.6 352.7L559.7 828ZM516.4 828L453.4 828L516.4 530.6L579.4 828ZM571.7 828L488.1 828L571.7 319.9L655.3 828Z" fill="hsl(149.5 40.3% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(163.5 50.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(321.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">COUNTING SANCTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(321.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1985  ·  90 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(321.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

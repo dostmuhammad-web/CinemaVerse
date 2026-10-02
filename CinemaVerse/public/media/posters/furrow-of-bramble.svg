@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Furrow of Bramble poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(12.5 40.8% 6%)"/><stop offset="0.5" stop-color="hsl(28.5 46.7% 13%)"/><stop offset="1" stop-color="hsl(4.8 52.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(4.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(4.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 487 85.7 503.2Q128.6 374 171.4 390.2Q214.3 374 257.1 393Q300 307.5 342.9 323.7Q385.8 307.5 428.6 444Q471.5 427.8 514.3 458.4Q557.2 442.2 600 558L610 1158Z" fill="hsl(197.5 40.8% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 582.3 66.7 600.7Q100 450.6 133.3 469Q166.7 385.1 200 403.5Q233.4 385.1 266.7 406.3Q300 358.3 333.3 376.7Q366.7 358.3 400 483.7Q433.4 465.3 466.7 579.8Q500 561.4 533.3 592.3Q566.7 573.9 600 666L610 1266Z" fill="hsl(197.5 46.7% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 751.5 54.5 765.5Q81.8 655.8 109.1 669.8Q136.4 601.6 163.6 615.6Q190.9 581 218.2 595Q245.5 581 272.7 660Q300 612.3 327.3 626.3Q354.6 577.1 381.8 591.1Q409.1 577.1 436.4 607.9Q463.7 593.9 490.9 712Q518.2 698 545.5 737.4Q572.8 723.4 600 792L610 1392Z" fill="hsl(205.5 52.5% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(4.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FURROW OF BRAMBLE</text>
+<path d="M44 709.4h72" stroke="hsl(4.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2013  ·  130 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(4.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

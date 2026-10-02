@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Summit at Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(37.2 63.1% 24%)"/><stop offset="0.5" stop-color="hsl(57.2 56.8% 42%)"/><stop offset="1" stop-color="hsl(356.9 63.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(356.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(356.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="387.4" cy="224.6" r="318.8" fill="url(#glow)"/><circle cx="387.4" cy="224.6" r="75.9" fill="hsl(356.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 453.9 85.7 470.1Q128.6 354.5 171.4 370.7Q214.3 354.5 257.1 405.3Q300 266.5 342.9 282.7Q385.8 266.5 428.6 374.7Q471.5 358.5 514.3 448.2Q557.2 432 600 558L610 1158Z" fill="hsl(209 44.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 535.5 66.7 553.9Q100 481 133.3 499.4Q166.7 463.7 200 482.1Q233.4 463.7 266.7 505.7Q300 415.3 333.3 433.7Q366.7 415.3 400 458.8Q433.4 440.4 466.7 526.1Q500 507.7 533.3 594.3Q566.7 575.9 600 666L610 1266Z" fill="hsl(209 50.5% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 761 54.5 775Q81.8 658.7 109.1 672.7Q136.4 658.7 163.6 679.6Q190.9 630.5 218.2 644.5Q245.5 550 272.7 564Q300 550 327.3 661.4Q354.6 584.6 381.8 598.6Q409.1 584.6 436.4 680.8Q463.7 666.8 490.9 718.1Q518.2 704.1 545.5 736.2Q572.8 722.2 600 792L610 1392Z" fill="hsl(217 56.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(356.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SUMMIT AT QUARRY</text>
+<path d="M44 709.4h72" stroke="hsl(356.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2004  ·  139 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(356.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

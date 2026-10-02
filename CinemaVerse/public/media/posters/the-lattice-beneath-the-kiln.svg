@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Lattice beneath the Kiln poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(41 59.6% 24%)"/><stop offset="0.5" stop-color="hsl(61 53.6% 62%)"/><stop offset="1" stop-color="hsl(12.2 59.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="306.5" cy="194.8" r="310.8" fill="url(#glow)"/><circle cx="306.5" cy="194.8" r="74" fill="hsl(12.2 96% 88%)" opacity=".92"/>
+<circle cx="107.3" cy="377.7" r="107.7" fill="hsl(12.2 96% 88%)" opacity="0.2"/><circle cx="433.1" cy="361.1" r="117.2" fill="hsl(12.2 92% 52%)" opacity="0.2"/><circle cx="285.5" cy="306.3" r="55" fill="hsl(12.2 96% 88%)" opacity="0.3"/><circle cx="315.5" cy="483.5" r="158.7" fill="hsl(12.2 92% 52%)" opacity="0.3"/><circle cx="510.3" cy="322" r="92.5" fill="hsl(12.2 96% 88%)" opacity="0.2"/><circle cx="177.8" cy="184.8" r="136.1" fill="hsl(12.2 92% 52%)" opacity="0.2"/><circle cx="193.9" cy="606.1" r="83.3" fill="hsl(12.2 96% 88%)" opacity="0.1"/><circle cx="400.4" cy="449.1" r="162.5" fill="hsl(12.2 92% 52%)" opacity="0.1"/><circle cx="300.9" cy="233.5" r="57.4" fill="hsl(12.2 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 780.1 75 788.7Q112.5 719.2 150 727.8Q187.5 719.2 225 744.7Q262.5 736.1 300 757.8Q337.5 706 375 714.6Q412.5 706 450 762.7Q487.5 754.1 525 776.5Q562.5 767.9 600 828L610 1428Z" fill="hsl(200.3 53.6% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(12.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LATTICE BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KILN</text>
+<path d="M44 726.8h72" stroke="hsl(12.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  116 MIN  ·  COMEDY</text>
+<text x="556" y="750.8" fill="hsl(12.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

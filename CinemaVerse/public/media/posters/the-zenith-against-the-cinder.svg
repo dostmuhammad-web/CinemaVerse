@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Zenith against the Cinder poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(182.7 70.5% 24%)"/><stop offset="0.5" stop-color="hsl(202.7 63.4% 42%)"/><stop offset="1" stop-color="hsl(172.9 70.5% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(172.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(172.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="220.6" cy="206.9" r="324.7" fill="url(#glow)"/><circle cx="220.6" cy="206.9" r="77.3" fill="hsl(172.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 447 85.7 463.2Q128.6 406.8 171.4 423Q214.3 293 257.1 309.2Q300 281.6 342.9 297.8Q385.8 281.6 428.6 419.1Q471.5 402.9 514.3 498.6Q557.2 482.4 600 558L610 1158Z" fill="hsl(19.6 49.3% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 540.3 66.7 558.7Q100 527.3 133.3 545.7Q166.7 395.2 200 413.6Q233.4 377.6 266.7 396Q300 377.6 333.3 490.2Q366.7 394 400 412.4Q433.4 394 466.7 466.4Q500 448 533.3 594.6Q566.7 576.2 600 666L610 1266Z" fill="hsl(19.6 56.4% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 719.2 54.5 733.2Q81.8 686.7 109.1 700.7Q136.4 606.3 163.6 620.3Q190.9 596.7 218.2 610.7Q245.5 596.7 272.7 661.6Q300 614.8 327.3 628.8Q354.6 614.8 381.8 689.7Q409.1 675.7 436.4 701.3Q463.7 687.3 490.9 727.7Q518.2 713.7 545.5 751.9Q572.8 737.9 600 792L610 1392Z" fill="hsl(27.6 63.4% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(172.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE ZENITH AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CINDER</text>
+<path d="M44 726.8h72" stroke="hsl(172.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  144 MIN  ·  ADVENTURE</text>
+<text x="556" y="750.8" fill="hsl(172.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

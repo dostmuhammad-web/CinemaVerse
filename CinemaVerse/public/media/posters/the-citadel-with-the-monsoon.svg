@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Citadel with the Monsoon poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(16.5 44.8% 6%)"/><stop offset="0.5" stop-color="hsl(32.5 51.2% 13%)"/><stop offset="1" stop-color="hsl(341.2 57.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(341.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(341.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(204.3 51.2% 10%)"/><path d="M123.8 190.3L314.8 190.3L353 900L108.5 900Z" fill="hsl(341.2 96% 78%)" opacity="0.1"/><path d="M123.8 190.3L314.8 190.3L374 900L100.1 900Z" fill="hsl(341.2 96% 78%)" opacity="0"/><path d="M123.8 190.3L314.8 190.3L395 900L91.7 900Z" fill="hsl(341.2 96% 78%)" opacity="0"/><rect x="123.8" y="144" width="191" height="462.6" fill="hsl(16.5 44.8% 6%)"/><rect x="123.8" y="144" width="191" height="462.6" fill="hsl(341.2 100% 62% / 0.4)" opacity=".5"/><path d="M123.8 144h191v462.6h-191Z" fill="none" stroke="hsl(218.3 64% 3%)" stroke-width="7"/><path d="M123.8 375.3h191M219.3 144v462.6" stroke="hsl(218.3 64% 3%)" stroke-width="4"/><path d="M385.9 864q-20 -111.2 20 -137.9q22.2 26.7 13.3 66.7q-4.4 44.5 4.4 71.2Z" fill="hsl(218.3 64% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(341.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE CITADEL WITH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MONSOON</text>
+<path d="M44 726.8h72" stroke="hsl(341.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  104 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="750.8" fill="hsl(341.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Final Wicker poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(28.8 43.1% 6%)"/><stop offset="0.5" stop-color="hsl(44.8 49.2% 13%)"/><stop offset="1" stop-color="hsl(353.6 55.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(353.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(353.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(226.8 49.2% 10%)"/><path d="M154.6 189.8L380.6 189.8L425.9 900L136.5 900Z" fill="hsl(353.6 96% 78%)" opacity="0.1"/><path d="M154.6 189.8L380.6 189.8L450.7 900L126.6 900Z" fill="hsl(353.6 96% 78%)" opacity="0"/><path d="M154.6 189.8L380.6 189.8L475.6 900L116.6 900Z" fill="hsl(353.6 96% 78%)" opacity="0"/><rect x="154.6" y="144" width="226" height="458.3" fill="hsl(28.8 43.1% 6%)"/><rect x="154.6" y="144" width="226" height="458.3" fill="hsl(353.6 100% 62% / 0.4)" opacity=".5"/><path d="M154.6 144h226v458.3h-226Z" fill="none" stroke="hsl(240.8 61.5% 3%)" stroke-width="7"/><path d="M154.6 373.1h226M267.6 144v458.3" stroke="hsl(240.8 61.5% 3%)" stroke-width="4"/><path d="M286.5 864q-18.8 -104.5 18.8 -129.6q20.9 25.1 12.5 62.7q-4.2 41.8 4.2 66.9Z" fill="hsl(240.8 61.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(353.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FINAL WICKER</text>
+<path d="M44 709.4h72" stroke="hsl(353.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  145 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(353.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

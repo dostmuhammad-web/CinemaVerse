@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Splintering Gantry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(26.1 37.6% 6%)"/><stop offset="0.5" stop-color="hsl(42.1 43% 13%)"/><stop offset="1" stop-color="hsl(11.8 48.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(11.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(11.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(178.4 43% 10%)"/><path d="M144.7 181.6L407.6 181.6L460.2 900L123.7 900Z" fill="hsl(11.8 96% 78%)" opacity="0.1"/><path d="M144.7 181.6L407.6 181.6L489.1 900L112.1 900Z" fill="hsl(11.8 96% 78%)" opacity="0"/><path d="M144.7 181.6L407.6 181.6L518 900L100.5 900Z" fill="hsl(11.8 96% 78%)" opacity="0"/><rect x="144.7" y="144" width="262.9" height="375.7" fill="hsl(26.1 37.6% 6%)"/><rect x="144.7" y="144" width="262.9" height="375.7" fill="hsl(11.8 100% 62% / 0.4)" opacity=".5"/><path d="M144.7 144h262.9v375.7h-262.9Z" fill="none" stroke="hsl(192.4 53.8% 3%)" stroke-width="7"/><path d="M144.7 331.9h262.9M276.2 144v375.7" stroke="hsl(192.4 53.8% 3%)" stroke-width="4"/><path d="M253.1 864q-18.9 -105 18.9 -130.2q21 25.2 12.6 63q-4.2 42 4.2 67.2Z" fill="hsl(192.4 53.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(11.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SPLINTERING GANTRY</text>
+<path d="M44 709.4h72" stroke="hsl(11.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  145 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(11.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

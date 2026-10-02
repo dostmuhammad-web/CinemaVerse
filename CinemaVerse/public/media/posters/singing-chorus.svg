@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Singing Chorus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(215.2 29.7% 6%)"/><stop offset="0.5" stop-color="hsl(231.2 34% 13%)"/><stop offset="1" stop-color="hsl(178 38.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 471.8 85.7 488Q128.6 359.6 171.4 375.8Q214.3 358.3 257.1 374.5Q300 358.3 342.9 389.6Q385.8 373.4 428.6 437.5Q471.5 419.2 514.3 435.4Q557.2 419.2 600 558L610 1158Z" fill="hsl(1.3 29.7% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 567.9 66.7 586.3Q100 510.3 133.3 528.7Q166.7 497.5 200 515.9Q233.4 411.5 266.7 429.9Q300 411.5 333.3 484.4Q366.7 438.3 400 456.7Q433.4 438.3 466.7 544.6Q500 526.2 533.3 591.9Q566.7 573.5 600 666L610 1266Z" fill="hsl(1.3 34% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 723.6 54.5 737.6Q81.8 683.5 109.1 697.5Q136.4 628.1 163.6 642.1Q190.9 628.1 218.2 659.4Q245.5 626.5 272.7 640.5Q300 564.1 327.3 578.1Q354.6 564.1 381.8 630.7Q409.1 616.7 436.4 708.1Q463.7 686 490.9 700Q518.2 686 545.5 707.2Q572.8 693.2 600 792L610 1392Z" fill="hsl(9.3 38.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(178 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SINGING CHORUS</text>
+<path d="M44 709.4h72" stroke="hsl(178 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1985  ·  138 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(178 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Iron Halo poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(329.8 33.4% 6%)"/><stop offset="0.5" stop-color="hsl(345.8 38.2% 13%)"/><stop offset="1" stop-color="hsl(310.8 43% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(310.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(310.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 576.3 100 584.9Q150 531 200 539.6Q250 531 300 562.7Q350 533.4 400 542Q450 533.4 500 591.4Q550 582.8 600 630L610 1230Z" fill="hsl(124.5 33.4% 15%)" opacity=".55"/><ellipse cx="363.8" cy="522" rx="168.2" ry="63.8" fill="hsl(132.5 43% 6%)" opacity="0.5"/><ellipse cx="273.6" cy="589.5" rx="297.1" ry="37.7" fill="hsl(132.5 43% 6%)" opacity="0.5"/><ellipse cx="171" cy="657" rx="236.9" ry="53.8" fill="hsl(132.5 43% 6%)" opacity="0.5"/><ellipse cx="266.5" cy="724.5" rx="286.7" ry="42.8" fill="hsl(132.5 43% 6%)" opacity="0.5"/><ellipse cx="418.1" cy="792" rx="180.8" ry="42" fill="hsl(132.5 43% 6%)" opacity="0.6"/><ellipse cx="209.5" cy="859.5" rx="308.5" ry="38.1" fill="hsl(132.5 43% 6%)" opacity="0.7"/><path d="M371.4 855L371.4 706.5M317.4 733.5L371.4 652.5L425.4 733.5M328.2 801L371.4 733.5L417.3 801" fill="none" stroke="hsl(138.5 47.7% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(138.5 47.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(310.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE IRON HALO</text>
+<path d="M44 709.4h72" stroke="hsl(310.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1973  ·  110 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(310.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

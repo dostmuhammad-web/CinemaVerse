@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Violent Orchard poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(232.8 41.9% 6%)"/><stop offset="0.5" stop-color="hsl(248.8 47.8% 13%)"/><stop offset="1" stop-color="hsl(216.2 53.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(216.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(216.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(12.6 47.8% 10%)"/><path d="M159.7 184.9L372.9 184.9L415.5 900L142.6 900Z" fill="hsl(216.2 96% 78%)" opacity="0.1"/><path d="M159.7 184.9L372.9 184.9L439 900L133.3 900Z" fill="hsl(216.2 96% 78%)" opacity="0"/><path d="M159.7 184.9L372.9 184.9L462.4 900L123.9 900Z" fill="hsl(216.2 96% 78%)" opacity="0"/><rect x="159.7" y="144" width="213.2" height="409.5" fill="hsl(232.8 41.9% 6%)"/><rect x="159.7" y="144" width="213.2" height="409.5" fill="hsl(216.2 100% 62% / 0.4)" opacity=".5"/><path d="M159.7 144h213.2v409.5h-213.2Z" fill="none" stroke="hsl(26.6 59.8% 3%)" stroke-width="7"/><path d="M159.7 348.7h213.2M266.3 144v409.5" stroke="hsl(26.6 59.8% 3%)" stroke-width="4"/><path d="M161.7 864q-18.4 -102.4 18.4 -127q20.5 24.6 12.3 61.5q-4.1 41 4.1 65.5Z" fill="hsl(26.6 59.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(216.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE VIOLENT ORCHARD</text>
+<path d="M44 709.4h72" stroke="hsl(216.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  134 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(216.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

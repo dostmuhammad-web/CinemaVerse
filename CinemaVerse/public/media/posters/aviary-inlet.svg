@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Aviary &amp; Inlet poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(166.5 38.4% 6%)"/><stop offset="0.5" stop-color="hsl(182.5 43.9% 13%)"/><stop offset="1" stop-color="hsl(157.3 49.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(157.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(157.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 460.4 85.7 476.6Q128.6 427.8 171.4 444Q214.3 356.2 257.1 372.4Q300 356.2 342.9 418.6Q385.8 396 428.6 412.2Q471.5 396 514.3 469.1Q557.2 452.9 600 558L610 1158Z" fill="hsl(305.5 38.4% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 594.2 66.7 612.6Q100 543.1 133.3 561.5Q166.7 471.3 200 489.7Q233.4 380.5 266.7 398.9Q300 380.5 333.3 417.6Q366.7 399.2 400 457.6Q433.4 439.2 466.7 493.8Q500 475.4 533.3 594Q566.7 575.6 600 666L610 1266Z" fill="hsl(305.5 43.9% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 713.4 54.5 727.4Q81.8 651 109.1 665Q136.4 633.3 163.6 647.3Q190.9 618 218.2 632Q245.5 564.9 272.7 578.9Q300 564.9 327.3 620Q354.6 583.5 381.8 597.5Q409.1 583.5 436.4 655Q463.7 641 490.9 691.5Q518.2 677.5 545.5 729.6Q572.8 715.6 600 792L610 1392Z" fill="hsl(313.5 49.4% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(157.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">AVIARY &amp; INLET</text>
+<path d="M44 709.4h72" stroke="hsl(157.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  144 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="733.4" fill="hsl(157.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

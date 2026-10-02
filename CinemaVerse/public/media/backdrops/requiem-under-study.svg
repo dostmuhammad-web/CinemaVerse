@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Requiem: Under Study backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(216.1 39.7% 6%)"/><stop offset="0.5" stop-color="hsl(232.1 45.4% 13%)"/><stop offset="1" stop-color="hsl(197.1 51% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(197.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(197.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="776.3" cy="290" r="405" fill="url(#glow)"/>
+<circle cx="776.3" cy="290" r="81" fill="hsl(197.1 96% 78%)" opacity=".85"/>
+<path d="M667.7 0L829.7 0L217.7 900L-97.3 900Z" fill="hsl(197.1 96% 78%)" opacity=".04"/><path d="M341.1 0L503.1 0L-108.9 900L-423.9 900Z" fill="hsl(197.1 96% 78%)" opacity=".04"/><path d="M853.6 0L1015.6 0L403.6 900L88.6 900Z" fill="hsl(197.1 96% 78%)" opacity=".04"/><path d="M174.9 0L336.9 0L-275.1 900L-590.1 900Z" fill="hsl(197.1 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(45.4 45.4% 10%)"/><path d="M566.7 192.5L1158.7 192.5L1277.1 900L519.3 900Z" fill="hsl(197.1 96% 78%)" opacity="0.1"/><path d="M566.7 192.5L1158.7 192.5L1342.2 900L493.3 900Z" fill="hsl(197.1 96% 78%)" opacity="0"/><path d="M566.7 192.5L1158.7 192.5L1407.3 900L467.2 900Z" fill="hsl(197.1 96% 78%)" opacity="0"/><rect x="566.7" y="144" width="592" height="484.6" fill="hsl(216.1 39.7% 6%)"/><rect x="566.7" y="144" width="592" height="484.6" fill="hsl(197.1 100% 62% / 0.4)" opacity=".5"/><path d="M566.7 144h592v484.6h-592Z" fill="none" stroke="hsl(59.4 56.7% 3%)" stroke-width="7"/><path d="M566.7 386.3h592M862.7 144v484.6" stroke="hsl(59.4 56.7% 3%)" stroke-width="4"/><path d="M823.9 864q-19.6 -108.7 19.6 -134.8q21.7 26.1 13 65.2q-4.3 43.5 4.3 69.6Z" fill="hsl(59.4 56.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

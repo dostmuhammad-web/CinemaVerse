@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bramble 8 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(6.3 49.3% 24%)"/><stop offset="0.5" stop-color="hsl(26.3 44.4% 42%)"/><stop offset="1" stop-color="hsl(348.5 49.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(348.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(348.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="361.9" cy="308.7" r="367.5" fill="url(#glow)"/><circle cx="361.9" cy="308.7" r="87.5" fill="hsl(348.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 436.5 85.7 452.7Q128.6 346.6 171.4 362.8Q214.3 346.6 257.1 379.9Q300 363.7 342.9 389.7Q385.8 370.8 428.6 387Q471.5 370.8 514.3 458.1Q557.2 441.9 600 558L610 1158Z" fill="hsl(145 34.5% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 553.6 66.7 572Q100 485.2 133.3 503.6Q166.7 479.1 200 497.5Q233.4 468.3 266.7 486.7Q300 462 333.3 480.4Q366.7 462 400 547.6Q433.4 529.2 466.7 562.4Q500 544 533.3 589.2Q566.7 570.8 600 666L610 1266Z" fill="hsl(145 39.5% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 729.5 54.5 743.5Q81.8 648.4 109.1 662.4Q136.4 646.5 163.6 660.5Q190.9 614.3 218.2 628.3Q245.5 575 272.7 589Q300 575 327.3 619.2Q354.6 605.2 381.8 649.3Q409.1 635.3 436.4 684Q463.7 670 490.9 711.9Q518.2 697.9 545.5 725.9Q572.8 711.9 600 792L610 1392Z" fill="hsl(153 44.4% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(348.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BRAMBLE 8</text>
+<path d="M44 709.4h72" stroke="hsl(348.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  99 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(348.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

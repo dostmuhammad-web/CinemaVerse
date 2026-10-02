@@ -1,0 +1,250 @@
+/* ==========================================================================
+   CINEMAVERSE — responsive
+   Breakpoints: 1280 · 1080 · 900 · 720 · 520
+   ========================================================================== */
+
+@media (max-width: 1280px) {
+  .header__nav .navlink {
+    padding-inline: 9px;
+    font-size: 0.84rem;
+  }
+
+  .detail__intro {
+    gap: var(--s5);
+  }
+}
+
+@media (max-width: 1080px) {
+  :root {
+    --sidebar-w: 236px;
+  }
+
+  .header__nav {
+    display: none;
+  }
+
+  .header__menu {
+    display: inline-flex;
+  }
+
+  .searchbox {
+    width: clamp(160px, 34vw, 260px);
+  }
+
+  .home-cta,
+  .footer__top,
+  .detail__overview {
+    grid-template-columns: 1fr;
+  }
+
+  .detail__intro {
+    grid-template-columns: minmax(160px, 200px) minmax(0, 1fr);
+  }
+
+  .grid--cards {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
+
+@media (max-width: 900px) {
+  .browse__body {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--s4);
+  }
+
+  .browse__sidebar {
+    display: none;
+  }
+
+  .toolbar__filters {
+    display: inline-flex;
+  }
+
+  .hero {
+    min-height: min(72vh, 560px);
+  }
+
+  .hero__controls {
+    position: static;
+    justify-content: flex-end;
+    margin-top: var(--s4);
+  }
+
+  .hero__content {
+    max-width: none;
+  }
+
+  .detail__intro {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .detail__poster {
+    width: min(240px, 62vw);
+  }
+
+  .timeline__row {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .timeline__when {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 720px) {
+  :root {
+    --header-h: 60px;
+  }
+
+  .header__inner {
+    gap: var(--s3);
+  }
+
+  .logo__text {
+    display: none;
+  }
+
+  .header__tools .avatar {
+    display: none;
+  }
+
+  .searchbox {
+    flex: 1;
+    width: auto;
+  }
+
+  .searchbox__form input::placeholder {
+    /* keep the header to one line on small screens */
+    color: transparent;
+  }
+
+  .grid--cards {
+    grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
+    gap: var(--s4) var(--s3);
+  }
+
+  .rail__item {
+    flex-basis: 138px;
+  }
+
+  .rail__arrow {
+    display: none;
+  }
+
+  .statstrip {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+
+  .page-head {
+    padding-block: var(--s6) var(--s4);
+  }
+
+  .taxonomy__grid,
+  .region__grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  .profile__grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .profile__hero-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s4);
+  }
+
+  .modal__panel {
+    margin: 2vh auto;
+    padding: var(--s4);
+  }
+
+  .spec__row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2px;
+  }
+
+  .timeline__poster {
+    width: 52px;
+  }
+
+  .totop {
+    width: 38px;
+    height: 38px;
+  }
+}
+
+@media (max-width: 520px) {
+  .btn {
+    width: 100%;
+  }
+
+  .home-cta__actions .btn,
+  .detail__actions .btn,
+  .empty__action .btn {
+    width: auto;
+    flex: 1 1 auto;
+  }
+
+  .grid--cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .timeline__meta {
+    display: none;
+  }
+
+  .hero__buttons .btn {
+    width: 100%;
+  }
+
+  .detail__facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* -------------------------------------------------------------------------- */
+/* pointer / motion preferences                                               */
+/* -------------------------------------------------------------------------- */
+
+/* Hover affordances only make sense where a real pointer exists. */
+@media (hover: none) {
+  .card__save {
+    opacity: 1;
+    transform: none;
+  }
+
+  .card__scrim {
+    display: none;
+  }
+
+  .rail__fade {
+    display: none;
+  }
+}
+
+@media (prefers-contrast: more) {
+  :root {
+    --line: rgba(255, 255, 255, 0.28);
+    --line-strong: rgba(255, 255, 255, 0.45);
+    --ink-2: #d3d9e6;
+    --ink-3: #a7b0c4;
+  }
+}
+
+@media print {
+  .header,
+  .footer,
+  .totop,
+  .toolbar,
+  .filters,
+  .drawer,
+  .legal-strip {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

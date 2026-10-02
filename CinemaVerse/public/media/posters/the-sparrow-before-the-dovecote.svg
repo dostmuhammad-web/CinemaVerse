@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Sparrow before the Dovecote poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(45.3 53.6% 24%)"/><stop offset="0.5" stop-color="hsl(65.3 48.3% 62%)"/><stop offset="1" stop-color="hsl(12.6 53.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="348.6" cy="292.1" r="317.5" fill="url(#glow)"/><circle cx="348.6" cy="292.1" r="75.6" fill="hsl(12.6 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(186.3 42.9% 18%)"/><path d="M1.6 0L68.3 0L49.6 738L20.3 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.5"/><path d="M74.2 0L140.9 0L122.2 738L92.9 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.5"/><path d="M135.1 0L201.8 0L183.1 738L153.8 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.4"/><path d="M206.8 0L273.5 0L254.8 738L225.5 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.3"/><path d="M275.5 0L342.2 0L323.5 738L294.2 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.5"/><path d="M335.7 0L402.4 0L383.7 738L354.4 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.4"/><path d="M403.3 0L470 0L451.3 738L422 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.5"/><path d="M471.5 0L538.2 0L519.5 738L490.2 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.7"/><path d="M542.8 0L609.5 0L590.8 738L561.5 738Z" fill="hsl(194.3 48.3% 10%)" opacity="0.4"/><path d="M277.6 0L457.6 774L97.6 774Z" fill="hsl(12.6 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(12.6 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(200.3 53.6% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(12.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SPARROW BEFORE THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DOVECOTE</text>
+<path d="M44 726.8h72" stroke="hsl(12.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1984  ·  109 MIN  ·  COMEDY</text>
+<text x="556" y="750.8" fill="hsl(12.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

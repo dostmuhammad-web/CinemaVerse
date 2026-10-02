@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Gantry before Bastion poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(239.1 43.9% 6%)"/><stop offset="0.5" stop-color="hsl(255.1 50.2% 13%)"/><stop offset="1" stop-color="hsl(231.3 56.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(231.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(231.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 545.1L86 545.1L90.8 543.5L175.8 543.5L190.6 468.3L231.8 468.3L238.5 360.8L318.4 360.8L331.5 404.1L382.6 404.1L396.7 436.3L464.4 436.3L471.7 530.2L568.1 530.2L582.9 390.7L623.2 390.7L610 1248Z" fill="hsl(45.2 43.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(53.2 56.4% 6%)"/><path d="M161.2 444.5l-13.1 81.6M521.3 163.1l-10.2 64M240.4 374.8l-14.2 88.5M463.6 722.4l-13.9 86.7M223.3 766.7l-6.1 38M204.3 135.1l-6.9 43.1M521.3 618.9l-13.4 83.7M196.1 157l-10.5 65.8M84.1 152.7l-4.5 28M43.1 608.6l-13.2 82.2M448 247.9l-5.4 34.1M257.2 717.6l-12.5 78M345.4 317.7l-8.3 52M544.4 382l-11.2 69.8M412.9 153.4l-11.7 72.9M376.6 562.8l-8.7 54.7M0.8 651.6l-13.9 87.1M208.7 520l-11.2 70M321.1 356.1l-8.8 55.3M445.2 441.7l-8.3 51.6M286.6 328.3l-11.7 73.2M446.9 202.4l-11.4 71.1M343.8 398.9l-10.5 65.3M226.5 71.1l-5.7 35.5M320.4 21l-9.2 57.6M159.6 592.7l-10 62.4M128.5 806.5l-10.5 65.8M126.3 674.3l-14.2 88.8M85.4 632.7l-6.7 42M333.4 197.8l-7.6 47.5M82.1 375l-6.7 41.8M379.9 620.9l-9.4 58.5M371.2 728.4l-9.5 59.2M475.9 32.3l-13 81.4M274.2 616.9l-7.2 45.3M435.4 294l-8 49.9M33.5 35.2l-9.6 60.1M398.2 7.8l-11.1 69.5M250.4 134.3l-7.1 44.1M173.6 485.5l-7.9 49.5M164.8 370.1l-6 37.7M24.6 409.6l-5.4 34M444.9 221.1l-6.3 39.4M562 307.9l-11.9 74.4M357.6 329.6l-12.3 77M239.5 693.8l-10.6 66.1" fill="none" stroke="hsl(231.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="414.2" cy="837" rx="132" ry="27" fill="hsl(231.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(231.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GANTRY BEFORE BASTION</text>
+<path d="M44 709.4h72" stroke="hsl(231.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  127 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(231.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

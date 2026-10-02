@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Tundra of the Nexus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(295.6 36.7% 6%)"/><stop offset="0.5" stop-color="hsl(311.6 41.9% 13%)"/><stop offset="1" stop-color="hsl(275.3 47.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(275.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(275.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-11 828L-126.5 828L-11 272L104.5 828ZM49.9 828L-51.4 828L49.9 269.9L151.2 828ZM68.8 828L-6.8 828L68.8 522.1L144.4 828ZM109.4 828L-34.3 828L109.4 206L253.1 828ZM155 828L72.7 828L155 438.8L237.3 828ZM174.3 828L96.1 828L174.3 368.3L252.5 828ZM225.8 828L91.1 828L225.8 309L360.5 828ZM270 828L110.3 828L270 201.4L429.7 828ZM305.6 828L195 828L305.6 253.1L416.2 828ZM335.1 828L244.4 828L335.1 422.1L425.8 828ZM387.7 828L315.9 828L387.7 508.5L459.5 828ZM399.4 828L283.6 828L399.4 228.6L515.2 828ZM457.7 828L381.9 828L457.7 379.6L533.5 828ZM495.3 828L399.3 828L495.3 397L591.3 828ZM518.8 828L381.4 828L518.8 216.3L656.2 828ZM572.2 828L465.9 828L572.2 339.2L678.5 828Z" fill="hsl(126.6 41.9% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(140.6 52.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(275.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE TUNDRA OF THE NEXUS</text>
+<path d="M44 709.4h72" stroke="hsl(275.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2001  ·  121 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(275.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

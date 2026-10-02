@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lantern: Cold Start poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(30.8 46.4% 24%)"/><stop offset="0.5" stop-color="hsl(50.8 41.8% 42%)"/><stop offset="1" stop-color="hsl(353.7 46.4% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(353.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(353.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="142.3" cy="216.3" r="499.8" fill="url(#glow)"/><circle cx="142.3" cy="216.3" r="119" fill="hsl(353.7 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 422.1 85.7 438.3Q128.6 419.4 171.4 435.6Q214.3 325 257.1 341.2Q300 312.2 342.9 328.4Q385.8 312.2 428.6 428.5Q471.5 412.3 514.3 453Q557.2 436.8 600 558L610 1158Z" fill="hsl(201.9 32.5% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 590.1 66.7 608.5Q100 449.7 133.3 468.1Q166.7 449.7 200 469.6Q233.4 446.2 266.7 464.6Q300 446.2 333.3 472.7Q366.7 452.9 400 471.3Q433.4 452.9 466.7 508.8Q500 490.4 533.3 605Q566.7 586.6 600 666L610 1266Z" fill="hsl(201.9 37.1% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 734.9 54.5 748.9Q81.8 667 109.1 681Q136.4 667 163.6 684.5Q190.9 642.1 218.2 656.1Q245.5 620 272.7 634Q300 614.9 327.3 628.9Q354.6 595.5 381.8 609.5Q409.1 595.5 436.4 631Q463.7 617 490.9 726.9Q518.2 712.9 545.5 754.4Q572.8 740.4 600 792L610 1392Z" fill="hsl(209.9 41.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(353.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LANTERN: COLD START</text>
+<path d="M44 709.4h72" stroke="hsl(353.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  139 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(353.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

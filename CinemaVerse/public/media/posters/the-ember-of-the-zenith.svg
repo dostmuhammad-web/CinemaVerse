@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Ember of the Zenith poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(5.4 38.4% 6%)"/><stop offset="0.5" stop-color="hsl(21.4 43.9% 13%)"/><stop offset="1" stop-color="hsl(340.6 49.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(340.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(340.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 474.5 85.7 490.7Q128.6 368.6 171.4 384.8Q214.3 305.8 257.1 322Q300 304.8 342.9 321Q385.8 304.8 428.6 426.6Q471.5 410.4 514.3 463.4Q557.2 447.2 600 558L610 1158Z" fill="hsl(175.5 38.4% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 591.7 66.7 610.1Q100 433.4 133.3 451.8Q166.7 433.4 200 512Q233.4 426.9 266.7 445.3Q300 426.9 333.3 535.9Q366.7 450.9 400 469.3Q433.4 450.9 466.7 549.3Q500 530.9 533.3 570.2Q566.7 551.8 600 666L610 1266Z" fill="hsl(175.5 43.9% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 741.6 54.5 755.6Q81.8 706.4 109.1 720.4Q136.4 692.1 163.6 706.1Q190.9 634.8 218.2 648.8Q245.5 571.4 272.7 585.4Q300 571.4 327.3 690.3Q354.6 636.2 381.8 650.2Q409.1 636.2 436.4 681.2Q463.7 667.2 490.9 704.5Q518.2 690.5 545.5 727.2Q572.8 713.2 600 792L610 1392Z" fill="hsl(183.5 49.4% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(340.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE EMBER OF THE ZENITH</text>
+<path d="M44 709.4h72" stroke="hsl(340.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1990  ·  109 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(340.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

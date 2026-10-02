@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Second Gantry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(269.5 47.9% 6%)"/><stop offset="0.5" stop-color="hsl(285.5 54.7% 13%)"/><stop offset="1" stop-color="hsl(230.9 61.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(230.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(230.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-2.5 828L-106.6 828L-2.5 204.3L101.6 828ZM46.3 828L-48.6 828L46.3 394.9L141.2 828ZM81.8 828L-19.7 828L81.8 265.7L183.3 828ZM116.5 828L30.9 828L116.5 295.4L202.1 828ZM161.5 828L30.1 828L161.5 226.2L292.9 828ZM187.6 828L71.6 828L187.6 304.5L303.6 828ZM218.9 828L127.6 828L218.9 276.7L310.2 828ZM253.1 828L145 828L253.1 208.8L361.2 828ZM290.6 828L236.8 828L290.6 527L344.4 828ZM349.5 828L252.7 828L349.5 251.7L446.3 828ZM379 828L282.3 828L379 441.4L475.7 828ZM402.1 828L315 828L402.1 290.3L489.2 828ZM455.7 828L351.7 828L455.7 206.3L559.7 828ZM498.7 828L423.9 828L498.7 373.4L573.5 828ZM526.7 828L425.3 828L526.7 345.2L628.1 828ZM573 828L498 828L573 479.6L648 828Z" fill="hsl(87.1 54.7% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(101.1 68.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(230.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SECOND GANTRY</text>
+<path d="M44 709.4h72" stroke="hsl(230.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  108 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(230.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Ledger: First Snow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(220.4 37.4% 6%)"/><stop offset="0.5" stop-color="hsl(236.4 42.8% 13%)"/><stop offset="1" stop-color="hsl(190.2 48.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(190.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(190.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(56.7 42.8% 10%)"/><path d="M284.1 190.7L468.2 190.7L505.1 900L269.4 900Z" fill="hsl(190.2 96% 78%)" opacity="0.1"/><path d="M284.1 190.7L468.2 190.7L525.3 900L261.3 900Z" fill="hsl(190.2 96% 78%)" opacity="0"/><path d="M284.1 190.7L468.2 190.7L545.6 900L253.2 900Z" fill="hsl(190.2 96% 78%)" opacity="0"/><rect x="284.1" y="144" width="184.1" height="466.9" fill="hsl(220.4 37.4% 6%)"/><rect x="284.1" y="144" width="184.1" height="466.9" fill="hsl(190.2 100% 62% / 0.4)" opacity=".5"/><path d="M284.1 144h184.1v466.9h-184.1Z" fill="none" stroke="hsl(70.7 53.5% 3%)" stroke-width="7"/><path d="M284.1 377.5h184.1M376.2 144v466.9" stroke="hsl(70.7 53.5% 3%)" stroke-width="4"/><path d="M237.4 864q-20.2 -112.4 20.2 -139.4q22.5 27 13.5 67.4q-4.5 45 4.5 71.9Z" fill="hsl(70.7 53.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(190.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LEDGER: FIRST SNOW</text>
+<path d="M44 709.4h72" stroke="hsl(190.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1993  ·  134 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(190.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

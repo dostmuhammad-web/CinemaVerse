@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Listening Nocturne poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(221 32.1% 6%)"/><stop offset="0.5" stop-color="hsl(237 36.7% 13%)"/><stop offset="1" stop-color="hsl(204.9 41.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(204.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(204.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 589.2 100 597.8Q150 544.8 200 553.4Q250 539.3 300 547.9Q350 537 400 545.6Q450 537 500 580.8Q550 572.2 600 630L610 1230Z" fill="hsl(36.5 32.1% 15%)" opacity=".55"/><ellipse cx="146.7" cy="522" rx="270.1" ry="30.6" fill="hsl(44.5 41.3% 6%)" opacity="0.5"/><ellipse cx="203.5" cy="589.5" rx="270.8" ry="45.5" fill="hsl(44.5 41.3% 6%)" opacity="0.7"/><ellipse cx="250.8" cy="657" rx="218.7" ry="51.5" fill="hsl(44.5 41.3% 6%)" opacity="0.6"/><ellipse cx="137.5" cy="724.5" rx="166.9" ry="49.6" fill="hsl(44.5 41.3% 6%)" opacity="0.7"/><ellipse cx="297.8" cy="792" rx="219.6" ry="58.1" fill="hsl(44.5 41.3% 6%)" opacity="0.6"/><ellipse cx="383.1" cy="859.5" rx="164.9" ry="45.2" fill="hsl(44.5 41.3% 6%)" opacity="0.6"/><path d="M421.2 855L421.2 706.5M367.2 733.5L421.2 652.5L475.2 733.5M378 801L421.2 733.5L467.1 801" fill="none" stroke="hsl(50.5 45.9% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(50.5 45.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(204.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LISTENING NOCTURNE</text>
+<path d="M44 709.4h72" stroke="hsl(204.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1972  ·  93 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(204.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

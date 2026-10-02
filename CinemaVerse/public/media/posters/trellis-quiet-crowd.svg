@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Trellis: Quiet Crowd poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(13.2 47.6% 6%)"/><stop offset="0.5" stop-color="hsl(29.2 54.4% 13%)"/><stop offset="1" stop-color="hsl(3.5 61.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(3.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(3.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 438.9 85.7 455.1Q128.6 371.1 171.4 387.3Q214.3 370.1 257.1 386.3Q300 370.1 342.9 446.8Q385.8 350.5 428.6 366.7Q471.5 350.5 514.3 487.2Q557.2 471 600 558L610 1158Z" fill="hsl(212.2 47.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 547.6 66.7 566Q100 491.1 133.3 509.5Q166.7 398.8 200 417.2Q233.4 359.8 266.7 378.2Q300 359.8 333.3 481.1Q366.7 431.6 400 450Q433.4 431.6 466.7 488.2Q500 469.8 533.3 614.6Q566.7 596.2 600 666L610 1266Z" fill="hsl(212.2 54.4% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 721.9 54.5 735.9Q81.8 721.9 109.1 743.7Q136.4 593.9 163.6 607.9Q190.9 593.9 218.2 641.2Q245.5 627.2 272.7 647.3Q300 582.7 327.3 596.7Q354.6 582.7 381.8 687.3Q409.1 632.7 436.4 646.7Q463.7 632.7 490.9 686.1Q518.2 672.1 545.5 749.3Q572.8 735.3 600 792L610 1392Z" fill="hsl(220.2 61.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(3.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TRELLIS: QUIET CROWD</text>
+<path d="M44 709.4h72" stroke="hsl(3.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  113 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(3.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

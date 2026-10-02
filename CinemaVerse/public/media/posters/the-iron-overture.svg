@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Iron Overture poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(3.2 38.9% 6%)"/><stop offset="0.5" stop-color="hsl(19.2 44.5% 13%)"/><stop offset="1" stop-color="hsl(331.8 50% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(331.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(331.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 455.8 85.7 472Q128.6 324 171.4 340.2Q214.3 269.2 257.1 285.4Q300 269.2 342.9 347.4Q385.8 331.2 428.6 352.8Q471.5 336.6 514.3 487Q557.2 470.8 600 558L610 1158Z" fill="hsl(200.6 38.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 563.4 66.7 581.8Q100 521.6 133.3 540Q166.7 456.7 200 475.1Q233.4 379 266.7 397.4Q300 379 333.3 473.9Q366.7 455.5 400 483.5Q433.4 465.1 466.7 501.1Q500 482.7 533.3 577.9Q566.7 559.5 600 666L610 1266Z" fill="hsl(200.6 44.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 732.1 54.5 746.1Q81.8 683.8 109.1 697.8Q136.4 624.8 163.6 638.8Q190.9 624.8 218.2 650.7Q245.5 636.7 272.7 679.1Q300 592.7 327.3 606.7Q354.6 592.7 381.8 687Q409.1 663.5 436.4 677.5Q463.7 663.5 490.9 748.4Q518.2 727.8 545.5 741.8Q572.8 727.8 600 792L610 1392Z" fill="hsl(208.6 50% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(331.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE IRON OVERTURE</text>
+<path d="M44 709.4h72" stroke="hsl(331.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2004  ·  134 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(331.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

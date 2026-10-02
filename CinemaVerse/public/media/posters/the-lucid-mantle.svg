@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Lucid Mantle poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(66.4 54.6% 24%)"/><stop offset="0.5" stop-color="hsl(86.4 49.1% 62%)"/><stop offset="1" stop-color="hsl(33.3 54.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(33.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(33.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="292.6" cy="341.5" r="265.4" fill="url(#glow)"/><circle cx="292.6" cy="341.5" r="63.2" fill="hsl(33.3 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(263.9 43.7% 18%)"/><path d="M1.1 0L67.8 0L49.1 738L19.8 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.6"/><path d="M70.2 0L136.9 0L118.2 738L88.9 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.6"/><path d="M136.8 0L203.5 0L184.8 738L155.5 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.4"/><path d="M201 0L267.7 0L249 738L219.7 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.4"/><path d="M268.4 0L335.1 0L316.4 738L287.1 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.4"/><path d="M334.1 0L400.8 0L382.1 738L352.8 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.4"/><path d="M400.7 0L467.4 0L448.7 738L419.4 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.7"/><path d="M469.6 0L536.3 0L517.6 738L488.3 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.6"/><path d="M536.9 0L603.6 0L584.9 738L555.6 738Z" fill="hsl(271.9 49.1% 10%)" opacity="0.7"/><path d="M371.3 0L551.3 774L191.3 774Z" fill="hsl(33.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(33.3 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(277.9 54.6% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(33.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LUCID MANTLE</text>
+<path d="M44 709.4h72" stroke="hsl(33.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  84 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(33.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

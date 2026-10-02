@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Lattice beneath the Kiln backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(41 59.6% 24%)"/><stop offset="0.5" stop-color="hsl(61 53.6% 62%)"/><stop offset="1" stop-color="hsl(12.2 59.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="723.2" cy="407.3" r="645.5" fill="url(#glow)"/>
+<circle cx="723.2" cy="407.3" r="129.1" fill="hsl(12.2 96% 88%)" opacity=".85"/>
+<path d="M413.8 0L575.8 0L-36.2 900L-351.2 900Z" fill="hsl(12.2 96% 88%)" opacity=".04"/><path d="M400.3 0L562.3 0L-49.7 900L-364.7 900Z" fill="hsl(12.2 96% 88%)" opacity=".04"/><path d="M1530.6 0L1692.6 0L1080.6 900L765.6 900Z" fill="hsl(12.2 96% 88%)" opacity=".04"/><path d="M1119.6 0L1281.6 0L669.6 900L354.6 900Z" fill="hsl(12.2 96% 88%)" opacity=".04"/><circle cx="1352.3" cy="276.8" r="64.4" fill="hsl(12.2 96% 88%)" opacity="0.3"/><circle cx="1476.5" cy="344.2" r="165.7" fill="hsl(12.2 92% 52%)" opacity="0.3"/><circle cx="9.3" cy="619" r="142.3" fill="hsl(12.2 96% 88%)" opacity="0.3"/><circle cx="488" cy="462" r="100.2" fill="hsl(12.2 92% 52%)" opacity="0.2"/><circle cx="1023.2" cy="644.7" r="128.7" fill="hsl(12.2 96% 88%)" opacity="0.3"/><circle cx="266.3" cy="303.9" r="108.3" fill="hsl(12.2 92% 52%)" opacity="0.2"/><circle cx="343.8" cy="582.9" r="57.1" fill="hsl(12.2 96% 88%)" opacity="0.2"/><circle cx="1397.4" cy="476.4" r="46" fill="hsl(12.2 92% 52%)" opacity="0.2"/><circle cx="346.9" cy="338" r="87.7" fill="hsl(12.2 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q100 773.9 200 782.5Q300 741.3 400 749.9Q500 714 600 722.6Q700 692.8 800 701.4Q900 692.8 1000 703.9Q1100 695.3 1200 766.8Q1300 758.2 1400 771.4Q1500 762.8 1600 828L1610 1428Z" fill="hsl(200.3 53.6% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

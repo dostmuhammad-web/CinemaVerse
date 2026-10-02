@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Tender Threshold X poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(332.9 45.7% 6%)"/><stop offset="0.5" stop-color="hsl(348.9 52.3% 13%)"/><stop offset="1" stop-color="hsl(307.7 58.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(307.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(307.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="366.8" cy="285.8" r="177.2" fill="hsl(307.7 96% 88%)" opacity="0.1"/><circle cx="487.8" cy="235.9" r="118.1" fill="hsl(307.7 92% 62%)" opacity="0.2"/><circle cx="414.8" cy="457" r="120.3" fill="hsl(307.7 96% 88%)" opacity="0.2"/><circle cx="207.5" cy="589" r="78.4" fill="hsl(307.7 92% 62%)" opacity="0.3"/><circle cx="205.2" cy="334.3" r="92.4" fill="hsl(307.7 96% 88%)" opacity="0.1"/><circle cx="71.6" cy="186.7" r="72.6" fill="hsl(307.7 92% 62%)" opacity="0.1"/><circle cx="597.6" cy="258.9" r="69.7" fill="hsl(307.7 96% 88%)" opacity="0.2"/><circle cx="586.5" cy="559.2" r="133.1" fill="hsl(307.7 92% 62%)" opacity="0.2"/><circle cx="147.8" cy="659.8" r="71.7" fill="hsl(307.7 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 773.2 75 781.8Q112.5 754.3 150 762.9Q187.5 725.1 225 733.7Q262.5 723.2 300 731.8Q337.5 723.2 375 751.4Q412.5 742.8 450 759Q487.5 750.4 525 803.7Q562.5 795.1 600 828L610 1428Z" fill="hsl(164.4 58.8% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(307.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TENDER THRESHOLD X</text>
+<path d="M44 709.4h72" stroke="hsl(307.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2022  ·  124 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(307.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Umber after Ember poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(327.8 37.6% 6%)"/><stop offset="0.5" stop-color="hsl(343.8 43% 13%)"/><stop offset="1" stop-color="hsl(307.7 48.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(307.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(307.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="481.1" cy="154.3" r="132.6" fill="hsl(307.7 96% 88%)" opacity="0.3"/><circle cx="171.9" cy="594.8" r="185" fill="hsl(307.7 92% 62%)" opacity="0.3"/><circle cx="490.5" cy="117.7" r="83.2" fill="hsl(307.7 96% 88%)" opacity="0.2"/><circle cx="250.4" cy="321.3" r="134.6" fill="hsl(307.7 92% 62%)" opacity="0.2"/><circle cx="303.4" cy="469.5" r="133" fill="hsl(307.7 96% 88%)" opacity="0.3"/><circle cx="105" cy="664.4" r="139.6" fill="hsl(307.7 92% 62%)" opacity="0.2"/><circle cx="414.3" cy="651" r="77" fill="hsl(307.7 96% 88%)" opacity="0.2"/><circle cx="161.5" cy="539.5" r="128.7" fill="hsl(307.7 92% 62%)" opacity="0.2"/><circle cx="39.4" cy="263.7" r="70.1" fill="hsl(307.7 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 781.6 75 790.2Q112.5 717.8 150 726.4Q187.5 704.4 225 713Q262.5 704.4 300 726.9Q337.5 718.3 375 755.1Q412.5 746.5 450 776.7Q487.5 768.1 525 803Q562.5 794.4 600 828L610 1428Z" fill="hsl(137.2 48.4% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(307.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">UMBER AFTER EMBER</text>
+<path d="M44 709.4h72" stroke="hsl(307.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2003  ·  91 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(307.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Naming Kiln poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(271.4 33.5% 6%)"/><stop offset="0.5" stop-color="hsl(287.4 38.3% 13%)"/><stop offset="1" stop-color="hsl(249.2 43.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(249.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(249.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 429.1L80.6 429.1L88.9 491.1L155.5 491.1L167.7 509L229.5 509L238.6 462.4L297.7 462.4L310 498.8L380.1 498.8L389.9 373L473 373L479.7 551.1L550.3 551.1L561.9 347.9L606.9 347.9L610 1248Z" fill="hsl(81.1 33.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(89.1 43.1% 6%)"/><path d="M557.1 338.8l-9.4 58.7M19.8 398.9l-10.5 65.6M180.5 563l-8.8 54.8M468.7 602.8l-12.7 79.5M279.7 357.3l-12.2 76.5M569.4 14.4l-5.5 34.5M412.5 75.1l-10.7 67.2M42.3 151.3l-5.9 37.1M512.2 106.8l-11.8 74M324.9 53.6l-7.8 48.9M181.6 221.3l-11 68.9M243.7 660.8l-12.1 75.7M464.2 250l-8 50.3M549.1 120.6l-9.5 59.7M13.3 160l-5.3 33.1M349.6 626.4l-7.8 48.6M318.2 808l-9.2 57.4M430.8 644.3l-12.7 79.4M340.8 681.2l-8.9 55.7M377.4 326.3l-7.2 45.2M43.2 721.5l-6.3 39.3M116.6 201.3l-12.3 76.8M390.6 326.1l-4.9 30.5M561.5 234l-7.9 49.6M308.8 788.4l-10.3 64.4M12.4 528.5l-5.7 35.6M113.6 226.8l-8.7 54.3M225.1 801.1l-13 81.3M173.9 761.4l-7.7 48M381.1 448l-5 31.4M250.1 66.3l-8.9 55.6M591.7 429.2l-6 37.6M369.5 68.4l-10.8 67.3M585.2 219.2l-13.3 83.4M589.2 410.9l-12.7 79.5M426 552.8l-7.7 48.4M223.6 440.2l-10.4 64.8M483.4 392.7l-8.8 55.2M256.8 487.5l-11 68.9M327.3 313l-9.3 57.9M421.1 195.2l-8.8 55.2M478.8 198.3l-6.7 41.9M66.2 789.1l-5.4 33.8M369.6 468.2l-5.8 36M430.7 620.6l-7.8 48.7M243 224.1l-9.2 57.5" fill="none" stroke="hsl(249.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="239.6" cy="837" rx="132" ry="27" fill="hsl(249.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(249.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NAMING KILN</text>
+<path d="M44 709.4h72" stroke="hsl(249.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  109 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(249.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

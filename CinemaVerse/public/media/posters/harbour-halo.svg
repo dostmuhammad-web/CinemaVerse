@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Harbour &amp; Halo poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(354.1 67% 24%)"/><stop offset="0.5" stop-color="hsl(14.1 60.3% 62%)"/><stop offset="1" stop-color="hsl(326.5 67% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(326.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(326.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="323.4" cy="209.4" r="282.2" fill="url(#glow)"/><circle cx="323.4" cy="209.4" r="67.2" fill="hsl(326.5 96% 88%)" opacity=".92"/>
+<circle cx="405.9" cy="635.4" r="170.4" fill="hsl(326.5 96% 88%)" opacity="0.3"/><circle cx="305.2" cy="417.2" r="113.9" fill="hsl(326.5 92% 52%)" opacity="0.2"/><circle cx="252.6" cy="386.3" r="152.3" fill="hsl(326.5 96% 88%)" opacity="0.2"/><circle cx="378.1" cy="269.6" r="181.6" fill="hsl(326.5 92% 52%)" opacity="0.2"/><circle cx="342.9" cy="199.6" r="50.3" fill="hsl(326.5 96% 88%)" opacity="0.2"/><circle cx="236.2" cy="538.3" r="78.4" fill="hsl(326.5 92% 52%)" opacity="0.3"/><circle cx="175.6" cy="505.1" r="80.6" fill="hsl(326.5 96% 88%)" opacity="0.3"/><circle cx="261.2" cy="230.3" r="61" fill="hsl(326.5 92% 52%)" opacity="0.3"/><circle cx="329.4" cy="237.7" r="137.7" fill="hsl(326.5 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 773.3 75 781.9Q112.5 751 150 759.6Q187.5 712.4 225 721Q262.5 683.7 300 692.3Q337.5 683.7 375 696.8Q412.5 688.2 450 759.2Q487.5 750.6 525 792.8Q562.5 784.2 600 828L610 1428Z" fill="hsl(173.8 60.3% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(326.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HARBOUR &amp; HALO</text>
+<path d="M44 709.4h72" stroke="hsl(326.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  109 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(326.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

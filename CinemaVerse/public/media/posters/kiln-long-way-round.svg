@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Kiln: Long Way Round poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(289.1 55.1% 24%)"/><stop offset="0.5" stop-color="hsl(309.1 49.6% 42%)"/><stop offset="1" stop-color="hsl(248 55.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(248 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(248 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="236.9" cy="296.8" r="306.2" fill="url(#glow)"/><circle cx="236.9" cy="296.8" r="72.9" fill="hsl(248 96% 78%)" opacity=".92"/>
+<path d="M11.1 828L-93.5 828L11.1 368.8L115.7 828ZM25 828L-39.4 828L25 547.3L89.4 828ZM73.3 828L4.6 828L73.3 547.5L142 828ZM104 828L36.9 828L104 517.9L171.1 828ZM136.5 828L82.5 828L136.5 519.5L190.5 828ZM182.6 828L85.8 828L182.6 276.7L279.4 828ZM222.7 828L98 828L222.7 200.2L347.4 828ZM262.8 828L149 828L262.8 365.4L376.6 828ZM307.9 828L224.5 828L307.9 408.5L391.3 828ZM329.9 828L228.8 828L329.9 316.6L431 828ZM373.6 828L248.8 828L373.6 266.7L498.4 828ZM399.6 828L303.9 828L399.6 343.5L495.3 828ZM445 828L362.9 828L445 456.3L527.1 828ZM497.2 828L436.5 828L497.2 486.8L557.9 828ZM511.7 828L402.6 828L511.7 287.3L620.8 828ZM566.9 828L404 828L566.9 184.8L729.8 828Z" fill="hsl(83.5 44.1% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(97.5 55.1% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(248 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KILN: LONG WAY ROUND</text>
+<path d="M44 709.4h72" stroke="hsl(248 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  120 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(248 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

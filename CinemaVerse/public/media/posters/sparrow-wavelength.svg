@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sparrow &amp; Wavelength poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(314.2 66.7% 24%)"/><stop offset="0.5" stop-color="hsl(334.2 60% 42%)"/><stop offset="1" stop-color="hsl(276.9 66.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(276.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(276.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="359" cy="224.9" r="447.3" fill="url(#glow)"/><circle cx="359" cy="224.9" r="106.5" fill="hsl(276.9 96% 78%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(150.4 53.4% 18%)"/><path d="M1.3 0L68 0L49.3 738L20 738Z" fill="hsl(158.4 60% 10%)" opacity="0.6"/><path d="M69.1 0L135.8 0L117.1 738L87.8 738Z" fill="hsl(158.4 60% 10%)" opacity="0.4"/><path d="M134.4 0L201.1 0L182.4 738L153.1 738Z" fill="hsl(158.4 60% 10%)" opacity="0.6"/><path d="M209.1 0L275.8 0L257.1 738L227.8 738Z" fill="hsl(158.4 60% 10%)" opacity="0.4"/><path d="M273.6 0L340.3 0L321.6 738L292.3 738Z" fill="hsl(158.4 60% 10%)" opacity="0.7"/><path d="M335.9 0L402.6 0L383.9 738L354.6 738Z" fill="hsl(158.4 60% 10%)" opacity="0.5"/><path d="M402.3 0L469 0L450.3 738L421 738Z" fill="hsl(158.4 60% 10%)" opacity="0.4"/><path d="M472.3 0L539 0L520.3 738L491 738Z" fill="hsl(158.4 60% 10%)" opacity="0.6"/><path d="M540.1 0L606.8 0L588.1 738L558.8 738Z" fill="hsl(158.4 60% 10%)" opacity="0.7"/><path d="M263.1 0L443.1 774L83.1 774Z" fill="hsl(276.9 96% 78%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(276.9 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(164.4 66.7% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(276.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SPARROW &amp; WAVELENGTH</text>
+<path d="M44 709.4h72" stroke="hsl(276.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  156 MIN  ·  MUSIC</text>
+<text x="556" y="733.4" fill="hsl(276.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

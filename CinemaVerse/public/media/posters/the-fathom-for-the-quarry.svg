@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Fathom for the Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(336.6 30.3% 6%)"/><stop offset="0.5" stop-color="hsl(352.6 34.6% 13%)"/><stop offset="1" stop-color="hsl(320.5 39% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(320.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(320.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-12.7 828L-89.3 828L-12.7 449L63.9 828ZM39 828L-113.3 828L39 198.4L191.3 828ZM68.1 828L-10.8 828L68.1 367.1L147 828ZM104.8 828L24.1 828L104.8 453.6L185.5 828ZM149.4 828L69.8 828L149.4 434.3L229 828ZM175.4 828L94.2 828L175.4 500.3L256.6 828ZM220 828L110.4 828L220 373.3L329.6 828ZM271.1 828L179.1 828L271.1 311.6L363.1 828ZM286.5 828L182.2 828L286.5 379.8L390.8 828ZM338.8 828L245.6 828L338.8 353L432 828ZM364.5 828L273.4 828L364.5 418.7L455.6 828ZM399.4 828L340.8 828L399.4 541.5L458 828ZM437 828L379.5 828L437 541.3L494.5 828ZM481.5 828L377.5 828L481.5 312.7L585.5 828ZM511.6 828L453.2 828L511.6 524.1L570 828ZM566.1 828L419.5 828L566.1 220.1L712.7 828Z" fill="hsl(117.8 34.6% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(131.8 43.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(320.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FATHOM FOR THE QUARRY</text>
+<path d="M44 709.4h72" stroke="hsl(320.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1977  ·  81 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(320.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

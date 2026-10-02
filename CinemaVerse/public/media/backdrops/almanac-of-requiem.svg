@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Almanac of Requiem backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(267 38.7% 6%)"/><stop offset="0.5" stop-color="hsl(283 44.2% 13%)"/><stop offset="1" stop-color="hsl(235.9 49.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(235.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(235.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="969.5" cy="494.9" r="761.5" fill="url(#glow)"/>
+<circle cx="969.5" cy="494.9" r="152.3" fill="hsl(235.9 96% 78%)" opacity=".85"/>
+<path d="M1448.9 0L1610.9 0L998.9 900L683.9 900Z" fill="hsl(235.9 96% 78%)" opacity=".04"/><path d="M251.4 0L413.4 0L-198.6 900L-513.6 900Z" fill="hsl(235.9 96% 78%)" opacity=".04"/><path d="M1099.2 0L1261.2 0L649.2 900L334.2 900Z" fill="hsl(235.9 96% 78%)" opacity=".04"/><path d="M1038.1 0L1200.1 0L588.1 900L273.1 900Z" fill="hsl(235.9 96% 78%)" opacity=".04"/><path d="M1.1 828L-104.5 828L1.1 280.7L106.7 828ZM77.8 828L-9.5 828L77.8 479.5L165.1 828ZM235 828L108.1 828L235 246.7L361.9 828ZM295.3 828L196.1 828L295.3 274.4L394.5 828ZM428.1 828L286.3 828L428.1 245.4L569.9 828ZM525 828L369.2 828L525 201.6L680.8 828ZM568 828L506.3 828L568 506.5L629.7 828ZM712.5 828L654.1 828L712.5 528.3L770.9 828ZM780.9 828L724.3 828L780.9 480.3L837.5 828ZM883.5 828L797 828L883.5 377.5L970 828ZM998.3 828L931 828L998.3 524.5L1065.6 828ZM1105.3 828L1035.1 828L1105.3 531.8L1175.5 828ZM1179.7 828L1087.5 828L1179.7 279.1L1271.9 828ZM1304.7 828L1191.5 828L1304.7 260.9L1417.9 828ZM1425 828L1341.9 828L1425 470.2L1508.1 828ZM1481.1 828L1391.3 828L1481.1 457.8L1570.9 828Z" fill="hsl(100.1 44.2% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(114.1 55.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

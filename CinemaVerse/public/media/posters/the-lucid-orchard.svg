@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Lucid Orchard poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(176.6 50.6% 6%)"/><stop offset="0.5" stop-color="hsl(192.6 57.8% 13%)"/><stop offset="1" stop-color="hsl(154.8 65% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(154.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(154.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 464.7 85.7 480.9Q128.6 426.8 171.4 443Q214.3 296.9 257.1 313.1Q300 296.9 342.9 391.8Q385.8 351.8 428.6 368Q471.5 351.8 514.3 467.8Q557.2 451.6 600 558L610 1158Z" fill="hsl(335.4 50.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 559.1 66.7 577.5Q100 450.8 133.3 469.2Q166.7 400.8 200 419.2Q233.4 400.8 266.7 459.8Q300 393.2 333.3 411.6Q366.7 353.7 400 372.1Q433.4 353.7 466.7 506.8Q500 488.4 533.3 629.7Q566.7 611.3 600 666L610 1266Z" fill="hsl(335.4 57.8% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 735.2 54.5 749.2Q81.8 652.8 109.1 666.8Q136.4 630 163.6 644Q190.9 614.8 218.2 628.8Q245.5 522.6 272.7 536.6Q300 522.6 327.3 627Q354.6 606.5 381.8 620.5Q409.1 606.5 436.4 643.6Q463.7 629.6 490.9 716.4Q518.2 702.4 545.5 762.5Q572.8 748.5 600 792L610 1392Z" fill="hsl(343.4 65% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(154.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LUCID ORCHARD</text>
+<path d="M44 709.4h72" stroke="hsl(154.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  77 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="733.4" fill="hsl(154.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

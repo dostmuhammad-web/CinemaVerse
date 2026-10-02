@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Radiant Eddy V poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(212.8 43.9% 6%)"/><stop offset="0.5" stop-color="hsl(228.8 50.1% 13%)"/><stop offset="1" stop-color="hsl(183.5 56.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(183.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(183.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(39.2 50.1% 10%)"/><path d="M268.5 190.1L498.8 190.1L544.9 900L250.1 900Z" fill="hsl(183.5 96% 78%)" opacity="0.1"/><path d="M268.5 190.1L498.8 190.1L570.3 900L239.9 900Z" fill="hsl(183.5 96% 78%)" opacity="0"/><path d="M268.5 190.1L498.8 190.1L595.6 900L229.8 900Z" fill="hsl(183.5 96% 78%)" opacity="0"/><rect x="268.5" y="144" width="230.3" height="461.2" fill="hsl(212.8 43.9% 6%)"/><rect x="268.5" y="144" width="230.3" height="461.2" fill="hsl(183.5 100% 62% / 0.4)" opacity=".5"/><path d="M268.5 144h230.3v461.2h-230.3Z" fill="none" stroke="hsl(53.2 62.7% 3%)" stroke-width="7"/><path d="M268.5 374.6h230.3M383.7 144v461.2" stroke="hsl(53.2 62.7% 3%)" stroke-width="4"/><path d="M311.3 864q-18.8 -104.2 18.8 -129.2q20.8 25 12.5 62.5q-4.2 41.7 4.2 66.7Z" fill="hsl(53.2 62.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(183.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RADIANT EDDY V</text>
+<path d="M44 709.4h72" stroke="hsl(183.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2009  ·  86 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(183.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Cathedral: Broken Compass poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(274.4 34.9% 6%)"/><stop offset="0.5" stop-color="hsl(290.4 39.9% 13%)"/><stop offset="1" stop-color="hsl(235.9 44.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(235.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(235.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-11 828L-73.2 828L-11 495.6L51.2 828ZM30.7 828L-91 828L30.7 353.7L152.4 828ZM71.5 828L-10.3 828L71.5 480.5L153.3 828ZM119.4 828L11.9 828L119.4 336.4L226.9 828ZM160.8 828L90 828L160.8 483.8L231.6 828ZM196.7 828L96.5 828L196.7 346.1L296.9 828ZM235 828L104 828L235 250.1L366 828ZM259.8 828L152.8 828L259.8 260.9L366.8 828ZM288.8 828L228.4 828L288.8 477.2L349.2 828ZM342.1 828L282.1 828L342.1 553.4L402.1 828ZM382 828L301.6 828L382 346.4L462.4 828ZM413.9 828L350 828L413.9 433.2L477.8 828ZM452.5 828L381 828L452.5 386L524 828ZM478.3 828L353.1 828L478.3 299.9L603.5 828ZM516.5 828L395.4 828L516.5 316.7L637.6 828ZM555.1 828L465.7 828L555.1 447.2L644.5 828Z" fill="hsl(94.8 39.9% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(108.8 49.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(235.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CATHEDRAL: BROKEN COMPASS</text>
+<path d="M44 709.4h72" stroke="hsl(235.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1977  ·  139 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(235.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

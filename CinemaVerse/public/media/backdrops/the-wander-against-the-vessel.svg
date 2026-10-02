@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Wander against the Vessel backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(205.4 29.5% 6%)"/><stop offset="0.5" stop-color="hsl(221.4 33.7% 13%)"/><stop offset="1" stop-color="hsl(184.4 37.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(184.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(184.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="752" cy="318.6" r="500.5" fill="url(#glow)"/>
+<circle cx="752" cy="318.6" r="100.1" fill="hsl(184.4 96% 78%)" opacity=".85"/>
+<path d="M1493.9 0L1655.9 0L1043.9 900L728.9 900Z" fill="hsl(184.4 96% 78%)" opacity=".04"/><path d="M550.9 0L712.9 0L100.9 900L-214.1 900Z" fill="hsl(184.4 96% 78%)" opacity=".04"/><path d="M65.6 0L227.6 0L-384.4 900L-699.4 900Z" fill="hsl(184.4 96% 78%)" opacity=".04"/><path d="M646.1 0L808.1 0L196.1 900L-118.9 900Z" fill="hsl(184.4 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 436.1 228.6 452.3Q342.9 345.2 457.1 361.4Q571.4 345.2 685.7 391.9Q800 358.7 914.3 374.9Q1028.6 324.2 1142.9 340.4Q1257.2 324.2 1371.4 506.8Q1485.7 490.6 1600 558L1610 1158Z" fill="hsl(30.5 29.5% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 571.4 177.8 589.8Q266.7 547.2 355.6 565.6Q444.5 425.2 533.3 443.6Q622.2 408.8 711.1 427.2Q800 408.8 888.9 453.3Q977.8 434.9 1066.7 521.6Q1155.6 478.9 1244.4 497.3Q1333.3 478.9 1422.2 593.6Q1511.1 575.2 1600 666L1610 1266Z" fill="hsl(30.5 33.7% 10%)"/><path d="M-10 1392L-10 792L0 792Q72.8 737.3 145.5 751.3Q218.2 674.6 290.9 688.6Q363.7 661.9 436.4 675.9Q509.1 550 581.8 564Q654.6 550 727.3 644.2Q800 623.1 872.7 637.1Q945.5 623.1 1018.2 650.5Q1090.9 636.5 1163.6 701.9Q1236.4 687.9 1309.1 714.7Q1381.8 700.7 1454.5 731.6Q1527.3 717.6 1600 792L1610 1392Z" fill="hsl(38.5 37.9% 6%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

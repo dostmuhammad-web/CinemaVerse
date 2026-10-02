@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Nettle 6 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(60.1 42% 24%)"/><stop offset="0.5" stop-color="hsl(80.1 37.8% 62%)"/><stop offset="1" stop-color="hsl(34.6 42% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(34.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(34.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="316.3" cy="273.1" r="394" fill="url(#glow)"/><circle cx="316.3" cy="273.1" r="93.8" fill="hsl(34.6 96% 88%)" opacity=".92"/>
+<circle cx="34.8" cy="340.1" r="117.4" fill="hsl(34.6 96% 88%)" opacity="0.3"/><circle cx="573.4" cy="538.5" r="174.4" fill="hsl(34.6 92% 52%)" opacity="0.3"/><circle cx="431.3" cy="631.7" r="76.8" fill="hsl(34.6 96% 88%)" opacity="0.2"/><circle cx="88.8" cy="602.9" r="168.9" fill="hsl(34.6 92% 52%)" opacity="0.1"/><circle cx="494.8" cy="561.1" r="81.2" fill="hsl(34.6 96% 88%)" opacity="0.3"/><circle cx="540.9" cy="274.5" r="99.5" fill="hsl(34.6 92% 52%)" opacity="0.1"/><circle cx="9.9" cy="363.8" r="133.9" fill="hsl(34.6 96% 88%)" opacity="0.3"/><circle cx="509.3" cy="630.1" r="137.9" fill="hsl(34.6 92% 52%)" opacity="0.2"/><circle cx="457.4" cy="132.8" r="92.7" fill="hsl(34.6 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 785.7 75 794.3Q112.5 725 150 733.6Q187.5 725 225 740.6Q262.5 705.2 300 713.8Q337.5 702.1 375 710.7Q412.5 702.1 450 751.9Q487.5 743.3 525 768.9Q562.5 760.3 600 828L610 1428Z" fill="hsl(268.5 37.8% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(34.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NETTLE 6</text>
+<path d="M44 709.4h72" stroke="hsl(34.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1967  ·  106 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(34.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quarry with Almanac poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(212.3 38.8% 6%)"/><stop offset="0.5" stop-color="hsl(228.3 44.3% 13%)"/><stop offset="1" stop-color="hsl(195.2 49.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(195.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(195.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 407.4L20.9 407.4L26.7 459.8L58.1 459.8L67 482.7L111.8 482.7L126.4 477L173.5 477L176.9 544.5L206.1 544.5L221 400.9L315.8 400.9L321.3 401.6L394 401.6L401.1 535.6L428.9 535.6L440.2 458.5L511.5 458.5L516.3 549L581.8 549L593.5 536.3L649.9 536.3L610 1248Z" fill="hsl(38.7 38.8% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(46.7 49.8% 6%)"/><path d="M57.8 224.2l-14 87.2M131.5 465.3l-4.8 29.9M172.7 298.5l-7.9 49.6M279.5 541.4l-9.7 60.8M396.1 417.3l-9.6 59.7M365.3 508l-10.4 65.1M226.5 470.5l-10.1 63.1M537.1 91.3l-7.9 49.4M323 450.5l-10.8 67.3M264.5 147.7l-5.5 34.5M113.8 636.6l-13 81.2M10.4 447l-10.9 68M560.9 752.6l-14 87.6M368.3 650.6l-11.9 74.6M134.9 370.5l-6.1 38.3M377.7 509.5l-6 37.6M54.1 428.2l-7.4 46.2M119.7 260.6l-10.7 66.6M379.9 225.3l-4.5 28M172.9 344l-12.4 77.7M451.4 22.8l-10.4 65.3M62.3 706.3l-8.5 53.3M48.4 33.4l-10.6 66M132.3 127.3l-8.7 54.4M296.4 527.6l-5 31M205.5 414.7l-12.5 78M553 189.7l-13.5 84.5M98.3 489.9l-9.8 61.1M144.9 245.4l-8.4 52.3M538 67.5l-11.5 72.1M446.7 26.6l-5.5 34.4M194.8 33.9l-12.3 76.9M560.4 40.4l-6.8 42.5M145 580.6l-13.6 85.1M219.2 73.1l-9.5 59.2M520.6 245l-6.3 39.1M347.2 559.6l-4.7 29.3M353.4 120.2l-6.1 38.1M438.2 71.9l-9.1 56.6M157 779.9l-6.8 42.7M223.7 219.6l-7.8 48.7M233.3 684.8l-7.4 46M32.7 808.9l-9.5 59.2M167 314.2l-13.9 86.8M331.2 711.6l-6.6 41.2M295.1 396.5l-9.1 56.9" fill="none" stroke="hsl(195.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="261.5" cy="837" rx="132" ry="27" fill="hsl(195.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(195.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUARRY WITH ALMANAC</text>
+<path d="M44 709.4h72" stroke="hsl(195.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1989  ·  100 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(195.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Requiem at the Yield poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(285.2 64.3% 24%)"/><stop offset="0.5" stop-color="hsl(305.2 57.9% 42%)"/><stop offset="1" stop-color="hsl(269.1 64.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(269.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(269.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="311" cy="239.2" r="255.4" fill="url(#glow)"/><circle cx="311" cy="239.2" r="60.8" fill="hsl(269.1 96% 78%)" opacity=".92"/>
+<path d="M0.6 828L-52.7 828L0.6 504.5L53.9 828ZM27.1 828L-25.1 828L27.1 528.7L79.3 828ZM78.2 828L-43.8 828L78.2 251.5L200.2 828ZM107.1 828L-22.2 828L107.1 211.1L236.4 828ZM158.2 828L102.8 828L158.2 556.7L213.6 828ZM185.7 828L104.2 828L185.7 492.7L267.2 828ZM213.9 828L113.7 828L213.9 343.1L314.1 828ZM253 828L128.5 828L253 280.8L377.5 828ZM289.6 828L189.8 828L289.6 338.7L389.4 828ZM344.4 828L182.7 828L344.4 184.4L506.1 828ZM367.9 828L304.2 828L367.9 513.9L431.6 828ZM414.4 828L330.4 828L414.4 443.8L498.4 828ZM445 828L333 828L445 370.3L557 828ZM498 828L367.6 828L498 239.7L628.4 828ZM515.9 828L442.8 828L515.9 464.8L589 828ZM566.8 828L450.1 828L566.8 296.5L683.5 828Z" fill="hsl(126.1 51.5% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(140.1 64.3% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(269.1 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE REQUIEM AT THE YIELD</text>
+<path d="M44 709.4h72" stroke="hsl(269.1 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2008  ·  107 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(269.1 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Hungry Prism poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(209.6 44.6% 24%)"/><stop offset="0.5" stop-color="hsl(229.6 40.1% 42%)"/><stop offset="1" stop-color="hsl(200.5 44.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(200.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(200.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="385.7" cy="190.5" r="323" fill="url(#glow)"/><circle cx="385.7" cy="190.5" r="76.9" fill="hsl(200.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 463.7 85.7 479.9Q128.6 434.7 171.4 450.9Q214.3 289.8 257.1 306Q300 286.8 342.9 303Q385.8 286.8 428.6 418.7Q471.5 402.5 514.3 498.8Q557.2 482.6 600 558L610 1158Z" fill="hsl(34.8 31.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 564.1 66.7 582.5Q100 531.4 133.3 549.8Q166.7 443.8 200 462.2Q233.4 443.8 266.7 503.3Q300 484.9 333.3 518.5Q366.7 435.3 400 453.7Q433.4 435.3 466.7 475.3Q500 456.9 533.3 590.2Q566.7 571.8 600 666L610 1266Z" fill="hsl(34.8 35.6% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 727.1 54.5 741.1Q81.8 680.8 109.1 694.8Q136.4 662.5 163.6 676.5Q190.9 589.1 218.2 603.1Q245.5 589.1 272.7 679.5Q300 607.8 327.3 621.8Q354.6 607.8 381.8 627.8Q409.1 597.1 436.4 611.1Q463.7 597.1 490.9 689.3Q518.2 675.3 545.5 753.8Q572.8 739.8 600 792L610 1392Z" fill="hsl(42.8 40.1% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(200.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE HUNGRY PRISM</text>
+<path d="M44 709.4h72" stroke="hsl(200.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1979  ·  150 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(200.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

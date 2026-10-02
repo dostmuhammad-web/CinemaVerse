@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Dynasty &amp; Latitude backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(236 29.9% 6%)"/><stop offset="0.5" stop-color="hsl(252 34.2% 13%)"/><stop offset="1" stop-color="hsl(219.3 38.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(219.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(219.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="708.5" cy="416.3" r="763" fill="url(#glow)"/>
+<circle cx="708.5" cy="416.3" r="152.6" fill="hsl(219.3 96% 78%)" opacity=".85"/>
+<path d="M172.7 0L334.7 0L-277.3 900L-592.3 900Z" fill="hsl(219.3 96% 78%)" opacity=".04"/><path d="M644.4 0L806.4 0L194.4 900L-120.6 900Z" fill="hsl(219.3 96% 78%)" opacity=".04"/><path d="M520.3 0L682.3 0L70.3 900L-244.7 900Z" fill="hsl(219.3 96% 78%)" opacity=".04"/><path d="M1188.5 0L1350.5 0L738.5 900L423.5 900Z" fill="hsl(219.3 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(38.3 34.2% 10%)"/><path d="M550.3 189.6L1210.1 189.6L1342 900L497.5 900Z" fill="hsl(219.3 96% 78%)" opacity="0.1"/><path d="M550.3 189.6L1210.1 189.6L1414.6 900L468.5 900Z" fill="hsl(219.3 96% 78%)" opacity="0"/><path d="M550.3 189.6L1210.1 189.6L1487.2 900L439.5 900Z" fill="hsl(219.3 96% 78%)" opacity="0"/><rect x="550.3" y="144" width="659.8" height="456.5" fill="hsl(236 29.9% 6%)"/><rect x="550.3" y="144" width="659.8" height="456.5" fill="hsl(219.3 100% 62% / 0.4)" opacity=".5"/><path d="M550.3 144h659.8v456.5h-659.8Z" fill="none" stroke="hsl(52.3 42.7% 3%)" stroke-width="7"/><path d="M550.3 372.2h659.8M880.2 144v456.5" stroke="hsl(52.3 42.7% 3%)" stroke-width="4"/><path d="M605 864q-20.4 -113.3 20.4 -140.5q22.7 27.2 13.6 68q-4.5 45.3 4.5 72.5Z" fill="hsl(52.3 42.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

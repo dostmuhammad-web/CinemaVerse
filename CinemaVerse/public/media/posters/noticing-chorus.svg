@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Noticing Chorus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(23.4 36.2% 24%)"/><stop offset="0.5" stop-color="hsl(43.4 32.5% 42%)"/><stop offset="1" stop-color="hsl(344.5 36.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(344.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(344.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="147" cy="311.2" r="477.5" fill="url(#glow)"/><circle cx="147" cy="311.2" r="113.7" fill="hsl(344.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 418.9L55.8 418.9L69.4 525.6L128.6 525.6L139.7 377.7L191.6 377.7L201.4 424.2L287.9 424.2L293.3 406.7L333 406.7L342.5 495.4L411.8 495.4L420.4 382.9L497.1 382.9L502.3 420.1L578 420.1L584.7 539.7L660.3 539.7L610 1248Z" fill="hsl(207.8 25.3% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(215.8 32.5% 10%)"/><path d="M336.2 159.4l-13.2 82.3M153.3 452.1l-10.5 65.7M357.6 656l-13.9 87.2M328.9 353.4l-6.9 42.9M133.1 106.4l-8.5 53M145.3 438.1l-6.5 40.8M156.5 583.6l-10.5 65.4M482.1 75.2l-5.8 36.5M513.6 626.8l-5 31.3M266.7 299.1l-13.2 82.5M439.3 20.2l-13.3 83.2M84.2 546.7l-7.2 45.1M19.4 256.6l-9.2 57.3M352.4 785.8l-6.2 38.8M86.2 7.5l-13.4 84M239.2 706.3l-13.8 86.2M159.9 451.4l-10.1 62.9M116 194l-9.1 57M481.3 253.3l-12 74.8M440.6 345l-6.2 38.8M528.5 597.3l-9 56.4M596.6 261.1l-10.6 66.5M326.7 279.5l-9.2 57.7M465.1 23.9l-6.2 38.9M272.9 355.9l-14 87.5M561.9 222.3l-9.6 60M226.4 242.3l-9.9 61.6M542.7 623.4l-5.9 36.9M500.2 807.1l-11.9 74.2M181.9 174.2l-13.7 85.5M182.9 789.8l-8.4 52.5M330.8 700.8l-12.1 75.4M91.1 211.9l-10.8 67.5M231.9 397.6l-7.6 47.7M112.3 609.6l-8.6 53.9M292.5 391.9l-9.3 58M592.5 76.1l-8.3 52.1M7.1 453.7l-8.4 52.5M424.7 263.5l-8.2 51.3M52.1 259.3l-8.1 50.9M205.3 412.4l-13.3 83.1M50.6 268.7l-5.9 37.1M525.2 212.4l-12.9 80.3M372.4 645.7l-7.4 46.4M304 660.2l-13 81.1M242 679.4l-4.8 30" fill="none" stroke="hsl(344.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="229.6" cy="837" rx="132" ry="27" fill="hsl(344.5 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(344.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NOTICING CHORUS</text>
+<path d="M44 709.4h72" stroke="hsl(344.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1965  ·  111 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(344.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Bramble for the Nettle poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(211.7 35.1% 6%)"/><stop offset="0.5" stop-color="hsl(227.7 40.2% 13%)"/><stop offset="1" stop-color="hsl(186.1 45.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(186.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(186.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 465.5 85.7 481.7Q128.6 427.8 171.4 444Q214.3 351.7 257.1 367.9Q300 336.2 342.9 352.4Q385.8 336.2 428.6 383Q471.5 366.8 514.3 430.1Q557.2 413.9 600 558L610 1158Z" fill="hsl(1.7 35.1% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 534.3 66.7 552.7Q100 508 133.3 526.4Q166.7 412.8 200 431.2Q233.4 412.8 266.7 465.3Q300 437.1 333.3 455.5Q366.7 377.3 400 395.7Q433.4 377.3 466.7 521.8Q500 503.4 533.3 568.9Q566.7 550.5 600 666L610 1266Z" fill="hsl(1.7 40.2% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 728.2 54.5 742.2Q81.8 677.6 109.1 691.6Q136.4 677.6 163.6 700Q190.9 592.9 218.2 606.9Q245.5 576.5 272.7 590.5Q300 576.5 327.3 629.7Q354.6 615.7 381.8 642.5Q409.1 628.5 436.4 676.2Q463.7 650.5 490.9 664.5Q518.2 650.5 545.5 746.9Q572.8 732.9 600 792L610 1392Z" fill="hsl(9.7 45.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(186.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE BRAMBLE FOR THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NETTLE</text>
+<path d="M44 726.8h72" stroke="hsl(186.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1983  ·  120 MIN  ·  ADVENTURE</text>
+<text x="556" y="750.8" fill="hsl(186.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

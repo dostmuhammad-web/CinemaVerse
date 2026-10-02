@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Distant Lattice backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(213.6 45.1% 6%)"/><stop offset="0.5" stop-color="hsl(229.6 51.6% 13%)"/><stop offset="1" stop-color="hsl(178.9 58% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="597.5" cy="465.9" r="664.5" fill="url(#glow)"/>
+<circle cx="597.5" cy="465.9" r="132.9" fill="hsl(178.9 96% 78%)" opacity=".85"/>
+<path d="M1581.4 0L1743.4 0L1131.4 900L816.4 900Z" fill="hsl(178.9 96% 78%)" opacity=".04"/><path d="M1326.2 0L1488.2 0L876.2 900L561.2 900Z" fill="hsl(178.9 96% 78%)" opacity=".04"/><path d="M630.8 0L792.8 0L180.8 900L-134.2 900Z" fill="hsl(178.9 96% 78%)" opacity=".04"/><path d="M810.5 0L972.5 0L360.5 900L45.5 900Z" fill="hsl(178.9 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(13.1 51.6% 10%)"/><path d="M528.3 186.9L1013.4 186.9L1110.4 900L489.5 900Z" fill="hsl(178.9 96% 78%)" opacity="0.1"/><path d="M528.3 186.9L1013.4 186.9L1163.8 900L468.1 900Z" fill="hsl(178.9 96% 78%)" opacity="0"/><path d="M528.3 186.9L1013.4 186.9L1217.2 900L446.8 900Z" fill="hsl(178.9 96% 78%)" opacity="0"/><rect x="528.3" y="144" width="485.1" height="429.4" fill="hsl(213.6 45.1% 6%)"/><rect x="528.3" y="144" width="485.1" height="429.4" fill="hsl(178.9 100% 62% / 0.4)" opacity=".5"/><path d="M528.3 144h485.1v429.4h-485.1Z" fill="none" stroke="hsl(27.1 64.5% 3%)" stroke-width="7"/><path d="M528.3 358.7h485.1M770.9 144v429.4" stroke="hsl(27.1 64.5% 3%)" stroke-width="4"/><path d="M906.6 864q-21.5 -119.7 21.5 -148.4q23.9 28.7 14.4 71.8q-4.8 47.9 4.8 76.6Z" fill="hsl(27.1 64.5% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

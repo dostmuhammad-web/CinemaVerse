@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Gantry against Eddy poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(357.1 37.6% 6%)"/><stop offset="0.5" stop-color="hsl(13.1 42.9% 13%)"/><stop offset="1" stop-color="hsl(317.7 48.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(317.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(317.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 427.9 85.7 444.1Q128.6 418.7 171.4 434.9Q214.3 396.6 257.1 412.8Q300 308.3 342.9 324.5Q385.8 308.3 428.6 422.6Q471.5 406.4 514.3 453.5Q557.2 437.3 600 558L610 1158Z" fill="hsl(199.3 37.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 564.5 66.7 582.9Q100 487.6 133.3 506Q166.7 478.5 200 496.9Q233.4 422.9 266.7 441.3Q300 422.9 333.3 513.5Q366.7 457.3 400 475.7Q433.4 457.3 466.7 476.6Q500 458.2 533.3 562.8Q566.7 544.4 600 666L610 1266Z" fill="hsl(199.3 42.9% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 729.6 54.5 743.6Q81.8 643.1 109.1 657.1Q136.4 643.1 163.6 666.5Q190.9 618.2 218.2 632.2Q245.5 601.4 272.7 615.4Q300 575.6 327.3 589.6Q354.6 575.6 381.8 645Q409.1 631 436.4 668.6Q463.7 654.6 490.9 670.7Q518.2 656.7 545.5 774.9Q572.8 760.9 600 792L610 1392Z" fill="hsl(207.3 48.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(317.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GANTRY AGAINST EDDY</text>
+<path d="M44 709.4h72" stroke="hsl(317.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1995  ·  146 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(317.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

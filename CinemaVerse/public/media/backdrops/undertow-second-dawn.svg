@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Undertow: Second Dawn backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(208.8 47.9% 6%)"/><stop offset="0.5" stop-color="hsl(224.8 54.7% 13%)"/><stop offset="1" stop-color="hsl(166.9 61.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(166.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(166.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="331.9" cy="430.5" r="588" fill="url(#glow)"/>
+<circle cx="331.9" cy="430.5" r="117.6" fill="hsl(166.9 96% 78%)" opacity=".85"/>
+<path d="M1206.2 0L1368.2 0L756.2 900L441.2 900Z" fill="hsl(166.9 96% 78%)" opacity=".04"/><path d="M1078.2 0L1240.2 0L628.2 900L313.2 900Z" fill="hsl(166.9 96% 78%)" opacity=".04"/><path d="M549.3 0L711.3 0L99.3 900L-215.7 900Z" fill="hsl(166.9 96% 78%)" opacity=".04"/><path d="M217.2 0L379.2 0L-232.8 900L-547.8 900Z" fill="hsl(166.9 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(2.7 54.7% 10%)"/><path d="M805.8 191.7L1330.6 191.7L1435.6 900L763.8 900Z" fill="hsl(166.9 96% 78%)" opacity="0.1"/><path d="M805.8 191.7L1330.6 191.7L1493.3 900L740.7 900Z" fill="hsl(166.9 96% 78%)" opacity="0"/><path d="M805.8 191.7L1330.6 191.7L1551.1 900L717.6 900Z" fill="hsl(166.9 96% 78%)" opacity="0"/><rect x="805.8" y="144" width="524.8" height="476.9" fill="hsl(208.8 47.9% 6%)"/><rect x="805.8" y="144" width="524.8" height="476.9" fill="hsl(166.9 100% 62% / 0.4)" opacity=".5"/><path d="M805.8 144h524.8v476.9h-524.8Z" fill="none" stroke="hsl(16.7 68.4% 3%)" stroke-width="7"/><path d="M805.8 382.5h524.8M1068.2 144v476.9" stroke="hsl(16.7 68.4% 3%)" stroke-width="4"/><path d="M1087.3 864q-17.2 -95.4 17.2 -118.3q19.1 22.9 11.5 57.3q-3.8 38.2 3.8 61.1Z" fill="hsl(16.7 68.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

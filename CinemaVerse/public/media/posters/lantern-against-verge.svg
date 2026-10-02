@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lantern against Verge poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(360 41.7% 6%)"/><stop offset="0.5" stop-color="hsl(16 47.7% 13%)"/><stop offset="1" stop-color="hsl(347.5 53.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M0.7 828L-93.2 828L0.7 447.8L94.6 828ZM31 828L-39.3 828L31 451.6L101.3 828ZM63.1 828L-24.7 828L63.1 415.2L150.9 828ZM102 828L-54.5 828L102 183.5L258.5 828ZM143 828L29.1 828L143 373.2L256.9 828ZM175.1 828L75.5 828L175.1 358.5L274.7 828ZM214.3 828L98.3 828L214.3 314L330.3 828ZM256.3 828L163.5 828L256.3 418.8L349.1 828ZM311.6 828L207.5 828L311.6 410.8L415.7 828ZM351.1 828L246.2 828L351.1 415.3L456 828ZM364.1 828L282.4 828L364.1 438.4L445.8 828ZM405.4 828L337.8 828L405.4 485.5L473 828ZM440.7 828L377.4 828L440.7 459.3L504 828ZM483.5 828L380.6 828L483.5 395.9L586.4 828ZM518.6 828L424 828L518.6 293.5L613.2 828ZM573.5 828L457.8 828L573.5 298.3L689.2 828Z" fill="hsl(172 47.7% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(186 59.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LANTERN AGAINST VERGE</text>
+<path d="M44 709.4h72" stroke="hsl(347.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2017  ·  95 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(347.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Borrowed Cascade poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(184 43.6% 6%)"/><stop offset="0.5" stop-color="hsl(200 49.8% 13%)"/><stop offset="1" stop-color="hsl(145.8 56% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(145.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(145.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 497.3 85.7 513.5Q128.6 397 171.4 413.2Q214.3 330.2 257.1 346.4Q300 330.2 342.9 417.3Q385.8 358 428.6 374.2Q471.5 358 514.3 448.4Q557.2 432.2 600 558L610 1158Z" fill="hsl(331.2 43.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 600.1 66.7 618.5Q100 512.3 133.3 530.7Q166.7 398.2 200 416.6Q233.4 398.2 266.7 453.4Q300 435 333.3 455.6Q366.7 373.2 400 391.6Q433.4 373.2 466.7 499.6Q500 481.2 533.3 561.3Q566.7 542.9 600 666L610 1266Z" fill="hsl(331.2 49.8% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 705.4 54.5 719.4Q81.8 676.5 109.1 690.5Q136.4 667.4 163.6 681.4Q190.9 604.3 218.2 618.3Q245.5 577.1 272.7 591.1Q300 577.1 327.3 653.3Q354.6 588.8 381.8 602.8Q409.1 588.8 436.4 671.6Q463.7 657.6 490.9 673.1Q518.2 659.1 545.5 728.6Q572.8 714.6 600 792L610 1392Z" fill="hsl(339.2 56% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(145.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BORROWED CASCADE</text>
+<path d="M44 709.4h72" stroke="hsl(145.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  114 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(145.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

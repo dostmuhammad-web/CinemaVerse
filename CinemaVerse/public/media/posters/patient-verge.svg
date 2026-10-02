@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Patient Verge poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(9.2 70.1% 24%)"/><stop offset="0.5" stop-color="hsl(29.2 63.1% 42%)"/><stop offset="1" stop-color="hsl(357.2 70.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(357.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(357.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="384.4" cy="211.4" r="497.3" fill="url(#glow)"/><circle cx="384.4" cy="211.4" r="118.4" fill="hsl(357.2 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 457.6 85.7 473.8Q128.6 358.2 171.4 374.4Q214.3 310.5 257.1 326.7Q300 310.5 342.9 432.9Q385.8 380.8 428.6 397Q471.5 380.8 514.3 476.8Q557.2 460.6 600 558L610 1158Z" fill="hsl(167.3 49.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 588.5 66.7 606.9Q100 516.2 133.3 534.6Q166.7 425.2 200 443.6Q233.4 383.9 266.7 402.3Q300 383.9 333.3 479.3Q366.7 423.1 400 441.5Q433.4 423.1 466.7 529.4Q500 511 533.3 586.5Q566.7 568.1 600 666L610 1266Z" fill="hsl(167.3 56.1% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 722 54.5 736Q81.8 642.1 109.1 656.1Q136.4 642.1 163.6 695.1Q190.9 592.9 218.2 606.9Q245.5 592.9 272.7 637.7Q300 571 327.3 585Q354.6 554.2 381.8 568.2Q409.1 554.2 436.4 635.3Q463.7 621.3 490.9 662.4Q518.2 648.4 545.5 772.5Q572.8 758.5 600 792L610 1392Z" fill="hsl(175.3 63.1% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(357.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PATIENT VERGE</text>
+<path d="M44 709.4h72" stroke="hsl(357.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  143 MIN  ·  HISTORY</text>
+<text x="556" y="733.4" fill="hsl(357.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

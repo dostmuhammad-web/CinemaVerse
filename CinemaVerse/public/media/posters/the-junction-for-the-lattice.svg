@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Junction for the Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(209.6 45.5% 6%)"/><stop offset="0.5" stop-color="hsl(225.6 52.1% 13%)"/><stop offset="1" stop-color="hsl(167.7 58.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(167.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(167.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 385.6L88.2 385.6L96.3 437L194.1 437L199.7 409.2L259.7 409.2L262.7 504.7L346.5 504.7L359 520.7L386.9 520.7L394.4 363.8L462.2 363.8L475.6 508.3L543.5 508.3L554.7 493.3L609.1 493.3L610 1248Z" fill="hsl(348 45.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(356 58.6% 6%)"/><path d="M322.7 631.1l-13 81M534.2 713.8l-7.8 48.5M318.5 12.3l-13.5 84.6M480.5 48.1l-5 31.1M264.4 706.4l-9 56.4M347.3 22.6l-6.9 43.1M183.4 687.8l-7.2 45M443.5 472.1l-6.5 40.5M338.5 375.8l-8.8 55M375.8 297.6l-8.8 54.7M551.6 86.2l-14.1 88.1M14.7 399.4l-12.1 75.9M302.3 710.7l-10.3 64.6M2.3 155.9l-9.6 60.3M580.6 790l-14.1 88M24.9 617.1l-7 43.6M60.4 279.5l-14.4 89.8M378.4 221.9l-12.9 80.4M452.1 61.5l-13.4 83.8M117.5 634.3l-13.4 83.7M38.1 720.6l-5.2 32.6M436 379.7l-12.3 76.7M120.1 466.2l-8.2 51.3M544.8 675.7l-8.2 51.5M140.3 95l-11.8 73.5M447.8 544.1l-13.9 86.7M153.2 330.3l-5 31.5M333.3 597.3l-10.9 67.9M182 660.5l-12.6 78.6M475 266l-5.4 34M30 353.1l-14.3 89.3M477.2 258.9l-5.3 33M304.9 570.2l-12.7 79.3M419.6 445.7l-8.3 52M364.9 146.5l-6.3 39.5M201.7 600.3l-13.5 84.4M157.2 294.7l-11.9 74.1M513.1 385l-14.3 89.2M595.2 254l-9.9 62.2M9 81.4l-14.2 88.7M52.7 301.2l-10.5 65.7M500.1 761.2l-9.3 57.9M491.9 531.6l-11.7 73.3M321.9 96.8l-9.6 59.9M51.3 426.7l-8.9 55.3M147.5 59.1l-5.1 31.8" fill="none" stroke="hsl(167.7 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="206.6" cy="837" rx="132" ry="27" fill="hsl(167.7 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(167.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE JUNCTION FOR THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LATTICE</text>
+<path d="M44 726.8h72" stroke="hsl(167.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  144 MIN  ·  CRIME</text>
+<text x="556" y="750.8" fill="hsl(167.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

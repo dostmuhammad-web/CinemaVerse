@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Modern Sparrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(202.3 54.8% 24%)"/><stop offset="0.5" stop-color="hsl(222.3 49.3% 42%)"/><stop offset="1" stop-color="hsl(184.3 54.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(184.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(184.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="344.9" cy="261" r="387.7" fill="url(#glow)"/><circle cx="344.9" cy="261" r="92.3" fill="hsl(184.3 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 473.5 85.7 489.7Q128.6 415.9 171.4 432.1Q214.3 334.8 257.1 351Q300 334.8 342.9 398Q385.8 320.8 428.6 337Q471.5 320.8 514.3 510.6Q557.2 494.4 600 558L610 1158Z" fill="hsl(9.3 38.3% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 545.7 66.7 564.1Q100 529.1 133.3 547.5Q166.7 431.3 200 449.7Q233.4 401 266.7 419.4Q300 401 333.3 461.2Q366.7 431.1 400 449.5Q433.4 431.1 466.7 525.9Q500 507.5 533.3 601.6Q566.7 583.2 600 666L610 1266Z" fill="hsl(9.3 43.8% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 705.8 54.5 719.8Q81.8 650.6 109.1 664.6Q136.4 650.6 163.6 711.3Q190.9 615.4 218.2 629.4Q245.5 585.7 272.7 599.7Q300 556.9 327.3 570.9Q354.6 556.9 381.8 597.5Q409.1 583.5 436.4 689.8Q463.7 675.8 490.9 699.1Q518.2 685.1 545.5 734.1Q572.8 720.1 600 792L610 1392Z" fill="hsl(17.3 49.3% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(184.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MODERN SPARROW</text>
+<path d="M44 709.4h72" stroke="hsl(184.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1995  ·  126 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(184.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

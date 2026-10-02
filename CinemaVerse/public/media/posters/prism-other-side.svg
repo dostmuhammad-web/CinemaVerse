@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Prism: Other Side poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(38.4 32% 24%)"/><stop offset="0.5" stop-color="hsl(58.4 28.8% 42%)"/><stop offset="1" stop-color="hsl(357.8 32% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(357.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(357.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="323.6" cy="330.4" r="302.4" fill="url(#glow)"/><circle cx="323.6" cy="330.4" r="72" fill="hsl(357.8 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 443.3 85.7 459.5Q128.6 394 171.4 410.2Q214.3 388.5 257.1 404.7Q300 388.5 342.9 424.4Q385.8 342.4 428.6 358.6Q471.5 342.4 514.3 512Q557.2 495.8 600 558L610 1158Z" fill="hsl(210.1 22.4% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 616.7 66.7 635.1Q100 486.5 133.3 504.9Q166.7 486.5 200 540.6Q233.4 501.9 266.7 520.3Q300 374.4 333.3 392.8Q366.7 370.7 400 389.1Q433.4 370.7 466.7 571.2Q500 542.1 533.3 560.5Q566.7 542.1 600 666L610 1266Z" fill="hsl(210.1 25.6% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 716.5 54.5 730.5Q81.8 674.6 109.1 688.6Q136.4 612.3 163.6 626.3Q190.9 612.3 218.2 665.6Q245.5 624.7 272.7 638.7Q300 622.6 327.3 636.6Q354.6 622.6 381.8 650.5Q409.1 636.5 436.4 663.1Q463.7 649.1 490.9 711.8Q518.2 697.8 545.5 759.5Q572.8 745.5 600 792L610 1392Z" fill="hsl(218.1 28.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(357.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PRISM: OTHER SIDE</text>
+<path d="M44 709.4h72" stroke="hsl(357.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1962  ·  129 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(357.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

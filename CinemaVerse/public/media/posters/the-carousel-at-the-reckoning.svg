@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Carousel at the Reckoning poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(206.7 49.5% 6%)"/><stop offset="0.5" stop-color="hsl(222.7 56.6% 13%)"/><stop offset="1" stop-color="hsl(182.3 63.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(13.9 56.6% 10%)"/><path d="M130.4 181.2L368.4 181.2L415.9 900L111.4 900Z" fill="hsl(182.3 96% 78%)" opacity="0.1"/><path d="M130.4 181.2L368.4 181.2L442.1 900L100.9 900Z" fill="hsl(182.3 96% 78%)" opacity="0"/><path d="M130.4 181.2L368.4 181.2L468.3 900L90.4 900Z" fill="hsl(182.3 96% 78%)" opacity="0"/><rect x="130.4" y="144" width="238" height="372.3" fill="hsl(206.7 49.5% 6%)"/><rect x="130.4" y="144" width="238" height="372.3" fill="hsl(182.3 100% 62% / 0.4)" opacity=".5"/><path d="M130.4 144h238v372.3h-238Z" fill="none" stroke="hsl(27.9 70.7% 3%)" stroke-width="7"/><path d="M130.4 330.2h238M249.4 144v372.3" stroke="hsl(27.9 70.7% 3%)" stroke-width="4"/><path d="M440.4 864q-20.5 -114.1 20.5 -141.5q22.8 27.4 13.7 68.5q-4.6 45.6 4.6 73Z" fill="hsl(27.9 70.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(182.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE CAROUSEL AT THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RECKONING</text>
+<path d="M44 726.8h72" stroke="hsl(182.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  88 MIN  ·  DRAMA</text>
+<text x="556" y="750.8" fill="hsl(182.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

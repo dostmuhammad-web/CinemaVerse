@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Copper Cinder poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(212.8 40.5% 6%)"/><stop offset="0.5" stop-color="hsl(228.8 46.3% 13%)"/><stop offset="1" stop-color="hsl(175.8 52.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(175.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(175.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 405.4L67.2 405.4L79.7 366.9L112.9 366.9L123.1 346.5L217.7 346.5L232.1 477.1L314.6 477.1L321.8 421.3L417.6 421.3L422.8 551.3L491.8 551.3L494.9 549.8L574.3 549.8L580.8 534L680.5 534L610 1248Z" fill="hsl(354.5 40.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(2.5 52.1% 6%)"/><path d="M413.8 371.8l-13.2 82.7M457.9 210.2l-6.2 38.7M548.3 495.9l-13.8 86M294.6 514.7l-13.7 85.9M178 518.3l-7 44M169.8 612.9l-13.7 85.7M196.7 357.9l-4.7 29.6M310 805.1l-12.5 78.1M536.1 620.4l-10.1 63.4M69.4 277.7l-10.9 68.2M19.3 172.8l-7.8 48.4M338.1 736.5l-13 81.5M354.8 57.7l-8.2 51.4M531.9 231.6l-5.8 36.4M465.3 419.5l-7 43.7M121.5 620.9l-7.6 47.3M160.2 565.8l-8.1 50.3M204.9 490.4l-7.3 45.8M143.9 586.5l-9.4 59M303.4 696.3l-13.2 82.4M435.8 391.4l-13.5 84.4M548 246.1l-11 68.7M168.2 15l-4.8 29.9M508.9 687.5l-7.1 44.1M495.2 648.7l-8.4 52.3M330.1 540.6l-14.4 89.9M538.5 151.5l-8.9 55.9M516.1 105.6l-14.3 89.2M150.3 117.6l-9 56.3M558.1 503.3l-9.7 60.6M153 35.8l-4.4 27.8M550.8 599.5l-9.3 58.3M429.8 595.9l-8.5 53M351.5 439.2l-8 49.8M81.4 568.7l-9.6 59.7M140.5 254.1l-6.6 41M598.1 573.2l-5.1 31.7M46.7 778.6l-13.5 84.5M132.6 261.5l-12.9 80.7M367.8 396.7l-10.8 67.5M291 219.9l-7.9 49.6M403.3 352.8l-7 43.9M83 340l-7.6 47.6M458.6 789.2l-11.4 71.4M124.8 309.4l-13.2 82.2M287.3 130.1l-11.3 70.6" fill="none" stroke="hsl(175.8 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="412.7" cy="837" rx="132" ry="27" fill="hsl(175.8 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(175.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">COPPER CINDER</text>
+<path d="M44 709.4h72" stroke="hsl(175.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2004  ·  110 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(175.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

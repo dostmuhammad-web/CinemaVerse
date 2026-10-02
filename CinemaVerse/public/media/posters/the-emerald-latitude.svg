@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Emerald Latitude poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(272.6 62.8% 24%)"/><stop offset="0.5" stop-color="hsl(292.6 56.5% 42%)"/><stop offset="1" stop-color="hsl(246.3 62.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(246.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(246.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="329.2" cy="230.1" r="262.5" fill="url(#glow)"/><circle cx="329.2" cy="230.1" r="62.5" fill="hsl(246.3 96% 78%)" opacity=".92"/>
+<path d="M-9.5 828L-89.2 828L-9.5 377.1L70.2 828ZM43 828L-56 828L43 444.3L142 828ZM85.3 828L-37.7 828L85.3 259.5L208.3 828ZM111.2 828L-4.5 828L111.2 378L226.9 828ZM154.3 828L21.9 828L154.3 208.4L286.7 828ZM176.2 828L67.5 828L176.2 408.4L284.9 828ZM230.6 828L163.2 828L230.6 498.5L298 828ZM258.7 828L177.9 828L258.7 345.6L339.5 828ZM313.4 828L193.7 828L313.4 346.7L433.1 828ZM342.5 828L240.2 828L342.5 228.9L444.8 828ZM363.7 828L257 828L363.7 297.9L470.4 828ZM416.2 828L343.2 828L416.2 533.6L489.2 828ZM441.1 828L370.2 828L441.1 547.5L512 828ZM477.2 828L386.7 828L477.2 393.6L567.7 828ZM533.3 828L399.5 828L533.3 216L667.1 828ZM574.5 828L496.8 828L574.5 520.3L652.2 828Z" fill="hsl(99.5 50.2% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(113.5 62.8% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(246.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE EMERALD LATITUDE</text>
+<path d="M44 709.4h72" stroke="hsl(246.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  118 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(246.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

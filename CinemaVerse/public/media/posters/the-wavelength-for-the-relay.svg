@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Wavelength for the Relay poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(32.2 56.1% 24%)"/><stop offset="0.5" stop-color="hsl(52.2 50.5% 62%)"/><stop offset="1" stop-color="hsl(14.4 56.1% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(14.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(14.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="239.9" cy="286.5" r="323" fill="url(#glow)"/><circle cx="239.9" cy="286.5" r="76.9" fill="hsl(14.4 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(196.3 44.9% 18%)"/><path d="M5.1 0L71.8 0L53.1 738L23.8 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.7"/><path d="M69.1 0L135.8 0L117.1 738L87.8 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.4"/><path d="M137.7 0L204.4 0L185.7 738L156.4 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.6"/><path d="M202.7 0L269.4 0L250.7 738L221.4 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.5"/><path d="M267.8 0L334.5 0L315.8 738L286.5 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.4"/><path d="M336.4 0L403.1 0L384.4 738L355.1 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.4"/><path d="M409.9 0L476.6 0L457.9 738L428.6 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.6"/><path d="M472.6 0L539.3 0L520.6 738L491.3 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.6"/><path d="M540.3 0L607 0L588.3 738L559 738Z" fill="hsl(204.3 50.5% 10%)" opacity="0.5"/><path d="M371.1 0L551.1 774L191.1 774Z" fill="hsl(14.4 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(14.4 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(210.3 56.1% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(14.4 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WAVELENGTH FOR THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RELAY</text>
+<path d="M44 726.8h72" stroke="hsl(14.4 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2011  ·  117 MIN  ·  COMEDY</text>
+<text x="556" y="750.8" fill="hsl(14.4 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

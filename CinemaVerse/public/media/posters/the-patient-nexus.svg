@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Patient Nexus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(329.3 37.5% 6%)"/><stop offset="0.5" stop-color="hsl(345.3 42.9% 13%)"/><stop offset="1" stop-color="hsl(322.1 48.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(322.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(322.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="260.5" cy="297.9" r="98.6" fill="hsl(322.1 96% 88%)" opacity="0.2"/><circle cx="298.6" cy="228.8" r="159.4" fill="hsl(322.1 92% 62%)" opacity="0.3"/><circle cx="104.9" cy="219.4" r="49" fill="hsl(322.1 96% 88%)" opacity="0.2"/><circle cx="455.3" cy="437.9" r="69.7" fill="hsl(322.1 92% 62%)" opacity="0.3"/><circle cx="312.4" cy="297.4" r="97.4" fill="hsl(322.1 96% 88%)" opacity="0.3"/><circle cx="521.7" cy="500" r="87.4" fill="hsl(322.1 92% 62%)" opacity="0.1"/><circle cx="440" cy="170.4" r="101.5" fill="hsl(322.1 96% 88%)" opacity="0.3"/><circle cx="331.3" cy="347.7" r="179.9" fill="hsl(322.1 92% 62%)" opacity="0.2"/><circle cx="260.9" cy="119.6" r="155.2" fill="hsl(322.1 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 760.7 75 769.3Q112.5 731.9 150 740.5Q187.5 731.9 225 741.2Q262.5 702.9 300 711.5Q337.5 702.9 375 757.6Q412.5 746.5 450 755.1Q487.5 746.5 525 792.7Q562.5 784.1 600 828L610 1428Z" fill="hsl(183.8 48.3% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(322.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE PATIENT NEXUS</text>
+<path d="M44 709.4h72" stroke="hsl(322.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  86 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(322.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

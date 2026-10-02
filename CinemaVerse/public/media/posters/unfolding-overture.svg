@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Unfolding Overture poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(228.5 43% 6%)"/><stop offset="0.5" stop-color="hsl(244.5 49.2% 13%)"/><stop offset="1" stop-color="hsl(190.4 55.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(190.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(190.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(64.3 49.2% 10%)"/><path d="M325.5 184.5L517.9 184.5L556.4 900L310.1 900Z" fill="hsl(190.4 96% 78%)" opacity="0.1"/><path d="M325.5 184.5L517.9 184.5L577.6 900L301.6 900Z" fill="hsl(190.4 96% 78%)" opacity="0"/><path d="M325.5 184.5L517.9 184.5L598.7 900L293.2 900Z" fill="hsl(190.4 96% 78%)" opacity="0"/><rect x="325.5" y="144" width="192.4" height="405.3" fill="hsl(228.5 43% 6%)"/><rect x="325.5" y="144" width="192.4" height="405.3" fill="hsl(190.4 100% 62% / 0.4)" opacity=".5"/><path d="M325.5 144h192.4v405.3h-192.4Z" fill="none" stroke="hsl(78.3 61.5% 3%)" stroke-width="7"/><path d="M325.5 346.6h192.4M421.7 144v405.3" stroke="hsl(78.3 61.5% 3%)" stroke-width="4"/><path d="M243.4 864q-16.6 -92.3 16.6 -114.5q18.5 22.2 11.1 55.4q-3.7 36.9 3.7 59.1Z" fill="hsl(78.3 61.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(190.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">UNFOLDING OVERTURE</text>
+<path d="M44 709.4h72" stroke="hsl(190.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2002  ·  104 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(190.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

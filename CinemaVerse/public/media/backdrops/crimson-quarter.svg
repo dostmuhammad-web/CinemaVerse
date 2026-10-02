@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Crimson Quarter backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(36.7 34.1% 6%)"/><stop offset="0.5" stop-color="hsl(52.7 38.9% 13%)"/><stop offset="1" stop-color="hsl(3.5 43.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(3.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(3.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="329.3" cy="376" r="674" fill="url(#glow)"/>
+<circle cx="329.3" cy="376" r="134.8" fill="hsl(3.5 96% 78%)" opacity=".85"/>
+<path d="M993.7 0L1155.7 0L543.7 900L228.7 900Z" fill="hsl(3.5 96% 78%)" opacity=".04"/><path d="M1227.9 0L1389.9 0L777.9 900L462.9 900Z" fill="hsl(3.5 96% 78%)" opacity=".04"/><path d="M134 0L296 0L-316 900L-631 900Z" fill="hsl(3.5 96% 78%)" opacity=".04"/><path d="M311.6 0L473.6 0L-138.4 900L-453.4 900Z" fill="hsl(3.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(181 38.9% 10%)"/><path d="M595 183.6L1227.4 183.6L1353.8 900L544.4 900Z" fill="hsl(3.5 96% 78%)" opacity="0.1"/><path d="M595 183.6L1227.4 183.6L1423.4 900L516.6 900Z" fill="hsl(3.5 96% 78%)" opacity="0"/><path d="M595 183.6L1227.4 183.6L1492.9 900L488.8 900Z" fill="hsl(3.5 96% 78%)" opacity="0"/><rect x="595" y="144" width="632.4" height="396" fill="hsl(36.7 34.1% 6%)"/><rect x="595" y="144" width="632.4" height="396" fill="hsl(3.5 100% 62% / 0.4)" opacity=".5"/><path d="M595 144h632.4v396h-632.4Z" fill="none" stroke="hsl(195 48.7% 3%)" stroke-width="7"/><path d="M595 342h632.4M911.2 144v396" stroke="hsl(195 48.7% 3%)" stroke-width="4"/><path d="M1006.2 864q-19 -105.4 19 -130.6q21.1 25.3 12.6 63.2q-4.2 42.1 4.2 67.4Z" fill="hsl(195 48.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

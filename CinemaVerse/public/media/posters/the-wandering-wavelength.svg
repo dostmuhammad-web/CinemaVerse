@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Wandering Wavelength poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(29.9 46.7% 6%)"/><stop offset="0.5" stop-color="hsl(45.9 53.4% 13%)"/><stop offset="1" stop-color="hsl(12.3 60% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(12.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(12.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 449L36.6 449L48.3 436.2L143.1 436.2L150.3 549.4L239.8 549.4L243.2 473.9L273.6 473.9L277.6 482L318.4 482L329.4 451.6L379.3 451.6L391.3 497.6L452.9 497.6L461.5 462.9L553.4 462.9L559.5 419.4L586.7 419.4L596.4 562.1L652.3 562.1L610 1248Z" fill="hsl(203.7 46.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(211.7 60% 6%)"/><path d="M512.2 748.7l-14.2 88.6M597.1 395.3l-10.9 68.3M80.3 462.1l-8.8 55.1M597.5 229.4l-7.5 46.8M469.7 685.5l-10.9 68.2M262.6 346.8l-6.6 41.3M335.8 70l-13.9 87.2M226.3 253l-7.4 46.5M92 39.7l-10.9 67.9M305.8 81.4l-14.2 88.9M148.3 653.3l-12.1 75.4M468.6 345.5l-13.3 83M352.2 162.9l-13.6 85.3M590.7 791.4l-13.9 87.2M473.9 779.9l-6.6 41.6M256.2 93.2l-12.6 79M157.4 99.8l-5.6 34.7M363.8 570.4l-4.7 29.5M145.2 151.7l-11.5 72M460.4 727.4l-5.4 33.7M138.1 90l-11.4 71M388.4 169.5l-11.2 70M399.6 27.2l-4.8 30.1M131.8 422.3l-14.3 89.5M308.8 487.4l-13.9 86.7M141.8 638.8l-8.6 53.6M157.4 287.5l-11.7 73.1M242.4 594.2l-5.7 35.8M562.9 52.1l-6.6 41.5M305.2 248.3l-7.4 46.5M477.3 253.4l-9.2 57.7M551 23.3l-12.9 80.9M95.3 82l-4.6 28.5M317.3 749.9l-8.4 52.2M18.6 21.3l-11.2 70.1M74.3 44.5l-8.8 55.2M273.8 44.3l-13.1 81.8M172.8 39.5l-8.8 55.2M338 318.9l-9.7 60.7M289.3 646.8l-13.7 85.7M322.5 670.8l-11.7 73.2M325.1 385.4l-7.2 45.2M280.8 528.9l-11 68.7M132.2 559.7l-12.2 76.4M405.4 280.3l-11.3 70.7M175.4 468.8l-4.8 30" fill="none" stroke="hsl(12.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="196" cy="837" rx="132" ry="27" fill="hsl(12.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(12.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WANDERING WAVELENGTH</text>
+<path d="M44 709.4h72" stroke="hsl(12.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  109 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(12.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

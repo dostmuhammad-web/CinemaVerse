@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Granite against the Aviary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(223.2 42.1% 6%)"/><stop offset="0.5" stop-color="hsl(239.2 48.1% 13%)"/><stop offset="1" stop-color="hsl(183.3 54.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(183.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(183.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 484L60.9 484L75.7 427L128.7 427L139 356.5L227.7 356.5L239.7 457.7L287 457.7L294.5 345.5L357.1 345.5L365.7 444.6L417.1 444.6L429.2 555.7L504.9 555.7L511.9 399.3L565.7 399.3L574.3 480L651.8 480L610 1248Z" fill="hsl(9.5 42.1% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(17.5 54.1% 6%)"/><path d="M90.9 273.7l-10.4 64.9M263.9 496.9l-5.7 35.6M555.7 740l-14.3 89.7M269.6 186.1l-10.9 68.1M309.2 638.9l-7.7 48M204.8 442.3l-12.6 78.4M315.1 445.7l-7.1 44.5M16.4 105.6l-8.5 52.8M146.8 674.4l-14 87.4M549.7 686.2l-4.5 28M312.5 323.8l-12.6 78.5M357 537.8l-9.6 60M231.2 581l-6 37.3M164.2 157.8l-8.1 50.8M222.3 578.8l-10 62.3M3.7 230.5l-4.8 30M598.1 123.9l-9.6 60.3M490.8 788l-12.8 80.1M533.7 1.2l-13.6 85M166.3 43.6l-9.2 57.6M566.3 650.7l-8.5 53.1M158.2 733l-8.1 50.3M222.5 319.3l-7.2 45.1M51.1 372.5l-7 44M212.5 228.4l-8.2 51M103.8 424.3l-12.4 77.4M139.4 787.3l-13.7 85.7M21.1 561.4l-12.2 76.1M120 298.5l-11.3 70.9M140.2 341.1l-13.4 84M523.2 628.1l-9 56.4M451.2 502.7l-14.1 88.3M513.6 370.6l-10.7 66.6M446.9 655.4l-12.3 76.9M188.6 393.2l-7.1 44.5M297.1 373.4l-11 68.7M300.2 10.2l-8 50.2M66.5 784.5l-11.2 70M505.1 63.6l-10.6 66.4M251.1 403.2l-4.3 27M54.6 12.1l-8.1 50.6M408.4 132.2l-4.9 30.9M303.9 481.5l-5.7 35.4M15.2 691.7l-12.5 77.9M511.8 767l-8.2 51.3M115.2 554.4l-9.2 57.2" fill="none" stroke="hsl(183.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="271.9" cy="837" rx="132" ry="27" fill="hsl(183.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(183.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE GRANITE AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">AVIARY</text>
+<path d="M44 726.8h72" stroke="hsl(183.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2008  ·  142 MIN  ·  CRIME</text>
+<text x="556" y="750.8" fill="hsl(183.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bramble: Quiet Crowd poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(218.9 35.4% 6%)"/><stop offset="0.5" stop-color="hsl(234.9 40.5% 13%)"/><stop offset="1" stop-color="hsl(201.4 45.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(201.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(201.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(30.1 40.5% 10%)"/><path d="M203.7 182.8L441.1 182.8L488.5 900L184.7 900Z" fill="hsl(201.4 96% 78%)" opacity="0.1"/><path d="M203.7 182.8L441.1 182.8L514.7 900L174.3 900Z" fill="hsl(201.4 96% 78%)" opacity="0"/><path d="M203.7 182.8L441.1 182.8L540.8 900L163.8 900Z" fill="hsl(201.4 96% 78%)" opacity="0"/><rect x="203.7" y="144" width="237.4" height="387.8" fill="hsl(218.9 35.4% 6%)"/><rect x="203.7" y="144" width="237.4" height="387.8" fill="hsl(201.4 100% 62% / 0.4)" opacity=".5"/><path d="M203.7 144h237.4v387.8h-237.4Z" fill="none" stroke="hsl(44.1 50.6% 3%)" stroke-width="7"/><path d="M203.7 337.9h237.4M322.4 144v387.8" stroke="hsl(44.1 50.6% 3%)" stroke-width="4"/><path d="M264.9 864q-20.4 -113.5 20.4 -140.7q22.7 27.2 13.6 68.1q-4.5 45.4 4.5 72.6Z" fill="hsl(44.1 50.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(201.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BRAMBLE: QUIET CROWD</text>
+<path d="M44 709.4h72" stroke="hsl(201.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2002  ·  137 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(201.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

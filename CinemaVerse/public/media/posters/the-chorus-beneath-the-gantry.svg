@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Chorus beneath the Gantry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(63.6 44.8% 24%)"/><stop offset="0.5" stop-color="hsl(83.6 40.3% 62%)"/><stop offset="1" stop-color="hsl(46.3 44.8% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(46.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(46.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="369.3" cy="306.1" r="451.5" fill="url(#glow)"/><circle cx="369.3" cy="306.1" r="107.5" fill="hsl(46.3 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(208.5 35.8% 18%)"/><path d="M2.3 0L69 0L50.3 738L21 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.4"/><path d="M76.6 0L143.3 0L124.6 738L95.3 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.3"/><path d="M137.4 0L204.1 0L185.4 738L156.1 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.7"/><path d="M201.1 0L267.8 0L249.1 738L219.8 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.4"/><path d="M268.9 0L335.6 0L316.9 738L287.6 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.4"/><path d="M337.6 0L404.3 0L385.6 738L356.3 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.7"/><path d="M409.4 0L476.1 0L457.4 738L428.1 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.6"/><path d="M472.2 0L538.9 0L520.2 738L490.9 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.4"/><path d="M537.8 0L604.5 0L585.8 738L556.5 738Z" fill="hsl(216.5 40.3% 10%)" opacity="0.6"/><path d="M385.7 0L565.7 774L205.7 774Z" fill="hsl(46.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(46.3 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(222.5 44.8% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(46.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE CHORUS BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GANTRY</text>
+<path d="M44 726.8h72" stroke="hsl(46.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1983  ·  101 MIN  ·  COMEDY</text>
+<text x="556" y="750.8" fill="hsl(46.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

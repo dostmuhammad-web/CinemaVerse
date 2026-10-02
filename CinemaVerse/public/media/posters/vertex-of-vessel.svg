@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Vertex of Vessel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(265.5 37.6% 6%)"/><stop offset="0.5" stop-color="hsl(281.5 43% 13%)"/><stop offset="1" stop-color="hsl(246.1 48.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(246.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(246.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 479.3L81.7 479.3L90.6 440.9L185 440.9L188.3 480.4L225.3 480.4L239.9 475.4L306.2 475.4L320.1 375.3L359.6 375.3L363.7 424.8L437.3 424.8L443.7 356.2L518.9 356.2L532.1 497.5L608 497.5L610 1248Z" fill="hsl(93.2 37.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(101.2 48.4% 6%)"/><path d="M117.3 174l-6 37.6M108.8 522.5l-8.7 54.4M410.5 420.5l-8.9 55.9M425.7 113.5l-9 56.5M475.2 723.4l-9.2 57.3M17 674.1l-8.4 52.4M193.3 280.9l-5 31.2M31 202.8l-8.7 54.2M0.7 695.2l-4.5 27.9M455.5 271.9l-7.9 49.6M264.3 100.7l-4.8 29.8M64.3 21l-10.9 68.4M584.2 623.3l-8.7 54.5M35.8 648.7l-7.6 47.8M130 20.9l-12.3 76.8M214.5 552.6l-5.7 35.9M515.9 483.5l-8.8 54.9M76 706.9l-9.3 58.4M481.1 805.7l-9.4 58.5M225.6 294.4l-13.5 84.5M596.9 101.7l-7.3 45.7M480.6 347.5l-10 62.6M186.3 338l-11.3 70.8M574.1 9.4l-6.9 43.3M31.5 150.2l-11.5 72M4.5 690l-7 43.4M152.7 769.7l-9.8 61.3M102.6 108l-7.7 47.8M516.9 756.6l-14.1 88M319.1 308l-5.6 35M359.6 122.6l-6.8 42.8M261.3 377.4l-10.2 63.8M183.3 41.9l-5.9 37.2M329.6 235.4l-13.2 82.7M337.8 188.5l-7.4 46.1M516.5 162.9l-10.4 65.2M430.5 790.3l-11.9 74.1M264 111.7l-8 49.7M193.5 688.9l-8.3 52.1M350.5 34.9l-9.8 61.2M552.8 216.9l-7.2 44.9M239.7 567.4l-6.8 42.6M503.2 423.1l-14.1 88.3M596.8 493.4l-9.4 58.6M408.7 575.7l-5.3 32.8M588.3 325l-14 87.3" fill="none" stroke="hsl(246.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="233.1" cy="837" rx="132" ry="27" fill="hsl(246.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(246.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">VERTEX OF VESSEL</text>
+<path d="M44 709.4h72" stroke="hsl(246.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1990  ·  137 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(246.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

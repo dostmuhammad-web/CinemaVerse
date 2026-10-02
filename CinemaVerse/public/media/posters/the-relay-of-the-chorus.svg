@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Relay of the Chorus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(25.4 35.6% 24%)"/><stop offset="0.5" stop-color="hsl(45.4 32% 42%)"/><stop offset="1" stop-color="hsl(5.6 35.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(5.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(5.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="395.5" cy="213.9" r="351.1" fill="url(#glow)"/><circle cx="395.5" cy="213.9" r="83.6" fill="hsl(5.6 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 493.9 85.7 510.1Q128.6 369.5 171.4 385.7Q214.3 301.9 257.1 318.1Q300 301.9 342.9 395.6Q385.8 331.2 428.6 347.4Q471.5 331.2 514.3 505Q557.2 488.8 600 558L610 1158Z" fill="hsl(210.6 24.9% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 571.7 66.7 590.1Q100 505.6 133.3 524Q166.7 505.6 200 527.2Q233.4 331.8 266.7 350.2Q300 331.8 333.3 488.3Q366.7 469.9 400 525.5Q433.4 507.1 466.7 568.4Q500 550 533.3 578.6Q566.7 560.2 600 666L610 1266Z" fill="hsl(210.6 28.5% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 739.9 54.5 753.9Q81.8 688.8 109.1 702.8Q136.4 635 163.6 649Q190.9 614.1 218.2 628.1Q245.5 614.1 272.7 629Q300 564.3 327.3 578.3Q354.6 564.3 381.8 652.6Q409.1 638.6 436.4 711.6Q463.7 697.6 490.9 719.5Q518.2 705.5 545.5 749.2Q572.8 735.2 600 792L610 1392Z" fill="hsl(218.6 32% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(5.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE RELAY OF THE CHORUS</text>
+<path d="M44 709.4h72" stroke="hsl(5.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1969  ·  120 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(5.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

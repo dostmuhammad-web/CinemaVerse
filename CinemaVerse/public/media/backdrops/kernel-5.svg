@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Kernel 5 backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(188.3 39.1% 6%)"/><stop offset="0.5" stop-color="hsl(204.3 44.6% 13%)"/><stop offset="1" stop-color="hsl(180 50.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(180 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(180 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="789.9" cy="349.5" r="348.5" fill="url(#glow)"/>
+<circle cx="789.9" cy="349.5" r="69.7" fill="hsl(180 96% 78%)" opacity=".85"/>
+<path d="M1485 0L1647 0L1035 900L720 900Z" fill="hsl(180 96% 78%)" opacity=".04"/><path d="M509.1 0L671.1 0L59.1 900L-255.9 900Z" fill="hsl(180 96% 78%)" opacity=".04"/><path d="M976.6 0L1138.6 0L526.6 900L211.6 900Z" fill="hsl(180 96% 78%)" opacity=".04"/><path d="M675.1 0L837.1 0L225.1 900L-89.9 900Z" fill="hsl(180 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 467.1 228.6 483.3Q342.9 352.5 457.1 368.7Q571.4 345.6 685.7 361.8Q800 297.4 914.3 313.6Q1028.6 297.4 1142.9 406.4Q1257.2 390.2 1371.4 482.9Q1485.7 466.7 1600 558L1610 1158Z" fill="hsl(6.8 39.1% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 567.4 177.8 585.8Q266.7 494.9 355.6 513.3Q444.5 494.9 533.3 516.2Q622.2 378.4 711.1 396.8Q800 375.7 888.9 394.1Q977.8 375.7 1066.7 491.7Q1155.6 473.3 1244.4 515.5Q1333.3 497.1 1422.2 619.3Q1511.1 600.9 1600 666L1610 1266Z" fill="hsl(6.8 44.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q72.8 749.1 145.5 763.1Q218.2 667.5 290.9 681.5Q363.7 654.1 436.4 668.1Q509.1 654.1 581.8 686.2Q654.6 621.1 727.3 635.1Q800 621.1 872.7 675.7Q945.5 636.4 1018.2 650.4Q1090.9 636.4 1163.6 676.9Q1236.4 662.9 1309.1 700.6Q1381.8 686.6 1454.5 746.3Q1527.3 732.3 1600 792L1610 1392Z" fill="hsl(14.8 50.2% 6%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

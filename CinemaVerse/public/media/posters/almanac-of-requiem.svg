@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Almanac of Requiem poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(267 38.7% 6%)"/><stop offset="0.5" stop-color="hsl(283 44.2% 13%)"/><stop offset="1" stop-color="hsl(235.9 49.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(235.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(235.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M12.1 828L-99.6 828L12.1 239.4L123.8 828ZM41.8 828L-63.7 828L41.8 414.6L147.3 828ZM81.4 828L-21.6 828L81.4 385.9L184.4 828ZM108.5 828L16.3 828L108.5 367.1L200.7 828ZM143.1 828L74.9 828L143.1 421.1L211.3 828ZM182.4 828L53.2 828L182.4 223L311.6 828ZM215.4 828L158.2 828L215.4 543.5L272.6 828ZM258.8 828L162.8 828L258.8 316.6L354.8 828ZM300.4 828L190.1 828L300.4 362.2L410.7 828ZM338.1 828L244.9 828L338.1 404.1L431.3 828ZM376 828L303.9 828L376 526.5L448.1 828ZM410.8 828L327.3 828L410.8 353.1L494.3 828ZM462.6 828L373.2 828L462.6 427.1L552 828ZM474.9 828L403.7 828L474.9 542.4L546.1 828ZM519.1 828L442.3 828L519.1 479.3L595.9 828ZM557 828L470 828L557 428.3L644 828Z" fill="hsl(100.1 44.2% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(114.1 55.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(235.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ALMANAC OF REQUIEM</text>
+<path d="M44 709.4h72" stroke="hsl(235.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2007  ·  131 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(235.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

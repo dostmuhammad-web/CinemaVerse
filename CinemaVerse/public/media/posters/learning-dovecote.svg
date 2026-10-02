@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Learning Dovecote poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(309.6 69.9% 24%)"/><stop offset="0.5" stop-color="hsl(329.6 62.9% 62%)"/><stop offset="1" stop-color="hsl(268.7 69.9% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(268.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(268.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="222.1" cy="224.9" r="477.5" fill="url(#glow)"/><circle cx="222.1" cy="224.9" r="113.7" fill="hsl(268.7 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(118.3 55.9% 18%)"/><path d="M2.8 0L69.5 0L50.8 738L21.5 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.5"/><path d="M67.2 0L133.9 0L115.2 738L85.9 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.5"/><path d="M140.9 0L207.6 0L188.9 738L159.6 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.5"/><path d="M208.3 0L275 0L256.3 738L227 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.6"/><path d="M268.4 0L335.1 0L316.4 738L287.1 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.6"/><path d="M342.9 0L409.6 0L390.9 738L361.6 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.6"/><path d="M401.7 0L468.4 0L449.7 738L420.4 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.7"/><path d="M469.3 0L536 0L517.3 738L488 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.4"/><path d="M541.8 0L608.5 0L589.8 738L560.5 738Z" fill="hsl(126.3 62.9% 10%)" opacity="0.3"/><path d="M374.1 0L554.1 774L194.1 774Z" fill="hsl(268.7 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(268.7 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(132.3 69.9% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(268.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LEARNING DOVECOTE</text>
+<path d="M44 709.4h72" stroke="hsl(268.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2021  ·  87 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(268.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

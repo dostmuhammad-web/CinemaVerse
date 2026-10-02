@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Frozen Furrow backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(55.8 44.1% 6%)"/><stop offset="0.5" stop-color="hsl(71.8 50.4% 13%)"/><stop offset="1" stop-color="hsl(47.8 56.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(47.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(47.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1057.3" cy="424.1" r="384" fill="url(#glow)"/>
+<circle cx="1057.3" cy="424.1" r="76.8" fill="hsl(47.8 96% 88%)" opacity=".85"/>
+<path d="M402.9 0L564.9 0L-47.1 900L-362.1 900Z" fill="hsl(47.8 96% 88%)" opacity=".04"/><path d="M1572 0L1734 0L1122 900L807 900Z" fill="hsl(47.8 96% 88%)" opacity=".04"/><path d="M392.6 0L554.6 0L-57.4 900L-372.4 900Z" fill="hsl(47.8 96% 88%)" opacity=".04"/><path d="M1248.9 0L1410.9 0L798.9 900L483.9 900Z" fill="hsl(47.8 96% 88%)" opacity=".04"/><circle cx="1080.1" cy="286.4" r="155" fill="hsl(47.8 96% 88%)" opacity="0.2"/><circle cx="1377.2" cy="573.1" r="70" fill="hsl(47.8 92% 62%)" opacity="0.3"/><circle cx="1568.4" cy="504.7" r="96.4" fill="hsl(47.8 96% 88%)" opacity="0.3"/><circle cx="634.1" cy="423.9" r="57.4" fill="hsl(47.8 92% 62%)" opacity="0.2"/><circle cx="300.2" cy="334.1" r="173.8" fill="hsl(47.8 96% 88%)" opacity="0.1"/><circle cx="529.1" cy="394.9" r="144" fill="hsl(47.8 92% 62%)" opacity="0.2"/><circle cx="253.7" cy="652.4" r="132.4" fill="hsl(47.8 96% 88%)" opacity="0.3"/><circle cx="1226.8" cy="332.3" r="180.3" fill="hsl(47.8 92% 62%)" opacity="0.3"/><circle cx="1200.1" cy="597.2" r="147.7" fill="hsl(47.8 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 778.7 200 787.3Q300 757.2 400 765.8Q500 740.7 600 749.3Q700 735.1 800 743.7Q900 735.1 1000 761.4Q1100 752.8 1200 770.9Q1300 762.3 1400 791.6Q1500 783 1600 828L1610 1428Z" fill="hsl(254.9 56.6% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

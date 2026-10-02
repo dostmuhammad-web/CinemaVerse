@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hidden Umber poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(182.3 53.3% 24%)"/><stop offset="0.5" stop-color="hsl(202.3 48% 42%)"/><stop offset="1" stop-color="hsl(152.7 53.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(152.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(152.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="263.9" cy="263.6" r="288.5" fill="url(#glow)"/><circle cx="263.9" cy="263.6" r="68.7" fill="hsl(152.7 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 470.9 85.7 487.1Q128.6 425.2 171.4 441.4Q214.3 278.6 257.1 294.8Q300 278.6 342.9 339.9Q385.8 323.7 428.6 419.4Q471.5 403.2 514.3 436.8Q557.2 420.6 600 558L610 1158Z" fill="hsl(339.7 37.3% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 566.7 66.7 585.1Q100 521.6 133.3 540Q166.7 489.7 200 508.1Q233.4 369.7 266.7 388.1Q300 369.7 333.3 466Q366.7 447.6 400 522.7Q433.4 495 466.7 513.4Q500 495 533.3 603.3Q566.7 584.9 600 666L610 1266Z" fill="hsl(339.7 42.7% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 729.7 54.5 743.7Q81.8 664.5 109.1 678.5Q136.4 664.5 163.6 702.7Q190.9 668.4 218.2 682.4Q245.5 634.2 272.7 648.2Q300 616.9 327.3 630.9Q354.6 616.9 381.8 700.1Q409.1 673.4 436.4 687.4Q463.7 673.4 490.9 724.3Q518.2 710.3 545.5 769Q572.8 755 600 792L610 1392Z" fill="hsl(347.7 48% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(152.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HIDDEN UMBER</text>
+<path d="M44 709.4h72" stroke="hsl(152.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1993  ·  118 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="733.4" fill="hsl(152.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

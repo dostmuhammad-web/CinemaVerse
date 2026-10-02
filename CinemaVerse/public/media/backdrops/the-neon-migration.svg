@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Neon Migration backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(211.8 33.9% 6%)"/><stop offset="0.5" stop-color="hsl(227.8 38.7% 13%)"/><stop offset="1" stop-color="hsl(205.1 43.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(205.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(205.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1144.2" cy="338.9" r="719" fill="url(#glow)"/>
+<circle cx="1144.2" cy="338.9" r="143.8" fill="hsl(205.1 96% 78%)" opacity=".85"/>
+<path d="M252.4 0L414.4 0L-197.6 900L-512.6 900Z" fill="hsl(205.1 96% 78%)" opacity=".04"/><path d="M729.7 0L891.7 0L279.7 900L-35.3 900Z" fill="hsl(205.1 96% 78%)" opacity=".04"/><path d="M612.2 0L774.2 0L162.2 900L-152.8 900Z" fill="hsl(205.1 96% 78%)" opacity=".04"/><path d="M1342.2 0L1504.2 0L892.2 900L577.2 900Z" fill="hsl(205.1 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(57.3 38.7% 10%)"/><path d="M548.9 190.6L1035.3 190.6L1132.6 900L510 900Z" fill="hsl(205.1 96% 78%)" opacity="0.1"/><path d="M548.9 190.6L1035.3 190.6L1186.1 900L488.6 900Z" fill="hsl(205.1 96% 78%)" opacity="0"/><path d="M548.9 190.6L1035.3 190.6L1239.6 900L467.2 900Z" fill="hsl(205.1 96% 78%)" opacity="0"/><rect x="548.9" y="144" width="486.4" height="466.3" fill="hsl(211.8 33.9% 6%)"/><rect x="548.9" y="144" width="486.4" height="466.3" fill="hsl(205.1 100% 62% / 0.4)" opacity=".5"/><path d="M548.9 144h486.4v466.3h-486.4Z" fill="none" stroke="hsl(71.3 48.4% 3%)" stroke-width="7"/><path d="M548.9 377.1h486.4M792.1 144v466.3" stroke="hsl(71.3 48.4% 3%)" stroke-width="4"/><path d="M425.8 864q-17.3 -95.8 17.3 -118.8q19.2 23 11.5 57.5q-3.8 38.3 3.8 61.3Z" fill="hsl(71.3 48.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

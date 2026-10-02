@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Monsoon &amp; Harbour poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(340.4 33.2% 6%)"/><stop offset="0.5" stop-color="hsl(356.4 38% 13%)"/><stop offset="1" stop-color="hsl(302 42.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(302 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(302 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="87.3" cy="558.5" r="82.2" fill="hsl(302 96% 88%)" opacity="0.2"/><circle cx="533.6" cy="356.3" r="67.6" fill="hsl(302 92% 62%)" opacity="0.2"/><circle cx="116" cy="545.3" r="123.4" fill="hsl(302 96% 88%)" opacity="0.2"/><circle cx="348.3" cy="590.5" r="94.7" fill="hsl(302 92% 62%)" opacity="0.2"/><circle cx="354.4" cy="465.4" r="85.7" fill="hsl(302 96% 88%)" opacity="0.3"/><circle cx="599" cy="491.2" r="91.1" fill="hsl(302 92% 62%)" opacity="0.3"/><circle cx="453.5" cy="231.4" r="99.7" fill="hsl(302 96% 88%)" opacity="0.3"/><circle cx="483.1" cy="338.3" r="76.5" fill="hsl(302 92% 62%)" opacity="0.1"/><circle cx="50.1" cy="351.7" r="57" fill="hsl(302 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 775.8 75 784.4Q112.5 772.2 150 780.8Q187.5 708.6 225 717.2Q262.5 703 300 711.6Q337.5 703 375 715.1Q412.5 706.5 450 744Q487.5 735.4 525 802.3Q562.5 793.7 600 828L610 1428Z" fill="hsl(167.7 42.7% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(302 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MONSOON &amp; HARBOUR</text>
+<path d="M44 709.4h72" stroke="hsl(302 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  99 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(302 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Restless Aviary backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(18.4 42.4% 6%)"/><stop offset="0.5" stop-color="hsl(34.4 48.4% 13%)"/><stop offset="1" stop-color="hsl(354.6 54.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(354.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(354.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="493.1" cy="349.9" r="387.5" fill="url(#glow)"/>
+<circle cx="493.1" cy="349.9" r="77.5" fill="hsl(354.6 96% 78%)" opacity=".85"/>
+<path d="M1023.3 0L1185.3 0L573.3 900L258.3 900Z" fill="hsl(354.6 96% 78%)" opacity=".04"/><path d="M150 0L312 0L-300 900L-615 900Z" fill="hsl(354.6 96% 78%)" opacity=".04"/><path d="M1181.4 0L1343.4 0L731.4 900L416.4 900Z" fill="hsl(354.6 96% 78%)" opacity=".04"/><path d="M598.7 0L760.7 0L148.7 900L-166.3 900Z" fill="hsl(354.6 96% 78%)" opacity=".04"/><path d="M-10 1194L-10 594L0 594Q160 528.6 320 535.1Q480 528.6 640 535.7Q800 493.3 960 499.8Q1120 493.3 1280 555.6Q1440 549.1 1600 594L1610 1194Z" fill="hsl(182.7 42.4% 15%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q200 677.4 400 682.8Q600 641.5 800 646.9Q1000 641.5 1200 654.1Q1400 648.7 1600 720L1610 1320Z" fill="hsl(182.7 48.4% 10%)"/><path d="M-10 1455L-10 855L0 855Q200 810 400 814.3Q600 801.5 800 805.8Q1000 801.5 1200 821.8Q1400 817.5 1600 855L1610 1455Z" fill="hsl(190.7 54.5% 6%)"/><path d="M-10 1545L-10 945L0 945Q266.7 918.3 533.3 921Q800 908.4 1066.7 911.1Q1333.4 908.4 1600 945L1610 1545Z" fill="hsl(196.7 60.6% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

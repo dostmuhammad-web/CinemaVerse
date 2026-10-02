@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Tending Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(41.3 48.4% 6%)"/><stop offset="0.5" stop-color="hsl(57.3 55.3% 13%)"/><stop offset="1" stop-color="hsl(21.3 62.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(21.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(21.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="132.1" cy="503.4" r="97.6" fill="hsl(21.3 96% 88%)" opacity="0.2"/><circle cx="80.5" cy="359" r="170.4" fill="hsl(21.3 92% 62%)" opacity="0.2"/><circle cx="234" cy="205.9" r="158.2" fill="hsl(21.3 96% 88%)" opacity="0.2"/><circle cx="344.5" cy="354.6" r="165.6" fill="hsl(21.3 92% 62%)" opacity="0.2"/><circle cx="182.7" cy="561.4" r="55.5" fill="hsl(21.3 96% 88%)" opacity="0.2"/><circle cx="503.4" cy="221.1" r="153.6" fill="hsl(21.3 92% 62%)" opacity="0.2"/><circle cx="561.3" cy="528.9" r="187.9" fill="hsl(21.3 96% 88%)" opacity="0.3"/><circle cx="122.4" cy="589.1" r="119" fill="hsl(21.3 92% 62%)" opacity="0.3"/><circle cx="555.6" cy="575.9" r="76.1" fill="hsl(21.3 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 776.7 75 785.3Q112.5 723.4 150 732Q187.5 723.4 225 746.8Q262.5 700.5 300 709.1Q337.5 681.8 375 690.4Q412.5 681.8 450 762.5Q487.5 753.9 525 787.7Q562.5 779.1 600 828L610 1428Z" fill="hsl(248 62.2% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(21.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TENDING QUARRY</text>
+<path d="M44 709.4h72" stroke="hsl(21.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  89 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(21.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Signal of the Zenith backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(6.7 60.8% 24%)"/><stop offset="0.5" stop-color="hsl(26.7 54.8% 42%)"/><stop offset="1" stop-color="hsl(359.9 60.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(359.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(359.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="792.6" cy="437.5" r="591.5" fill="url(#glow)"/>
+<circle cx="792.6" cy="437.5" r="118.3" fill="hsl(359.9 96% 78%)" opacity=".85"/>
+<path d="M1436.5 0L1598.5 0L986.5 900L671.5 900Z" fill="hsl(359.9 96% 78%)" opacity=".04"/><path d="M182.1 0L344.1 0L-267.9 900L-582.9 900Z" fill="hsl(359.9 96% 78%)" opacity=".04"/><path d="M182.1 0L344.1 0L-267.9 900L-582.9 900Z" fill="hsl(359.9 96% 78%)" opacity=".04"/><path d="M990.3 0L1152.3 0L540.3 900L225.3 900Z" fill="hsl(359.9 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 417.6 228.6 433.8Q342.9 417.6 457.1 436.3Q571.4 292.3 685.7 308.5Q800 292.3 914.3 421.7Q1028.6 329.1 1142.9 345.3Q1257.2 329.1 1371.4 489.3Q1485.7 473.1 1600 558L1610 1158Z" fill="hsl(192.5 42.6% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 571.4 177.8 589.8Q266.7 471.2 355.6 489.6Q444.5 467.2 533.3 485.6Q622.2 356.4 711.1 374.8Q800 356.4 888.9 484.6Q977.8 466.2 1066.7 496.2Q1155.6 477.8 1244.4 522.2Q1333.3 503.8 1422.2 565Q1511.1 546.6 1600 666L1610 1266Z" fill="hsl(192.5 48.7% 18%)"/><path d="M-10 1392L-10 792L0 792Q72.8 754 145.5 768Q218.2 675.2 290.9 689.2Q363.7 675.2 436.4 695.1Q509.1 603.5 581.8 617.5Q654.6 592.5 727.3 606.5Q800 592.5 872.7 664.6Q945.5 577.5 1018.2 591.5Q1090.9 577.5 1163.6 637.4Q1236.4 623.4 1309.1 686Q1381.8 672 1454.5 782Q1527.3 768 1600 792L1610 1392Z" fill="hsl(200.5 54.8% 10%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

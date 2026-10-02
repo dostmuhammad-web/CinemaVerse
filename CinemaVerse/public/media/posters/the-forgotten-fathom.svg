@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Forgotten Fathom poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(260.9 39.4% 6%)"/><stop offset="0.5" stop-color="hsl(276.9 45% 13%)"/><stop offset="1" stop-color="hsl(242.5 50.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(242.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(242.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 449.9L34.9 449.9L42.1 392L94.5 392L103.1 554.1L174.5 554.1L184.6 483.9L272.9 483.9L285.1 490.3L335.7 490.3L342.2 503.9L424.7 503.9L439.3 379.5L478 379.5L485.9 543.7L582.2 543.7L595.1 537.6L644 537.6L610 1248Z" fill="hsl(88.4 39.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(96.4 50.7% 6%)"/><path d="M387.8 716.3l-14 87.6M369.4 57.7l-8.2 51.2M399.7 696.9l-10.5 65.9M344.9 417.2l-8.9 55.3M333.2 177.6l-13.1 81.7M169.4 559.8l-8.9 55.8M240.3 100.5l-10.5 65.6M472.2 336l-4.4 27.6M585.1 673.1l-12.9 80.6M34.4 746l-9 56.5M544.2 494.8l-9.7 60.6M169 54.8l-11 68.9M59.9 680.8l-6.5 40.7M137.3 650.4l-9.6 59.8M193.6 373l-11.4 71.5M540.6 550.4l-6.6 41.3M179.6 791l-13.1 81.6M369.6 614.3l-8.1 50.6M308.3 246.3l-5.2 32.5M102 263.8l-7.8 48.8M72.8 613.8l-7.3 45.5M307.6 669.3l-14.2 88.9M207.2 717.7l-12.1 75.8M404.6 224.6l-12.4 77.8M150.5 169.2l-12.5 78.3M476.3 210l-6.4 39.7M508.7 269.9l-9.1 56.8M215.6 656l-6 37.6M22.4 181.5l-7.4 45.9M212.7 614.7l-7.8 49M551.6 68.5l-12.5 78.1M160.4 439.8l-13 81.3M375.4 282.3l-13 81.1M63.3 147.8l-12.4 77.4M524.9 628.2l-7.9 49.1M380.1 705.2l-13.9 86.7M536.3 409.4l-13.7 85.9M87.3 775.7l-8.5 53.1M394.6 124.4l-8.5 53.2M349.6 645.3l-7.4 46.2M585.4 599.1l-8.7 54.1M408.1 20.9l-8 50M569 730.4l-4.4 27.2M144.8 765l-11.2 70.2M477.6 71.7l-8.8 55.1M54.1 669.7l-7 43.6" fill="none" stroke="hsl(242.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="201.2" cy="837" rx="132" ry="27" fill="hsl(242.5 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(242.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FORGOTTEN FATHOM</text>
+<path d="M44 709.4h72" stroke="hsl(242.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2001  ·  93 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(242.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

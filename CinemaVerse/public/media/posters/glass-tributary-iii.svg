@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Glass Tributary III poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(230.4 28.5% 6%)"/><stop offset="0.5" stop-color="hsl(246.4 32.6% 13%)"/><stop offset="1" stop-color="hsl(192.5 36.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(192.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(192.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 547.3 100 555.9Q150 546.4 200 555Q250 492.9 300 501.5Q350 492.9 400 513.9Q450 505.3 500 578Q550 569.4 600 630L610 1230Z" fill="hsl(20.5 28.5% 15%)" opacity=".55"/><ellipse cx="414.3" cy="522" rx="180.3" ry="43.9" fill="hsl(28.5 36.6% 6%)" opacity="0.5"/><ellipse cx="138.5" cy="589.5" rx="209.5" ry="63.2" fill="hsl(28.5 36.6% 6%)" opacity="0.7"/><ellipse cx="152.5" cy="657" rx="295.8" ry="49.3" fill="hsl(28.5 36.6% 6%)" opacity="0.5"/><ellipse cx="154.2" cy="724.5" rx="203.4" ry="70.8" fill="hsl(28.5 36.6% 6%)" opacity="0.6"/><ellipse cx="162.7" cy="792" rx="203" ry="28.5" fill="hsl(28.5 36.6% 6%)" opacity="0.6"/><ellipse cx="176.6" cy="859.5" rx="158.4" ry="42.1" fill="hsl(28.5 36.6% 6%)" opacity="0.6"/><path d="M229.4 855L229.4 706.5M175.4 733.5L229.4 652.5L283.4 733.5M186.2 801L229.4 733.5L275.3 801" fill="none" stroke="hsl(34.5 40.7% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(34.5 40.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(192.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GLASS TRIBUTARY III</text>
+<path d="M44 709.4h72" stroke="hsl(192.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1973  ·  121 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(192.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

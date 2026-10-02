@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Keeping Overture poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(204.2 45.3% 6%)"/><stop offset="0.5" stop-color="hsl(220.2 51.7% 13%)"/><stop offset="1" stop-color="hsl(171.7 58.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(171.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(171.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(36.3 51.7% 10%)"/><path d="M132.7 183.1L375.9 183.1L424.5 900L113.2 900Z" fill="hsl(171.7 96% 78%)" opacity="0.1"/><path d="M132.7 183.1L375.9 183.1L451.3 900L102.5 900Z" fill="hsl(171.7 96% 78%)" opacity="0"/><path d="M132.7 183.1L375.9 183.1L478 900L91.8 900Z" fill="hsl(171.7 96% 78%)" opacity="0"/><rect x="132.7" y="144" width="243.2" height="391.1" fill="hsl(204.2 45.3% 6%)"/><rect x="132.7" y="144" width="243.2" height="391.1" fill="hsl(171.7 100% 62% / 0.4)" opacity=".5"/><path d="M132.7 144h243.2v391.1h-243.2Z" fill="none" stroke="hsl(50.3 64.7% 3%)" stroke-width="7"/><path d="M132.7 339.5h243.2M254.3 144v391.1" stroke="hsl(50.3 64.7% 3%)" stroke-width="4"/><path d="M390.3 864q-18.5 -102.6 18.5 -127.2q20.5 24.6 12.3 61.6q-4.1 41 4.1 65.7Z" fill="hsl(50.3 64.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(171.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KEEPING OVERTURE</text>
+<path d="M44 709.4h72" stroke="hsl(171.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2013  ·  112 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(171.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

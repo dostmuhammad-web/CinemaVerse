@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Dynasty 9 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(201.6 32.8% 6%)"/><stop offset="0.5" stop-color="hsl(217.6 37.5% 13%)"/><stop offset="1" stop-color="hsl(165.5 42.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(165.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(165.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(346.4 37.5% 10%)"/><path d="M123.4 188.2L384.4 188.2L436.6 900L102.5 900Z" fill="hsl(165.5 96% 78%)" opacity="0.1"/><path d="M123.4 188.2L384.4 188.2L465.3 900L91 900Z" fill="hsl(165.5 96% 78%)" opacity="0"/><path d="M123.4 188.2L384.4 188.2L494.1 900L79.5 900Z" fill="hsl(165.5 96% 78%)" opacity="0"/><rect x="123.4" y="144" width="261" height="442.4" fill="hsl(201.6 32.8% 6%)"/><rect x="123.4" y="144" width="261" height="442.4" fill="hsl(165.5 100% 62% / 0.4)" opacity=".5"/><path d="M123.4 144h261v442.4h-261Z" fill="none" stroke="hsl(0.4 46.8% 3%)" stroke-width="7"/><path d="M123.4 365.2h261M253.9 144v442.4" stroke="hsl(0.4 46.8% 3%)" stroke-width="4"/><path d="M182.4 864q-20.3 -112.9 20.3 -140q22.6 27.1 13.6 67.8q-4.5 45.2 4.5 72.3Z" fill="hsl(0.4 46.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(165.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DYNASTY 9</text>
+<path d="M44 709.4h72" stroke="hsl(165.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1979  ·  121 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(165.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

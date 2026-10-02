@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Quiet Harbour poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(240.7 23.7% 6%)"/><stop offset="0.5" stop-color="hsl(256.7 27.1% 13%)"/><stop offset="1" stop-color="hsl(217.4 30.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(217.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(217.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M9 828L-94.2 828L9 361.7L112.2 828ZM49.4 828L-51.1 828L49.4 382.9L149.9 828ZM84.7 828L-9.2 828L84.7 425L178.6 828ZM104.3 828L-3 828L104.3 366.8L211.6 828ZM157.1 828L40.9 828L157.1 212.2L273.3 828ZM196.5 828L77.9 828L196.5 320.2L315.1 828ZM215.2 828L102.2 828L215.2 280.7L328.2 828ZM249.1 828L161.1 828L249.1 296.9L337.1 828ZM297.2 828L212.9 828L297.2 498.4L381.5 828ZM326.4 828L256.8 828L326.4 470.8L396 828ZM377.2 828L292.9 828L377.2 419L461.5 828ZM400.9 828L291.1 828L400.9 320.1L510.7 828ZM440.8 828L358.4 828L440.8 425L523.2 828ZM488.8 828L436.6 828L488.8 529.7L541 828ZM513.9 828L461.7 828L513.9 543.4L566.1 828ZM575.3 828L431.1 828L575.3 198.8L719.5 828Z" fill="hsl(86.4 27.1% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(100.4 33.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(217.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE QUIET HARBOUR</text>
+<path d="M44 709.4h72" stroke="hsl(217.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1964  ·  89 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(217.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

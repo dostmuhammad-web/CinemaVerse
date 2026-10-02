@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Hungry Parliament backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(210 47.6% 6%)"/><stop offset="0.5" stop-color="hsl(226 54.4% 13%)"/><stop offset="1" stop-color="hsl(179.9 61.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(179.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(179.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1146.2" cy="282.3" r="764.5" fill="url(#glow)"/>
+<circle cx="1146.2" cy="282.3" r="152.9" fill="hsl(179.9 96% 78%)" opacity=".85"/>
+<path d="M1109.7 0L1271.7 0L659.7 900L344.7 900Z" fill="hsl(179.9 96% 78%)" opacity=".04"/><path d="M1055.3 0L1217.3 0L605.3 900L290.3 900Z" fill="hsl(179.9 96% 78%)" opacity=".04"/><path d="M344 0L506 0L-106 900L-421 900Z" fill="hsl(179.9 96% 78%)" opacity=".04"/><path d="M50.7 0L212.7 0L-399.3 900L-714.3 900Z" fill="hsl(179.9 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(9 54.4% 10%)"/><path d="M658.9 186.7L1285.8 186.7L1411.1 900L608.8 900Z" fill="hsl(179.9 96% 78%)" opacity="0.1"/><path d="M658.9 186.7L1285.8 186.7L1480.1 900L581.2 900Z" fill="hsl(179.9 96% 78%)" opacity="0"/><path d="M658.9 186.7L1285.8 186.7L1549.1 900L553.6 900Z" fill="hsl(179.9 96% 78%)" opacity="0"/><rect x="658.9" y="144" width="626.9" height="427" fill="hsl(210 47.6% 6%)"/><rect x="658.9" y="144" width="626.9" height="427" fill="hsl(179.9 100% 62% / 0.4)" opacity=".5"/><path d="M658.9 144h626.9v427h-626.9Z" fill="none" stroke="hsl(23 68.1% 3%)" stroke-width="7"/><path d="M658.9 357.5h626.9M972.3 144v427" stroke="hsl(23 68.1% 3%)" stroke-width="4"/><path d="M1096.1 864q-19 -105.7 19 -131.1q21.1 25.4 12.7 63.4q-4.2 42.3 4.2 67.7Z" fill="hsl(23 68.1% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

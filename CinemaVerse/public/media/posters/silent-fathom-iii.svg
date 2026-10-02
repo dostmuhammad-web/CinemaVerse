@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Silent Fathom III poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(353.8 44.5% 6%)"/><stop offset="0.5" stop-color="hsl(9.8 50.9% 13%)"/><stop offset="1" stop-color="hsl(344.3 57.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(344.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(344.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 451.3L81.2 451.3L86.5 517.2L147.1 517.2L150.1 435.3L215.2 435.3L226.4 552.8L297.9 552.8L311.6 547.2L344.4 547.2L352.1 507.8L406.6 507.8L414.9 558.1L455.1 558.1L467.9 344.1L528.5 344.1L539.2 502.4L566.7 502.4L579.6 419.6L623.5 419.6L610 1248Z" fill="hsl(173.7 44.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(181.7 57.3% 6%)"/><path d="M246.7 682.9l-9 56M565.8 559.1l-7 44M270 203.9l-9.7 60.3M77 553.9l-8.7 54.1M562.8 462.2l-6.6 41.1M188.1 357.8l-12.7 79.2M588.3 789.2l-10.2 63.5M197.8 473.6l-12.3 76.7M462.6 85.1l-14.2 88.9M187.1 240.4l-7.3 45.7M537 489.8l-12.5 78.3M329.6 210.4l-9.1 56.9M245 577.1l-5.6 35.1M586.7 51l-7 43.9M356.3 107.7l-13.9 86.8M443.4 731l-6.4 39.9M361.6 276.5l-13.6 85M17.5 623l-13.6 85.2M86.4 558.1l-7.1 44.4M381.6 384.9l-11.4 71.1M585 493.4l-7.9 49.7M93.3 664l-6.2 38.5M329.4 365.6l-11.9 74.3M599.5 218.3l-9.8 61.4M362.3 347.3l-13.4 83.6M376.4 782.9l-8.9 55.9M523.7 275.5l-7.2 45.3M595.6 332.6l-13.9 86.9M144.4 52.2l-12.7 79.2M438.6 313.7l-13.8 86M446 648.8l-14.3 89.5M415.8 475.8l-5.9 36.7M221.9 98.7l-9.7 60.6M487.7 461.7l-11.9 74.6M373.7 108.2l-5.6 34.7M506.1 779.2l-7.8 48.7M278.2 341.8l-9.6 60M77.7 731.3l-9.9 61.7M380.7 26l-10.1 62.9M210.6 558.7l-8.8 55M139.9 375.6l-11 68.6M212 633.6l-12.2 76.5M343.6 668.6l-4.8 30.1M390.4 133l-6.2 38.7M389.7 588.6l-8.3 52M214.9 669.1l-12.8 80" fill="none" stroke="hsl(344.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="275.3" cy="837" rx="132" ry="27" fill="hsl(344.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(344.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SILENT FATHOM III</text>
+<path d="M44 709.4h72" stroke="hsl(344.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2021  ·  113 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(344.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

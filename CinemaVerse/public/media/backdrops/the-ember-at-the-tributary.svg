@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Ember at the Tributary backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(205.7 29.4% 6%)"/><stop offset="0.5" stop-color="hsl(221.7 33.6% 13%)"/><stop offset="1" stop-color="hsl(165.2 37.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(165.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(165.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="908.8" cy="404.4" r="646" fill="url(#glow)"/>
+<circle cx="908.8" cy="404.4" r="129.2" fill="hsl(165.2 96% 78%)" opacity=".85"/>
+<path d="M89.1 0L251.1 0L-360.9 900L-675.9 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M1478.6 0L1640.6 0L1028.6 900L713.6 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M1224 0L1386 0L774 900L459 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><path d="M1226.1 0L1388.1 0L776.1 900L461.1 900Z" fill="hsl(165.2 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(29.9 33.6% 10%)"/><path d="M866.9 191.7L1562.1 191.7L1701.2 900L811.3 900Z" fill="hsl(165.2 96% 78%)" opacity="0.1"/><path d="M866.9 191.7L1562.1 191.7L1777.7 900L780.7 900Z" fill="hsl(165.2 96% 78%)" opacity="0"/><path d="M866.9 191.7L1562.1 191.7L1854.1 900L750.1 900Z" fill="hsl(165.2 96% 78%)" opacity="0"/><rect x="866.9" y="144" width="695.2" height="477.2" fill="hsl(205.7 29.4% 6%)"/><rect x="866.9" y="144" width="695.2" height="477.2" fill="hsl(165.2 100% 62% / 0.4)" opacity=".5"/><path d="M866.9 144h695.2v477.2h-695.2Z" fill="none" stroke="hsl(43.9 42% 3%)" stroke-width="7"/><path d="M866.9 382.6h695.2M1214.5 144v477.2" stroke="hsl(43.9 42% 3%)" stroke-width="4"/><path d="M689 864q-19.5 -108.1 19.5 -134q21.6 25.9 13 64.8q-4.3 43.2 4.3 69.2Z" fill="hsl(43.9 42% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

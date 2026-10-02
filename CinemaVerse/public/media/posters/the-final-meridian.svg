@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Final Meridian poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(214.5 29.3% 6%)"/><stop offset="0.5" stop-color="hsl(230.5 33.5% 13%)"/><stop offset="1" stop-color="hsl(177 37.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(177 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(177 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(55.5 33.5% 10%)"/><path d="M277.9 182.7L466.6 182.7L504.3 900L262.8 900Z" fill="hsl(177 96% 78%)" opacity="0.1"/><path d="M277.9 182.7L466.6 182.7L525 900L254.5 900Z" fill="hsl(177 96% 78%)" opacity="0"/><path d="M277.9 182.7L466.6 182.7L545.8 900L246.2 900Z" fill="hsl(177 96% 78%)" opacity="0"/><rect x="277.9" y="144" width="188.7" height="387.3" fill="hsl(214.5 29.3% 6%)"/><rect x="277.9" y="144" width="188.7" height="387.3" fill="hsl(177 100% 62% / 0.4)" opacity=".5"/><path d="M277.9 144h188.7v387.3h-188.7Z" fill="none" stroke="hsl(69.5 41.8% 3%)" stroke-width="7"/><path d="M277.9 337.7h188.7M372.2 144v387.3" stroke="hsl(69.5 41.8% 3%)" stroke-width="4"/><path d="M369.2 864q-18.2 -101.1 18.2 -125.4q20.2 24.3 12.1 60.7q-4 40.4 4 64.7Z" fill="hsl(69.5 41.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(177 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FINAL MERIDIAN</text>
+<path d="M44 709.4h72" stroke="hsl(177 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1980  ·  99 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(177 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

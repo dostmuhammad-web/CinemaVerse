@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Opening Frequency poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(258 45.1% 6%)"/><stop offset="0.5" stop-color="hsl(274 51.6% 13%)"/><stop offset="1" stop-color="hsl(233.4 58% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(233.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(233.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 556.8 100 565.4Q150 523.9 200 532.5Q250 473.5 300 482.1Q350 473.5 400 524.6Q450 516 500 578.4Q550 569.8 600 630L610 1230Z" fill="hsl(95.3 45.1% 15%)" opacity=".55"/><ellipse cx="270.3" cy="522" rx="322" ry="31.6" fill="hsl(103.3 58% 6%)" opacity="0.6"/><ellipse cx="138.1" cy="589.5" rx="152" ry="37.3" fill="hsl(103.3 58% 6%)" opacity="0.5"/><ellipse cx="214.7" cy="657" rx="198.4" ry="61.9" fill="hsl(103.3 58% 6%)" opacity="0.6"/><ellipse cx="221.4" cy="724.5" rx="183" ry="69.2" fill="hsl(103.3 58% 6%)" opacity="0.7"/><ellipse cx="124.9" cy="792" rx="178.5" ry="44.9" fill="hsl(103.3 58% 6%)" opacity="0.5"/><ellipse cx="222" cy="859.5" rx="220" ry="32.3" fill="hsl(103.3 58% 6%)" opacity="0.6"/><path d="M282.3 855L282.3 706.5M228.3 733.5L282.3 652.5L336.3 733.5M239.1 801L282.3 733.5L328.2 801" fill="none" stroke="hsl(109.3 64.4% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(109.3 64.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(233.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">OPENING FREQUENCY</text>
+<path d="M44 709.4h72" stroke="hsl(233.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2016  ·  106 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(233.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

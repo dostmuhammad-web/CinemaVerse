@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Delta after the Observatory poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(173.2 55.2% 24%)"/><stop offset="0.5" stop-color="hsl(193.2 49.7% 42%)"/><stop offset="1" stop-color="hsl(134 55.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(134 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(134 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="284" cy="193.5" r="418.7" fill="url(#glow)"/><circle cx="284" cy="193.5" r="99.7" fill="hsl(134 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 461 85.7 477.2Q128.6 363.3 171.4 379.5Q214.3 363.3 257.1 396.7Q300 380.5 342.9 436.5Q385.8 339.6 428.6 355.8Q471.5 339.6 514.3 508.1Q557.2 491.9 600 558L610 1158Z" fill="hsl(358.7 38.6% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 577.9 66.7 596.3Q100 490.1 133.3 508.5Q166.7 441.3 200 459.7Q233.4 441.3 266.7 478.9Q300 369.7 333.3 388.1Q366.7 369.7 400 494.4Q433.4 441.2 466.7 459.6Q500 441.2 533.3 585.2Q566.7 566.8 600 666L610 1266Z" fill="hsl(358.7 44.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 762.6 54.5 776.6Q81.8 706.5 109.1 720.5Q136.4 595.4 163.6 609.4Q190.9 595.4 218.2 627.5Q245.5 546.2 272.7 560.2Q300 546.2 327.3 611Q354.6 597 381.8 616.1Q409.1 602.1 436.4 645.1Q463.7 631.1 490.9 664.1Q518.2 650.1 545.5 775.2Q572.8 761.2 600 792L610 1392Z" fill="hsl(6.7 49.7% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(134 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE DELTA AFTER THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">OBSERVATORY</text>
+<path d="M44 726.8h72" stroke="hsl(134 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  104 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="750.8" fill="hsl(134 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

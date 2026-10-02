@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Chorus at Frequency poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(227.1 41.6% 6%)"/><stop offset="0.5" stop-color="hsl(243.1 47.5% 13%)"/><stop offset="1" stop-color="hsl(192.1 53.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(192.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(192.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 421.8L49.4 421.8L63.2 463.5L133 463.5L140.5 517.1L202.8 517.1L206.1 544.4L298 544.4L307.7 342.5L353.2 342.5L365.9 489.5L464.8 489.5L477.3 362.9L561.5 362.9L568.2 428.1L637.7 428.1L610 1248Z" fill="hsl(20.4 41.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(28.4 53.5% 6%)"/><path d="M445.6 262.7l-8.7 54.7M509.5 578.1l-6.6 41.1M584.7 648.8l-12.5 77.8M223 473.1l-13.8 86.1M225.4 548.7l-8.9 55.4M480 674.3l-9.9 62.1M20.1 225.6l-13.9 86.9M288.9 627.5l-5.3 33.2M242.1 316.2l-11.9 74.1M519.1 76.8l-5.8 36M509.5 245.7l-6.3 39.3M471.4 317.2l-9 56.2M343.7 242.5l-9.6 60.2M477.1 204.8l-14 87.7M404.6 620.5l-5.8 36.5M23.9 295.9l-10.2 63.5M512.4 229.6l-9 56M239.6 515l-13.7 85.8M248 56.6l-10.6 66.5M451.2 309.1l-14.4 89.8M507.7 101.1l-8.8 55M248.8 469.8l-4.9 30.9M167.7 525.4l-9.8 61.4M503 656l-10 62.3M548.5 295.7l-4.6 28.5M252.8 199.2l-13.3 83M29.4 794.6l-12.4 77.5M250.2 653.8l-14 87.3M166.6 178.1l-7 43.9M158.4 269.6l-13 81.1M210.3 752.6l-8.1 50.6M140.8 215.7l-12.4 77.5M589.4 208.7l-7.3 45.7M206 142.7l-12.8 80M38.9 126.5l-14 87.2M558.7 808.4l-13.1 81.7M548.9 775.6l-7.4 46.1M552.6 782.8l-11 68.8M255.4 55.5l-13.8 86M84.5 149.5l-12.4 77.6M348.2 718.6l-13 81.1M234.6 491.1l-11.8 74M196.4 292.2l-11 68.8M458.9 75.6l-8.9 55.4M333.1 512.1l-14.3 89.1M273.6 663.4l-5.1 31.6" fill="none" stroke="hsl(192.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="368.6" cy="837" rx="132" ry="27" fill="hsl(192.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(192.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CHORUS AT FREQUENCY</text>
+<path d="M44 709.4h72" stroke="hsl(192.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  133 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(192.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

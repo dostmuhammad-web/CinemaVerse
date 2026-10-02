@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Northern Cathedral poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(3.2 60.9% 24%)"/><stop offset="0.5" stop-color="hsl(23.2 54.8% 42%)"/><stop offset="1" stop-color="hsl(348.3 60.9% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(348.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(348.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="336.1" cy="183" r="385.6" fill="url(#glow)"/><circle cx="336.1" cy="183" r="91.8" fill="hsl(348.3 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 456.9L61.6 456.9L71 516L106.9 516L117.2 403.2L178.1 403.2L181.1 426.5L277.7 426.5L290.3 384.9L378.8 384.9L392.1 531.2L490.9 531.2L496.8 460.7L589.9 460.7L602.3 501.3L631.5 501.3L610 1248Z" fill="hsl(179.5 42.6% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(187.5 54.8% 10%)"/><path d="M115 298.1l-4.9 30.7M189 476.7l-5.7 35.4M493.1 39.6l-13.1 81.6M120.1 434.5l-11.3 70.5M419 142.5l-9.8 61.6M493.3 377.9l-9.4 59M6.9 678.5l-11.7 73M394 102.6l-4.9 30.8M7.5 767.6l-13.8 86.2M274.3 94.2l-9.3 58.3M433.5 460.4l-7.2 44.9M85 441l-10.7 66.6M503.1 10.2l-13 81.5M272.3 307.2l-7.3 45.8M564 134.6l-9 56.2M13.7 444l-10.1 63.3M53.8 188.9l-9.2 57.3M384.8 780.3l-6.8 42.5M13.5 53.8l-6.3 39.5M579.2 29.4l-10 62.6M278.4 680.9l-13 81M560.3 232l-8.3 51.7M487.7 450.4l-9.2 57.5M414.1 801.7l-12.6 79M56.7 739.2l-8.2 51.4M347.6 327.3l-8.9 55.8M396.6 677.7l-5.6 35.2M35.9 403.1l-4.8 29.9M184 707.5l-5.4 33.8M145.1 264.4l-9.8 61.4M531.5 443.7l-12.3 76.6M312.2 552.8l-7.6 47.7M569.6 189.4l-4.5 28.2M202.4 328.2l-9.7 60.5M213.1 370.1l-10.7 66.7M380.6 357.1l-12.1 75.5M384.2 555.2l-4.6 28.7M338.4 5.4l-10.7 67M184.4 442.2l-5 31.1M233.3 150.6l-12.5 78M502.9 664l-13.4 83.6M505.3 239.2l-7.1 44.7M191 645l-9.9 62M322.9 517.6l-13.8 86M210.6 766l-6.7 42.2M282.4 692.6l-8.4 52.3" fill="none" stroke="hsl(348.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="297.5" cy="837" rx="132" ry="27" fill="hsl(348.3 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(348.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE NORTHERN CATHEDRAL</text>
+<path d="M44 709.4h72" stroke="hsl(348.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2020  ·  134 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(348.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

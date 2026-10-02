@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Silver Lighthouse X poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(226.9 43.5% 6%)"/><stop offset="0.5" stop-color="hsl(242.9 49.7% 13%)"/><stop offset="1" stop-color="hsl(190.9 55.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(190.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(190.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(11.7 49.7% 10%)"/><path d="M143.5 188.6L338.3 188.6L377.2 900L127.9 900Z" fill="hsl(190.9 96% 78%)" opacity="0.1"/><path d="M143.5 188.6L338.3 188.6L398.7 900L119.3 900Z" fill="hsl(190.9 96% 78%)" opacity="0"/><path d="M143.5 188.6L338.3 188.6L420.1 900L110.8 900Z" fill="hsl(190.9 96% 78%)" opacity="0"/><rect x="143.5" y="144" width="194.8" height="445.7" fill="hsl(226.9 43.5% 6%)"/><rect x="143.5" y="144" width="194.8" height="445.7" fill="hsl(190.9 100% 62% / 0.4)" opacity=".5"/><path d="M143.5 144h194.8v445.7h-194.8Z" fill="none" stroke="hsl(25.7 62.1% 3%)" stroke-width="7"/><path d="M143.5 366.9h194.8M240.9 144v445.7" stroke="hsl(25.7 62.1% 3%)" stroke-width="4"/><path d="M181.1 864q-22.5 -124.9 22.5 -154.8q25 30 15 74.9q-5 49.9 5 79.9Z" fill="hsl(25.7 62.1% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(190.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SILVER LIGHTHOUSE X</text>
+<path d="M44 709.4h72" stroke="hsl(190.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  143 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(190.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Sacred Quiver poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(335.4 32.4% 6%)"/><stop offset="0.5" stop-color="hsl(351.4 37% 13%)"/><stop offset="1" stop-color="hsl(317.8 41.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(317.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(317.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-7.9 828L-110 828L-7.9 399.3L94.2 828ZM36.2 828L-48.9 828L36.2 354.9L121.3 828ZM66.7 828L-4.8 828L66.7 514.1L138.2 828ZM110.5 828L1.8 828L110.5 206.5L219.2 828ZM138.9 828L22.1 828L138.9 269L255.7 828ZM191.8 828L110.1 828L191.8 497.2L273.5 828ZM224.5 828L128.1 828L224.5 365.2L320.9 828ZM268.7 828L190.4 828L268.7 387.4L347 828ZM297.8 828L221.1 828L297.8 383.5L374.5 828ZM326.6 828L236.9 828L326.6 479.6L416.3 828ZM387.2 828L278.1 828L387.2 332.2L496.3 828ZM408.5 828L287.6 828L408.5 233.3L529.4 828ZM448.4 828L395.4 828L448.4 546.5L501.4 828ZM490.4 828L363.8 828L490.4 338.8L617 828ZM523.8 828L425.6 828L523.8 295.6L622 828ZM570.5 828L469.9 828L570.5 242.7L671.1 828Z" fill="hsl(140.6 37% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(154.6 46.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(317.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SACRED QUIVER</text>
+<path d="M44 709.4h72" stroke="hsl(317.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1972  ·  86 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(317.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

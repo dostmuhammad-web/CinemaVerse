@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Patient Wander backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(64.9 56.7% 24%)"/><stop offset="0.5" stop-color="hsl(84.9 51% 62%)"/><stop offset="1" stop-color="hsl(31.7 56.7% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(31.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(31.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="772.6" cy="357.3" r="452.5" fill="url(#glow)"/>
+<circle cx="772.6" cy="357.3" r="90.5" fill="hsl(31.7 96% 88%)" opacity=".85"/>
+<path d="M789.6 0L951.6 0L339.6 900L24.6 900Z" fill="hsl(31.7 96% 88%)" opacity=".04"/><path d="M546.1 0L708.1 0L96.1 900L-218.9 900Z" fill="hsl(31.7 96% 88%)" opacity=".04"/><path d="M1184.8 0L1346.8 0L734.8 900L419.8 900Z" fill="hsl(31.7 96% 88%)" opacity=".04"/><path d="M980 0L1142 0L530 900L215 900Z" fill="hsl(31.7 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(211.2 45.3% 18%)"/><path d="M2.9 0L180.7 0L130.9 738L52.7 738Z" fill="hsl(219.2 51% 10%)" opacity="0.3"/><path d="M186.4 0L364.2 0L314.4 738L236.2 738Z" fill="hsl(219.2 51% 10%)" opacity="0.4"/><path d="M365.5 0L543.3 0L493.5 738L415.3 738Z" fill="hsl(219.2 51% 10%)" opacity="0.7"/><path d="M540.6 0L718.4 0L668.6 738L590.4 738Z" fill="hsl(219.2 51% 10%)" opacity="0.6"/><path d="M715.5 0L893.3 0L843.5 738L765.3 738Z" fill="hsl(219.2 51% 10%)" opacity="0.7"/><path d="M892.7 0L1070.5 0L1020.7 738L942.5 738Z" fill="hsl(219.2 51% 10%)" opacity="0.5"/><path d="M1074.2 0L1252 0L1202.2 738L1124 738Z" fill="hsl(219.2 51% 10%)" opacity="0.7"/><path d="M1253 0L1430.8 0L1381 738L1302.8 738Z" fill="hsl(219.2 51% 10%)" opacity="0.3"/><path d="M1425.9 0L1603.7 0L1553.9 738L1475.7 738Z" fill="hsl(219.2 51% 10%)" opacity="0.4"/><path d="M645.5 0L1125.5 774L165.5 774Z" fill="hsl(31.7 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(31.7 92% 52%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(225.2 56.7% 5%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

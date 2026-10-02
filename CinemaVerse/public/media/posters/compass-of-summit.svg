@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Compass of Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.5 42.6% 6%)"/><stop offset="0.5" stop-color="hsl(212.5 48.7% 13%)"/><stop offset="1" stop-color="hsl(182.1 54.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 555.9 100 564.5Q150 508.8 200 517.4Q250 489.3 300 497.9Q350 489.3 400 548.8Q450 540.2 500 593.9Q550 585.3 600 630L610 1230Z" fill="hsl(16.5 42.6% 15%)" opacity=".55"/><ellipse cx="219.5" cy="522" rx="206.2" ry="68.3" fill="hsl(24.5 54.8% 6%)" opacity="0.7"/><ellipse cx="185.1" cy="589.5" rx="203.7" ry="47.4" fill="hsl(24.5 54.8% 6%)" opacity="0.7"/><ellipse cx="418.2" cy="657" rx="307.6" ry="67.5" fill="hsl(24.5 54.8% 6%)" opacity="0.6"/><ellipse cx="134.2" cy="724.5" rx="243.3" ry="71" fill="hsl(24.5 54.8% 6%)" opacity="0.6"/><ellipse cx="210.4" cy="792" rx="183.8" ry="44.6" fill="hsl(24.5 54.8% 6%)" opacity="0.7"/><ellipse cx="399.9" cy="859.5" rx="260" ry="62.8" fill="hsl(24.5 54.8% 6%)" opacity="0.7"/><path d="M223.9 855L223.9 706.5M169.9 733.5L223.9 652.5L277.9 733.5M180.7 801L223.9 733.5L269.8 801" fill="none" stroke="hsl(30.5 60.9% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(30.5 60.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(182.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">COMPASS OF SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(182.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2022  ·  90 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(182.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

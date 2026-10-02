@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lighthouse &amp; Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(42.9 60.5% 24%)"/><stop offset="0.5" stop-color="hsl(62.9 54.4% 62%)"/><stop offset="1" stop-color="hsl(14.3 60.5% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(14.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(14.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="382.3" cy="241.9" r="347.3" fill="url(#glow)"/><circle cx="382.3" cy="241.9" r="82.7" fill="hsl(14.3 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(213.4 48.4% 18%)"/><path d="M6.8 0L73.5 0L54.8 738L25.5 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.4"/><path d="M74.9 0L141.6 0L122.9 738L93.6 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.7"/><path d="M136.4 0L203.1 0L184.4 738L155.1 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.6"/><path d="M201.3 0L268 0L249.3 738L220 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.4"/><path d="M275.1 0L341.8 0L323.1 738L293.8 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.5"/><path d="M335.2 0L401.9 0L383.2 738L353.9 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.6"/><path d="M401.1 0L467.8 0L449.1 738L419.8 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.4"/><path d="M472.8 0L539.5 0L520.8 738L491.5 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.3"/><path d="M542.8 0L609.5 0L590.8 738L561.5 738Z" fill="hsl(221.4 54.4% 10%)" opacity="0.4"/><path d="M371.6 0L551.6 774L191.6 774Z" fill="hsl(14.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(14.3 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(227.4 60.5% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(14.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LIGHTHOUSE &amp; THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(14.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  126 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(14.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

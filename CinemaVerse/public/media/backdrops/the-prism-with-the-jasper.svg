@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Prism with the Jasper backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(34.5 39.8% 6%)"/><stop offset="0.5" stop-color="hsl(50.5 45.5% 13%)"/><stop offset="1" stop-color="hsl(17.7 51.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(17.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(17.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="980.8" cy="372.7" r="757.5" fill="url(#glow)"/>
+<circle cx="980.8" cy="372.7" r="151.5" fill="hsl(17.7 96% 88%)" opacity=".85"/>
+<path d="M899.7 0L1061.7 0L449.7 900L134.7 900Z" fill="hsl(17.7 96% 88%)" opacity=".04"/><path d="M806.4 0L968.4 0L356.4 900L41.4 900Z" fill="hsl(17.7 96% 88%)" opacity=".04"/><path d="M1556.6 0L1718.6 0L1106.6 900L791.6 900Z" fill="hsl(17.7 96% 88%)" opacity=".04"/><path d="M1368.8 0L1530.8 0L918.8 900L603.8 900Z" fill="hsl(17.7 96% 88%)" opacity=".04"/><circle cx="513.2" cy="314.8" r="150.5" fill="hsl(17.7 96% 88%)" opacity="0.1"/><circle cx="691.6" cy="539.7" r="188.7" fill="hsl(17.7 92% 62%)" opacity="0.2"/><circle cx="320.9" cy="521.6" r="64" fill="hsl(17.7 96% 88%)" opacity="0.2"/><circle cx="202.2" cy="237.5" r="183.7" fill="hsl(17.7 92% 62%)" opacity="0.1"/><circle cx="63.8" cy="136.8" r="168.8" fill="hsl(17.7 96% 88%)" opacity="0.2"/><circle cx="754" cy="276.7" r="67.6" fill="hsl(17.7 92% 62%)" opacity="0.2"/><circle cx="215" cy="182.1" r="136.4" fill="hsl(17.7 96% 88%)" opacity="0.3"/><circle cx="347.8" cy="565.3" r="126.6" fill="hsl(17.7 92% 62%)" opacity="0.3"/><circle cx="1327.7" cy="379.4" r="52.2" fill="hsl(17.7 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q100 784.6 200 793.2Q300 740 400 748.6Q500 685.8 600 694.4Q700 685.8 800 708.1Q900 699.5 1000 736.6Q1100 728 1200 772.3Q1300 763.7 1400 793.5Q1500 784.9 1600 828L1610 1428Z" fill="hsl(208 51.2% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

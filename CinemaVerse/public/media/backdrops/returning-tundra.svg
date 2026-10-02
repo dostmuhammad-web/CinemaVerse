@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Returning Tundra backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(65.8 41.3% 6%)"/><stop offset="0.5" stop-color="hsl(81.8 47.2% 13%)"/><stop offset="1" stop-color="hsl(24 53% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(24 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(24 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="872.1" cy="409.1" r="492.5" fill="url(#glow)"/>
+<circle cx="872.1" cy="409.1" r="98.5" fill="hsl(24 96% 88%)" opacity=".85"/>
+<path d="M577.2 0L739.2 0L127.2 900L-187.8 900Z" fill="hsl(24 96% 88%)" opacity=".04"/><path d="M656 0L818 0L206 900L-109 900Z" fill="hsl(24 96% 88%)" opacity=".04"/><path d="M581.3 0L743.3 0L131.3 900L-183.7 900Z" fill="hsl(24 96% 88%)" opacity=".04"/><path d="M472.7 0L634.7 0L22.7 900L-292.3 900Z" fill="hsl(24 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(258.3 47.2% 10%)"/><path d="M3.3 0L181.1 0L131.3 738L53.1 738Z" fill="hsl(266.3 53% 6%)" opacity="0.4"/><path d="M184.2 0L362 0L312.2 738L234 738Z" fill="hsl(266.3 53% 6%)" opacity="0.4"/><path d="M356.2 0L534 0L484.2 738L406 738Z" fill="hsl(266.3 53% 6%)" opacity="0.5"/><path d="M535.3 0L713.1 0L663.3 738L585.1 738Z" fill="hsl(266.3 53% 6%)" opacity="0.3"/><path d="M718.5 0L896.3 0L846.5 738L768.3 738Z" fill="hsl(266.3 53% 6%)" opacity="0.7"/><path d="M890.3 0L1068.1 0L1018.3 738L940.1 738Z" fill="hsl(266.3 53% 6%)" opacity="0.6"/><path d="M1073 0L1250.8 0L1201 738L1122.8 738Z" fill="hsl(266.3 53% 6%)" opacity="0.7"/><path d="M1247.2 0L1425 0L1375.2 738L1297 738Z" fill="hsl(266.3 53% 6%)" opacity="0.4"/><path d="M1428.8 0L1606.6 0L1556.8 738L1478.6 738Z" fill="hsl(266.3 53% 6%)" opacity="0.7"/><path d="M615.2 0L1095.2 774L135.2 774Z" fill="hsl(24 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(24 92% 62%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(272.3 58.9% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bastion &amp; Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(2.5 51.7% 24%)"/><stop offset="0.5" stop-color="hsl(22.5 46.5% 42%)"/><stop offset="1" stop-color="hsl(322.7 51.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(322.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(322.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="463.7" cy="260.4" r="341.9" fill="url(#glow)"/><circle cx="463.7" cy="260.4" r="81.4" fill="hsl(322.7 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 475.9 85.7 492.1Q128.6 371.7 171.4 387.9Q214.3 356.8 257.1 373Q300 356.8 342.9 399.4Q385.8 363.5 428.6 379.7Q471.5 363.5 514.3 451.6Q557.2 435.4 600 558L610 1158Z" fill="hsl(183.1 36.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 596.1 66.7 614.5Q100 510 133.3 528.4Q166.7 499.2 200 517.6Q233.4 421.3 266.7 439.7Q300 341 333.3 359.4Q366.7 341 400 529.3Q433.4 430 466.7 448.4Q500 430 533.3 569.1Q566.7 550.7 600 666L610 1266Z" fill="hsl(183.1 41.4% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 735.5 54.5 749.5Q81.8 686.1 109.1 700.1Q136.4 658 163.6 672Q190.9 591.3 218.2 605.3Q245.5 591.3 272.7 660.8Q300 630.4 327.3 644.4Q354.6 630.4 381.8 680Q409.1 666 436.4 690.3Q463.7 676.3 490.9 692.3Q518.2 678.3 545.5 760.6Q572.8 746.6 600 792L610 1392Z" fill="hsl(191.1 46.5% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(322.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BASTION &amp; LATTICE</text>
+<path d="M44 709.4h72" stroke="hsl(322.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  146 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(322.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

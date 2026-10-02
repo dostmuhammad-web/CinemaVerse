@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Vertex: Second Dawn poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(230.9 36.6% 6%)"/><stop offset="0.5" stop-color="hsl(246.9 41.8% 13%)"/><stop offset="1" stop-color="hsl(214.1 47.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(214.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(214.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 520.4L66.8 520.4L73.4 506.9L129.6 506.9L135.2 545.3L172.3 545.3L183.9 491.2L281.1 491.2L295.4 550L383.4 550L389.8 559.7L446.3 559.7L458.9 517.8L536.6 517.8L546.1 449.7L629.8 449.7L610 1248Z" fill="hsl(74.7 36.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(82.7 47.1% 6%)"/><path d="M106.2 785.3l-7.4 46.2M525.8 659.6l-7.9 49.5M66.4 737.3l-12.6 78.8M338.4 185.5l-9.2 57.7M558.5 305.8l-5.2 32.5M197.5 199.6l-9.7 60.8M55.5 790.8l-10.1 63.1M527 601l-11.1 69.1M375.7 412.4l-6.7 41.8M284 261.3l-6 37.6M115.5 56.4l-14.4 89.9M146.8 330.8l-10.4 65M124.1 253.4l-7.2 45.3M287.9 566.1l-6.3 39.6M527.4 499.1l-8.1 50.7M90.3 199.3l-10.7 66.8M255.3 658.2l-7 43.8M210.3 105.2l-6.1 38.1M44.5 686.7l-10.2 63.7M363.6 2.7l-12.5 78.2M367.1 619.3l-6.6 41.1M472.9 33.6l-5.9 37.1M12.3 171.7l-9.7 60.8M343.3 758.1l-10.4 65.2M307.7 715.4l-7.5 47.2M178.8 159.3l-12.4 77.8M125.8 663.7l-7.2 44.9M56.7 517.1l-6.2 38.7M412.6 113.1l-12.6 78.9M470.5 539.1l-11.8 73.7M505.8 744.9l-7 44.1M30.1 614.2l-12 74.9M14.6 696.9l-6.5 40.6M215.8 798l-13.4 83.7M170.4 621.1l-13.7 85.6M505.6 584l-12.4 77.5M346.2 487.3l-9.4 59M352.4 129.1l-11.6 72.7M580.3 406l-11.9 74.1M201.9 220l-7.4 46M551 786.4l-12.4 77.6M306.4 413.5l-12.8 79.8M598.5 215.3l-4.4 27.3M51.9 286l-5.6 35.3M569.5 640.9l-8 50M77.6 716.2l-11.7 73.3" fill="none" stroke="hsl(214.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="413.6" cy="837" rx="132" ry="27" fill="hsl(214.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(214.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">VERTEX: SECOND DAWN</text>
+<path d="M44 709.4h72" stroke="hsl(214.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1989  ·  109 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(214.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

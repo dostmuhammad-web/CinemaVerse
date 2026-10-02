@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Learning Orbit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(206.8 41.1% 6%)"/><stop offset="0.5" stop-color="hsl(222.8 47% 13%)"/><stop offset="1" stop-color="hsl(179.7 52.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(179.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(179.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="520.2" cy="444.4" r="434.5" fill="url(#glow)"/>
+<circle cx="520.2" cy="444.4" r="86.9" fill="hsl(179.7 96% 78%)" opacity=".85"/>
+<path d="M113 0L275 0L-337 900L-652 900Z" fill="hsl(179.7 96% 78%)" opacity=".04"/><path d="M1066.9 0L1228.9 0L616.9 900L301.9 900Z" fill="hsl(179.7 96% 78%)" opacity=".04"/><path d="M843.3 0L1005.3 0L393.3 900L78.3 900Z" fill="hsl(179.7 96% 78%)" opacity=".04"/><path d="M1091.2 0L1253.2 0L641.2 900L326.2 900Z" fill="hsl(179.7 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(34.2 47% 10%)"/><path d="M699 184.1L1254.8 184.1L1365.9 900L654.5 900Z" fill="hsl(179.7 96% 78%)" opacity="0.1"/><path d="M699 184.1L1254.8 184.1L1427.1 900L630.1 900Z" fill="hsl(179.7 96% 78%)" opacity="0"/><path d="M699 184.1L1254.8 184.1L1488.2 900L605.6 900Z" fill="hsl(179.7 96% 78%)" opacity="0"/><rect x="699" y="144" width="555.8" height="401.3" fill="hsl(206.8 41.1% 6%)"/><rect x="699" y="144" width="555.8" height="401.3" fill="hsl(179.7 100% 62% / 0.4)" opacity=".5"/><path d="M699 144h555.8v401.3h-555.8Z" fill="none" stroke="hsl(48.2 58.7% 3%)" stroke-width="7"/><path d="M699 344.7h555.8M976.9 144v401.3" stroke="hsl(48.2 58.7% 3%)" stroke-width="4"/><path d="M552 864q-16.6 -92.5 16.6 -114.7q18.5 22.2 11.1 55.5q-3.7 37 3.7 59.2Z" fill="hsl(48.2 58.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

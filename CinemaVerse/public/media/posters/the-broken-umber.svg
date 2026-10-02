@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Broken Umber poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(279.5 62.9% 24%)"/><stop offset="0.5" stop-color="hsl(299.5 56.6% 42%)"/><stop offset="1" stop-color="hsl(246 62.9% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(246 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(246 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="300" cy="339.3" r="336.8" fill="url(#glow)"/><circle cx="300" cy="339.3" r="80.2" fill="hsl(246 96% 78%)" opacity=".92"/>
+<path d="M-8.5 828L-75.8 828L-8.5 424.5L58.8 828ZM32.1 828L-44.6 828L32.1 484.6L108.8 828ZM85.9 828L3.3 828L85.9 418.4L168.5 828ZM115.7 828L28.3 828L115.7 413.2L203.1 828ZM137 828L23.1 828L137 189.1L250.9 828ZM198.1 828L97.9 828L198.1 278.9L298.3 828ZM238.4 828L159 828L238.4 365.7L317.8 828ZM273.1 828L148.5 828L273.1 326.3L397.7 828ZM304.6 828L228.9 828L304.6 412.2L380.3 828ZM334.6 828L253 828L334.6 512.8L416.2 828ZM372.1 828L232.7 828L372.1 267.1L511.5 828ZM401.4 828L322.1 828L401.4 439.5L480.7 828ZM450 828L372.7 828L450 411L527.3 828ZM486.7 828L384.4 828L486.7 411.7L589 828ZM511.6 828L457.8 828L511.6 518.3L565.4 828ZM558.9 828L487.6 828L558.9 499.5L630.2 828Z" fill="hsl(113.8 50.3% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(127.8 62.9% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(246 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE BROKEN UMBER</text>
+<path d="M44 709.4h72" stroke="hsl(246 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  155 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(246 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

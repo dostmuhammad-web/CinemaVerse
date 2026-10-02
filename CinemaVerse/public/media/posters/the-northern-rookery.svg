@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Northern Rookery poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(200.9 41.4% 6%)"/><stop offset="0.5" stop-color="hsl(216.9 47.4% 13%)"/><stop offset="1" stop-color="hsl(188.9 53.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(188.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(188.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 440.2L28.7 440.2L39.7 366.3L93 366.3L105 368.8L171.4 368.8L180.7 395.5L267.6 395.5L276 513.1L351.3 513.1L363.4 383.8L392 383.8L401.4 550.9L487.7 550.9L499 501.9L591 501.9L596.4 399.9L642.9 399.9L610 1248Z" fill="hsl(359.4 41.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(7.4 53.3% 6%)"/><path d="M432.3 664.3l-7.2 45.3M18.9 650.4l-12.3 76.6M442.6 528.4l-6.3 39.4M79.9 520.2l-6.1 37.9M367.3 550.8l-13.9 87.1M442.8 395.8l-13 81.3M281.7 534.2l-11.1 69.6M194.9 301.4l-13.6 84.8M254.9 287.2l-12.4 77.6M378.6 413.7l-5.6 35M104 318l-10.7 67M390.9 393.9l-5.2 32.8M24.7 256.7l-8 50.1M150.9 480.8l-12.6 78.5M306.6 342l-7.1 44.5M185.4 384.5l-9.7 60.5M542.2 234.7l-5.3 32.9M255.2 110.4l-8.6 53.8M2.4 176.9l-11.5 71.9M131.4 531.7l-11.6 72.3M364 269.1l-9.9 61.9M317.6 328.5l-8.8 54.7M407.1 89.8l-9.4 58.5M382.6 26.9l-5.3 33.4M535.8 7.7l-6.8 42.7M347.5 564l-9.1 56.9M529.8 742.7l-12.9 80.8M588.1 558.7l-14 87.2M191.9 1.8l-6.2 38.9M72.1 272l-14.3 89.2M396.9 387.7l-10.3 64.4M493.5 425.4l-13.9 86.7M251.6 57.2l-9 56M455.9 331.5l-13.1 82M153.2 660.3l-4.5 28.1M147.5 252.4l-14 87.8M8.7 388.4l-12.8 80.1M448.6 801l-13.6 85.2M334.9 395.8l-4.9 30.4M581.2 468.9l-7.2 45.1M94.6 266.6l-11.7 73.3M590.9 717.8l-9.2 57.7M560.7 717.2l-12.1 75.7M560.4 92.7l-6.1 38M549.1 260l-9.8 61.1M293 649.2l-11.5 71.8" fill="none" stroke="hsl(188.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="200.3" cy="837" rx="132" ry="27" fill="hsl(188.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(188.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE NORTHERN ROOKERY</text>
+<path d="M44 709.4h72" stroke="hsl(188.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  102 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(188.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

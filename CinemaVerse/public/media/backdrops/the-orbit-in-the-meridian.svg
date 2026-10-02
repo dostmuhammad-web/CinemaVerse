@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Orbit in the Meridian backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(339 39.2% 24%)"/><stop offset="0.5" stop-color="hsl(359 35.3% 62%)"/><stop offset="1" stop-color="hsl(320.6 39.2% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(320.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(320.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="469.6" cy="412.7" r="557" fill="url(#glow)"/>
+<circle cx="469.6" cy="412.7" r="111.4" fill="hsl(320.6 96% 88%)" opacity=".85"/>
+<path d="M963.7 0L1125.7 0L513.7 900L198.7 900Z" fill="hsl(320.6 96% 88%)" opacity=".04"/><path d="M751.1 0L913.1 0L301.1 900L-13.9 900Z" fill="hsl(320.6 96% 88%)" opacity=".04"/><path d="M724.2 0L886.2 0L274.2 900L-40.8 900Z" fill="hsl(320.6 96% 88%)" opacity=".04"/><path d="M1329.2 0L1491.2 0L879.2 900L564.2 900Z" fill="hsl(320.6 96% 88%)" opacity=".04"/><circle cx="223.6" cy="166.1" r="146.7" fill="hsl(320.6 96% 88%)" opacity="0.2"/><circle cx="1259.5" cy="280.4" r="61" fill="hsl(320.6 92% 52%)" opacity="0.2"/><circle cx="1007.9" cy="453.7" r="163.2" fill="hsl(320.6 96% 88%)" opacity="0.3"/><circle cx="1570.8" cy="341.7" r="62.1" fill="hsl(320.6 92% 52%)" opacity="0.3"/><circle cx="839" cy="343.8" r="61.1" fill="hsl(320.6 96% 88%)" opacity="0.1"/><circle cx="1267.8" cy="108.6" r="95.2" fill="hsl(320.6 92% 52%)" opacity="0.3"/><circle cx="54.9" cy="503.3" r="87.7" fill="hsl(320.6 96% 88%)" opacity="0.2"/><circle cx="1000.6" cy="502.5" r="188.4" fill="hsl(320.6 92% 52%)" opacity="0.2"/><circle cx="1212.2" cy="318.8" r="126.3" fill="hsl(320.6 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q100 777 200 785.6Q300 765.5 400 774.1Q500 747.7 600 756.3Q700 726.7 800 735.3Q900 690 1000 698.6Q1100 690 1200 723.8Q1300 715.2 1400 799.7Q1500 791.1 1600 828L1610 1428Z" fill="hsl(177.1 35.3% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

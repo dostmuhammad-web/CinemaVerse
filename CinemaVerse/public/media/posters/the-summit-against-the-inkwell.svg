@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Summit against the Inkwell poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(16.2 46.5% 6%)"/><stop offset="0.5" stop-color="hsl(32.2 53.2% 13%)"/><stop offset="1" stop-color="hsl(358.4 59.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(358.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(358.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 451.4 85.7 467.6Q128.6 323.8 171.4 340Q214.3 293.3 257.1 309.5Q300 285 342.9 301.2Q385.8 285 428.6 439.5Q471.5 423.3 514.3 505.7Q557.2 489.5 600 558L610 1158Z" fill="hsl(209.1 46.5% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 550.2 66.7 568.6Q100 486.6 133.3 505Q166.7 444.1 200 462.5Q233.4 371.4 266.7 389.8Q300 371.4 333.3 532.9Q366.7 461 400 479.4Q433.4 461 466.7 548Q500 529.6 533.3 607Q566.7 588.6 600 666L610 1266Z" fill="hsl(209.1 53.2% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 702.6 54.5 716.6Q81.8 679.4 109.1 693.4Q136.4 642.4 163.6 656.4Q190.9 605.9 218.2 619.9Q245.5 547.6 272.7 561.6Q300 547.6 327.3 649.7Q354.6 606 381.8 620Q409.1 606 436.4 637Q463.7 623 490.9 678.1Q518.2 664.1 545.5 766.3Q572.8 752.3 600 792L610 1392Z" fill="hsl(217.1 59.8% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(358.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SUMMIT AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">INKWELL</text>
+<path d="M44 726.8h72" stroke="hsl(358.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2018  ·  145 MIN  ·  WAR</text>
+<text x="556" y="750.8" fill="hsl(358.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

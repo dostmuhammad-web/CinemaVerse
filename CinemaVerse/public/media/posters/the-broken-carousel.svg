@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Broken Carousel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(311.5 64.8% 24%)"/><stop offset="0.5" stop-color="hsl(331.5 58.3% 42%)"/><stop offset="1" stop-color="hsl(285.2 64.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(285.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(285.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="348.1" cy="254.4" r="471.2" fill="url(#glow)"/><circle cx="348.1" cy="254.4" r="112.2" fill="hsl(285.2 96% 78%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(151.6 51.8% 18%)"/><path d="M8.9 0L75.6 0L56.9 738L27.6 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M74.1 0L140.8 0L122.1 738L92.8 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.7"/><path d="M137.8 0L204.5 0L185.8 738L156.5 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.7"/><path d="M204.6 0L271.3 0L252.6 738L223.3 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.6"/><path d="M273.9 0L340.6 0L321.9 738L292.6 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M339.7 0L406.4 0L387.7 738L358.4 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M409 0L475.7 0L457 738L427.7 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.6"/><path d="M466.7 0L533.4 0L514.7 738L485.4 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.5"/><path d="M536.4 0L603.1 0L584.4 738L555.1 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.5"/><path d="M385.5 0L565.5 774L205.5 774Z" fill="hsl(285.2 96% 78%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(285.2 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(165.6 64.8% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(285.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE BROKEN CAROUSEL</text>
+<path d="M44 709.4h72" stroke="hsl(285.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2007  ·  134 MIN  ·  MUSIC</text>
+<text x="556" y="733.4" fill="hsl(285.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Velvet Nocturne poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(355.4 33.2% 6%)"/><stop offset="0.5" stop-color="hsl(11.4 38% 13%)"/><stop offset="1" stop-color="hsl(320.5 42.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(320.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(320.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M12.2 828L-77.7 828L12.2 465.7L102.1 828ZM44.5 828L-64.3 828L44.5 236.3L153.3 828ZM74.5 828L17.6 828L74.5 508.8L131.4 828ZM103.6 828L-16.6 828L103.6 225.8L223.8 828ZM145 828L23.2 828L145 258.2L266.8 828ZM188.9 828L114.2 828L188.9 483.5L263.6 828ZM213.2 828L107.8 828L213.2 415.5L318.6 828ZM252 828L171 828L252 372.6L333 828ZM297.4 828L193.8 828L297.4 369.1L401 828ZM343.9 828L261.7 828L343.9 322.8L426.1 828ZM379.4 828L304.3 828L379.4 532.2L454.5 828ZM424.7 828L375 828L424.7 553.4L474.4 828ZM455.8 828L365.1 828L455.8 319.5L546.5 828ZM485.3 828L360.8 828L485.3 266L609.8 828ZM517.6 828L460.2 828L517.6 487.9L575 828ZM568.5 828L496.4 828L568.5 502.6L640.6 828Z" fill="hsl(155.2 38% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(169.2 47.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(320.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE VELVET NOCTURNE</text>
+<path d="M44 709.4h72" stroke="hsl(320.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1978  ·  89 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(320.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

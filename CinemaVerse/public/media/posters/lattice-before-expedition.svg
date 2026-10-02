@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lattice before Expedition poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(233.9 40.3% 6%)"/><stop offset="0.5" stop-color="hsl(249.9 46% 13%)"/><stop offset="1" stop-color="hsl(196.9 51.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(196.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(196.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(70.2 46% 10%)"/><path d="M329.2 187L551.3 187L595.7 900L311.4 900Z" fill="hsl(196.9 96% 78%)" opacity="0.1"/><path d="M329.2 187L551.3 187L620.2 900L301.7 900Z" fill="hsl(196.9 96% 78%)" opacity="0"/><path d="M329.2 187L551.3 187L644.6 900L291.9 900Z" fill="hsl(196.9 96% 78%)" opacity="0"/><rect x="329.2" y="144" width="222.1" height="430.1" fill="hsl(233.9 40.3% 6%)"/><rect x="329.2" y="144" width="222.1" height="430.1" fill="hsl(196.9 100% 62% / 0.4)" opacity=".5"/><path d="M329.2 144h222.1v430.1h-222.1Z" fill="none" stroke="hsl(84.2 57.6% 3%)" stroke-width="7"/><path d="M329.2 359.1h222.1M440.3 144v430.1" stroke="hsl(84.2 57.6% 3%)" stroke-width="4"/><path d="M222.3 864q-17.3 -96.3 17.3 -119.4q19.3 23.1 11.6 57.8q-3.9 38.5 3.9 61.6Z" fill="hsl(84.2 57.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(196.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LATTICE BEFORE EXPEDITION</text>
+<path d="M44 709.4h72" stroke="hsl(196.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  93 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(196.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

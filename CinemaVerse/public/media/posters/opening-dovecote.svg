@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Opening Dovecote poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(248.8 43.1% 6%)"/><stop offset="0.5" stop-color="hsl(264.8 49.3% 13%)"/><stop offset="1" stop-color="hsl(219.2 55.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(219.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(219.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-9.4 828L-97.9 828L-9.4 457.4L79.1 828ZM27.6 828L-65.2 828L27.6 469.7L120.4 828ZM64.2 828L-21.9 828L64.2 297.6L150.3 828ZM117.4 828L41.7 828L117.4 466L193.1 828ZM142.2 828L38.8 828L142.2 181.9L245.6 828ZM190.2 828L70.5 828L190.2 339.6L309.9 828ZM227.9 828L166.1 828L227.9 502.6L289.7 828ZM261.2 828L157.3 828L261.2 313.5L365.1 828ZM295.2 828L229.4 828L295.2 421.7L361 828ZM327.6 828L183 828L327.6 222.3L472.2 828ZM378.5 828L263.6 828L378.5 311.8L493.4 828ZM421.2 828L335.1 828L421.2 373.7L507.3 828ZM446 828L363.3 828L446 401.5L528.7 828ZM489.8 828L404.3 828L489.8 385.6L575.3 828ZM530.3 828L433 828L530.3 442.4L627.6 828ZM552.6 828L432 828L552.6 362.5L673.2 828Z" fill="hsl(54 49.3% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(68 61.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(219.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">OPENING DOVECOTE</text>
+<path d="M44 709.4h72" stroke="hsl(219.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  112 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(219.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

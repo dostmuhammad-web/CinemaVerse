@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Tundra of the Nexus backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(295.6 36.7% 6%)"/><stop offset="0.5" stop-color="hsl(311.6 41.9% 13%)"/><stop offset="1" stop-color="hsl(275.3 47.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(275.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(275.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="953.8" cy="471.9" r="315.5" fill="url(#glow)"/>
+<circle cx="953.8" cy="471.9" r="63.1" fill="hsl(275.3 96% 78%)" opacity=".85"/>
+<path d="M742.6 0L904.6 0L292.6 900L-22.4 900Z" fill="hsl(275.3 96% 78%)" opacity=".04"/><path d="M245.4 0L407.4 0L-204.6 900L-519.6 900Z" fill="hsl(275.3 96% 78%)" opacity=".04"/><path d="M1357.2 0L1519.2 0L907.2 900L592.2 900Z" fill="hsl(275.3 96% 78%)" opacity=".04"/><path d="M214.5 0L376.5 0L-235.5 900L-550.5 900Z" fill="hsl(275.3 96% 78%)" opacity=".04"/><path d="M7.9 828L-110.7 828L7.9 209.9L126.5 828ZM121.9 828L64.3 828L121.9 549.7L179.5 828ZM186.3 828L71.6 828L186.3 341.2L301 828ZM332 828L265.1 828L332 468.3L398.9 828ZM432 828L348.7 828L432 483.6L515.3 828ZM516.9 828L430.4 828L516.9 422.9L603.4 828ZM586.4 828L494.9 828L586.4 403.8L677.9 828ZM694.3 828L598.1 828L694.3 300L790.5 828ZM768.6 828L687.7 828L768.6 443.9L849.5 828ZM897.7 828L784.9 828L897.7 192.9L1010.5 828ZM990.6 828L934.9 828L990.6 493.2L1046.3 828ZM1112.8 828L1029.1 828L1112.8 499.3L1196.5 828ZM1218.5 828L1084.7 828L1218.5 242.8L1352.3 828ZM1277.3 828L1193.8 828L1277.3 434.3L1360.8 828ZM1387.2 828L1317.2 828L1387.2 494.1L1457.2 828ZM1485.6 828L1406.4 828L1485.6 399.4L1564.8 828Z" fill="hsl(126.6 41.9% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(140.6 52.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

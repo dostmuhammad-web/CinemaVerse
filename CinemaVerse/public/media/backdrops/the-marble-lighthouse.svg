@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Marble Lighthouse backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(269.5 37.8% 6%)"/><stop offset="0.5" stop-color="hsl(285.5 43.2% 13%)"/><stop offset="1" stop-color="hsl(263.2 48.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(263.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(263.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="909.8" cy="271.7" r="469" fill="url(#glow)"/>
+<circle cx="909.8" cy="271.7" r="93.8" fill="hsl(263.2 96% 78%)" opacity=".85"/>
+<path d="M1232.9 0L1394.9 0L782.9 900L467.9 900Z" fill="hsl(263.2 96% 78%)" opacity=".04"/><path d="M541.9 0L703.9 0L91.9 900L-223.1 900Z" fill="hsl(263.2 96% 78%)" opacity=".04"/><path d="M572.5 0L734.5 0L122.5 900L-192.5 900Z" fill="hsl(263.2 96% 78%)" opacity=".04"/><path d="M728.2 0L890.2 0L278.2 900L-36.8 900Z" fill="hsl(263.2 96% 78%)" opacity=".04"/><path d="M9.5 828L-91.4 828L9.5 331.8L110.4 828ZM98.7 828L18.4 828L98.7 419.1L179 828ZM197.4 828L124.3 828L197.4 472.4L270.5 828ZM272.9 828L224.1 828L272.9 550.8L321.7 828ZM366.8 828L250.9 828L366.8 225.6L482.7 828ZM519.3 828L424.1 828L519.3 260.5L614.5 828ZM621.5 828L562.3 828L621.5 510.7L680.7 828ZM676.1 828L595.1 828L676.1 479.6L757.1 828ZM832.2 828L778.4 828L832.2 530.1L886 828ZM931.3 828L839.1 828L931.3 271L1023.5 828ZM996.9 828L934 828L996.9 506.7L1059.8 828ZM1091.9 828L1017.3 828L1091.9 403.9L1166.5 828ZM1172.9 828L1033 828L1172.9 273.3L1312.8 828ZM1272.1 828L1193.7 828L1272.1 441.7L1350.5 828ZM1389.5 828L1328.7 828L1389.5 490.6L1450.3 828ZM1510.8 828L1367.4 828L1510.8 206.7L1654.2 828Z" fill="hsl(54 43.2% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(68 54% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

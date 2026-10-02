@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Endless Garden poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(204.8 32.9% 6%)"/><stop offset="0.5" stop-color="hsl(220.8 37.6% 13%)"/><stop offset="1" stop-color="hsl(182 42.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 491.8 85.7 508Q128.6 363.3 171.4 379.5Q214.3 326.7 257.1 342.9Q300 285 342.9 301.2Q385.8 285 428.6 414.6Q471.5 398.4 514.3 441.3Q557.2 425.1 600 558L610 1158Z" fill="hsl(353.2 32.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 580.1 66.7 598.5Q100 503.3 133.3 521.7Q166.7 467.9 200 486.3Q233.4 412.3 266.7 430.7Q300 412.3 333.3 477.4Q366.7 401.2 400 419.6Q433.4 401.2 466.7 491.2Q500 472.8 533.3 586.3Q566.7 567.9 600 666L610 1266Z" fill="hsl(353.2 37.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 736.6 54.5 750.6Q81.8 662.9 109.1 676.9Q136.4 653.8 163.6 667.8Q190.9 584.2 218.2 598.2Q245.5 584.2 272.7 656.5Q300 642.5 327.3 657.3Q354.6 643.3 381.8 659.1Q409.1 625.6 436.4 639.6Q463.7 625.6 490.9 681.5Q518.2 667.5 545.5 724.4Q572.8 710.4 600 792L610 1392Z" fill="hsl(1.2 42.4% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(182 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ENDLESS GARDEN</text>
+<path d="M44 709.4h72" stroke="hsl(182 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1981  ·  128 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(182 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

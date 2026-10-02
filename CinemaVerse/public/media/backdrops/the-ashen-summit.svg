@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Ashen Summit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(34 59.6% 24%)"/><stop offset="0.5" stop-color="hsl(54 53.7% 62%)"/><stop offset="1" stop-color="hsl(359.8 59.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(359.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(359.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="949.7" cy="353.9" r="715" fill="url(#glow)"/>
+<circle cx="949.7" cy="353.9" r="143" fill="hsl(359.8 96% 88%)" opacity=".85"/>
+<path d="M332.1 0L494.1 0L-117.9 900L-432.9 900Z" fill="hsl(359.8 96% 88%)" opacity=".04"/><path d="M1587.3 0L1749.3 0L1137.3 900L822.3 900Z" fill="hsl(359.8 96% 88%)" opacity=".04"/><path d="M910.3 0L1072.3 0L460.3 900L145.3 900Z" fill="hsl(359.8 96% 88%)" opacity=".04"/><path d="M764.4 0L926.4 0L314.4 900L-0.6 900Z" fill="hsl(359.8 96% 88%)" opacity=".04"/><circle cx="1198.7" cy="383.2" r="146.3" fill="hsl(359.8 96% 88%)" opacity="0.2"/><circle cx="1133.7" cy="512.3" r="123.3" fill="hsl(359.8 92% 52%)" opacity="0.2"/><circle cx="821.6" cy="574" r="117.5" fill="hsl(359.8 96% 88%)" opacity="0.1"/><circle cx="1059.6" cy="136.9" r="172.4" fill="hsl(359.8 92% 52%)" opacity="0.1"/><circle cx="117.3" cy="538.6" r="81.3" fill="hsl(359.8 96% 88%)" opacity="0.2"/><circle cx="665.7" cy="268.3" r="85.4" fill="hsl(359.8 92% 52%)" opacity="0.3"/><circle cx="170.9" cy="228.9" r="157.1" fill="hsl(359.8 96% 88%)" opacity="0.1"/><circle cx="639.2" cy="648.7" r="172.1" fill="hsl(359.8 92% 52%)" opacity="0.3"/><circle cx="1315.5" cy="510" r="74.2" fill="hsl(359.8 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q100 779.4 200 788Q300 711.6 400 720.2Q500 710.9 600 719.5Q700 710.9 800 753.1Q900 700.6 1000 709.2Q1100 700.6 1200 730.1Q1300 721.5 1400 799.1Q1500 790.5 1600 828L1610 1428Z" fill="hsl(189.5 53.7% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

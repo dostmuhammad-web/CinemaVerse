@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Summit beneath Meridian poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(200.6 51.5% 24%)"/><stop offset="0.5" stop-color="hsl(220.6 46.3% 42%)"/><stop offset="1" stop-color="hsl(171.4 51.5% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(171.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(171.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="317.5" cy="340.7" r="482.6" fill="url(#glow)"/><circle cx="317.5" cy="340.7" r="114.9" fill="hsl(171.4 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 418 85.7 434.2Q128.6 418 171.4 450.7Q214.3 296.1 257.1 312.3Q300 296.1 342.9 349.5Q385.8 333.3 428.6 402.7Q471.5 386.5 514.3 480.4Q557.2 464.2 600 558L610 1158Z" fill="hsl(20.4 36% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 567.7 66.7 586.1Q100 498.6 133.3 517Q166.7 484.8 200 503.2Q233.4 371.9 266.7 390.3Q300 371.9 333.3 504.8Q366.7 472.5 400 490.9Q433.4 472.5 466.7 542.9Q500 524.5 533.3 572.1Q566.7 553.7 600 666L610 1266Z" fill="hsl(20.4 41.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 757.1 54.5 771.1Q81.8 634.4 109.1 648.4Q136.4 634.4 163.6 669.4Q190.9 581.1 218.2 595.1Q245.5 581.1 272.7 607.7Q300 593.7 327.3 680.7Q354.6 574.4 381.8 588.4Q409.1 574.4 436.4 650.5Q463.7 636.5 490.9 690.7Q518.2 676.7 545.5 724.7Q572.8 710.7 600 792L610 1392Z" fill="hsl(28.4 46.3% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(171.4 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SUMMIT BENEATH MERIDIAN</text>
+<path d="M44 709.4h72" stroke="hsl(171.4 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  120 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(171.4 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

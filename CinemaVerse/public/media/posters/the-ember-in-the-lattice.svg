@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Ember in the Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(308 61.9% 24%)"/><stop offset="0.5" stop-color="hsl(328 55.7% 62%)"/><stop offset="1" stop-color="hsl(299.2 61.9% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(299.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(299.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="205.5" cy="272.1" r="286" fill="url(#glow)"/><circle cx="205.5" cy="272.1" r="68.1" fill="hsl(299.2 96% 88%)" opacity=".92"/>
+<circle cx="205.8" cy="612.3" r="127.8" fill="hsl(299.2 96% 88%)" opacity="0.2"/><circle cx="439.8" cy="241.7" r="139.5" fill="hsl(299.2 92% 52%)" opacity="0.3"/><circle cx="435.5" cy="311.3" r="133.4" fill="hsl(299.2 96% 88%)" opacity="0.1"/><circle cx="359.6" cy="579.2" r="169.2" fill="hsl(299.2 92% 52%)" opacity="0.3"/><circle cx="584.5" cy="316.5" r="183.5" fill="hsl(299.2 96% 88%)" opacity="0.3"/><circle cx="128.1" cy="485.6" r="95.5" fill="hsl(299.2 92% 52%)" opacity="0.3"/><circle cx="199.3" cy="584.8" r="86.1" fill="hsl(299.2 96% 88%)" opacity="0.3"/><circle cx="368" cy="247" r="130.2" fill="hsl(299.2 92% 52%)" opacity="0.3"/><circle cx="325.7" cy="498.6" r="129" fill="hsl(299.2 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q37.5 790.6 75 799.2Q112.5 749 150 757.6Q187.5 742.1 225 750.7Q262.5 711.8 300 720.4Q337.5 711.8 375 740.9Q412.5 732.3 450 741.9Q487.5 733.3 525 797.2Q562.5 788.6 600 828L610 1428Z" fill="hsl(132.4 55.7% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(299.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE EMBER IN THE LATTICE</text>
+<path d="M44 709.4h72" stroke="hsl(299.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  95 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(299.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

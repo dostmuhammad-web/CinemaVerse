@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Forgotten Granite IV poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(325.1 23.5% 6%)"/><stop offset="0.5" stop-color="hsl(341.1 26.9% 13%)"/><stop offset="1" stop-color="hsl(288.1 30.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(288.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(288.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="185.9" cy="251.9" r="187" fill="hsl(288.1 96% 88%)" opacity="0.2"/><circle cx="599.4" cy="492.2" r="74.6" fill="hsl(288.1 92% 62%)" opacity="0.2"/><circle cx="23" cy="159.2" r="90.9" fill="hsl(288.1 96% 88%)" opacity="0.3"/><circle cx="45.3" cy="149.8" r="102.6" fill="hsl(288.1 92% 62%)" opacity="0.3"/><circle cx="374.7" cy="241.2" r="45.9" fill="hsl(288.1 96% 88%)" opacity="0.3"/><circle cx="239" cy="317" r="70.8" fill="hsl(288.1 92% 62%)" opacity="0.3"/><circle cx="233.5" cy="488.7" r="53.9" fill="hsl(288.1 96% 88%)" opacity="0.2"/><circle cx="93.4" cy="318.8" r="83" fill="hsl(288.1 92% 62%)" opacity="0.3"/><circle cx="85.6" cy="331.6" r="72" fill="hsl(288.1 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 769.8 75 778.4Q112.5 769.8 150 779.9Q187.5 705.5 225 714.1Q262.5 705.5 300 720.9Q337.5 712.3 375 724.8Q412.5 716.2 450 739.4Q487.5 730.8 525 773.3Q562.5 764.7 600 828L610 1428Z" fill="hsl(113.9 30.2% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(288.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FORGOTTEN GRANITE IV</text>
+<path d="M44 709.4h72" stroke="hsl(288.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1961  ·  96 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(288.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

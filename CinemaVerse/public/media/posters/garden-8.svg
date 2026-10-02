@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Garden 8 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(197.3 48.9% 6%)"/><stop offset="0.5" stop-color="hsl(213.3 55.9% 13%)"/><stop offset="1" stop-color="hsl(180.5 62.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(180.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(180.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 371.2L73.3 371.2L79.5 391L118.5 391L130.5 429.2L184.7 429.2L188.9 407.9L245.1 407.9L249.3 460.4L324.2 460.4L338.5 351.8L401.1 351.8L415.2 526.2L445.4 526.2L452.3 517.9L500 517.9L512.1 386.6L599.5 386.6L608.1 367.9L650.3 367.9L610 1248Z" fill="hsl(32.4 48.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(40.4 62.9% 6%)"/><path d="M492.6 233.6l-5.9 36.9M415.5 357.3l-6.6 41.2M262.9 419.4l-14 87.4M182.9 512.3l-9.4 58.8M264.7 653.4l-6.2 38.9M339.6 801.7l-6.7 41.9M568 219.1l-8.6 54M428 722.6l-7.3 45.6M354.6 241.2l-8.4 52.8M396.5 84.2l-12.8 80M8.1 460.8l-6 37.6M512.5 98.6l-10.6 66.4M70.2 104.2l-5.9 37.2M518.3 778.1l-10.4 64.8M301.6 26.4l-6.1 38.4M362.9 124l-6.1 38.2M214.7 658.8l-5 31.4M169.9 313.1l-7.1 44.5M593 419.6l-7.4 46.2M468.1 602.5l-7.8 48.8M419.8 581.3l-6.2 39M557.1 799.5l-9.6 60M313.3 592.6l-5.6 34.9M508.7 394.3l-10.7 67.1M467 762.7l-4.8 30.3M369 36.6l-5.1 31.9M341.5 321.9l-9.1 56.6M139.5 307.4l-13.2 82.7M187.3 616.2l-9.4 58.8M36.9 804.6l-13.5 84.5M488.1 270.6l-4.3 27.2M215.6 197.9l-14.4 89.9M135.5 781.6l-8.2 51.5M198.9 492.1l-8.1 50.5M510 209.3l-13.3 83M116.1 230.8l-9.6 59.8M182 123.6l-5.2 32.6M49.2 601.7l-5.1 32.2M24.1 237.5l-10.4 64.7M180 416.6l-7.4 46.3M113.7 93.3l-4.9 30.3M274 533.2l-10 62.7M107.6 56.4l-6.7 42M182.3 609.9l-10.8 67.7M211 702.8l-5.7 35.7M545.5 262.1l-7.1 44.5" fill="none" stroke="hsl(180.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="198.5" cy="837" rx="132" ry="27" fill="hsl(180.5 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(180.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GARDEN 8</text>
+<path d="M44 709.4h72" stroke="hsl(180.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2021  ·  125 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(180.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

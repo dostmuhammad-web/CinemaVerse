@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The First Harbour poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(51.7 39% 6%)"/><stop offset="0.5" stop-color="hsl(67.7 44.6% 13%)"/><stop offset="1" stop-color="hsl(16.4 50.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(16.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(16.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(247.2 44.6% 10%)"/><path d="M7.7 0L74.4 0L55.7 738L26.4 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.4"/><path d="M75.6 0L142.3 0L123.6 738L94.3 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.4"/><path d="M140.1 0L206.8 0L188.1 738L158.8 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.7"/><path d="M204.1 0L270.8 0L252.1 738L222.8 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.3"/><path d="M271.6 0L338.3 0L319.6 738L290.3 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.7"/><path d="M340.1 0L406.8 0L388.1 738L358.8 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.5"/><path d="M401.6 0L468.3 0L449.6 738L420.3 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.6"/><path d="M475 0L541.7 0L523 738L493.7 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.6"/><path d="M538.4 0L605.1 0L586.4 738L557.1 738Z" fill="hsl(255.2 50.2% 6%)" opacity="0.4"/><path d="M382.6 0L562.6 774L202.6 774Z" fill="hsl(16.4 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(16.4 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(261.2 55.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(16.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FIRST HARBOUR</text>
+<path d="M44 709.4h72" stroke="hsl(16.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  123 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(16.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quiver &amp; Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(339.4 35.6% 6%)"/><stop offset="0.5" stop-color="hsl(355.4 40.7% 13%)"/><stop offset="1" stop-color="hsl(333.2 45.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(333.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(333.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="399.7" cy="659.4" r="156.6" fill="hsl(333.2 96% 88%)" opacity="0.3"/><circle cx="267.5" cy="220.9" r="153.5" fill="hsl(333.2 92% 62%)" opacity="0.1"/><circle cx="415.1" cy="391.5" r="71" fill="hsl(333.2 96% 88%)" opacity="0.2"/><circle cx="72.5" cy="208.4" r="84.8" fill="hsl(333.2 92% 62%)" opacity="0.2"/><circle cx="455.7" cy="661.1" r="103" fill="hsl(333.2 96% 88%)" opacity="0.2"/><circle cx="157.4" cy="284.5" r="123.8" fill="hsl(333.2 92% 62%)" opacity="0.3"/><circle cx="367.7" cy="594.6" r="122.4" fill="hsl(333.2 96% 88%)" opacity="0.2"/><circle cx="394.6" cy="412.6" r="124.5" fill="hsl(333.2 92% 62%)" opacity="0.3"/><circle cx="371.5" cy="561.1" r="74.4" fill="hsl(333.2 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 762.5 75 771.1Q112.5 743.6 150 752.2Q187.5 743.6 225 761.5Q262.5 715.6 300 724.2Q337.5 701 375 709.6Q412.5 701 450 772.6Q487.5 764 525 775.4Q562.5 766.8 600 828L610 1428Z" fill="hsl(146.7 45.8% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(333.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUIVER &amp; SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(333.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  98 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(333.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

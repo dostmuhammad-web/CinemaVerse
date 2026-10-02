@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Foundry for Quarry poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(218.1 56.5% 24%)"/><stop offset="0.5" stop-color="hsl(238.1 50.8% 42%)"/><stop offset="1" stop-color="hsl(199.3 56.5% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(199.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(199.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="443" cy="341.7" r="285.2" fill="url(#glow)"/><circle cx="443" cy="341.7" r="67.9" fill="hsl(199.3 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 454.8 85.7 471Q128.6 364.6 171.4 380.8Q214.3 300.6 257.1 316.8Q300 298.9 342.9 315.1Q385.8 298.9 428.6 356.3Q471.5 340.1 514.3 458.1Q557.2 441.9 600 558L610 1158Z" fill="hsl(35 39.5% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 566.8 66.7 585.2Q100 500.5 133.3 518.9Q166.7 390.9 200 409.3Q233.4 390.9 266.7 440.4Q300 407 333.3 425.4Q366.7 407 400 512.1Q433.4 493.7 466.7 517.1Q500 498.7 533.3 597.2Q566.7 578.8 600 666L610 1266Z" fill="hsl(35 45.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 702.9 54.5 716.9Q81.8 691.3 109.1 705.3Q136.4 676.7 163.6 690.7Q190.9 582.8 218.2 596.8Q245.5 582.8 272.7 612.1Q300 587.7 327.3 601.7Q354.6 587.7 381.8 680.5Q409.1 609.7 436.4 623.7Q463.7 609.7 490.9 732.8Q518.2 718.8 545.5 740.8Q572.8 726.8 600 792L610 1392Z" fill="hsl(43 50.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(199.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FOUNDRY FOR QUARRY</text>
+<path d="M44 709.4h72" stroke="hsl(199.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2009  ·  119 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(199.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

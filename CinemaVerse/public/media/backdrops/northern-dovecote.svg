@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Northern Dovecote backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(54.5 40.4% 6%)"/><stop offset="0.5" stop-color="hsl(70.5 46.2% 13%)"/><stop offset="1" stop-color="hsl(19.9 51.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(19.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(19.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1238.7" cy="482.6" r="615" fill="url(#glow)"/>
+<circle cx="1238.7" cy="482.6" r="123" fill="hsl(19.9 96% 88%)" opacity=".85"/>
+<path d="M1026.7 0L1188.7 0L576.7 900L261.7 900Z" fill="hsl(19.9 96% 88%)" opacity=".04"/><path d="M92.7 0L254.7 0L-357.3 900L-672.3 900Z" fill="hsl(19.9 96% 88%)" opacity=".04"/><path d="M849.3 0L1011.3 0L399.3 900L84.3 900Z" fill="hsl(19.9 96% 88%)" opacity=".04"/><path d="M1213.7 0L1375.7 0L763.7 900L448.7 900Z" fill="hsl(19.9 96% 88%)" opacity=".04"/><circle cx="1084.2" cy="656.4" r="169.7" fill="hsl(19.9 96% 88%)" opacity="0.3"/><circle cx="1430.9" cy="127" r="117.8" fill="hsl(19.9 92% 62%)" opacity="0.3"/><circle cx="1000.9" cy="639" r="189" fill="hsl(19.9 96% 88%)" opacity="0.1"/><circle cx="731.7" cy="610.2" r="151.5" fill="hsl(19.9 92% 62%)" opacity="0.2"/><circle cx="1233.4" cy="456.4" r="61.2" fill="hsl(19.9 96% 88%)" opacity="0.3"/><circle cx="1038.4" cy="384.4" r="115.3" fill="hsl(19.9 92% 62%)" opacity="0.1"/><circle cx="1276.1" cy="315.7" r="52" fill="hsl(19.9 96% 88%)" opacity="0.1"/><circle cx="966.5" cy="462.1" r="120.2" fill="hsl(19.9 92% 62%)" opacity="0.2"/><circle cx="51.5" cy="534.5" r="159" fill="hsl(19.9 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q100 793.4 200 802Q300 756 400 764.6Q500 693.1 600 701.7Q700 693.1 800 703.3Q900 694.7 1000 742Q1100 731.7 1200 740.3Q1300 731.7 1400 777Q1500 768.4 1600 828L1610 1428Z" fill="hsl(241.2 51.9% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Keeping Hollow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(67.2 45.5% 24%)"/><stop offset="0.5" stop-color="hsl(87.2 40.9% 62%)"/><stop offset="1" stop-color="hsl(48.2 45.5% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(48.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(48.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="414.5" cy="279.7" r="380.9" fill="url(#glow)"/><circle cx="414.5" cy="279.7" r="90.7" fill="hsl(48.2 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(213.3 36.4% 18%)"/><path d="M7.1 0L73.8 0L55.1 738L25.8 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.4"/><path d="M74.1 0L140.8 0L122.1 738L92.8 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.4"/><path d="M142.9 0L209.6 0L190.9 738L161.6 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.6"/><path d="M204.8 0L271.5 0L252.8 738L223.5 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.4"/><path d="M271.1 0L337.8 0L319.1 738L289.8 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.7"/><path d="M334 0L400.7 0L382 738L352.7 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.3"/><path d="M400.3 0L467 0L448.3 738L419 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.6"/><path d="M475.3 0L542 0L523.3 738L494 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.5"/><path d="M533.8 0L600.5 0L581.8 738L552.5 738Z" fill="hsl(221.3 40.9% 10%)" opacity="0.6"/><path d="M270.1 0L450.1 774L90.1 774Z" fill="hsl(48.2 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(48.2 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(227.3 45.5% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(48.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KEEPING HOLLOW</text>
+<path d="M44 709.4h72" stroke="hsl(48.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1980  ·  97 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(48.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

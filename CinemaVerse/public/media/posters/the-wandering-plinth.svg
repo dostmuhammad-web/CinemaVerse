@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Wandering Plinth poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(309.4 40.5% 24%)"/><stop offset="0.5" stop-color="hsl(329.4 36.5% 42%)"/><stop offset="1" stop-color="hsl(271.3 40.5% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(271.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(271.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="365.8" cy="213.3" r="462.8" fill="url(#glow)"/><circle cx="365.8" cy="213.3" r="110.2" fill="hsl(271.3 96% 78%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(134.6 32.4% 18%)"/><path d="M4.1 0L70.8 0L52.1 738L22.8 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.5"/><path d="M73.3 0L140 0L121.3 738L92 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.3"/><path d="M137.9 0L204.6 0L185.9 738L156.6 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.5"/><path d="M204.8 0L271.5 0L252.8 738L223.5 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.4"/><path d="M271 0L337.7 0L319 738L289.7 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.5"/><path d="M335.8 0L402.5 0L383.8 738L354.5 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.5"/><path d="M403.1 0L469.8 0L451.1 738L421.8 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.4"/><path d="M470.5 0L537.2 0L518.5 738L489.2 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.6"/><path d="M541.1 0L607.8 0L589.1 738L559.8 738Z" fill="hsl(142.6 36.5% 10%)" opacity="0.4"/><path d="M238.6 0L418.6 774L58.6 774Z" fill="hsl(271.3 96% 78%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(271.3 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(148.6 40.5% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(271.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WANDERING PLINTH</text>
+<path d="M44 709.4h72" stroke="hsl(271.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1974  ·  157 MIN  ·  MUSIC</text>
+<text x="556" y="733.4" fill="hsl(271.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

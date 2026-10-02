@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Kernel against the Orbit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(197 42.5% 6%)"/><stop offset="0.5" stop-color="hsl(213 48.6% 13%)"/><stop offset="1" stop-color="hsl(162.1 54.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(162.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(162.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1029.2" cy="488.4" r="478" fill="url(#glow)"/>
+<circle cx="1029.2" cy="488.4" r="95.6" fill="hsl(162.1 96% 78%)" opacity=".85"/>
+<path d="M387 0L549 0L-63 900L-378 900Z" fill="hsl(162.1 96% 78%)" opacity=".04"/><path d="M452.7 0L614.7 0L2.7 900L-312.3 900Z" fill="hsl(162.1 96% 78%)" opacity=".04"/><path d="M911.5 0L1073.5 0L461.5 900L146.5 900Z" fill="hsl(162.1 96% 78%)" opacity=".04"/><path d="M318.7 0L480.7 0L-131.3 900L-446.3 900Z" fill="hsl(162.1 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(338.1 48.6% 10%)"/><path d="M408.6 186L908.6 186L1008.6 900L368.6 900Z" fill="hsl(162.1 96% 78%)" opacity="0.1"/><path d="M408.6 186L908.6 186L1063.6 900L346.6 900Z" fill="hsl(162.1 96% 78%)" opacity="0"/><path d="M408.6 186L908.6 186L1118.6 900L324.6 900Z" fill="hsl(162.1 96% 78%)" opacity="0"/><rect x="408.6" y="144" width="500" height="419.8" fill="hsl(197 42.5% 6%)"/><rect x="408.6" y="144" width="500" height="419.8" fill="hsl(162.1 100% 62% / 0.4)" opacity=".5"/><path d="M408.6 144h500v419.8h-500Z" fill="none" stroke="hsl(352.1 60.7% 3%)" stroke-width="7"/><path d="M408.6 353.9h500M658.6 144v419.8" stroke="hsl(352.1 60.7% 3%)" stroke-width="4"/><path d="M620.8 864q-16.4 -91.2 16.4 -113.1q18.2 21.9 10.9 54.7q-3.6 36.5 3.6 58.4Z" fill="hsl(352.1 60.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

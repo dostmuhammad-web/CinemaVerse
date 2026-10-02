@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Broken Carousel backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(311.5 64.8% 24%)"/><stop offset="0.5" stop-color="hsl(331.5 58.3% 42%)"/><stop offset="1" stop-color="hsl(285.2 64.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(285.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(285.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1178.7" cy="305.4" r="643" fill="url(#glow)"/>
+<circle cx="1178.7" cy="305.4" r="128.6" fill="hsl(285.2 96% 78%)" opacity=".85"/>
+<path d="M1573.8 0L1735.8 0L1123.8 900L808.8 900Z" fill="hsl(285.2 96% 78%)" opacity=".04"/><path d="M774.6 0L936.6 0L324.6 900L9.6 900Z" fill="hsl(285.2 96% 78%)" opacity=".04"/><path d="M189.8 0L351.8 0L-260.2 900L-575.2 900Z" fill="hsl(285.2 96% 78%)" opacity=".04"/><path d="M1171.9 0L1333.9 0L721.9 900L406.9 900Z" fill="hsl(285.2 96% 78%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(151.6 51.8% 18%)"/><path d="M9 0L186.8 0L137 738L58.8 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M183.4 0L361.2 0L311.4 738L233.2 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M363 0L540.8 0L491 738L412.8 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.5"/><path d="M542.3 0L720.1 0L670.3 738L592.1 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.6"/><path d="M719.5 0L897.3 0L847.5 738L769.3 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.3"/><path d="M889.1 0L1066.9 0L1017.1 738L938.9 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.4"/><path d="M1068 0L1245.8 0L1196 738L1117.8 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.5"/><path d="M1253.2 0L1431 0L1381.2 738L1303 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.3"/><path d="M1428.1 0L1605.9 0L1556.1 738L1477.9 738Z" fill="hsl(159.6 58.3% 10%)" opacity="0.3"/><path d="M614.1 0L1094.1 774L134.1 774Z" fill="hsl(285.2 96% 78%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(285.2 92% 52%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(165.6 64.8% 5%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

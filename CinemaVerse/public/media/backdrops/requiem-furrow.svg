@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Requiem &amp; Furrow backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(311.2 67.5% 24%)"/><stop offset="0.5" stop-color="hsl(331.2 60.7% 62%)"/><stop offset="1" stop-color="hsl(278.7 67.5% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(278.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(278.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="860.6" cy="330.5" r="511" fill="url(#glow)"/>
+<circle cx="860.6" cy="330.5" r="102.2" fill="hsl(278.7 96% 88%)" opacity=".85"/>
+<path d="M231 0L393 0L-219 900L-534 900Z" fill="hsl(278.7 96% 88%)" opacity=".04"/><path d="M339 0L501 0L-111 900L-426 900Z" fill="hsl(278.7 96% 88%)" opacity=".04"/><path d="M1286.6 0L1448.6 0L836.6 900L521.6 900Z" fill="hsl(278.7 96% 88%)" opacity=".04"/><path d="M201.3 0L363.3 0L-248.7 900L-563.7 900Z" fill="hsl(278.7 96% 88%)" opacity=".04"/><circle cx="68.6" cy="314.5" r="156.7" fill="hsl(278.7 96% 88%)" opacity="0.2"/><circle cx="711" cy="233.3" r="141.7" fill="hsl(278.7 92% 52%)" opacity="0.2"/><circle cx="1269.6" cy="170.5" r="128.5" fill="hsl(278.7 96% 88%)" opacity="0.3"/><circle cx="1562.7" cy="210.9" r="136.9" fill="hsl(278.7 92% 52%)" opacity="0.3"/><circle cx="216.3" cy="239.8" r="161.7" fill="hsl(278.7 96% 88%)" opacity="0.3"/><circle cx="1359.9" cy="661.3" r="67.8" fill="hsl(278.7 92% 52%)" opacity="0.3"/><circle cx="704" cy="148.7" r="147.5" fill="hsl(278.7 96% 88%)" opacity="0.3"/><circle cx="860.3" cy="630.4" r="64.2" fill="hsl(278.7 92% 52%)" opacity="0.2"/><circle cx="987.2" cy="179.4" r="125" fill="hsl(278.7 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 785.7 200 794.3Q300 743.5 400 752.1Q500 726 600 734.6Q700 689.8 800 698.4Q900 689.8 1000 730Q1100 721.4 1200 764.5Q1300 755.9 1400 782.6Q1500 774 1600 828L1610 1428Z" fill="hsl(100.9 60.7% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

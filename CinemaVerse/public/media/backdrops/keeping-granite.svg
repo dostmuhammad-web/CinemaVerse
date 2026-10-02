@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Keeping Granite backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(51.6 55.7% 24%)"/><stop offset="0.5" stop-color="hsl(71.6 50.1% 62%)"/><stop offset="1" stop-color="hsl(44.9 55.7% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(44.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(44.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1183.8" cy="326.1" r="611.5" fill="url(#glow)"/>
+<circle cx="1183.8" cy="326.1" r="122.3" fill="hsl(44.9 96% 88%)" opacity=".85"/>
+<path d="M1424.5 0L1586.5 0L974.5 900L659.5 900Z" fill="hsl(44.9 96% 88%)" opacity=".04"/><path d="M986.3 0L1148.3 0L536.3 900L221.3 900Z" fill="hsl(44.9 96% 88%)" opacity=".04"/><path d="M572.8 0L734.8 0L122.8 900L-192.2 900Z" fill="hsl(44.9 96% 88%)" opacity=".04"/><path d="M1553.9 0L1715.9 0L1103.9 900L788.9 900Z" fill="hsl(44.9 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(238.7 44.6% 18%)"/><path d="M1.7 0L179.5 0L129.7 738L51.5 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.6"/><path d="M180.1 0L357.9 0L308.1 738L229.9 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.5"/><path d="M357.7 0L535.5 0L485.7 738L407.5 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.5"/><path d="M541.5 0L719.3 0L669.5 738L591.3 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.5"/><path d="M719.8 0L897.6 0L847.8 738L769.6 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.6"/><path d="M889.4 0L1067.2 0L1017.4 738L939.2 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.5"/><path d="M1067 0L1244.8 0L1195 738L1116.8 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.5"/><path d="M1247.7 0L1425.5 0L1375.7 738L1297.5 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.7"/><path d="M1430.1 0L1607.9 0L1558.1 738L1479.9 738Z" fill="hsl(246.7 50.1% 10%)" opacity="0.7"/><path d="M950 0L1430 774L470 774Z" fill="hsl(44.9 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(44.9 92% 52%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(252.7 55.7% 5%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

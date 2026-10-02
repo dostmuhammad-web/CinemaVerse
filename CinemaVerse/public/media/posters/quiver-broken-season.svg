@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quiver: Broken Season poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(202.3 39.2% 6%)"/><stop offset="0.5" stop-color="hsl(218.3 44.8% 13%)"/><stop offset="1" stop-color="hsl(186.3 50.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(186.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(186.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 391.7L69.5 391.7L82.5 557.4L118.6 557.4L133.3 560.2L232.9 560.2L238.6 523.5L320.9 523.5L330.1 429.7L386.7 429.7L391.1 517.7L445.5 517.7L453.3 425.8L497.1 425.8L504.7 484.3L600.7 484.3L603.9 363.9L644.2 363.9L610 1248Z" fill="hsl(7.2 39.2% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(15.2 50.4% 6%)"/><path d="M449.9 192.2l-11.8 73.6M61.6 307.1l-12.7 79.3M360.7 594.6l-11.9 74.3M374.6 68.5l-9.5 59.4M232 807.8l-4.5 27.9M62.5 553l-13.1 81.7M288.7 289.4l-13.7 85.6M245.6 375.1l-6.4 40.2M103.7 656.1l-5.1 32M24.6 357.5l-10.7 66.8M27.3 389.8l-5.4 33.9M433.4 379.5l-9.1 57.2M447.4 501.8l-11.8 73.7M260.6 556l-10 62.5M490.4 343.4l-6.2 38.8M586.4 326.7l-6.5 40.4M250.5 241l-7.4 46.4M211.3 350.3l-7.6 47.7M155.3 629.7l-13 81.5M14.4 531.4l-8.8 54.8M157.9 510.1l-13.4 83.5M245.8 530.2l-9 56.3M205.1 653.4l-12.7 79.5M478.6 52.6l-10.5 65.5M586.3 706.4l-4.4 27.2M69.2 234.2l-6.2 38.8M505.8 436.3l-8.5 53.4M105.6 36.2l-10.4 64.7M567.7 232.5l-10 62.4M23.3 535.8l-14.2 88.7M456.4 554.3l-5.8 36.1M40.9 480.8l-5.4 33.5M257.2 305.2l-5.8 36.2M231.6 23.8l-11 68.5M233.2 226.9l-13.6 85M144.9 67.6l-11.6 72.4M197.4 312.4l-10.3 64.4M199.6 431.5l-7.1 44.6M83.2 349l-6 37.6M399.4 91.7l-14.4 90M389 504.2l-10.5 65.5M266 609.7l-13.5 84.3M112.9 195.5l-4.5 28.2M151.5 566.5l-7.9 49.1M547 283.9l-13.2 82.3M426.2 387.1l-13.1 81.8" fill="none" stroke="hsl(186.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="278.8" cy="837" rx="132" ry="27" fill="hsl(186.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(186.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUIVER: BROKEN SEASON</text>
+<path d="M44 709.4h72" stroke="hsl(186.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  130 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(186.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

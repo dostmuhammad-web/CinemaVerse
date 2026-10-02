@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Tributary: Lost Signal poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(258.4 45.2% 6%)"/><stop offset="0.5" stop-color="hsl(274.4 51.7% 13%)"/><stop offset="1" stop-color="hsl(246 58.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(246 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(246 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 481.8L18.3 481.8L25.8 441.1L91 441.1L94.2 524.5L188.2 524.5L195.6 421.9L270.1 421.9L281.4 394.6L355.1 394.6L359 429L442.2 429L449.4 469.1L511.2 469.1L519.3 433L615.9 433L610 1248Z" fill="hsl(48.2 45.2% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(56.2 58.1% 6%)"/><path d="M217.8 799.9l-5.3 33M24.5 684.8l-7.6 47.7M18.4 611l-6.2 38.6M304.1 545.7l-11.8 73.8M245.8 65l-4.4 27.8M139.8 401.8l-11.4 71.5M187.8 42.6l-11.8 74M307.4 582.7l-10.7 66.9M184.2 383.9l-11.2 70M436.6 156.6l-10.5 65.9M251.2 448.1l-8.6 54M109.9 503.4l-13.2 82.6M156.4 568.4l-12.4 77.6M156.8 104.1l-10.9 68.2M462.4 542.5l-7.1 44.5M567.8 562.3l-10.9 67.8M189.9 802.5l-9 56.5M554.2 674.3l-6.1 37.9M191.4 555.8l-12.6 78.6M417.5 623.8l-12.8 80.1M454.7 508.6l-4.6 29M50.3 146.9l-12.9 80.5M292.6 715l-13.7 85.6M399.3 777l-10.3 64.4M168.2 759.5l-13 81.4M377.8 383.1l-10 62.4M380.9 719.2l-9.2 57.3M14.7 219.2l-10.5 65.6M56.3 382.1l-11.9 74.5M100.7 695.4l-7.1 44.4M36.5 314.7l-5.2 32.3M278.5 531.8l-11.8 73.7M12.3 44.6l-4.7 29.2M455.9 497.7l-5.9 36.8M44.5 658.9l-6.6 41.3M226.9 566.3l-6.2 38.5M42.8 136l-14.4 89.7M146.5 486.2l-4.9 30.8M431.3 713.1l-13 81.5M239.2 440.2l-9.5 59.2M405 732.7l-6 37.5M393 525.8l-8.4 52.6M521.8 523.9l-9.2 57.5M147.3 804.6l-4.4 27.8M42.3 577l-8.2 51.2M442.3 679.8l-5.4 33.7" fill="none" stroke="hsl(246 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="374.8" cy="837" rx="132" ry="27" fill="hsl(246 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(246 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TRIBUTARY: LOST SIGNAL</text>
+<path d="M44 709.4h72" stroke="hsl(246 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  88 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(246 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

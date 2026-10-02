@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Threshold 7 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(36.4 35.1% 6%)"/><stop offset="0.5" stop-color="hsl(52.4 40.1% 13%)"/><stop offset="1" stop-color="hsl(17.1 45.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(17.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(17.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 524.4L82.4 524.4L93.8 557L189.1 557L203.2 502.2L284.1 502.2L297.2 392.4L386.1 392.4L397.9 514.8L440.4 514.8L452.4 375.2L510.2 375.2L518.8 395.6L548.5 395.6L553.5 382L583.7 382L598.4 463.4L637.7 463.4L610 1248Z" fill="hsl(192.1 35.1% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(200.1 45.1% 6%)"/><path d="M284.3 106l-11.3 70.5M116.8 691l-7.1 44.3M595.1 567.7l-14 87.3M189.5 731.9l-11.9 74.4M304.7 534.2l-9.3 58M355.1 626.8l-9.1 56.7M139.7 556.6l-4.7 29.5M167.3 789l-7 43.5M168.5 512.8l-11.2 70.2M81.9 665.3l-4.7 29.3M332.7 362.6l-6.6 41.5M314.5 327.3l-5.3 33.2M392.7 309.9l-13.7 85.7M392.3 438.9l-12 75.1M454.2 143.2l-7.5 46.8M57 531.8l-5.2 32.4M190 290.3l-4.6 28.5M346.6 62.1l-11.1 69.2M204.5 21.5l-10.1 63.2M344.7 222.6l-6.6 41M233.8 695.6l-9.9 62.1M495.7 509.7l-13.9 86.8M129.4 490.3l-5.7 35.9M26.5 593.5l-7.2 44.9M537.9 29.5l-4.7 29.1M309.1 252.6l-4.3 27.1M138.9 787.4l-6.1 38M148.3 415.2l-6.9 43.4M31.8 686.7l-13.1 81.8M407.1 281.5l-10 62.6M316.3 661.9l-10.3 64.5M167.9 712.8l-7.9 49.1M450.4 763.1l-5.5 34.2M109.2 733.6l-11.8 73.8M584.9 724.9l-13 81.2M106.3 216.3l-5.9 36.8M23.4 96.3l-6.5 40.7M470 672.6l-13.5 84.4M182.1 202.4l-8.2 51.2M67.1 618.7l-6.5 40.9M565.4 581.5l-10 62.3M487.9 150.7l-7.3 45.8M426.5 13.4l-7.4 46.5M383.9 178.6l-14.2 88.8M432.1 98.1l-9.6 59.9M413 0.5l-4.9 30.9" fill="none" stroke="hsl(17.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="238.7" cy="837" rx="132" ry="27" fill="hsl(17.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(17.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THRESHOLD 7</text>
+<path d="M44 709.4h72" stroke="hsl(17.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  147 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(17.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

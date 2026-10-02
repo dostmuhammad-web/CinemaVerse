@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Horizon of the Mantle backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(55 41.6% 6%)"/><stop offset="0.5" stop-color="hsl(71 47.6% 13%)"/><stop offset="1" stop-color="hsl(16.9 53.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(16.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(16.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1014.4" cy="411.3" r="544" fill="url(#glow)"/>
+<circle cx="1014.4" cy="411.3" r="108.8" fill="hsl(16.9 96% 88%)" opacity=".85"/>
+<path d="M90.8 0L252.8 0L-359.2 900L-674.2 900Z" fill="hsl(16.9 96% 88%)" opacity=".04"/><path d="M784.5 0L946.5 0L334.5 900L19.5 900Z" fill="hsl(16.9 96% 88%)" opacity=".04"/><path d="M1522.8 0L1684.8 0L1072.8 900L757.8 900Z" fill="hsl(16.9 96% 88%)" opacity=".04"/><path d="M1498.6 0L1660.6 0L1048.6 900L733.6 900Z" fill="hsl(16.9 96% 88%)" opacity=".04"/><rect width="1620" height="738" fill="hsl(211.1 47.6% 10%)"/><path d="M5.2 0L183 0L133.2 738L55 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.4"/><path d="M181.8 0L359.6 0L309.8 738L231.6 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.4"/><path d="M362.1 0L539.9 0L490.1 738L411.9 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.3"/><path d="M543.3 0L721.1 0L671.3 738L593.1 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.7"/><path d="M712.3 0L890.1 0L840.3 738L762.1 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.6"/><path d="M892.8 0L1070.6 0L1020.8 738L942.6 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.4"/><path d="M1074 0L1251.8 0L1202 738L1123.8 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.5"/><path d="M1245.5 0L1423.3 0L1373.5 738L1295.3 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.3"/><path d="M1430 0L1607.8 0L1558 738L1479.8 738Z" fill="hsl(219.1 53.5% 6%)" opacity="0.4"/><path d="M693.5 0L1173.5 774L213.5 774Z" fill="hsl(16.9 96% 88%)" opacity=".1"/><ellipse cx="800" cy="774" rx="544" ry="63" fill="hsl(16.9 92% 62%)" opacity=".2"/><rect y="738" width="1620" height="180" fill="hsl(225.1 59.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

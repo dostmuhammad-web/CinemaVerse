@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Prism &amp; Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(249.1 44.1% 6%)"/><stop offset="0.5" stop-color="hsl(265.1 50.4% 13%)"/><stop offset="1" stop-color="hsl(241 56.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(241 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(241 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 456.8L49.8 456.8L58.9 380L134.3 380L143.7 496.4L223 496.4L236.4 450.1L323.4 450.1L332.3 430.1L386.1 430.1L398.5 476.9L454.8 476.9L460.3 343.6L539.9 343.6L548.9 514.1L605.5 514.1L610 1248Z" fill="hsl(57.5 44.1% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(65.5 56.7% 6%)"/><path d="M178 684l-9.1 56.6M426.9 450.9l-10.6 66.4M225.3 575.5l-10.4 65M10.3 382.5l-13 81.5M214.9 701.7l-4.6 28.6M12.9 794.1l-12.8 80.2M361.8 34.7l-9.9 62M123.2 592.1l-11.9 74.3M262.2 164.9l-11.4 71M174.3 160.2l-8.2 51.2M315.6 132.7l-8.2 51.4M161.2 559l-8.5 53M180.4 380.1l-7.5 46.8M289.7 43.1l-4.3 27.2M579.1 50.8l-6.9 42.8M426.2 772.5l-5.7 35.5M575.4 350.1l-5.8 36M394.7 187.9l-9.1 57M548.2 425.7l-10.7 66.9M113.9 697l-8.2 51.5M227 631.1l-7.8 49M374.9 506.7l-5 31M382.7 654.7l-13.4 83.5M79.6 124l-10 62.6M183.2 525.2l-11 68.6M577.7 358.2l-4.8 29.7M373.9 525.9l-8.1 50.4M390.5 518.6l-12.1 75.9M120.5 456.8l-14.1 88.3M341.8 102.4l-5.1 32.2M373 646l-10.1 63M527.2 131.2l-10.7 66.6M146.7 440.8l-9 56.1M478.1 0.4l-5.9 36.8M576.7 357.8l-10.2 63.8M397.1 68.5l-5.9 37M346.4 294.6l-10.5 65.5M333.8 634.6l-7.3 45.6M547.8 797.4l-9.8 61.3M137.4 71.4l-8.8 55.2M89.5 471.9l-8.5 53.1M429.4 7.3l-5.6 34.9M240.2 486.9l-6.6 41M270.3 254.3l-12.2 76M191.8 168.7l-9.5 59.4M344.2 339l-6.5 40.4" fill="none" stroke="hsl(241 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="342.7" cy="837" rx="132" ry="27" fill="hsl(241 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(241 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PRISM &amp; SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(241 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2026  ·  130 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(241 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

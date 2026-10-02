@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Furrow before the Hollow backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(205.8 33.2% 6%)"/><stop offset="0.5" stop-color="hsl(221.8 38% 13%)"/><stop offset="1" stop-color="hsl(177.7 42.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(177.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(177.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="461.3" cy="400.6" r="686.5" fill="url(#glow)"/>
+<circle cx="461.3" cy="400.6" r="137.3" fill="hsl(177.7 96% 78%)" opacity=".85"/>
+<path d="M339.3 0L501.3 0L-110.7 900L-425.7 900Z" fill="hsl(177.7 96% 78%)" opacity=".04"/><path d="M150.5 0L312.5 0L-299.5 900L-614.5 900Z" fill="hsl(177.7 96% 78%)" opacity=".04"/><path d="M1533.1 0L1695.1 0L1083.1 900L768.1 900Z" fill="hsl(177.7 96% 78%)" opacity=".04"/><path d="M165.5 0L327.5 0L-284.5 900L-599.5 900Z" fill="hsl(177.7 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(47 38% 10%)"/><path d="M581.2 187.7L1131.5 187.7L1241.6 900L537.2 900Z" fill="hsl(177.7 96% 78%)" opacity="0.1"/><path d="M581.2 187.7L1131.5 187.7L1302.1 900L513 900Z" fill="hsl(177.7 96% 78%)" opacity="0"/><path d="M581.2 187.7L1131.5 187.7L1362.7 900L488.7 900Z" fill="hsl(177.7 96% 78%)" opacity="0"/><rect x="581.2" y="144" width="550.3" height="436.6" fill="hsl(205.8 33.2% 6%)"/><rect x="581.2" y="144" width="550.3" height="436.6" fill="hsl(177.7 100% 62% / 0.4)" opacity=".5"/><path d="M581.2 144h550.3v436.6h-550.3Z" fill="none" stroke="hsl(61 47.5% 3%)" stroke-width="7"/><path d="M581.2 362.3h550.3M856.4 144v436.6" stroke="hsl(61 47.5% 3%)" stroke-width="4"/><path d="M1057.9 864q-18.1 -100.5 18.1 -124.7q20.1 24.1 12.1 60.3q-4 40.2 4 64.3Z" fill="hsl(61 47.5% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

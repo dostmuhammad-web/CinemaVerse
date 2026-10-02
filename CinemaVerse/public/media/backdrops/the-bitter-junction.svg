@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Bitter Junction backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(321.3 69.4% 24%)"/><stop offset="0.5" stop-color="hsl(341.3 62.5% 62%)"/><stop offset="1" stop-color="hsl(290.3 69.4% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(290.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(290.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="818.7" cy="418.9" r="761" fill="url(#glow)"/>
+<circle cx="818.7" cy="418.9" r="152.2" fill="hsl(290.3 96% 88%)" opacity=".85"/>
+<path d="M1024.4 0L1186.4 0L574.4 900L259.4 900Z" fill="hsl(290.3 96% 88%)" opacity=".04"/><path d="M1466.2 0L1628.2 0L1016.2 900L701.2 900Z" fill="hsl(290.3 96% 88%)" opacity=".04"/><path d="M206.3 0L368.3 0L-243.7 900L-558.7 900Z" fill="hsl(290.3 96% 88%)" opacity=".04"/><path d="M1357 0L1519 0L907 900L592 900Z" fill="hsl(290.3 96% 88%)" opacity=".04"/><circle cx="1051.9" cy="479.7" r="74.4" fill="hsl(290.3 96% 88%)" opacity="0.1"/><circle cx="998.1" cy="112.1" r="100.3" fill="hsl(290.3 92% 52%)" opacity="0.2"/><circle cx="1334.4" cy="432.5" r="151.4" fill="hsl(290.3 96% 88%)" opacity="0.2"/><circle cx="137.4" cy="115.2" r="113.6" fill="hsl(290.3 92% 52%)" opacity="0.3"/><circle cx="1430.9" cy="136.5" r="100.1" fill="hsl(290.3 96% 88%)" opacity="0.3"/><circle cx="178.5" cy="522.2" r="60.5" fill="hsl(290.3 92% 52%)" opacity="0.3"/><circle cx="46.3" cy="530.5" r="115.7" fill="hsl(290.3 96% 88%)" opacity="0.3"/><circle cx="496.8" cy="415.4" r="133.7" fill="hsl(290.3 92% 52%)" opacity="0.3"/><circle cx="1026.9" cy="453" r="157.7" fill="hsl(290.3 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 776.8 200 785.4Q300 726.4 400 735Q500 726.4 600 740Q700 710.4 800 719Q900 707.1 1000 715.7Q1100 707.1 1200 777Q1300 768.4 1400 790.3Q1500 781.7 1600 828L1610 1428Z" fill="hsl(146.8 62.5% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

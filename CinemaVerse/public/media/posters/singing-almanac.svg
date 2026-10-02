@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Singing Almanac poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.9 58.6% 24%)"/><stop offset="0.5" stop-color="hsl(216.9 52.8% 42%)"/><stop offset="1" stop-color="hsl(160.7 58.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(160.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(160.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="142.7" cy="220.9" r="454.4" fill="url(#glow)"/><circle cx="142.7" cy="220.9" r="108.2" fill="hsl(160.7 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 495.1 85.7 511.3Q128.6 367.1 171.4 383.3Q214.3 367.1 257.1 402.8Q300 344.9 342.9 361.1Q385.8 344.9 428.6 382.6Q471.5 366.4 514.3 440.2Q557.2 424 600 558L610 1158Z" fill="hsl(353.6 41% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 610.4 66.7 628.8Q100 519.1 133.3 537.5Q166.7 519.1 200 545.4Q233.4 447.8 266.7 466.2Q300 447.8 333.3 505.4Q366.7 431.5 400 449.9Q433.4 431.5 466.7 467Q500 448.6 533.3 585.6Q566.7 567.2 600 666L610 1266Z" fill="hsl(353.6 46.9% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 756 54.5 770Q81.8 711.5 109.1 725.5Q136.4 637.6 163.6 651.6Q190.9 634.5 218.2 648.5Q245.5 575.7 272.7 589.7Q300 575.7 327.3 592Q354.6 578 381.8 654Q409.1 640 436.4 669.3Q463.7 655.3 490.9 684.5Q518.2 670.5 545.5 767.5Q572.8 753.5 600 792L610 1392Z" fill="hsl(1.6 52.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(160.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SINGING ALMANAC</text>
+<path d="M44 709.4h72" stroke="hsl(160.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2011  ·  120 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(160.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

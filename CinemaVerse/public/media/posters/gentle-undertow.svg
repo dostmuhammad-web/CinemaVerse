@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Gentle Undertow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(8 41.9% 6%)"/><stop offset="0.5" stop-color="hsl(24 47.9% 13%)"/><stop offset="1" stop-color="hsl(347.2 53.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 440.4 85.7 456.6Q128.6 440.4 171.4 464Q214.3 393.4 257.1 409.6Q300 337.9 342.9 354.1Q385.8 337.9 428.6 411Q471.5 394.8 514.3 477.7Q557.2 461.5 600 558L610 1158Z" fill="hsl(155.3 41.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 531.1 66.7 549.5Q100 470.1 133.3 488.5Q166.7 470.1 200 541.4Q233.4 355.6 266.7 374Q300 355.6 333.3 401.2Q366.7 382.8 400 448Q433.4 429.6 466.7 569.2Q500 550.8 533.3 618Q566.7 599.6 600 666L610 1266Z" fill="hsl(155.3 47.9% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 716.2 54.5 730.2Q81.8 692.7 109.1 706.7Q136.4 633.9 163.6 647.9Q190.9 575.7 218.2 589.7Q245.5 575.7 272.7 643.8Q300 606.1 327.3 620.1Q354.6 606.1 381.8 621.7Q409.1 607.7 436.4 635.4Q463.7 621.4 490.9 704.4Q518.2 690.4 545.5 716.9Q572.8 702.9 600 792L610 1392Z" fill="hsl(163.3 53.9% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GENTLE UNDERTOW</text>
+<path d="M44 709.4h72" stroke="hsl(347.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  139 MIN  ·  WESTERN</text>
+<text x="556" y="733.4" fill="hsl(347.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

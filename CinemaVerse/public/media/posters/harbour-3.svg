@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Harbour 3 poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(208.7 25% 6%)"/><stop offset="0.5" stop-color="hsl(224.7 28.6% 13%)"/><stop offset="1" stop-color="hsl(192.5 32.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(192.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(192.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 435.8 85.7 452Q128.6 424.7 171.4 440.9Q214.3 265.6 257.1 281.8Q300 265.6 342.9 362.5Q385.8 346.3 428.6 401.9Q471.5 385.7 514.3 447.3Q557.2 431.1 600 558L610 1158Z" fill="hsl(355.8 25% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 565 66.7 583.4Q100 507.9 133.3 526.3Q166.7 421.9 200 440.3Q233.4 421.9 266.7 442.1Q300 347.8 333.3 366.2Q366.7 347.8 400 527.3Q433.4 435.1 466.7 453.5Q500 435.1 533.3 581.6Q566.7 563.2 600 666L610 1266Z" fill="hsl(355.8 28.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 713.2 54.5 727.2Q81.8 658.7 109.1 672.7Q136.4 658.7 163.6 673Q190.9 628.6 218.2 642.6Q245.5 581.5 272.7 595.5Q300 581.5 327.3 620.2Q354.6 606.2 381.8 632.5Q409.1 618.5 436.4 648.5Q463.7 634.5 490.9 681.9Q518.2 667.9 545.5 726.3Q572.8 712.3 600 792L610 1392Z" fill="hsl(3.8 32.1% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(192.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HARBOUR 3</text>
+<path d="M44 709.4h72" stroke="hsl(192.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1963  ·  112 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(192.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

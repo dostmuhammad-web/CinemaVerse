@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Distant Signal poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(259.3 68.5% 24%)"/><stop offset="0.5" stop-color="hsl(279.3 61.6% 42%)"/><stop offset="1" stop-color="hsl(246 68.5% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(246 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(246 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="276.5" cy="192.2" r="395.2" fill="url(#glow)"/><circle cx="276.5" cy="192.2" r="94.1" fill="hsl(246 96% 78%)" opacity=".92"/>
+<path d="M-9.7 828L-87.8 828L-9.7 503.8L68.4 828ZM40.9 828L-28.1 828L40.9 487.1L109.9 828ZM87.2 828L19.3 828L87.2 466.8L155.1 828ZM120.9 828L1.7 828L120.9 223.7L240.1 828ZM162.6 828L85.2 828L162.6 477.7L240 828ZM192.1 828L124.2 828L192.1 533.8L260 828ZM222.6 828L80 828L222.6 268.7L365.2 828ZM269.9 828L141 828L269.9 196.4L398.8 828ZM313.5 828L247.1 828L313.5 471.9L379.9 828ZM347.8 828L266.1 828L347.8 402.2L429.5 828ZM363.1 828L267.5 828L363.1 394.5L458.7 828ZM398.9 828L298.1 828L398.9 408L499.7 828ZM454.2 828L347.4 828L454.2 417.1L561 828ZM489.8 828L354.2 828L489.8 209.4L625.4 828ZM531.3 828L471.5 828L531.3 524.3L591.1 828ZM570.7 828L504 828L570.7 478.3L637.4 828Z" fill="hsl(101.4 54.8% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(115.4 68.5% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(246 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE DISTANT SIGNAL</text>
+<path d="M44 709.4h72" stroke="hsl(246 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2020  ·  127 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(246 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

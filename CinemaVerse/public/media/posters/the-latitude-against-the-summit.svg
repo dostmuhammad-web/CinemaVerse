@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Latitude against the Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(360 31.8% 6%)"/><stop offset="0.5" stop-color="hsl(16 36.3% 13%)"/><stop offset="1" stop-color="hsl(327.6 40.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(327.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(327.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-12 828L-114.3 828L-12 277.6L90.3 828ZM24.3 828L-47.7 828L24.3 450.6L96.3 828ZM78.6 828L-61.1 828L78.6 215.8L218.3 828ZM118.8 828L46.8 828L118.8 449.7L190.8 828ZM137.3 828L70.5 828L137.3 455.4L204.1 828ZM186.2 828L106.9 828L186.2 472.6L265.5 828ZM226.4 828L117.3 828L226.4 181.3L335.5 828ZM268.2 828L214.8 828L268.2 554L321.6 828ZM300.3 828L191.4 828L300.3 262L409.2 828ZM340.3 828L275.9 828L340.3 482.9L404.7 828ZM368.5 828L306.6 828L368.5 455L430.4 828ZM413.8 828L338.2 828L413.8 356.8L489.4 828ZM445.4 828L393.4 828L445.4 513.1L497.4 828ZM477.5 828L383.5 828L477.5 436.3L571.5 828ZM511.6 828L464.8 828L511.6 542.2L558.4 828ZM564.7 828L493.4 828L564.7 470.8L636 828Z" fill="hsl(185.1 36.3% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(199.1 45.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(327.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LATITUDE AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SUMMIT</text>
+<path d="M44 726.8h72" stroke="hsl(327.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1969  ·  97 MIN  ·  HORROR</text>
+<text x="556" y="750.8" fill="hsl(327.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

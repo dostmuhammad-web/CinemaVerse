@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Golden Cinder poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(221.7 33.5% 6%)"/><stop offset="0.5" stop-color="hsl(237.7 38.3% 13%)"/><stop offset="1" stop-color="hsl(182.1 43.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(182.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(182.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(2 38.3% 10%)"/><path d="M246 186.8L439.6 186.8L478.3 900L230.5 900Z" fill="hsl(182.1 96% 78%)" opacity="0.1"/><path d="M246 186.8L439.6 186.8L499.6 900L222 900Z" fill="hsl(182.1 96% 78%)" opacity="0"/><path d="M246 186.8L439.6 186.8L520.9 900L213.5 900Z" fill="hsl(182.1 96% 78%)" opacity="0"/><rect x="246" y="144" width="193.6" height="427.7" fill="hsl(221.7 33.5% 6%)"/><rect x="246" y="144" width="193.6" height="427.7" fill="hsl(182.1 100% 62% / 0.4)" opacity=".5"/><path d="M246 144h193.6v427.7h-193.6Z" fill="none" stroke="hsl(16 47.9% 3%)" stroke-width="7"/><path d="M246 357.8h193.6M342.8 144v427.7" stroke="hsl(16 47.9% 3%)" stroke-width="4"/><path d="M423.2 864q-21.1 -117.2 21.1 -145.4q23.4 28.1 14.1 70.3q-4.7 46.9 4.7 75Z" fill="hsl(16 47.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(182.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE GOLDEN CINDER</text>
+<path d="M44 709.4h72" stroke="hsl(182.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  112 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(182.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

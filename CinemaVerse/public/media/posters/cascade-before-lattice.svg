@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Cascade before Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(345.1 42.8% 6%)"/><stop offset="0.5" stop-color="hsl(1.1 48.9% 13%)"/><stop offset="1" stop-color="hsl(306.8 55.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(306.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(306.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="581.5" cy="301.7" r="74.9" fill="hsl(306.8 96% 88%)" opacity="0.2"/><circle cx="211.8" cy="501.6" r="129.3" fill="hsl(306.8 92% 62%)" opacity="0.3"/><circle cx="208.4" cy="229.1" r="93.3" fill="hsl(306.8 96% 88%)" opacity="0.2"/><circle cx="50" cy="134.5" r="102.4" fill="hsl(306.8 92% 62%)" opacity="0.3"/><circle cx="400.7" cy="495" r="87.5" fill="hsl(306.8 96% 88%)" opacity="0.2"/><circle cx="187" cy="468.3" r="69.7" fill="hsl(306.8 92% 62%)" opacity="0.1"/><circle cx="486.4" cy="360.2" r="114.3" fill="hsl(306.8 96% 88%)" opacity="0.2"/><circle cx="188" cy="565.1" r="45.4" fill="hsl(306.8 92% 62%)" opacity="0.1"/><circle cx="309.8" cy="198.3" r="154.6" fill="hsl(306.8 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 760.9 75 769.5Q112.5 748.8 150 757.4Q187.5 745.3 225 753.9Q262.5 717.3 300 725.9Q337.5 714.4 375 723Q412.5 714.4 450 753Q487.5 744.4 525 774.8Q562.5 766.2 600 828L610 1428Z" fill="hsl(147.8 55.1% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(306.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CASCADE BEFORE LATTICE</text>
+<path d="M44 709.4h72" stroke="hsl(306.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  116 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(306.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

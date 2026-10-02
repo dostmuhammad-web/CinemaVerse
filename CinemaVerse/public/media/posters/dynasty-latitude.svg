@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Dynasty &amp; Latitude poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(236 29.9% 6%)"/><stop offset="0.5" stop-color="hsl(252 34.2% 13%)"/><stop offset="1" stop-color="hsl(219.3 38.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(219.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(219.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(38.3 34.2% 10%)"/><path d="M317.5 189.7L525.8 189.7L567.5 900L300.8 900Z" fill="hsl(219.3 96% 78%)" opacity="0.1"/><path d="M317.5 189.7L525.8 189.7L590.4 900L291.7 900Z" fill="hsl(219.3 96% 78%)" opacity="0"/><path d="M317.5 189.7L525.8 189.7L613.3 900L282.5 900Z" fill="hsl(219.3 96% 78%)" opacity="0"/><rect x="317.5" y="144" width="208.3" height="457.1" fill="hsl(236 29.9% 6%)"/><rect x="317.5" y="144" width="208.3" height="457.1" fill="hsl(219.3 100% 62% / 0.4)" opacity=".5"/><path d="M317.5 144h208.3v457.1h-208.3Z" fill="none" stroke="hsl(52.3 42.7% 3%)" stroke-width="7"/><path d="M317.5 372.5h208.3M421.7 144v457.1" stroke="hsl(52.3 42.7% 3%)" stroke-width="4"/><path d="M387.8 864q-19.6 -109 19.6 -135.1q21.8 26.2 13.1 65.4q-4.4 43.6 4.4 69.8Z" fill="hsl(52.3 42.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(219.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DYNASTY &amp; LATITUDE</text>
+<path d="M44 709.4h72" stroke="hsl(219.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1986  ·  118 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(219.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

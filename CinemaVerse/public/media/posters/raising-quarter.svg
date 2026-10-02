@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Raising Quarter poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(212.6 37.4% 6%)"/><stop offset="0.5" stop-color="hsl(228.6 42.7% 13%)"/><stop offset="1" stop-color="hsl(200.3 48% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(200.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(200.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(37.3 42.7% 10%)"/><path d="M284.2 184.9L510.8 184.9L556.1 900L266.1 900Z" fill="hsl(200.3 96% 78%)" opacity="0.1"/><path d="M284.2 184.9L510.8 184.9L581 900L256.1 900Z" fill="hsl(200.3 96% 78%)" opacity="0"/><path d="M284.2 184.9L510.8 184.9L605.9 900L246.1 900Z" fill="hsl(200.3 96% 78%)" opacity="0"/><rect x="284.2" y="144" width="226.6" height="409.5" fill="hsl(212.6 37.4% 6%)"/><rect x="284.2" y="144" width="226.6" height="409.5" fill="hsl(200.3 100% 62% / 0.4)" opacity=".5"/><path d="M284.2 144h226.6v409.5h-226.6Z" fill="none" stroke="hsl(51.3 53.4% 3%)" stroke-width="7"/><path d="M284.2 348.7h226.6M397.5 144v409.5" stroke="hsl(51.3 53.4% 3%)" stroke-width="4"/><path d="M372.9 864q-19.1 -106.2 19.1 -131.7q21.2 25.5 12.7 63.7q-4.2 42.5 4.2 68Z" fill="hsl(51.3 53.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(200.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RAISING QUARTER</text>
+<path d="M44 709.4h72" stroke="hsl(200.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  130 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(200.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

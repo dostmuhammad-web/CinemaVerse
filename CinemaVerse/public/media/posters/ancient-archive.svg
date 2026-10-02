@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Ancient Archive poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(206.1 57.8% 24%)"/><stop offset="0.5" stop-color="hsl(226.1 52% 42%)"/><stop offset="1" stop-color="hsl(197.7 57.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(197.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(197.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="407.2" cy="250.6" r="320.9" fill="url(#glow)"/><circle cx="407.2" cy="250.6" r="76.4" fill="hsl(197.7 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 438.9 85.7 455.1Q128.6 409.1 171.4 425.3Q214.3 379.7 257.1 395.9Q300 379.7 342.9 400.4Q385.8 339.8 428.6 356Q471.5 339.8 514.3 471.4Q557.2 455.2 600 558L610 1158Z" fill="hsl(50.3 40.5% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 527.6 66.7 546Q100 492.9 133.3 511.3Q166.7 449 200 467.4Q233.4 365.9 266.7 384.3Q300 365.9 333.3 477.2Q366.7 389.6 400 408Q433.4 389.6 466.7 559.3Q500 540.9 533.3 600.6Q566.7 582.2 600 666L610 1266Z" fill="hsl(50.3 46.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 709.5 54.5 723.5Q81.8 694 109.1 708Q136.4 631.9 163.6 645.9Q190.9 631.9 218.2 670.7Q245.5 577.6 272.7 591.6Q300 577.6 327.3 659.5Q354.6 645.5 381.8 684.5Q409.1 606.1 436.4 620.1Q463.7 606.1 490.9 699.3Q518.2 685.3 545.5 737.1Q572.8 723.1 600 792L610 1392Z" fill="hsl(58.3 52% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(197.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ANCIENT ARCHIVE</text>
+<path d="M44 709.4h72" stroke="hsl(197.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2003  ·  156 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(197.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sparrow beneath Umber poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(192.3 43.4% 6%)"/><stop offset="0.5" stop-color="hsl(208.3 49.6% 13%)"/><stop offset="1" stop-color="hsl(167.3 55.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(167.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(167.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 362.7L63 362.7L67.6 345.5L94.7 345.5L103.6 414.6L167.3 414.6L174.2 460.3L247.2 460.3L257.7 410.2L324.8 410.2L339.5 439.9L382.8 439.9L385.8 553.8L427.5 553.8L441.4 493.3L513.9 493.3L527.1 514.1L562.9 514.1L567.7 435.2L628.6 435.2L610 1248Z" fill="hsl(25.4 43.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(33.4 55.8% 6%)"/><path d="M32.4 414.4l-8.2 51.5M92.4 570.6l-13.4 83.9M257.3 37.3l-7.8 48.9M386.9 407.2l-11.7 73.1M313.3 625.9l-8.5 52.9M81.2 606.3l-5.8 36.3M280.8 138.6l-6.9 43.1M124.7 457.3l-5.4 33.6M378.9 269.8l-6.4 40M209.6 727.2l-10.5 65.5M30.9 429.7l-4.3 27.1M75.5 611.3l-7.9 49.5M487.4 703.9l-11.4 71.3M204.9 84.8l-12.6 78.7M545 656.4l-6.5 40.5M17.4 50.4l-6.3 39.5M91.2 563.1l-13.3 82.8M281.1 742.6l-13.2 82.6M202 510.7l-11.8 74M195.6 540.4l-11.2 69.8M556.6 295.5l-8.6 53.7M531.8 209.1l-8.8 55.3M402.2 590l-12.3 76.9M282.2 725.5l-11.5 72.1M126.3 186.3l-5.1 32.1M30.8 469.5l-11.6 72.7M538.4 697.3l-10 62.6M106.2 781.5l-12.2 76.4M600 59.1l-12.2 76.4M302 338.2l-5.7 35.6M139.7 582.2l-9.3 57.9M144.4 624.4l-13.4 84M496.1 500.9l-5.6 34.8M180.6 377.3l-10 62.7M112.5 7.5l-10.5 65.7M197.9 177.6l-6.4 39.9M146.6 644.3l-9.8 61M130.9 766.4l-4.6 28.5M16.8 557.9l-4.9 30.7M13.3 706l-6.1 38M232.7 333.4l-7 43.8M32 195.3l-12.6 78.8M202.8 108.6l-10 62.4M200.9 778.9l-10.4 65M502.4 311.2l-8.9 55.6M551.2 146.4l-10.3 64.6" fill="none" stroke="hsl(167.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="287.9" cy="837" rx="132" ry="27" fill="hsl(167.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(167.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SPARROW BENEATH UMBER</text>
+<path d="M44 709.4h72" stroke="hsl(167.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2017  ·  141 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(167.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

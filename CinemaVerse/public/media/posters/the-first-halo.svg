@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The First Halo poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(184.3 43.7% 6%)"/><stop offset="0.5" stop-color="hsl(200.3 49.9% 13%)"/><stop offset="1" stop-color="hsl(158.2 56.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(158.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(158.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 431.2 85.7 447.4Q128.6 366.1 171.4 382.3Q214.3 295.1 257.1 311.3Q300 295.1 342.9 345.1Q385.8 328.9 428.6 379.1Q471.5 362.9 514.3 512.5Q557.2 496.3 600 558L610 1158Z" fill="hsl(8.4 43.7% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 561.9 66.7 580.3Q100 463.8 133.3 482.2Q166.7 414.4 200 432.8Q233.4 414.4 266.7 526.4Q300 462.3 333.3 480.7Q366.7 391.3 400 409.7Q433.4 391.3 466.7 486.1Q500 467.7 533.3 621.1Q566.7 602.7 600 666L610 1266Z" fill="hsl(8.4 49.9% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 722 54.5 736Q81.8 671.1 109.1 685.1Q136.4 671.1 163.6 685.6Q190.9 645 218.2 659Q245.5 634.7 272.7 648.7Q300 545.6 327.3 559.6Q354.6 545.6 381.8 597.9Q409.1 583.9 436.4 614.7Q463.7 600.7 490.9 739.3Q518.2 702.3 545.5 716.3Q572.8 702.3 600 792L610 1392Z" fill="hsl(16.4 56.2% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(158.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FIRST HALO</text>
+<path d="M44 709.4h72" stroke="hsl(158.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2018  ·  141 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(158.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

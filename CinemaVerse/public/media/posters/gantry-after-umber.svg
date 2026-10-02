@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Gantry after Umber poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(271.8 38.2% 6%)"/><stop offset="0.5" stop-color="hsl(287.8 43.7% 13%)"/><stop offset="1" stop-color="hsl(234 49.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(234 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(234 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 512.4L59.7 512.4L68.4 457.4L128.9 457.4L142.3 428.4L211.1 428.4L224.4 509L259.3 509L271.8 440.8L355.6 440.8L360 350.2L452.9 350.2L461 426.1L547.9 426.1L557.7 479.4L629.1 479.4L610 1248Z" fill="hsl(73.5 38.2% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(81.5 49.1% 6%)"/><path d="M548.8 522.4l-10.9 67.9M272.9 95.2l-9 56.3M14.8 479.7l-6.8 42.7M426.9 629.8l-8.5 52.9M407.1 554.2l-9.8 61.1M29.3 730.8l-10.3 64.1M380.1 294.9l-8.6 53.7M144.5 129.9l-8.6 53.6M481.6 193.2l-12 74.7M451 20.5l-6.7 42.1M58.8 431.3l-13.1 82.1M56.2 393.7l-7.5 46.8M564.7 383.2l-6.4 40.2M163 87.2l-4.9 30.6M103.8 243.8l-7 43.8M119.9 508.5l-6.5 40.5M585.7 711l-13.9 87M260.7 297.5l-14.2 88.8M21.9 167.9l-12.7 79.7M215.6 66l-7.6 47.5M322 411.2l-11.2 70M168.2 214.9l-8.4 52.8M385.5 103.9l-11 68.8M377.3 700.6l-12 75M131.3 194.2l-5.4 33.4M436.7 298.9l-8.7 54.5M421 101.3l-13.8 86.3M576 55.2l-5.6 34.9M246.9 236.1l-11 68.7M425.7 750.2l-11.7 73M422.1 590.3l-9.4 58.6M22.9 635.8l-12.6 78.9M225.6 127.6l-11.4 71.5M364.1 376.5l-5.2 32.8M159.1 110.3l-6.9 42.9M105.3 344.2l-13.7 85.7M84.7 253l-11.1 69.3M314.6 771l-12.9 80.6M487.8 343.2l-5.7 35.7M209.9 754.4l-8.6 53.5M117.4 238.4l-12.5 77.9M596.7 20.8l-6.6 41.3M268.1 381l-4.6 28.9M365.7 373.9l-6.9 43.4M427.6 740l-10.2 63.9M257.5 675.6l-5.6 35" fill="none" stroke="hsl(234 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="191.3" cy="837" rx="132" ry="27" fill="hsl(234 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(234 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GANTRY AFTER UMBER</text>
+<path d="M44 709.4h72" stroke="hsl(234 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  127 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(234 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Bitter Quiver poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(286.9 37.1% 6%)"/><stop offset="0.5" stop-color="hsl(302.9 42.4% 13%)"/><stop offset="1" stop-color="hsl(266.2 47.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(266.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(266.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M6.7 828L-79.7 828L6.7 443.3L93.1 828ZM28.1 828L-57.3 828L28.1 494.5L113.5 828ZM79.8 828L-27.7 828L79.8 301.2L187.3 828ZM106.1 828L45.4 828L106.1 532.9L166.8 828ZM162.3 828L28.9 828L162.3 309.7L295.7 828ZM175.9 828L87.7 828L175.9 324.6L264.1 828ZM222 828L154.3 828L222 460.9L289.7 828ZM275.7 828L181.9 828L275.7 324.2L369.5 828ZM294.3 828L153.5 828L294.3 225.2L435.1 828ZM335 828L286.7 828L335 548.4L383.3 828ZM371.3 828L306.7 828L371.3 480.3L435.9 828ZM411.2 828L329.3 828L411.2 347.1L493.1 828ZM438.8 828L359.8 828L438.8 501.1L517.8 828ZM501 828L401.4 828L501 332L600.6 828ZM515.3 828L451.4 828L515.3 525.4L579.2 828ZM560.3 828L502.9 828L560.3 553.3L617.7 828Z" fill="hsl(113.4 42.4% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(127.4 53% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(266.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE BITTER QUIVER</text>
+<path d="M44 709.4h72" stroke="hsl(266.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1983  ·  129 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(266.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

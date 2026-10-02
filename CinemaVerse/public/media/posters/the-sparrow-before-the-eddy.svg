@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Sparrow before the Eddy poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(23.6 41.7% 6%)"/><stop offset="0.5" stop-color="hsl(39.6 47.6% 13%)"/><stop offset="1" stop-color="hsl(6.2 53.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(6.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(6.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 541.2L46.5 541.2L51.2 529.4L88.4 529.4L101.2 427.4L168.4 427.4L180.9 423.4L275.5 423.4L284 345.9L357.1 345.9L365 366.8L413.4 366.8L419.5 461.2L491.4 461.2L494.7 380.1L547.6 380.1L561.3 507.1L659.1 507.1L610 1248Z" fill="hsl(195.2 41.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(203.2 53.6% 6%)"/><path d="M8.9 464.5l-7.2 45.2M217.3 255.7l-9.9 61.8M158.2 347l-9.1 57M402.3 189.6l-8.3 51.7M275.4 40.1l-13.4 83.9M594.9 136.3l-13.6 85.1M598.2 776.9l-13.5 84.4M339 699.8l-7.8 48.7M386.6 310.7l-12.6 78.8M214.7 445.8l-9.9 62M519 771.7l-5.5 34.7M294.5 626.2l-10.9 68M546.7 552.2l-12.2 76.3M71.1 264.2l-4.8 30.3M73.7 417.6l-6.3 39.6M432 417.2l-4.5 27.9M436.7 434.4l-7.7 48.1M266.5 797l-10.2 63.5M512.3 733l-9.3 58.4M539.9 310.2l-13.7 85.7M496.8 68.6l-12.5 78.1M551.3 104.5l-7.2 45.2M499.4 459.7l-8.4 52.3M584.4 260.2l-10.4 65.2M490.4 703.5l-11.5 72.1M355.7 447.3l-9.2 57.4M468.9 76.8l-7.8 48.6M542.3 172.8l-11.3 70.5M378.5 302.2l-12.8 79.8M488.8 172.4l-11.2 69.8M452.1 789.2l-6.9 43.4M455 754.4l-8.7 54.7M36.6 57.8l-10 62.4M384.5 586.1l-9.5 59.1M352.5 83.2l-7.1 44.6M421.3 636.8l-12.7 79.5M490.9 113.7l-6.5 40.9M82.1 373.7l-9.7 60.8M480.2 535.3l-6.2 38.8M182.1 617.3l-9 56.4M44.2 776.3l-7 43.5M179.4 809.9l-8.4 52.6M112.5 282.3l-12.1 75.8M468.4 191.6l-9.7 60.7M321.4 600.5l-12 74.7M342.3 787.8l-9 56.4" fill="none" stroke="hsl(6.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="369.3" cy="837" rx="132" ry="27" fill="hsl(6.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(6.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SPARROW BEFORE THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">EDDY</text>
+<path d="M44 726.8h72" stroke="hsl(6.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  138 MIN  ·  WAR</text>
+<text x="556" y="750.8" fill="hsl(6.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

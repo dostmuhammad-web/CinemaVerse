@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Second Wavelength poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(207.4 35.4% 6%)"/><stop offset="0.5" stop-color="hsl(223.4 40.4% 13%)"/><stop offset="1" stop-color="hsl(197.5 45.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(197.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(197.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 365.7L84.2 365.7L98.7 363.1L169.3 363.1L174.1 345.6L234.9 345.6L239.2 484.8L331.2 484.8L340.3 371.7L366.8 371.7L380.5 428.3L432.3 428.3L438 469.7L464.1 469.7L479.1 511.3L546.7 511.3L553.1 425.4L596.5 425.4L609.5 554.4L676.2 554.4L610 1248Z" fill="hsl(42.4 35.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(50.4 45.5% 6%)"/><path d="M90.3 566.4l-11.7 73.4M59.9 374.3l-8.4 52.5M69 764.7l-8 50.1M554 703.6l-10.5 65.3M426.9 256l-8.6 54M444.8 781.8l-11.3 70.7M73 402.9l-6.3 39.1M548.4 579.2l-13.4 83.9M91.4 643.3l-6.6 41.4M78.7 418.9l-6.7 42.2M252.6 323.5l-5 31.3M397.5 278.2l-10.3 64.2M572.1 266l-10.1 63M360.1 76.7l-12.6 78.5M184.1 313.6l-9.5 59.4M52.5 249.5l-5.8 36.2M502.2 221.8l-7.5 46.8M66.4 366.1l-5.4 34M590.1 456.3l-5.8 36.5M528.6 126.5l-5.4 33.8M2.8 624.5l-6.4 39.9M503.9 154.9l-7.5 46.6M263.7 653.6l-11.8 74.1M310.2 23.3l-7.9 49.4M294.2 209l-5.8 36M555.9 711l-9.2 57.4M597 773.8l-5.9 37.2M578.7 557.1l-6.3 39.4M366.8 39.8l-9.7 60.6M215.6 782l-10.9 68M273.5 293.6l-14.2 88.7M219.3 294.7l-13.5 84.6M317.8 737.4l-8.9 55.6M333.7 75l-9.8 61.1M410.7 369l-9.4 58.4M376.5 600.2l-7.8 48.7M136.4 17.1l-9.8 61.4M479 564.1l-11.5 71.8M354.1 290.7l-9.9 61.9M155.6 780.3l-10 62.7M534.5 680.4l-7 43.6M171.5 593.2l-13.2 82.5M470.6 542.5l-7.1 44.6M598 30.2l-11.7 73.2M21.1 780.4l-13.6 84.9M422.8 755.4l-5.8 36.5" fill="none" stroke="hsl(197.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="307.5" cy="837" rx="132" ry="27" fill="hsl(197.5 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(197.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SECOND WAVELENGTH</text>
+<path d="M44 709.4h72" stroke="hsl(197.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1986  ·  125 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(197.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

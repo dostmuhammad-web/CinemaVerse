@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Yield at Eddy poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(213.4 45.8% 6%)"/><stop offset="0.5" stop-color="hsl(229.4 52.4% 13%)"/><stop offset="1" stop-color="hsl(198.3 58.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(198.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(198.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 546.4L42.5 546.4L52.6 545.5L122.5 545.5L131.9 557.4L225.2 557.4L233.5 427.1L312.7 427.1L322.3 404.1L395.6 404.1L401.8 450.6L450.4 450.6L457.6 354.4L532.2 354.4L546.1 354.1L628.9 354.1L610 1248Z" fill="hsl(14.7 45.8% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(22.7 58.9% 6%)"/><path d="M535.9 578l-8.6 53.9M566.4 85.9l-7 44M417.1 789.5l-11.4 71.1M0.6 518.7l-6.2 38.9M258.4 498.4l-4.7 29.1M581.4 584.7l-5.4 34M154.8 364.9l-8.8 54.9M207.6 615.2l-13.7 85.8M552.2 305l-6.3 39.4M215 467.4l-11.3 70.7M289 668.3l-9.3 57.9M241.1 610.3l-12.6 78.6M501.3 478.6l-11.6 72.6M0.8 322.8l-10 62.8M456.6 301.7l-7.9 49.6M458.1 16.9l-8.4 52.5M423.2 277.8l-7.3 45.3M100.4 182.7l-7.4 46M590.8 497.5l-13.8 86.4M210.4 185.9l-7.5 46.7M305.1 450.9l-10.6 66M304 91.9l-8.4 52.8M137 785.5l-7.3 45.9M92.8 476.2l-10.8 67.6M353.3 605.7l-9.4 58.8M320 157.3l-7.8 48.7M14.8 216.6l-14.3 89.4M16.8 607.2l-7.7 48.1M199 545.9l-4.7 29.3M53.1 337.3l-11.4 71.3M3.4 326.2l-10.7 66.9M349.2 796.9l-5.4 33.8M120.7 149.6l-9.9 62M427 776.4l-12.8 79.7M237.5 466.1l-9.6 59.8M477.5 315.1l-10.6 66.2M308.7 0.1l-7.5 46.9M253.5 433l-10.6 66.2M53.7 437.4l-9.8 61.6M31.9 28.7l-8.3 51.7M381.6 13.8l-11.8 74M140.2 92.1l-9.2 57.2M234 100.3l-7 43.5M169.4 690.1l-12 74.8M354.9 362l-9.7 60.7M128.9 471.4l-12.7 79.1" fill="none" stroke="hsl(198.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="378.6" cy="837" rx="132" ry="27" fill="hsl(198.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(198.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">YIELD AT EDDY</text>
+<path d="M44 709.4h72" stroke="hsl(198.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2014  ·  117 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(198.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Sacred Quiver backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(335.4 32.4% 6%)"/><stop offset="0.5" stop-color="hsl(351.4 37% 13%)"/><stop offset="1" stop-color="hsl(317.8 41.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(317.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(317.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="293.4" cy="272.3" r="521" fill="url(#glow)"/>
+<circle cx="293.4" cy="272.3" r="104.2" fill="hsl(317.8 96% 78%)" opacity=".85"/>
+<path d="M465.6 0L627.6 0L15.6 900L-299.4 900Z" fill="hsl(317.8 96% 78%)" opacity=".04"/><path d="M132.3 0L294.3 0L-317.7 900L-632.7 900Z" fill="hsl(317.8 96% 78%)" opacity=".04"/><path d="M396.2 0L558.2 0L-53.8 900L-368.8 900Z" fill="hsl(317.8 96% 78%)" opacity=".04"/><path d="M526.9 0L688.9 0L76.9 900L-238.1 900Z" fill="hsl(317.8 96% 78%)" opacity=".04"/><path d="M10.2 828L-91.8 828L10.2 310.2L112.2 828ZM71.8 828L-11.5 828L71.8 491.4L155.1 828ZM211.6 828L93.3 828L211.6 220.4L329.9 828ZM289.7 828L170.1 828L289.7 292.7L409.3 828ZM392.9 828L242.9 828L392.9 183.2L542.9 828ZM480.5 828L389.3 828L480.5 424.9L571.7 828ZM585.6 828L459.6 828L585.6 202.7L711.6 828ZM714.5 828L613.2 828L714.5 263.4L815.8 828ZM796.2 828L728.8 828L796.2 552.3L863.6 828ZM888.6 828L829.8 828L888.6 502.6L947.4 828ZM1017.3 828L893.3 828L1017.3 223.6L1141.3 828ZM1089.5 828L968.7 828L1089.5 259.3L1210.3 828ZM1218 828L1092.5 828L1218 208.7L1343.5 828ZM1309.7 828L1254.2 828L1309.7 497.3L1365.2 828ZM1394.9 828L1269.1 828L1394.9 212.1L1520.7 828ZM1513.8 828L1434.4 828L1513.8 465.6L1593.2 828Z" fill="hsl(140.6 37% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(154.6 46.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

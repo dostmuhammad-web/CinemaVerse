@@ -1,0 +1,308 @@
+/* =========================================================
+   MangaVerse — design tokens, reset, base typography
+   ========================================================= */
+
+:root {
+  --brand-1: #6d5efc;
+  --brand-2: #a855f7;
+  --brand-3: #22d3ee;
+  --accent: #ff3d71;
+  --accent-2: #ff8fb1;
+
+  --bg: #06070c;
+  --bg-2: #090b12;
+  --surface: #0d1018;
+  --surface-2: #121622;
+  --surface-3: #171c2b;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.16);
+  --text: #eef1f8;
+  --text-2: #b9c1d4;
+  --muted: #7e879e;
+
+  --ok: #34d399;
+  --warn: #fbbf24;
+  --live: #34d399;
+
+  --grad-brand: linear-gradient(120deg, var(--brand-1), var(--brand-2) 55%, var(--brand-3));
+  --grad-accent: linear-gradient(120deg, var(--accent), var(--accent-2));
+
+  --r-xs: 8px;
+  --r-sm: 12px;
+  --r-md: 16px;
+  --r-lg: 22px;
+  --r-xl: 30px;
+
+  --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-2: 0 12px 30px -12px rgba(0, 0, 0, 0.7);
+  --shadow-3: 0 28px 60px -22px rgba(0, 0, 0, 0.85);
+  --shadow-brand: 0 18px 50px -18px rgba(109, 94, 252, 0.65);
+
+  --ease: cubic-bezier(0.22, 0.68, 0.28, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur: 240ms;
+
+  --header-h: 68px;
+  --maxw: 1440px;
+  --pad: clamp(16px, 3vw, 40px);
+
+  --card-radius: var(--r-md);
+  --card-aspect: 2 / 3;
+}
+
+/* theme variants --------------------------------------------------- */
+:root[data-theme='midnight'] {
+  --bg: #060a14;
+  --bg-2: #08101f;
+  --surface: #0c1424;
+  --surface-2: #111b2e;
+  --surface-3: #16233a;
+  --brand-1: #3b82f6;
+  --brand-2: #7c3aed;
+}
+
+:root[data-theme='amoled'] {
+  --bg: #000205;
+  --bg-2: #000308;
+  --surface: #05070c;
+  --surface-2: #080b12;
+  --surface-3: #0d111a;
+  --line: rgba(255, 255, 255, 0.1);
+}
+
+/* accent variants -------------------------------------------------- */
+:root[data-accent='magenta'] {
+  --brand-1: #e935a1;
+  --brand-2: #8b5cf6;
+  --accent: #ff2d78;
+}
+:root[data-accent='cyan'] {
+  --brand-1: #0ea5e9;
+  --brand-2: #22d3ee;
+  --brand-3: #a5f3fc;
+  --accent: #06b6d4;
+}
+:root[data-accent='amber'] {
+  --brand-1: #f59e0b;
+  --brand-2: #f97316;
+  --brand-3: #fde68a;
+  --accent: #fb923c;
+}
+:root[data-accent='lime'] {
+  --brand-1: #65a30d;
+  --brand-2: #22c55e;
+  --brand-3: #bbf7d0;
+  --accent: #84cc16;
+}
+
+/* density ---------------------------------------------------------- */
+:root[data-density='compact'] {
+  --card-radius: 12px;
+  --header-h: 60px;
+}
+
+/* motion ----------------------------------------------------------- */
+:root[data-motion='reduced'] *,
+:root[data-motion='reduced'] *::before,
+:root[data-motion='reduced'] *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+  scroll-behavior: auto !important;
+}
+
+/* reset ------------------------------------------------------------ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI Variable Text', 'Segoe UI', Inter, system-ui, -apple-system, 'Helvetica Neue',
+    Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+body.has-modal {
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+dl,
+dd {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand-1);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--brand-1) 55%, transparent);
+  color: #fff;
+}
+
+/* scrollbars ------------------------------------------------------- */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.16);
+  border: 3px solid transparent;
+  background-clip: content-box;
+  border-radius: 99px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+  background-clip: content-box;
+}
+
+/* ambient background ---------------------------------------------- */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(1000px 620px at 12% -8%, color-mix(in srgb, var(--brand-1) 26%, transparent), transparent 62%),
+    radial-gradient(880px 520px at 92% 4%, color-mix(in srgb, var(--brand-2) 20%, transparent), transparent 60%),
+    radial-gradient(700px 700px at 50% 108%, color-mix(in srgb, var(--brand-3) 10%, transparent), transparent 65%);
+  opacity: 0.7;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 3px 3px;
+  mix-blend-mode: overlay;
+}
+
+.app {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skiplink {
+  position: fixed;
+  top: 8px;
+  left: 50%;
+  z-index: 999;
+  translate: -50% -160%;
+  background: var(--grad-brand);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 99px;
+  font-weight: 700;
+  transition: translate 180ms var(--ease);
+}
+.skiplink:focus {
+  translate: -50% 0;
+}
+
+.page {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: clamp(20px, 3vw, 40px) var(--pad) 80px;
+  animation: pageIn 420ms var(--ease-out) both;
+}
+
+@keyframes pageIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.section {
+  margin-top: clamp(40px, 6vw, 72px);
+}

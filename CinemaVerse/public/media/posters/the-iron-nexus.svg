@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Iron Nexus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(22.9 48.7% 24%)"/><stop offset="0.5" stop-color="hsl(42.9 43.8% 42%)"/><stop offset="1" stop-color="hsl(355.6 48.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(355.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(355.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="372.9" cy="264.8" r="342.3" fill="url(#glow)"/><circle cx="372.9" cy="264.8" r="81.5" fill="hsl(355.6 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 440.7 85.7 456.9Q128.6 361.6 171.4 377.8Q214.3 274.6 257.1 290.8Q300 274.6 342.9 318.8Q385.8 302.6 428.6 424.2Q471.5 408 514.3 433.9Q557.2 417.7 600 558L610 1158Z" fill="hsl(161.3 34.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 558.5 66.7 576.9Q100 491.9 133.3 510.3Q166.7 428.3 200 446.7Q233.4 428.3 266.7 504.5Q300 415.5 333.3 433.9Q366.7 415.5 400 491.2Q433.4 472.8 466.7 504.2Q500 485.8 533.3 593.6Q566.7 575.2 600 666L610 1266Z" fill="hsl(161.3 38.9% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 717.2 54.5 731.2Q81.8 698.7 109.1 712.7Q136.4 660.4 163.6 674.4Q190.9 649.3 218.2 663.3Q245.5 549.5 272.7 563.5Q300 549.5 327.3 657.9Q354.6 555 381.8 569Q409.1 555 436.4 672.3Q463.7 655.5 490.9 669.5Q518.2 655.5 545.5 770.5Q572.8 756.5 600 792L610 1392Z" fill="hsl(169.3 43.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(355.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE IRON NEXUS</text>
+<path d="M44 709.4h72" stroke="hsl(355.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1987  ·  155 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(355.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

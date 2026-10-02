@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Distant Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(213.6 45.1% 6%)"/><stop offset="0.5" stop-color="hsl(229.6 51.6% 13%)"/><stop offset="1" stop-color="hsl(178.9 58% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(13.1 51.6% 10%)"/><path d="M333.6 192.1L527.2 192.1L565.9 900L318.1 900Z" fill="hsl(178.9 96% 78%)" opacity="0.1"/><path d="M333.6 192.1L527.2 192.1L587.2 900L309.6 900Z" fill="hsl(178.9 96% 78%)" opacity="0"/><path d="M333.6 192.1L527.2 192.1L608.5 900L301.1 900Z" fill="hsl(178.9 96% 78%)" opacity="0"/><rect x="333.6" y="144" width="193.6" height="481.1" fill="hsl(213.6 45.1% 6%)"/><rect x="333.6" y="144" width="193.6" height="481.1" fill="hsl(178.9 100% 62% / 0.4)" opacity=".5"/><path d="M333.6 144h193.6v481.1h-193.6Z" fill="none" stroke="hsl(27.1 64.5% 3%)" stroke-width="7"/><path d="M333.6 384.6h193.6M430.4 144v481.1" stroke="hsl(27.1 64.5% 3%)" stroke-width="4"/><path d="M367.3 864q-17.9 -99.6 17.9 -123.5q19.9 23.9 12 59.8q-4 39.8 4 63.8Z" fill="hsl(27.1 64.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(178.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE DISTANT LATTICE</text>
+<path d="M44 709.4h72" stroke="hsl(178.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  91 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(178.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

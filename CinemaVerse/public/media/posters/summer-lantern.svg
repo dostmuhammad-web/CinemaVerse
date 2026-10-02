@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Summer Lantern poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(10 60.3% 24%)"/><stop offset="0.5" stop-color="hsl(30 54.3% 42%)"/><stop offset="1" stop-color="hsl(353.3 60.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(353.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(353.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="231.3" cy="241.9" r="471.7" fill="url(#glow)"/><circle cx="231.3" cy="241.9" r="112.3" fill="hsl(353.3 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 423.1L72.2 423.1L75.4 552.8L111.3 552.8L117.3 373.3L180 373.3L185.5 520.4L223.7 520.4L228.1 463.2L303 463.2L311.6 469.4L386.2 469.4L394.3 354.6L438.7 354.6L450.6 533.5L510.5 533.5L520.9 503.7L616.5 503.7L610 1248Z" fill="hsl(195.5 42.2% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(203.5 54.3% 10%)"/><path d="M366.5 427.4l-6.8 42.3M223.6 122.1l-6 37.6M520.9 698.1l-7.6 47.6M89.3 23l-8 50.3M190.1 306.7l-12.1 75.8M426.4 722.5l-11 68.5M514.2 683.5l-5.7 35.7M379.6 219.8l-8.7 54.5M573.9 384.9l-9.7 60.6M303.4 54.6l-12.9 80.4M597 477.7l-6.1 37.9M13.6 368.4l-12.6 78.5M44.7 269.3l-11.1 69.5M330.5 638.2l-9.4 58.8M503.5 374.1l-13.3 82.9M54.7 609.5l-12.1 75.7M293.2 416.8l-8.1 50.9M205.5 636.5l-8.4 52.5M134.4 470.1l-13 81M472.8 370.9l-9.3 58.4M444 577.6l-12.6 78.5M158.6 232.7l-9.7 60.4M31.9 627.4l-7.5 46.9M74.3 712.8l-8 49.9M25 398.4l-12.9 80.7M311.2 114.4l-5.8 36.5M107.7 314.4l-10.1 62.9M402.1 251.8l-9.6 60.1M532.2 487.1l-8.9 55.7M338.2 551.5l-11.8 73.9M411.9 624l-11.9 74.3M295.5 371.2l-4.8 30M407.4 559.9l-9.1 56.8M83.6 128.6l-10.7 67.1M332.7 381.3l-13.9 86.8M301.2 560.8l-11.2 69.7M388.4 805.5l-5.8 36.5M504 495.8l-6.6 41.1M234.4 666.5l-12 74.8M34.7 197.9l-10.1 63.2M146.6 654.2l-6.1 37.9M21 105.4l-5.4 33.6M5.9 160.7l-9.5 59.2M381.2 4.9l-6.9 42.9M59.8 367.4l-8.6 54M23.3 198.7l-14.2 88.8" fill="none" stroke="hsl(353.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="329" cy="837" rx="132" ry="27" fill="hsl(353.3 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(353.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SUMMER LANTERN</text>
+<path d="M44 709.4h72" stroke="hsl(353.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  152 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(353.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

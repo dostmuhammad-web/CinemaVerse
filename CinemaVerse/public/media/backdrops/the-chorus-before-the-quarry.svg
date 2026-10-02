@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Chorus before the Quarry backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(5.3 40.2% 24%)"/><stop offset="0.5" stop-color="hsl(25.3 36.2% 42%)"/><stop offset="1" stop-color="hsl(332.4 40.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(332.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(332.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1076.3" cy="280.1" r="379" fill="url(#glow)"/>
+<circle cx="1076.3" cy="280.1" r="75.8" fill="hsl(332.4 96% 78%)" opacity=".85"/>
+<path d="M1479.5 0L1641.5 0L1029.5 900L714.5 900Z" fill="hsl(332.4 96% 78%)" opacity=".04"/><path d="M1267.2 0L1429.2 0L817.2 900L502.2 900Z" fill="hsl(332.4 96% 78%)" opacity=".04"/><path d="M876.8 0L1038.8 0L426.8 900L111.8 900Z" fill="hsl(332.4 96% 78%)" opacity=".04"/><path d="M828.6 0L990.6 0L378.6 900L63.6 900Z" fill="hsl(332.4 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 442.7 228.6 458.9Q342.9 355.4 457.1 371.6Q571.4 332.7 685.7 348.9Q800 332.7 914.3 413.2Q1028.6 370.9 1142.9 387.1Q1257.2 370.9 1371.4 500.9Q1485.7 484.7 1600 558L1610 1158Z" fill="hsl(182.2 28.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 578.3 177.8 596.7Q266.7 462.3 355.6 480.7Q444.5 462.3 533.3 487.8Q622.2 449.7 711.1 468.1Q800 420.9 888.9 439.3Q977.8 420.9 1066.7 475.3Q1155.6 456.9 1244.4 492.8Q1333.3 474.4 1422.2 542Q1511.1 523.6 1600 666L1610 1266Z" fill="hsl(182.2 32.2% 18%)"/><path d="M-10 1392L-10 792L0 792Q72.8 723.2 145.5 737.2Q218.2 676.7 290.9 690.7Q363.7 637.9 436.4 651.9Q509.1 560.3 581.8 574.3Q654.6 560.3 727.3 654.2Q800 552.5 872.7 566.5Q945.5 552.5 1018.2 575.5Q1090.9 561.5 1163.6 653Q1236.4 639 1309.1 702.3Q1381.8 688.3 1454.5 771.4Q1527.3 757.4 1600 792L1610 1392Z" fill="hsl(190.2 36.2% 10%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

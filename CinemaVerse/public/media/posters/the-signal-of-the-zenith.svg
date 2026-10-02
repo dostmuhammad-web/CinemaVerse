@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Signal of the Zenith poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(6.7 60.8% 24%)"/><stop offset="0.5" stop-color="hsl(26.7 54.8% 42%)"/><stop offset="1" stop-color="hsl(359.9 60.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(359.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(359.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="409.7" cy="238.2" r="420.8" fill="url(#glow)"/><circle cx="409.7" cy="238.2" r="100.2" fill="hsl(359.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 433.9 85.7 450.1Q128.6 404.1 171.4 420.3Q214.3 311.4 257.1 327.6Q300 293.5 342.9 309.7Q385.8 293.5 428.6 396.4Q471.5 380.2 514.3 468.8Q557.2 452.6 600 558L610 1158Z" fill="hsl(192.5 42.6% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 575.8 66.7 594.2Q100 499 133.3 517.4Q166.7 499 200 524.9Q233.4 425.8 266.7 444.2Q300 425.8 333.3 498.2Q366.7 388.6 400 407Q433.4 388.6 466.7 518.4Q500 500 533.3 590.1Q566.7 571.7 600 666L610 1266Z" fill="hsl(192.5 48.7% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 724.4 54.5 738.4Q81.8 678.1 109.1 692.1Q136.4 625.2 163.6 639.2Q190.9 567.4 218.2 581.4Q245.5 567.4 272.7 641.9Q300 596.5 327.3 610.5Q354.6 571.3 381.8 585.3Q409.1 571.3 436.4 702.5Q463.7 675.7 490.9 689.7Q518.2 675.7 545.5 718.8Q572.8 704.8 600 792L610 1392Z" fill="hsl(200.5 54.8% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(359.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SIGNAL OF THE ZENITH</text>
+<path d="M44 709.4h72" stroke="hsl(359.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  94 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(359.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

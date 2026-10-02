@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bitter Kernel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(217.5 40.2% 6%)"/><stop offset="0.5" stop-color="hsl(233.5 45.9% 13%)"/><stop offset="1" stop-color="hsl(208.1 51.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(208.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(208.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(23.4 45.9% 10%)"/><path d="M308.6 185L493.4 185L530.4 900L293.8 900Z" fill="hsl(208.1 96% 78%)" opacity="0.1"/><path d="M308.6 185L493.4 185L550.7 900L285.7 900Z" fill="hsl(208.1 96% 78%)" opacity="0"/><path d="M308.6 185L493.4 185L571 900L277.6 900Z" fill="hsl(208.1 96% 78%)" opacity="0"/><rect x="308.6" y="144" width="184.8" height="409.6" fill="hsl(217.5 40.2% 6%)"/><rect x="308.6" y="144" width="184.8" height="409.6" fill="hsl(208.1 100% 62% / 0.4)" opacity=".5"/><path d="M308.6 144h184.8v409.6h-184.8Z" fill="none" stroke="hsl(37.4 57.4% 3%)" stroke-width="7"/><path d="M308.6 348.8h184.8M401 144v409.6" stroke="hsl(37.4 57.4% 3%)" stroke-width="4"/><path d="M238.7 864q-18.7 -103.7 18.7 -128.6q20.7 24.9 12.4 62.2q-4.1 41.5 4.1 66.4Z" fill="hsl(37.4 57.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(208.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BITTER KERNEL</text>
+<path d="M44 709.4h72" stroke="hsl(208.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2011  ·  107 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(208.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

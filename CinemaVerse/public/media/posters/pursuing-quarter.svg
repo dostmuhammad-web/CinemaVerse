@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Pursuing Quarter poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(290.2 65% 24%)"/><stop offset="0.5" stop-color="hsl(310.2 58.5% 42%)"/><stop offset="1" stop-color="hsl(248.3 65% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(248.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(248.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="226.7" cy="207.1" r="494.3" fill="url(#glow)"/><circle cx="226.7" cy="207.1" r="117.7" fill="hsl(248.3 96% 78%)" opacity=".92"/>
+<path d="M-2.7 828L-53.5 828L-2.7 516.1L48.1 828ZM42.4 828L-29.9 828L42.4 519.7L114.7 828ZM78.9 828L-5.5 828L78.9 496.5L163.3 828ZM105.9 828L5.5 828L105.9 270.1L206.3 828ZM163.5 828L69.4 828L163.5 313.2L257.6 828ZM176.1 828L70.9 828L176.1 240.7L281.3 828ZM221.2 828L107.5 828L221.2 292.4L334.9 828ZM267.3 828L158.4 828L267.3 192.1L376.2 828ZM305.2 828L188.8 828L305.2 358.8L421.6 828ZM332.2 828L263.2 828L332.2 475.6L401.2 828ZM366.2 828L231.7 828L366.2 224.1L500.7 828ZM419.7 828L333.1 828L419.7 371.6L506.3 828ZM436.5 828L360.1 828L436.5 418.7L512.9 828ZM491 828L406.6 828L491 422.7L575.4 828ZM525 828L446 828L525 366.9L604 828ZM559.3 828L475.1 828L559.3 383.2L643.5 828Z" fill="hsl(79.6 52% 18%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(93.6 65% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(248.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PURSUING QUARTER</text>
+<path d="M44 709.4h72" stroke="hsl(248.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  135 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(248.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Iron Latitude VIII poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(41 44% 6%)"/><stop offset="0.5" stop-color="hsl(57 50.2% 13%)"/><stop offset="1" stop-color="hsl(20.4 56.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(20.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(20.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 444.3 85.7 460.5Q128.6 402.4 171.4 418.6Q214.3 313.8 257.1 330Q300 313.8 342.9 420Q385.8 403.8 428.6 435.8Q471.5 419.6 514.3 485Q557.2 468.8 600 558L610 1158Z" fill="hsl(202.4 44% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 547.4 66.7 565.8Q100 491.2 133.3 509.6Q166.7 491.2 200 531.1Q233.4 415.7 266.7 434.1Q300 329 333.3 347.4Q366.7 329 400 451.3Q433.4 432.9 466.7 489.4Q500 471 533.3 614.5Q566.7 596.1 600 666L610 1266Z" fill="hsl(202.4 50.2% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 749.1 54.5 763.1Q81.8 690 109.1 704Q136.4 633.9 163.6 647.9Q190.9 633.9 218.2 649.3Q245.5 630.9 272.7 644.9Q300 579.2 327.3 593.2Q354.6 563.2 381.8 577.2Q409.1 563.2 436.4 714.2Q463.7 696.9 490.9 710.9Q518.2 696.9 545.5 724.4Q572.8 710.4 600 792L610 1392Z" fill="hsl(210.4 56.5% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(20.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">IRON LATITUDE VIII</text>
+<path d="M44 709.4h72" stroke="hsl(20.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  119 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(20.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

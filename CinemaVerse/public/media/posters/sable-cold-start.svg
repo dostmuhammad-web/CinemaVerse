@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sable: Cold Start poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(4.2 51.3% 24%)"/><stop offset="0.5" stop-color="hsl(24.2 46.2% 42%)"/><stop offset="1" stop-color="hsl(329.3 51.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(329.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(329.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="397.7" cy="217.3" r="462" fill="url(#glow)"/><circle cx="397.7" cy="217.3" r="110" fill="hsl(329.3 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 343.5L85.6 343.5L94 370.6L143.1 370.6L157.3 364L207.9 364L216.5 424.7L299 424.7L302.3 494.4L358.8 494.4L368.9 529.1L467.4 529.1L477.9 444L572.1 444L584.6 466.8L613.7 466.8L610 1248Z" fill="hsl(185.2 35.9% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(193.2 46.2% 10%)"/><path d="M362.7 197l-8.2 51.1M346.8 236.4l-9 56M221.5 522.1l-10 62.7M391.6 518.8l-5.2 32.8M409.7 61.7l-9 56.2M242.8 702.5l-5.3 33M297.3 701l-6.4 39.8M276.1 593.6l-7.3 45.5M88.7 414.3l-4.4 27.5M523.3 362.4l-6.3 39.5M343 656.2l-8.9 55.8M146.7 650.4l-14.2 88.7M463.6 114.2l-12.7 79.7M428.1 641.5l-5.7 35.7M96.2 506.3l-5.2 32.5M293.1 566.2l-12.7 79.5M480.6 130.4l-12.6 78.8M111.6 566.6l-7.4 46.2M438.6 375.5l-9.8 61M594.5 226.3l-10.7 67.2M383.2 222.7l-7 43.7M59.7 85.6l-13.8 86.1M173.7 578.1l-11.7 73.3M587.3 352.4l-9.5 59.4M401 290.8l-7.1 44.1M497.7 414.3l-10 62.8M586.9 655.3l-14.3 89.5M254.7 766.4l-10.3 64.4M253.7 556.1l-10.1 63M510 526.2l-7.9 49.2M422.5 74.9l-11.3 70.3M457.9 788.6l-13.3 83.4M348.2 794.3l-14.2 88.9M101.1 481.3l-7.2 44.9M66 62.6l-12.7 79.4M129.4 781.6l-10.7 66.8M330.2 374.4l-11.5 71.8M39.5 34.1l-6.6 41.5M225.1 283.3l-8.1 50.6M234.9 535.3l-5.1 31.8M565.9 279l-11.2 69.8M584.3 380.9l-5 31.3M220.1 657l-9.1 56.6M471.7 218.1l-11.1 69.3M244.1 93.9l-5.4 33.8M372.7 612.9l-13.5 84.1" fill="none" stroke="hsl(329.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="401.6" cy="837" rx="132" ry="27" fill="hsl(329.3 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(329.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SABLE: COLD START</text>
+<path d="M44 709.4h72" stroke="hsl(329.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  120 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(329.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

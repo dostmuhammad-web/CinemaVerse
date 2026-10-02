@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quarter in Hollow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(207.9 35.8% 6%)"/><stop offset="0.5" stop-color="hsl(223.9 41% 13%)"/><stop offset="1" stop-color="hsl(189.9 46.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(189.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(189.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 463.5 85.7 479.7Q128.6 349.4 171.4 365.6Q214.3 349.4 257.1 397.1Q300 373.8 342.9 390Q385.8 373.8 428.6 403.8Q471.5 387.6 514.3 447.1Q557.2 430.9 600 558L610 1158Z" fill="hsl(31.7 35.8% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 602.2 66.7 620.6Q100 477.7 133.3 496.1Q166.7 424.2 200 442.6Q233.4 424.2 266.7 454.9Q300 436.5 333.3 511.5Q366.7 478.8 400 497.2Q433.4 478.8 466.7 497.8Q500 479.4 533.3 568.3Q566.7 549.9 600 666L610 1266Z" fill="hsl(31.7 41% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 715 54.5 729Q81.8 676 109.1 690Q136.4 642 163.6 656Q190.9 642 218.2 661.7Q245.5 540.3 272.7 554.3Q300 540.3 327.3 639.5Q354.6 582.7 381.8 596.7Q409.1 582.7 436.4 660.7Q463.7 646.7 490.9 676.5Q518.2 662.5 545.5 734.8Q572.8 720.8 600 792L610 1392Z" fill="hsl(39.7 46.1% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(189.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUARTER IN HOLLOW</text>
+<path d="M44 709.4h72" stroke="hsl(189.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1997  ·  145 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(189.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Noticing Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(34.8 57.9% 24%)"/><stop offset="0.5" stop-color="hsl(54.8 52.1% 62%)"/><stop offset="1" stop-color="hsl(354.8 57.9% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(354.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(354.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="135.7" cy="261.7" r="341.5" fill="url(#glow)"/><circle cx="135.7" cy="261.7" r="81.3" fill="hsl(354.8 96% 88%)" opacity=".92"/>
+<circle cx="435.9" cy="118.7" r="155.9" fill="hsl(354.8 96% 88%)" opacity="0.3"/><circle cx="128.1" cy="262.2" r="119.3" fill="hsl(354.8 92% 52%)" opacity="0.2"/><circle cx="410.9" cy="592.8" r="112.8" fill="hsl(354.8 96% 88%)" opacity="0.2"/><circle cx="471.1" cy="197.7" r="139.2" fill="hsl(354.8 92% 52%)" opacity="0.2"/><circle cx="157.6" cy="162.4" r="184.4" fill="hsl(354.8 96% 88%)" opacity="0.3"/><circle cx="136.4" cy="563.8" r="105.1" fill="hsl(354.8 92% 52%)" opacity="0.2"/><circle cx="526.2" cy="406.2" r="161" fill="hsl(354.8 96% 88%)" opacity="0.2"/><circle cx="350.4" cy="173.6" r="64.5" fill="hsl(354.8 92% 52%)" opacity="0.3"/><circle cx="230.5" cy="634.9" r="111" fill="hsl(354.8 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 770.4 75 779Q112.5 748.5 150 757.1Q187.5 692.8 225 701.4Q262.5 692.8 300 718.7Q337.5 687.3 375 695.9Q412.5 687.3 450 738.4Q487.5 729.8 525 775.3Q562.5 766.7 600 828L610 1428Z" fill="hsl(196.4 52.1% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(354.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NOTICING THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(354.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  103 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(354.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

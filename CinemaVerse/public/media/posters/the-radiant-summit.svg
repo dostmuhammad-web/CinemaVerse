@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Radiant Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(233.7 36.6% 6%)"/><stop offset="0.5" stop-color="hsl(249.7 41.9% 13%)"/><stop offset="1" stop-color="hsl(196.6 47.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(196.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(196.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(77.3 41.9% 10%)"/><path d="M141 189.8L352 189.8L394.2 900L124.1 900Z" fill="hsl(196.6 96% 78%)" opacity="0.1"/><path d="M141 189.8L352 189.8L417.4 900L114.8 900Z" fill="hsl(196.6 96% 78%)" opacity="0"/><path d="M141 189.8L352 189.8L440.6 900L105.6 900Z" fill="hsl(196.6 96% 78%)" opacity="0"/><rect x="141" y="144" width="211" height="458.4" fill="hsl(233.7 36.6% 6%)"/><rect x="141" y="144" width="211" height="458.4" fill="hsl(196.6 100% 62% / 0.4)" opacity=".5"/><path d="M141 144h211v458.4h-211Z" fill="none" stroke="hsl(91.3 52.3% 3%)" stroke-width="7"/><path d="M141 373.2h211M246.5 144v458.4" stroke="hsl(91.3 52.3% 3%)" stroke-width="4"/><path d="M373.7 864q-20.8 -115.7 20.8 -143.5q23.1 27.8 13.9 69.4q-4.6 46.3 4.6 74.1Z" fill="hsl(91.3 52.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(196.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE RADIANT SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(196.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  109 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(196.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

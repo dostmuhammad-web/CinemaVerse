@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Dovecote for Garden poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(45.7 28.4% 6%)"/><stop offset="0.5" stop-color="hsl(61.7 32.5% 13%)"/><stop offset="1" stop-color="hsl(28.3 36.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(28.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(28.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="278.3" cy="115.2" r="146.9" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="315.2" cy="540" r="119.3" fill="hsl(28.3 92% 62%)" opacity="0.2"/><circle cx="394.4" cy="509" r="111.1" fill="hsl(28.3 96% 88%)" opacity="0.2"/><circle cx="299.1" cy="227.1" r="185.3" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="188.9" cy="313" r="88.6" fill="hsl(28.3 96% 88%)" opacity="0.2"/><circle cx="550.1" cy="313.9" r="179" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="325.1" cy="229.6" r="124.7" fill="hsl(28.3 96% 88%)" opacity="0.1"/><circle cx="546.2" cy="445.6" r="122.1" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="212.8" cy="200.4" r="185.4" fill="hsl(28.3 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 779.3 75 787.9Q112.5 739.2 150 747.8Q187.5 739.2 225 764.1Q262.5 678.7 300 687.3Q337.5 678.7 375 716.7Q412.5 708.1 450 740.2Q487.5 731.6 525 771.6Q562.5 763 600 828L610 1428Z" fill="hsl(247.8 36.6% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(28.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DOVECOTE FOR GARDEN</text>
+<path d="M44 709.4h72" stroke="hsl(28.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1975  ·  113 MIN  ·  FAMILY</text>
+<text x="556" y="733.4" fill="hsl(28.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

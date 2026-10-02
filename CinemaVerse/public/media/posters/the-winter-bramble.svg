@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Winter Bramble poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(187.8 41.7% 24%)"/><stop offset="0.5" stop-color="hsl(207.8 37.5% 42%)"/><stop offset="1" stop-color="hsl(172.6 41.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(172.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(172.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="451" cy="322" r="417.5" fill="url(#glow)"/><circle cx="451" cy="322" r="99.4" fill="hsl(172.6 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 452.9 85.7 469.1Q128.6 354.5 171.4 370.7Q214.3 354.5 257.1 415.7Q300 302.5 342.9 318.7Q385.8 302.5 428.6 449.1Q471.5 432.9 514.3 459.2Q557.2 443 600 558L610 1158Z" fill="hsl(342.3 29.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 561.2 66.7 579.6Q100 538.1 133.3 556.5Q166.7 451 200 469.4Q233.4 355.2 266.7 373.6Q300 355.2 333.3 383.5Q366.7 365.1 400 442.1Q433.4 423.7 466.7 522.5Q500 504.1 533.3 614.9Q566.7 596.5 600 666L610 1266Z" fill="hsl(342.3 33.3% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 727.1 54.5 741.1Q81.8 657.4 109.1 671.4Q136.4 648.2 163.6 662.2Q190.9 620 218.2 634Q245.5 620 272.7 685.4Q300 594.1 327.3 608.1Q354.6 594.1 381.8 621.6Q409.1 607.6 436.4 666.9Q463.7 652.9 490.9 695.9Q518.2 681.9 545.5 731.5Q572.8 717.5 600 792L610 1392Z" fill="hsl(350.3 37.5% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(172.6 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE WINTER BRAMBLE</text>
+<path d="M44 709.4h72" stroke="hsl(172.6 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1982  ·  102 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(172.6 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Halo for Dynasty poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(246.8 30.4% 6%)"/><stop offset="0.5" stop-color="hsl(262.8 34.7% 13%)"/><stop offset="1" stop-color="hsl(214.9 39% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(214.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(214.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 570.3 100 578.9Q150 524.8 200 533.4Q250 524.8 300 534.7Q350 526.1 400 550.3Q450 541.7 500 585.8Q550 577.2 600 630L610 1230Z" fill="hsl(44.7 30.4% 15%)" opacity=".55"/><ellipse cx="467.7" cy="522" rx="288.6" ry="65.5" fill="hsl(52.7 39% 6%)" opacity="0.7"/><ellipse cx="196.4" cy="589.5" rx="259.9" ry="60.4" fill="hsl(52.7 39% 6%)" opacity="0.6"/><ellipse cx="417" cy="657" rx="294" ry="51.5" fill="hsl(52.7 39% 6%)" opacity="0.7"/><ellipse cx="310.9" cy="724.5" rx="249.5" ry="33.3" fill="hsl(52.7 39% 6%)" opacity="0.5"/><ellipse cx="385.6" cy="792" rx="251.4" ry="47.3" fill="hsl(52.7 39% 6%)" opacity="0.6"/><ellipse cx="294.5" cy="859.5" rx="291.8" ry="57.2" fill="hsl(52.7 39% 6%)" opacity="0.7"/><path d="M476.5 855L476.5 706.5M422.5 733.5L476.5 652.5L530.5 733.5M433.3 801L476.5 733.5L522.4 801" fill="none" stroke="hsl(58.7 43.4% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(58.7 43.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(214.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HALO FOR DYNASTY</text>
+<path d="M44 709.4h72" stroke="hsl(214.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1973  ·  136 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(214.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Quiver: Cold Start poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(191.8 67.6% 24%)"/><stop offset="0.5" stop-color="hsl(211.8 60.9% 42%)"/><stop offset="1" stop-color="hsl(166.9 67.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(166.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(166.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="398.1" cy="275.1" r="314.2" fill="url(#glow)"/><circle cx="398.1" cy="275.1" r="74.8" fill="hsl(166.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 444.1 85.7 460.3Q128.6 402 171.4 418.2Q214.3 273 257.1 289.2Q300 273 342.9 380.6Q385.8 364.4 428.6 424.1Q471.5 407.9 514.3 460.5Q557.2 444.3 600 558L610 1158Z" fill="hsl(330.7 47.3% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 548.1 66.7 566.5Q100 471.1 133.3 489.5Q166.7 471.1 200 557.9Q233.4 337.9 266.7 356.3Q300 337.9 333.3 397.8Q366.7 379.4 400 506.7Q433.4 488.3 466.7 554.3Q500 535.9 533.3 567.2Q566.7 548.8 600 666L610 1266Z" fill="hsl(330.7 54.1% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 715.6 54.5 729.6Q81.8 667.3 109.1 681.3Q136.4 594.6 163.6 608.6Q190.9 572.2 218.2 586.2Q245.5 572.2 272.7 612.1Q300 571.6 327.3 585.6Q354.6 571.6 381.8 617.9Q409.1 603.9 436.4 660.8Q463.7 646.8 490.9 675.6Q518.2 661.6 545.5 767.7Q572.8 753.7 600 792L610 1392Z" fill="hsl(338.7 60.9% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(166.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">QUIVER: COLD START</text>
+<path d="M44 709.4h72" stroke="hsl(166.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2017  ·  143 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="733.4" fill="hsl(166.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

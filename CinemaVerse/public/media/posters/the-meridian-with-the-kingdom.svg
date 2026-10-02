@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Meridian with the Kingdom poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(178.3 26.5% 6%)"/><stop offset="0.5" stop-color="hsl(194.3 30.3% 13%)"/><stop offset="1" stop-color="hsl(166.5 34.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(166.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(166.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(331.6 30.3% 10%)"/><path d="M353.7 180.5L615.7 180.5L668.1 900L332.7 900Z" fill="hsl(166.5 96% 78%)" opacity="0.1"/><path d="M353.7 180.5L615.7 180.5L697 900L321.2 900Z" fill="hsl(166.5 96% 78%)" opacity="0"/><path d="M353.7 180.5L615.7 180.5L725.8 900L309.7 900Z" fill="hsl(166.5 96% 78%)" opacity="0"/><rect x="353.7" y="144" width="262" height="364.9" fill="hsl(178.3 26.5% 6%)"/><rect x="353.7" y="144" width="262" height="364.9" fill="hsl(166.5 100% 62% / 0.4)" opacity=".5"/><path d="M353.7 144h262v364.9h-262Z" fill="none" stroke="hsl(345.6 37.9% 3%)" stroke-width="7"/><path d="M353.7 326.5h262M484.7 144v364.9" stroke="hsl(345.6 37.9% 3%)" stroke-width="4"/><path d="M427.9 864q-18.1 -100.5 18.1 -124.6q20.1 24.1 12.1 60.3q-4 40.2 4 64.3Z" fill="hsl(345.6 37.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(166.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE MERIDIAN WITH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KINGDOM</text>
+<path d="M44 726.8h72" stroke="hsl(166.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1967  ·  94 MIN  ·  DOCUMENTARY</text>
+<text x="556" y="750.8" fill="hsl(166.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

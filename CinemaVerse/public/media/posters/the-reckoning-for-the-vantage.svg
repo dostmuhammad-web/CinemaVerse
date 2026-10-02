@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Reckoning for the Vantage poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(198.8 57.8% 24%)"/><stop offset="0.5" stop-color="hsl(218.8 52% 42%)"/><stop offset="1" stop-color="hsl(164.2 57.8% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(164.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(164.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="461.7" cy="309.5" r="467.9" fill="url(#glow)"/><circle cx="461.7" cy="309.5" r="111.4" fill="hsl(164.2 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 460 85.7 476.2Q128.6 407.1 171.4 423.3Q214.3 307.4 257.1 323.6Q300 307.4 342.9 366.7Q385.8 350.5 428.6 426.2Q471.5 410 514.3 455.5Q557.2 439.3 600 558L610 1158Z" fill="hsl(38.6 40.5% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 529.2 66.7 547.6Q100 529.2 133.3 555.6Q166.7 397.7 200 416.1Q233.4 397.7 266.7 486.7Q300 433.2 333.3 451.6Q366.7 433.2 400 456.9Q433.4 438.5 466.7 490.3Q500 471.9 533.3 594.1Q566.7 575.7 600 666L610 1266Z" fill="hsl(38.6 46.3% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 729.8 54.5 743.8Q81.8 659.2 109.1 673.2Q136.4 618.4 163.6 632.4Q190.9 618.4 218.2 650.4Q245.5 624.6 272.7 638.6Q300 554.8 327.3 568.8Q354.6 554.8 381.8 625.1Q409.1 611.1 436.4 684.6Q463.7 670.6 490.9 687Q518.2 673 545.5 737Q572.8 723 600 792L610 1392Z" fill="hsl(46.6 52% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(164.2 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE RECKONING FOR THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">VANTAGE</text>
+<path d="M44 726.8h72" stroke="hsl(164.2 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  159 MIN  ·  ADVENTURE</text>
+<text x="556" y="750.8" fill="hsl(164.2 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

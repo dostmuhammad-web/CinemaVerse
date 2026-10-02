@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Silent Dovecote II poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(242.6 41.9% 6%)"/><stop offset="0.5" stop-color="hsl(258.6 47.9% 13%)"/><stop offset="1" stop-color="hsl(221.8 53.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(221.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(221.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M12.6 828L-118.4 828L12.6 211.8L143.6 828ZM43.8 828L-74.7 828L43.8 303.2L162.3 828ZM80.5 828L-37.6 828L80.5 316L198.6 828ZM118 828L11.1 828L118 237.6L224.9 828ZM155.4 828L26.9 828L155.4 181.9L283.9 828ZM177.8 828L101.4 828L177.8 385.4L254.2 828ZM237.7 828L92.5 828L237.7 190.8L382.9 828ZM249.1 828L126.3 828L249.1 270.5L371.9 828ZM291.9 828L196.8 828L291.9 237L387 828ZM327.9 828L274.8 828L327.9 542.9L381 828ZM370.1 828L287.3 828L370.1 366.7L452.9 828ZM412.8 828L259.9 828L412.8 224.8L565.7 828ZM453 828L294 828L453 180.9L612 828ZM489.3 828L408.7 828L489.3 340.6L569.9 828ZM531.8 828L403.4 828L531.8 208.2L660.2 828ZM555.5 828L407.2 828L555.5 237.5L703.8 828Z" fill="hsl(45.8 47.9% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(59.8 59.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(221.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SILENT DOVECOTE II</text>
+<path d="M44 709.4h72" stroke="hsl(221.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  96 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(221.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

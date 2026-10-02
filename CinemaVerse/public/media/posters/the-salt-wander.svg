@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Salt Wander poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(15.5 38.7% 6%)"/><stop offset="0.5" stop-color="hsl(31.5 44.2% 13%)"/><stop offset="1" stop-color="hsl(347.7 49.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 425.1L29.3 425.1L37.4 550.5L129.5 550.5L138.9 519.5L187 519.5L194.9 360L270.7 360L274.8 512.9L332.9 512.9L342.9 515.7L402.1 515.7L410.6 420.4L447.1 420.4L455.5 353.7L525.7 353.7L534.9 373.1L569.2 373.1L579.2 503.5L665.4 503.5L610 1248Z" fill="hsl(192.1 38.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(200.1 49.8% 6%)"/><path d="M424.1 163.9l-10.6 66.1M408.9 346.7l-9.9 62M234.7 316.4l-10 62.5M294.4 455.4l-12.8 80.3M500.4 775.7l-5.2 32.7M482.2 452.6l-9.6 60.1M192.1 228.2l-9.8 61.5M382.7 781.1l-11.4 71.5M345.2 388l-5.3 33.4M205 442.3l-6.8 42.6M101.1 27l-5.9 37.2M268.8 787.1l-12.8 80.2M274.2 756.5l-9.8 61M10.5 93.9l-14 87.6M352.2 489.1l-8.3 51.6M331.6 56.4l-7.3 45.5M208.9 610.2l-7 43.5M91.3 575.1l-10.4 65.1M441.2 671.9l-12.6 78.9M302.3 692.5l-12.5 78.3M77.1 525.2l-11.9 74.2M264.9 750.1l-12.2 76.5M480.4 644.1l-10.4 65M514.9 491.6l-14.4 89.8M346.1 458.4l-9.5 59.5M238 424.6l-9.3 58.4M481.4 328.3l-7.5 47M238.4 448.4l-5.6 34.9M285.2 648.3l-5.9 36.8M23.6 539.2l-13.7 85.9M162.3 629.8l-6.4 39.8M526.4 175.8l-5.7 35.9M382.4 495.7l-13.8 86M554.4 603.3l-11.9 74.3M50.5 610.2l-6.5 40.7M474.4 727.3l-13.4 83.8M298.8 755.7l-8.5 53.3M586.1 382.9l-5.9 36.9M440.6 28.4l-11 68.8M50.4 32.5l-6.8 42.3M280.4 771.2l-10.9 68.4M139.8 27.2l-4.8 30.2M509.1 522.4l-11.2 69.9M244.4 289.1l-7.4 46.4M67.5 329.2l-14.3 89.5M475.8 560.9l-14.1 88.3" fill="none" stroke="hsl(347.7 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="305.3" cy="837" rx="132" ry="27" fill="hsl(347.7 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SALT WANDER</text>
+<path d="M44 709.4h72" stroke="hsl(347.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  98 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(347.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

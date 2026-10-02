@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Almanac at Bastion poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(330.1 51% 24%)"/><stop offset="0.5" stop-color="hsl(350.1 45.9% 62%)"/><stop offset="1" stop-color="hsl(309.7 51% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(309.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(309.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="249.2" cy="283" r="280.6" fill="url(#glow)"/><circle cx="249.2" cy="283" r="66.8" fill="hsl(309.7 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(116.4 40.8% 18%)"/><path d="M0.9 0L67.6 0L48.9 738L19.6 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.4"/><path d="M69 0L135.7 0L117 738L87.7 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.5"/><path d="M139 0L205.7 0L187 738L157.7 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.6"/><path d="M200.9 0L267.6 0L248.9 738L219.6 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.6"/><path d="M268.3 0L335 0L316.3 738L287 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.7"/><path d="M336.8 0L403.5 0L384.8 738L355.5 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.4"/><path d="M408.8 0L475.5 0L456.8 738L427.5 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.7"/><path d="M476.3 0L543 0L524.3 738L495 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.7"/><path d="M534.3 0L601 0L582.3 738L553 738Z" fill="hsl(124.4 45.9% 10%)" opacity="0.4"/><path d="M294.5 0L474.5 774L114.5 774Z" fill="hsl(309.7 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(309.7 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(130.4 51% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(309.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">ALMANAC AT BASTION</text>
+<path d="M44 709.4h72" stroke="hsl(309.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1999  ·  86 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(309.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

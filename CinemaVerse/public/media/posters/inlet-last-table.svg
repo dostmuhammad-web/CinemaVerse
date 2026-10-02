@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Inlet: Last Table poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(25 43.6% 6%)"/><stop offset="0.5" stop-color="hsl(41 49.8% 13%)"/><stop offset="1" stop-color="hsl(356.9 56.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(356.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(356.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 463.2 85.7 479.4Q128.6 423.1 171.4 439.3Q214.3 285.3 257.1 301.5Q300 285.3 342.9 340.9Q385.8 324.7 428.6 424Q471.5 407.8 514.3 449Q557.2 432.8 600 558L610 1158Z" fill="hsl(205.2 43.6% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 533.9 66.7 552.3Q100 512.6 133.3 531Q166.7 463.3 200 481.7Q233.4 429.8 266.7 448.2Q300 407.8 333.3 426.2Q366.7 407.8 400 493.1Q433.4 474.7 466.7 510.5Q500 492.1 533.3 612.1Q566.7 593.7 600 666L610 1266Z" fill="hsl(205.2 49.8% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 725.7 54.5 739.7Q81.8 639.7 109.1 653.7Q136.4 639.7 163.6 675.3Q190.9 641.1 218.2 655.1Q245.5 630.9 272.7 644.9Q300 601.8 327.3 615.8Q354.6 601.8 381.8 627.1Q409.1 613.1 436.4 637.9Q463.7 623.9 490.9 691.4Q518.2 677.4 545.5 741.2Q572.8 727.2 600 792L610 1392Z" fill="hsl(213.2 56.1% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(356.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">INLET: LAST TABLE</text>
+<path d="M44 709.4h72" stroke="hsl(356.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2019  ·  133 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(356.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Prism: Lost Signal poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(351.9 30.4% 6%)"/><stop offset="0.5" stop-color="hsl(7.9 34.7% 13%)"/><stop offset="1" stop-color="hsl(331.8 39.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(331.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(331.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-5.1 828L-124.4 828L-5.1 227.1L114.2 828ZM45.3 828L-28.1 828L45.3 513.7L118.7 828ZM85 828L-34.9 828L85 347.5L204.9 828ZM106.2 828L13.8 828L106.2 412.9L198.6 828ZM153.8 828L66.2 828L153.8 335.6L241.4 828ZM174.8 828L73.5 828L174.8 314.9L276.1 828ZM211.8 828L69.9 828L211.8 271.1L353.7 828ZM265 828L131 828L265 241.9L399 828ZM313.4 828L188.4 828L313.4 310.2L438.4 828ZM349 828L266.4 828L349 355L431.6 828ZM388.6 828L299.3 828L388.6 377.7L477.9 828ZM419.2 828L339.7 828L419.2 450.2L498.7 828ZM459.2 828L334.6 828L459.2 223.2L583.8 828ZM483 828L378.2 828L483 297.5L587.8 828ZM523 828L444.2 828L523 409.2L601.8 828ZM572.9 828L477.4 828L572.9 297.8L668.4 828Z" fill="hsl(162.3 34.7% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(176.3 43.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(331.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">PRISM: LOST SIGNAL</text>
+<path d="M44 709.4h72" stroke="hsl(331.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1977  ·  116 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(331.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

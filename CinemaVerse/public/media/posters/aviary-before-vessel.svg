@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Aviary before Vessel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(328.2 34.1% 6%)"/><stop offset="0.5" stop-color="hsl(344.2 39% 13%)"/><stop offset="1" stop-color="hsl(295.3 43.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(295.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(295.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<circle cx="549.1" cy="528.6" r="107" fill="hsl(295.3 96% 88%)" opacity="0.2"/><circle cx="355.3" cy="238.1" r="173.7" fill="hsl(295.3 92% 62%)" opacity="0.2"/><circle cx="142.7" cy="222.3" r="89.4" fill="hsl(295.3 96% 88%)" opacity="0.3"/><circle cx="386.7" cy="428" r="144.6" fill="hsl(295.3 92% 62%)" opacity="0.3"/><circle cx="592.8" cy="341.8" r="54.2" fill="hsl(295.3 96% 88%)" opacity="0.2"/><circle cx="369.3" cy="396.5" r="89.2" fill="hsl(295.3 92% 62%)" opacity="0.2"/><circle cx="553.4" cy="263.7" r="45.8" fill="hsl(295.3 96% 88%)" opacity="0.2"/><circle cx="455.1" cy="504.3" r="72.8" fill="hsl(295.3 92% 62%)" opacity="0.3"/><circle cx="155.3" cy="569.7" r="60.7" fill="hsl(295.3 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 790.3 75 798.9Q112.5 750.6 150 759.2Q187.5 713.9 225 722.5Q262.5 713.9 300 763Q337.5 684.8 375 693.4Q412.5 684.8 450 738Q487.5 729.4 525 797.9Q562.5 789.3 600 828L610 1428Z" fill="hsl(130.3 43.8% 6%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(295.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">AVIARY BEFORE VESSEL</text>
+<path d="M44 709.4h72" stroke="hsl(295.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1975  ·  105 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(295.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

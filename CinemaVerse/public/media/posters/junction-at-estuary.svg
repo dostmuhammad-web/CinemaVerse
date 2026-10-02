@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Junction at Estuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(218.6 61.6% 24%)"/><stop offset="0.5" stop-color="hsl(238.6 55.4% 42%)"/><stop offset="1" stop-color="hsl(188.9 61.6% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(188.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(188.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="418.7" cy="306.9" r="480.9" fill="url(#glow)"/><circle cx="418.7" cy="306.9" r="114.5" fill="hsl(188.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 428.1 85.7 444.3Q128.6 372.5 171.4 388.7Q214.3 326.8 257.1 343Q300 326.8 342.9 406.4Q385.8 390.2 428.6 454Q471.5 437.8 514.3 482.2Q557.2 466 600 558L610 1158Z" fill="hsl(14.7 43.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 592.5 66.7 610.9Q100 473.6 133.3 492Q166.7 399.5 200 417.9Q233.4 399.5 266.7 485.2Q300 380.9 333.3 399.3Q366.7 380.9 400 507.4Q433.4 480.6 466.7 499Q500 480.6 533.3 574.3Q566.7 555.9 600 666L610 1266Z" fill="hsl(14.7 49.3% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 768.6 54.5 782.6Q81.8 699.4 109.1 713.4Q136.4 699.4 163.6 722Q190.9 631.6 218.2 645.6Q245.5 596.3 272.7 610.3Q300 596.3 327.3 648.6Q354.6 543.9 381.8 557.9Q409.1 543.9 436.4 650.9Q463.7 636.9 490.9 679.4Q518.2 665.4 545.5 745.9Q572.8 731.9 600 792L610 1392Z" fill="hsl(22.7 55.4% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(188.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">JUNCTION AT ESTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(188.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  132 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(188.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

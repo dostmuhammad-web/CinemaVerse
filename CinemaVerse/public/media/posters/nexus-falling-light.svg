@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Nexus: Falling Light poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(197.7 57.2% 24%)"/><stop offset="0.5" stop-color="hsl(217.7 51.5% 42%)"/><stop offset="1" stop-color="hsl(180.8 57.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(180.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(180.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="170.7" cy="310.6" r="303.2" fill="url(#glow)"/><circle cx="170.7" cy="310.6" r="72.2" fill="hsl(180.8 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 428.3 85.7 444.5Q128.6 428.3 171.4 449.9Q214.3 306.8 257.1 323Q300 306.8 342.9 369.4Q385.8 353.2 428.6 408.7Q471.5 392.5 514.3 482.7Q557.2 466.5 600 558L610 1158Z" fill="hsl(30.5 40% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 573.1 66.7 591.5Q100 503.6 133.3 522Q166.7 454 200 472.4Q233.4 442.2 266.7 460.6Q300 442.2 333.3 464.1Q366.7 445.7 400 490.2Q433.4 443.4 466.7 461.8Q500 443.4 533.3 596Q566.7 577.6 600 666L610 1266Z" fill="hsl(30.5 45.8% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 727.3 54.5 741.3Q81.8 681 109.1 695Q136.4 631.3 163.6 645.3Q190.9 586.5 218.2 600.5Q245.5 586.5 272.7 659.9Q300 619.4 327.3 633.4Q354.6 579.9 381.8 593.9Q409.1 579.9 436.4 632.9Q463.7 618.9 490.9 728.8Q518.2 714.8 545.5 737.7Q572.8 723.7 600 792L610 1392Z" fill="hsl(38.5 51.5% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(180.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">NEXUS: FALLING LIGHT</text>
+<path d="M44 709.4h72" stroke="hsl(180.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  139 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(180.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

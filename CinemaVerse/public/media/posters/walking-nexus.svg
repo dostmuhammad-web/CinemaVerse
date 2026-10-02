@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Walking Nexus poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(228.6 29.5% 6%)"/><stop offset="0.5" stop-color="hsl(244.6 33.7% 13%)"/><stop offset="1" stop-color="hsl(193.9 37.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(193.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(193.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 493.7L34.7 493.7L46.2 533.2L125.8 533.2L134.8 491.3L180.3 491.3L183.7 342.9L224.8 342.9L237 371.5L329.6 371.5L335.2 362.8L375.2 362.8L388.3 519.2L485.4 519.2L499.5 507.2L562.1 507.2L573.4 371.8L610.6 371.8L610 1248Z" fill="hsl(53.1 29.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(61.1 37.9% 6%)"/><path d="M148.1 119.6l-7.1 44.6M571.7 137l-4.8 30.3M277.2 737.1l-14 87.5M85.3 498.9l-9.4 58.8M365.5 484.4l-10 62.3M430.1 35.4l-8.4 52.7M373.7 678.7l-14 87.5M395 536.7l-12.1 75.3M94.2 195.2l-14 87.4M547.2 33.6l-12.5 78.1M484.5 777.9l-11.5 72.1M31.6 573.7l-13.9 87M492.6 747.6l-10.9 68.2M434.5 678.6l-13.2 82.3M423.1 82.1l-14 87.4M578.5 527l-6.4 39.8M389.5 158.2l-5.9 37M28.2 386.9l-10.3 64.4M20.1 136.5l-11.6 72.3M467.2 305l-10.7 66.6M69.1 386.3l-13.5 84.6M158.2 743l-13.8 86.1M65.5 741l-11.2 69.7M447.8 706.4l-13.3 83.3M588 371.3l-7.7 47.9M321.8 559.3l-4.3 27.1M591.2 420.3l-8.5 53.2M469.6 3.6l-14.1 87.9M299.6 58.9l-9.7 60.5M275.5 329.9l-4.6 28.7M10.9 688.1l-8.3 51.9M68 606.7l-13.4 83.6M405.5 308.5l-8.2 51.3M463.8 159.6l-12.1 75.6M269.2 713.4l-12.9 80.3M141.4 753.9l-13.7 85.7M160.8 236l-13 81M352.3 142l-4.5 28.1M296.1 369.9l-11.7 73M419.9 449.6l-13.4 83.6M185.9 45.1l-5.7 35.5M164.9 734.3l-7 43.4M313.4 566l-9.7 60.3M125.5 690.7l-6.6 41.4M297.4 248.6l-6.8 42.5M186.2 593l-5.6 34.8" fill="none" stroke="hsl(193.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="229.9" cy="837" rx="132" ry="27" fill="hsl(193.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(193.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WALKING NEXUS</text>
+<path d="M44 709.4h72" stroke="hsl(193.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1981  ·  133 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(193.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

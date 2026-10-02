@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Lattice for the Fathom poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(15.1 57.7% 24%)"/><stop offset="0.5" stop-color="hsl(35.1 52% 42%)"/><stop offset="1" stop-color="hsl(355.5 57.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(355.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(355.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="184.9" cy="233.5" r="369.2" fill="url(#glow)"/><circle cx="184.9" cy="233.5" r="87.9" fill="hsl(355.5 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 445.1L42.3 445.1L54.1 509.1L117 509.1L125.4 419.2L197.9 419.2L207.5 371.8L289.6 371.8L295.8 373.3L368.3 373.3L371.9 416L470.9 416L482 513.3L520.9 513.3L530 379.1L577.1 379.1L583.3 363.8L628.2 363.8L610 1248Z" fill="hsl(171 40.4% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(179 52% 10%)"/><path d="M525.3 652.6l-6.2 39.1M452.3 455.5l-7.7 48M140.3 541.8l-8.9 55.6M34.5 547.8l-7.9 49.6M29.3 302l-14 87.8M25.3 206.6l-10.8 67.4M539.5 557.1l-13.4 83.8M568.5 583.5l-13.9 86.8M397.2 57.8l-7.1 44.1M231.1 543.6l-14.1 88.2M452.3 647.2l-7.1 44.6M502.6 214.5l-13.9 86.9M124.1 103.1l-11.2 69.9M33.6 558l-14 87.5M593.7 597.7l-8.7 54.1M398.8 580.9l-14.3 89.4M267.6 9.3l-6.8 42.3M520 436l-14 87.5M200 611l-12.8 80M396.8 419.5l-11 68.5M379.2 583.7l-11.1 69.2M450.2 202.3l-12.1 75.6M130.2 312.8l-9.5 59.4M156.2 786.4l-4.6 29.1M534.9 195.6l-8.3 51.6M299.6 173.2l-14.2 88.5M234.9 6.5l-11.3 70.6M80 265.3l-5.1 31.7M185.3 479.7l-6.8 42.3M508.4 482l-9.6 60.2M511.4 69.1l-8.9 55.4M213.4 584.4l-9.1 56.7M518.3 310.2l-9.5 59.4M160.5 567.8l-5.7 35.7M217.7 641.6l-11.4 71.5M117 28.1l-8.3 51.8M104.6 329.4l-11.4 71.1M264.6 309.4l-5.3 33.1M264.4 158.3l-9.6 59.9M11.2 318.5l-11.1 69.6M332.5 805.7l-13.2 82.2M153.3 486.6l-5.6 34.9M573 385.3l-7.4 46.1M410.9 447.6l-12.8 79.8M433.1 13.4l-5.1 32.2M463.1 116.2l-12.2 76.3" fill="none" stroke="hsl(355.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="278.3" cy="837" rx="132" ry="27" fill="hsl(355.5 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(355.5 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LATTICE FOR THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FATHOM</text>
+<path d="M44 726.8h72" stroke="hsl(355.5 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  120 MIN  ·  ACTION</text>
+<text x="556" y="750.8" fill="hsl(355.5 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

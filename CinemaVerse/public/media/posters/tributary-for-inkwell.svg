@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Tributary for Inkwell poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(221.1 38.7% 6%)"/><stop offset="0.5" stop-color="hsl(237.1 44.2% 13%)"/><stop offset="1" stop-color="hsl(186.2 49.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(186.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(186.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(49.5 44.2% 10%)"/><path d="M134.8 186.9L385.8 186.9L435.9 900L114.7 900Z" fill="hsl(186.2 96% 78%)" opacity="0.1"/><path d="M134.8 186.9L385.8 186.9L463.6 900L103.7 900Z" fill="hsl(186.2 96% 78%)" opacity="0"/><path d="M134.8 186.9L385.8 186.9L491.2 900L92.6 900Z" fill="hsl(186.2 96% 78%)" opacity="0"/><rect x="134.8" y="144" width="251" height="429.1" fill="hsl(221.1 38.7% 6%)"/><rect x="134.8" y="144" width="251" height="429.1" fill="hsl(186.2 100% 62% / 0.4)" opacity=".5"/><path d="M134.8 144h251v429.1h-251Z" fill="none" stroke="hsl(63.5 55.3% 3%)" stroke-width="7"/><path d="M134.8 358.6h251M260.3 144v429.1" stroke="hsl(63.5 55.3% 3%)" stroke-width="4"/><path d="M430.5 864q-18.5 -102.6 18.5 -127.2q20.5 24.6 12.3 61.5q-4.1 41 4.1 65.6Z" fill="hsl(63.5 55.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(186.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">TRIBUTARY FOR INKWELL</text>
+<path d="M44 709.4h72" stroke="hsl(186.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  118 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(186.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

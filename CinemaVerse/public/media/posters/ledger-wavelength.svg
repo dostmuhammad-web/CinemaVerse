@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Ledger &amp; Wavelength poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(68 60% 24%)"/><stop offset="0.5" stop-color="hsl(88 54% 62%)"/><stop offset="1" stop-color="hsl(43.3 60% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(43.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(43.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="361.5" cy="344.2" r="362.5" fill="url(#glow)"/><circle cx="361.5" cy="344.2" r="86.3" fill="hsl(43.3 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(239.6 48% 18%)"/><path d="M7.8 0L74.5 0L55.8 738L26.5 738Z" fill="hsl(247.6 54% 10%)" opacity="0.3"/><path d="M71.7 0L138.4 0L119.7 738L90.4 738Z" fill="hsl(247.6 54% 10%)" opacity="0.4"/><path d="M133.8 0L200.5 0L181.8 738L152.5 738Z" fill="hsl(247.6 54% 10%)" opacity="0.3"/><path d="M200.6 0L267.3 0L248.6 738L219.3 738Z" fill="hsl(247.6 54% 10%)" opacity="0.7"/><path d="M269.6 0L336.3 0L317.6 738L288.3 738Z" fill="hsl(247.6 54% 10%)" opacity="0.4"/><path d="M335.3 0L402 0L383.3 738L354 738Z" fill="hsl(247.6 54% 10%)" opacity="0.6"/><path d="M401.2 0L467.9 0L449.2 738L419.9 738Z" fill="hsl(247.6 54% 10%)" opacity="0.7"/><path d="M476.4 0L543.1 0L524.4 738L495.1 738Z" fill="hsl(247.6 54% 10%)" opacity="0.5"/><path d="M538.1 0L604.8 0L586.1 738L556.8 738Z" fill="hsl(247.6 54% 10%)" opacity="0.5"/><path d="M302 0L482 774L122 774Z" fill="hsl(43.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(43.3 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(253.6 60% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(43.3 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LEDGER &amp; WAVELENGTH</text>
+<path d="M44 709.4h72" stroke="hsl(43.3 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2009  ·  101 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(43.3 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

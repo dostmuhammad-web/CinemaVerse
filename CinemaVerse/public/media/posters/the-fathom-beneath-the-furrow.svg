@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Fathom beneath the Furrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(15.2 48.1% 24%)"/><stop offset="0.5" stop-color="hsl(35.2 43.3% 42%)"/><stop offset="1" stop-color="hsl(347.8 48.1% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="379.2" cy="274.2" r="402.8" fill="url(#glow)"/><circle cx="379.2" cy="274.2" r="95.9" fill="hsl(347.8 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 521.9L75.4 521.9L78.4 440.3L129.1 440.3L133 526.6L225.5 526.6L229 453.5L309.2 453.5L317.5 475.2L397.7 475.2L405.3 405.2L488.6 405.2L503.3 368.2L575.1 368.2L582.6 414.4L674 414.4L610 1248Z" fill="hsl(207.2 33.6% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(215.2 43.3% 10%)"/><path d="M213.6 427.1l-6 37.3M359.6 269.3l-8.6 53.6M21.3 224.7l-11.9 74.2M415.5 709.9l-12 75.2M177.1 104.6l-7.6 47.6M100.3 490.9l-5.1 32.2M537.1 228.3l-8 49.9M425.4 172.2l-9 56.2M373.9 659.3l-6.2 38.8M86.4 694l-9.3 58.1M169 90.3l-5 31.4M419 73.2l-12.4 77.6M16 511.6l-5.3 33M450.3 350.1l-12.9 80.8M261.6 712.9l-9.9 61.7M307.5 466.3l-7.2 45M502.2 417.7l-10.6 66.4M59.2 614.1l-8.2 51.4M241.8 209.7l-5.4 34M239.3 218.4l-7 44M481.7 495.8l-10 62.5M12.7 2.6l-11.2 69.8M481.6 187.8l-13.5 84.2M301.7 698.6l-12.5 78.3M415.5 565.2l-12.7 79.1M14 738.2l-12.8 80M1.7 104.2l-10.9 68.4M152.3 16.5l-14.2 88.7M499.3 444.9l-4.5 28M183.6 350.3l-5.5 34.5M471 51.2l-11.7 73M505.8 739.8l-6.1 37.9M282.5 27.4l-5.2 32.7M314.5 53.1l-10.8 67.6M34.9 252.1l-6.1 38.2M325 164.2l-9.8 61.3M260.1 390.3l-13.1 82.2M265.3 800.3l-12.4 77.8M73.1 67.5l-8.3 51.9M337.1 233.7l-13 81.5M441.3 20.1l-13.5 84.4M563.7 202.6l-12.9 80.7M410.7 757.6l-6 37.3M156.4 317.5l-12.7 79.6M392.4 690.7l-10 62.6M523 464.3l-10.4 65.2" fill="none" stroke="hsl(347.8 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="265.1" cy="837" rx="132" ry="27" fill="hsl(347.8 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FATHOM BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FURROW</text>
+<path d="M44 726.8h72" stroke="hsl(347.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1980  ·  125 MIN  ·  ACTION</text>
+<text x="556" y="750.8" fill="hsl(347.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

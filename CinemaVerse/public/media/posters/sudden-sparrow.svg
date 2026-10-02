@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sudden Sparrow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(359.2 39.5% 6%)"/><stop offset="0.5" stop-color="hsl(15.2 45.1% 13%)"/><stop offset="1" stop-color="hsl(344.1 50.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(344.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(344.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-4.8 828L-63.4 828L-4.8 518.6L53.8 828ZM40 828L-79.2 828L40 304.3L159.2 828ZM72.5 828L-42.1 828L72.5 311.8L187.1 828ZM112.1 828L64.6 828L112.1 537.4L159.6 828ZM141.1 828L23.9 828L141.1 183.2L258.3 828ZM179.7 828L91.9 828L179.7 294.5L267.5 828ZM222 828L127.3 828L222 412.4L316.7 828ZM270.3 828L149.7 828L270.3 258.9L390.9 828ZM286.9 828L227 828L286.9 493.7L346.8 828ZM328 828L220.4 828L328 405.2L435.6 828ZM370.4 828L222.5 828L370.4 252.8L518.3 828ZM403.1 828L306.2 828L403.1 223L500 828ZM453.5 828L376.8 828L453.5 372.7L530.2 828ZM496.8 828L409.2 828L496.8 418.6L584.4 828ZM532.1 828L457.6 828L532.1 488.3L606.6 828ZM567.1 828L459.5 828L567.1 359.8L674.7 828Z" fill="hsl(189.6 45.1% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(203.6 56.4% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(344.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SUDDEN SPARROW</text>
+<path d="M44 709.4h72" stroke="hsl(344.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2009  ·  100 MIN  ·  HORROR</text>
+<text x="556" y="733.4" fill="hsl(344.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

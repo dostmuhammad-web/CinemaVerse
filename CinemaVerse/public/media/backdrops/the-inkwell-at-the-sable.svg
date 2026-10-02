@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Inkwell at the Sable backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(196.5 38% 6%)"/><stop offset="0.5" stop-color="hsl(212.5 43.5% 13%)"/><stop offset="1" stop-color="hsl(178.5 48.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="522.7" cy="423.3" r="514.5" fill="url(#glow)"/>
+<circle cx="522.7" cy="423.3" r="102.9" fill="hsl(178.5 96% 78%)" opacity=".85"/>
+<path d="M819.9 0L981.9 0L369.9 900L54.9 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M1443.6 0L1605.6 0L993.6 900L678.6 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M551.4 0L713.4 0L101.4 900L-213.6 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M1506.9 0L1668.9 0L1056.9 900L741.9 900Z" fill="hsl(178.5 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 487.7 228.6 503.9Q342.9 357.7 457.1 373.9Q571.4 293 685.7 309.2Q800 289.1 914.3 305.3Q1028.6 289.1 1142.9 452.9Q1257.2 436.7 1371.4 491.1Q1485.7 474.9 1600 558L1610 1158Z" fill="hsl(30.7 38% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 526.6 177.8 545Q266.7 487.7 355.6 506.1Q444.5 437.3 533.3 455.7Q622.2 437.3 711.1 519.7Q800 432.6 888.9 451Q977.8 432.6 1066.7 494.6Q1155.6 476.2 1244.4 561.3Q1333.3 542.9 1422.2 621.9Q1511.1 603.5 1600 666L1610 1266Z" fill="hsl(30.7 43.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q72.8 729.8 145.5 743.8Q218.2 703.6 290.9 717.6Q363.7 698.2 436.4 712.2Q509.1 638.9 581.8 652.9Q654.6 528 727.3 542Q800 528 872.7 681Q945.5 558.1 1018.2 572.1Q1090.9 558.1 1163.6 717.1Q1236.4 654 1309.1 668Q1381.8 654 1454.5 731.8Q1527.3 717.8 1600 792L1610 1392Z" fill="hsl(38.7 48.9% 6%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

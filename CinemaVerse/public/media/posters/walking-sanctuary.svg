@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Walking Sanctuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(21.4 35.7% 6%)"/><stop offset="0.5" stop-color="hsl(37.4 40.8% 13%)"/><stop offset="1" stop-color="hsl(350.9 45.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(350.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(350.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 471L42.7 471L57.2 555.3L96.1 555.3L110 472.8L187.1 472.8L202.1 352.2L255.1 352.2L266.8 560.5L298.1 560.5L306.7 395.2L389.7 395.2L402.2 472.8L463.1 472.8L478 476.3L514.2 476.3L521.4 530.3L584.3 530.3L591.4 547.5L650.4 547.5L610 1248Z" fill="hsl(199.8 35.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(207.8 45.9% 6%)"/><path d="M522.8 423.2l-7.1 44.4M430.2 443.1l-9.1 57.1M35.5 128.3l-8.2 51M420.4 515.3l-7.2 44.8M567.8 156.7l-13.2 82.2M50.9 641.6l-11.6 72.6M231.1 761.7l-12.6 78.5M153.8 82.4l-9.5 59.6M359.6 545.8l-5 31.2M322 144.5l-14.3 89.2M111.7 207.4l-4.6 28.5M333.4 291.5l-10.5 65.5M172.5 731.5l-8.6 53.6M365.6 323.6l-8.7 54.6M286.8 484.7l-12.3 76.9M500.1 19.1l-5.4 33.6M25.2 691.1l-9.6 60.2M107.2 448l-10.8 67.4M348.8 428.8l-6.8 42.7M314 248.9l-8.8 55.1M423.5 540.8l-8.8 54.9M119.6 511l-10.6 66M249.1 769.1l-8.2 51.5M328 274.9l-11.1 69.5M471.4 257l-9.8 61.5M299.4 54.4l-11.4 71.5M505.7 679.7l-5.7 35.6M265 784.4l-6.5 40.3M564.2 438.6l-14.1 88M188.2 134.5l-11.5 72.1M469.1 548.6l-13.7 85.7M528.2 143.3l-5.6 34.7M310.1 413.7l-11.4 71.1M91.4 733.2l-7.4 46.2M343.3 104.1l-12 74.9M24.3 541.3l-6.6 41.2M237.5 806l-9.6 59.7M49.6 364.3l-12.8 80.1M171.1 433.7l-5.6 34.7M372.7 517.5l-12 75.1M272.2 761.6l-5.9 36.7M425.1 766.7l-5.3 32.9M378 618.3l-14.2 88.7M107.8 773.3l-12.2 76.4M92.3 495.9l-13.5 84.6M401.7 239.2l-10 62.8" fill="none" stroke="hsl(350.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="180" cy="837" rx="132" ry="27" fill="hsl(350.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(350.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WALKING SANCTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(350.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  111 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(350.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

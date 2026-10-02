@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Reckoning: Quiet Crowd poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(189 30.9% 6%)"/><stop offset="0.5" stop-color="hsl(205 35.3% 13%)"/><stop offset="1" stop-color="hsl(153.5 39.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(153.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(153.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 473L34.6 473L43.9 486.9L71.4 486.9L80.2 425.3L144.3 425.3L156.7 418.7L233.7 418.7L244.6 457.4L274.7 457.4L287.5 466L372.4 466L382.4 531.4L453.5 531.4L457 342.4L493.2 342.4L505.8 399.6L568.1 399.6L580.7 421.7L630.4 421.7L610 1248Z" fill="hsl(334.8 30.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(342.8 39.7% 6%)"/><path d="M297.4 305.9l-7.8 48.6M106 325.7l-12.2 76.1M363.5 375.3l-9.1 56.9M456.5 144.7l-4.5 27.9M298.1 60.3l-9.2 57.4M257.7 69.4l-10.4 65.1M94.2 759.4l-9.4 58.8M485.5 18.2l-7.4 46.3M236 51.9l-10.7 66.6M404 644.3l-4.7 29.1M130.9 158.4l-7.8 48.9M204.3 247l-9.3 57.8M437.7 50.5l-12.6 79M260.8 669.1l-11.5 72.1M223.9 528.3l-10.8 67.3M366.2 229.2l-6.7 42.1M40.6 279.3l-10.3 64.5M95.7 469l-5.2 32.7M433.2 458.6l-7.6 47.2M301.6 653.1l-5.6 35M8.6 637.1l-8.8 55.2M138 166.7l-5.3 32.9M439.4 497.2l-13.4 84M155.1 371.9l-5.7 35.5M41.6 540.4l-10.6 66.5M203.4 175l-7.5 46.9M154.5 357.2l-5 30.9M21.7 190.5l-13.4 83.9M295.4 15.2l-10.8 67.6M506.6 580.2l-11.8 73.7M233.9 500.7l-8.3 52M132.7 630.5l-7.3 45.7M221.4 359.6l-12.5 77.9M468.1 374.9l-10.3 64.1M241 329.8l-14 87.2M96.8 366.7l-14.2 88.4M113.6 643.8l-6.1 38.4M127.9 529.7l-11.1 69.1M159.6 407.5l-4.9 30.6M278.9 83.1l-6.7 42.2M588.5 267.7l-9.9 62M119.8 98.5l-11.4 71.1M53.1 73.6l-4.9 30.9M464.3 619.1l-11.8 73.6M414 402.4l-5.5 34.7M45.3 240.4l-10.9 68.1" fill="none" stroke="hsl(153.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="217.3" cy="837" rx="132" ry="27" fill="hsl(153.5 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(153.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RECKONING: QUIET CROWD</text>
+<path d="M44 709.4h72" stroke="hsl(153.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1974  ·  108 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(153.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

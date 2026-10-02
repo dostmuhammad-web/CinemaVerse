@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Crooked Vertex poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(208 38.4% 6%)"/><stop offset="0.5" stop-color="hsl(224 43.9% 13%)"/><stop offset="1" stop-color="hsl(180.2 49.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(180.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(180.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 468.5L25.6 468.5L33.1 390.5L119.6 390.5L133.4 391.7L185.9 391.7L195.6 542.6L225.2 542.6L230.6 528.7L330.3 528.7L341.3 342.9L436.7 342.9L449 397.9L504.8 397.9L509.4 536.3L535.9 536.3L539.8 364.6L594.4 364.6L602.5 379.1L651.4 379.1L610 1248Z" fill="hsl(21.9 38.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(29.9 49.4% 6%)"/><path d="M323.4 155.8l-7.2 45.1M449.1 272.9l-9.4 58.9M95 232.7l-6.5 40.8M126.5 65.2l-10.2 64M302.2 171l-10.4 65.2M280.8 614.6l-11.9 74.1M268.3 29l-13.3 83.2M456 654l-8.1 50.5M487.4 435.1l-6.9 42.8M545.1 441.6l-12.5 78.2M111.1 401.8l-6.1 38.4M207.9 251.7l-12.4 77.5M149.1 226.3l-11.9 74.6M276.1 364.9l-12.4 77.3M15 661.8l-7 43.8M278.3 592.2l-11.7 73M345.8 719.2l-8.2 51.2M139.5 273l-13.1 81.7M525.9 633.4l-8.5 53.1M495 243.4l-9.4 58.5M487.9 26.6l-5.2 32.6M565.8 283.8l-11.4 71.1M442.1 506.5l-4.3 27.1M175.7 54.2l-5 31M66.2 308.3l-11.2 70M170.1 455.6l-7.1 44.1M120.3 702l-9.2 57.2M406.9 746.8l-11.8 74M468.1 796l-9.4 58.9M166.5 434.5l-4.6 28.9M350.3 195.8l-7.9 49.2M262.3 503.6l-4.9 30.3M58.5 217.2l-10.8 67.3M579.9 188.5l-12.9 80.8M241.1 95.6l-5.8 36M153.7 464.2l-13.8 86.2M343.9 318l-11.5 71.7M391.8 85.9l-12.9 80.5M217.4 38.1l-4.8 30.3M32.2 77.6l-13.7 85.6M47.6 62.6l-8.7 54.5M247.3 798.2l-13.4 83.9M166.3 355l-14 87.6M306.7 641l-4.4 27.3M159.7 488.4l-6.2 38.7M336.6 620.6l-12.3 76.6" fill="none" stroke="hsl(180.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="380.2" cy="837" rx="132" ry="27" fill="hsl(180.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(180.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CROOKED VERTEX</text>
+<path d="M44 709.4h72" stroke="hsl(180.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1991  ·  113 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(180.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

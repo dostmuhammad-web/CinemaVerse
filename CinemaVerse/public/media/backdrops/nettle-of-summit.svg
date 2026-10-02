@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Nettle of Summit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(29.4 31.9% 6%)"/><stop offset="0.5" stop-color="hsl(45.4 36.4% 13%)"/><stop offset="1" stop-color="hsl(351.5 41% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(351.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(351.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="722.3" cy="452.6" r="392.5" fill="url(#glow)"/>
+<circle cx="722.3" cy="452.6" r="78.5" fill="hsl(351.5 96% 78%)" opacity=".85"/>
+<path d="M894.5 0L1056.5 0L444.5 900L129.5 900Z" fill="hsl(351.5 96% 78%)" opacity=".04"/><path d="M982.7 0L1144.7 0L532.7 900L217.7 900Z" fill="hsl(351.5 96% 78%)" opacity=".04"/><path d="M173.5 0L335.5 0L-276.5 900L-591.5 900Z" fill="hsl(351.5 96% 78%)" opacity=".04"/><path d="M696 0L858 0L246 900L-69 900Z" fill="hsl(351.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(206.8 36.4% 10%)"/><path d="M407.4 183.4L1058.4 183.4L1188.6 900L355.3 900Z" fill="hsl(351.5 96% 78%)" opacity="0.1"/><path d="M407.4 183.4L1058.4 183.4L1260.2 900L326.7 900Z" fill="hsl(351.5 96% 78%)" opacity="0"/><path d="M407.4 183.4L1058.4 183.4L1331.8 900L298 900Z" fill="hsl(351.5 96% 78%)" opacity="0"/><rect x="407.4" y="144" width="651" height="393.8" fill="hsl(29.4 31.9% 6%)"/><rect x="407.4" y="144" width="651" height="393.8" fill="hsl(351.5 100% 62% / 0.4)" opacity=".5"/><path d="M407.4 144h651v393.8h-651Z" fill="none" stroke="hsl(220.8 45.5% 3%)" stroke-width="7"/><path d="M407.4 340.9h651M732.9 144v393.8" stroke="hsl(220.8 45.5% 3%)" stroke-width="4"/><path d="M1138.7 864q-19.5 -108.2 19.5 -134.2q21.6 26 13 64.9q-4.3 43.3 4.3 69.2Z" fill="hsl(220.8 45.5% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

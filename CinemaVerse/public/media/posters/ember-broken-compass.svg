@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Ember: Broken Compass poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(324.7 52.9% 24%)"/><stop offset="0.5" stop-color="hsl(344.7 47.6% 62%)"/><stop offset="1" stop-color="hsl(296.7 52.9% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(296.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(296.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="317.6" cy="267.2" r="399.4" fill="url(#glow)"/><circle cx="317.6" cy="267.2" r="95.1" fill="hsl(296.7 96% 88%)" opacity=".92"/>
+<circle cx="108.7" cy="231.5" r="113" fill="hsl(296.7 96% 88%)" opacity="0.2"/><circle cx="275.4" cy="666" r="108.9" fill="hsl(296.7 92% 52%)" opacity="0.3"/><circle cx="110" cy="246.8" r="107.4" fill="hsl(296.7 96% 88%)" opacity="0.2"/><circle cx="505.5" cy="312.5" r="160.5" fill="hsl(296.7 92% 52%)" opacity="0.3"/><circle cx="525.7" cy="365" r="78.8" fill="hsl(296.7 96% 88%)" opacity="0.2"/><circle cx="57.3" cy="598.8" r="141" fill="hsl(296.7 92% 52%)" opacity="0.2"/><circle cx="92.7" cy="293.9" r="65.4" fill="hsl(296.7 96% 88%)" opacity="0.1"/><circle cx="191.6" cy="446.8" r="54.8" fill="hsl(296.7 92% 52%)" opacity="0.2"/><circle cx="575.5" cy="139.2" r="145.5" fill="hsl(296.7 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q37.5 770.2 75 778.8Q112.5 755.5 150 764.1Q187.5 746.2 225 754.8Q262.5 745 300 753.6Q337.5 731.8 375 740.4Q412.5 731.8 450 767.6Q487.5 759 525 788.2Q562.5 779.6 600 828L610 1428Z" fill="hsl(140.9 47.6% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(296.7 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">EMBER: BROKEN COMPASS</text>
+<path d="M44 709.4h72" stroke="hsl(296.7 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1993  ·  134 MIN  ·  ROMANCE</text>
+<text x="556" y="733.4" fill="hsl(296.7 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Final Vantage poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(12.3 36.4% 6%)"/><stop offset="0.5" stop-color="hsl(28.3 41.6% 13%)"/><stop offset="1" stop-color="hsl(345.7 46.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(345.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(345.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 374.8L81.6 374.8L86.8 560.3L130.5 560.3L140.9 347.8L204.1 347.8L214.9 366.5L278.1 366.5L287.2 388.3L372.5 388.3L380.6 407.2L454.3 407.2L458.2 487.5L488.5 487.5L501.7 485L534.7 485L546 342.6L617.6 342.6L610 1248Z" fill="hsl(169.8 36.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(177.8 46.8% 6%)"/><path d="M174.9 317.4l-11.8 74M429 591.7l-13.8 86.2M81.9 343l-7.5 47M144.3 232.5l-6.9 43M481.1 502.4l-5.2 32.3M120 325.8l-9.2 57.4M14.7 188.9l-6.3 39.4M398.2 232.9l-8.8 55.1M502 406.8l-11.9 74.1M346.5 4.1l-7.3 45.3M489.5 319.8l-6.6 41.4M364.7 601.6l-12.9 80.3M106.2 306.2l-7.8 48.6M328 117.4l-14.2 89M376.4 41.3l-12.9 80.9M264.6 195l-12.3 76.9M116.3 264.7l-13.9 86.9M9.9 599.9l-11.1 69.1M257.6 77.1l-14 87.7M200 687.2l-5.3 33M464.3 148.8l-8.4 52.5M14.6 84.7l-10.6 66.1M474.6 514.2l-6.9 42.8M424.5 666.7l-5.2 32.4M418.1 412.6l-7.8 49M34.9 568.4l-13.2 82.3M463.7 67.5l-7.6 47.6M124.1 129.3l-10 62.4M522.2 5.1l-10.4 65.1M585.6 593.7l-12.3 76.7M71.8 280.7l-5.1 32.1M345.5 117.2l-13.9 87.2M282 618.4l-13.9 86.7M572.6 150.9l-8.4 52.6M300.9 756.6l-4.5 27.9M271.9 787.1l-7.8 48.9M22.8 485.5l-9.6 60M258.1 256.2l-9.1 57.2M259.8 795.5l-9.7 60.5M308.3 487.7l-11.4 71M50.1 262.8l-13.8 86.3M561.3 248.7l-12.7 79.5M362 398.2l-11.7 72.9M560.2 114.7l-12.5 78.2M576.4 711.7l-7.6 47.4M570.9 614.8l-8.7 54.5" fill="none" stroke="hsl(345.7 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="253.5" cy="837" rx="132" ry="27" fill="hsl(345.7 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(345.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE FINAL VANTAGE</text>
+<path d="M44 709.4h72" stroke="hsl(345.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2000  ·  98 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(345.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

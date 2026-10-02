@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Orchard after the Kiln backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(264.1 46.7% 6%)"/><stop offset="0.5" stop-color="hsl(280.1 53.4% 13%)"/><stop offset="1" stop-color="hsl(241.3 60.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(241.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(241.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="464.9" cy="385.5" r="365.5" fill="url(#glow)"/>
+<circle cx="464.9" cy="385.5" r="73.1" fill="hsl(241.3 96% 78%)" opacity=".85"/>
+<path d="M1220.7 0L1382.7 0L770.7 900L455.7 900Z" fill="hsl(241.3 96% 78%)" opacity=".04"/><path d="M762.4 0L924.4 0L312.4 900L-2.6 900Z" fill="hsl(241.3 96% 78%)" opacity=".04"/><path d="M481.6 0L643.6 0L31.6 900L-283.4 900Z" fill="hsl(241.3 96% 78%)" opacity=".04"/><path d="M1315.4 0L1477.4 0L865.4 900L550.4 900Z" fill="hsl(241.3 96% 78%)" opacity=".04"/><path d="M10.7 828L-57.7 828L10.7 493.6L79.1 828ZM114.3 828L-17.3 828L114.3 266.7L245.9 828ZM197 828L70.1 828L197 180.7L323.9 828ZM293.8 828L175.5 828L293.8 357.8L412.1 828ZM364.4 828L300.1 828L364.4 448.2L428.7 828ZM516.2 828L446.7 828L516.2 426.2L585.7 828ZM588.4 828L483.8 828L588.4 422.5L693 828ZM690.8 828L587.5 828L690.8 234.6L794.1 828ZM785.4 828L697 828L785.4 468.8L873.8 828ZM880.9 828L797.5 828L880.9 457L964.3 828ZM994.9 828L923.5 828L994.9 418.5L1066.3 828ZM1084 828L989.8 828L1084 375.8L1178.2 828ZM1199.4 828L1128.3 828L1199.4 536.5L1270.5 828ZM1289.6 828L1194.8 828L1289.6 248.4L1384.4 828ZM1410.8 828L1309.4 828L1410.8 216.5L1512.2 828ZM1464.3 828L1397.5 828L1464.3 525.1L1531.1 828Z" fill="hsl(71.2 53.4% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(85.2 66.8% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Northern Summit poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(200.3 38.3% 6%)"/><stop offset="0.5" stop-color="hsl(216.3 43.8% 13%)"/><stop offset="1" stop-color="hsl(172.5 49.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(172.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(172.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(11 43.8% 10%)"/><path d="M175.9 183.8L359.6 183.8L396.3 900L161.2 900Z" fill="hsl(172.5 96% 78%)" opacity="0.1"/><path d="M175.9 183.8L359.6 183.8L416.5 900L153.1 900Z" fill="hsl(172.5 96% 78%)" opacity="0"/><path d="M175.9 183.8L359.6 183.8L436.7 900L145 900Z" fill="hsl(172.5 96% 78%)" opacity="0"/><rect x="175.9" y="144" width="183.7" height="397.6" fill="hsl(200.3 38.3% 6%)"/><rect x="175.9" y="144" width="183.7" height="397.6" fill="hsl(172.5 100% 62% / 0.4)" opacity=".5"/><path d="M175.9 144h183.7v397.6h-183.7Z" fill="none" stroke="hsl(25 54.8% 3%)" stroke-width="7"/><path d="M175.9 342.8h183.7M267.7 144v397.6" stroke="hsl(25 54.8% 3%)" stroke-width="4"/><path d="M433.5 864q-19.3 -107.4 19.3 -133.2q21.5 25.8 12.9 64.5q-4.3 43 4.3 68.7Z" fill="hsl(25 54.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(172.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE NORTHERN SUMMIT</text>
+<path d="M44 709.4h72" stroke="hsl(172.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2009  ·  114 MIN  ·  DRAMA</text>
+<text x="556" y="733.4" fill="hsl(172.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

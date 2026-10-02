@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lattice before Eddy poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(227.7 30.7% 6%)"/><stop offset="0.5" stop-color="hsl(243.7 35.1% 13%)"/><stop offset="1" stop-color="hsl(220.8 39.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(220.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(220.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1230L-10 630L0 630Q50 575.1 100 583.7Q150 541.4 200 550Q250 487.2 300 495.8Q350 487.2 400 527.8Q450 519.2 500 558.7Q550 550.1 600 630L610 1230Z" fill="hsl(28.5 30.7% 15%)" opacity=".55"/><ellipse cx="452.4" cy="522" rx="219.1" ry="50.1" fill="hsl(36.5 39.5% 6%)" opacity="0.5"/><ellipse cx="288.2" cy="589.5" rx="279.2" ry="64.3" fill="hsl(36.5 39.5% 6%)" opacity="0.7"/><ellipse cx="129" cy="657" rx="297.5" ry="53.5" fill="hsl(36.5 39.5% 6%)" opacity="0.6"/><ellipse cx="308.3" cy="724.5" rx="175.5" ry="62.4" fill="hsl(36.5 39.5% 6%)" opacity="0.5"/><ellipse cx="302.7" cy="792" rx="164.7" ry="42.3" fill="hsl(36.5 39.5% 6%)" opacity="0.5"/><ellipse cx="467.8" cy="859.5" rx="217" ry="52.2" fill="hsl(36.5 39.5% 6%)" opacity="0.5"/><path d="M447.7 855L447.7 706.5M393.7 733.5L447.7 652.5L501.7 733.5M404.5 801L447.7 733.5L493.6 801" fill="none" stroke="hsl(42.5 43.8% 3%)" stroke-width="12.2" stroke-linecap="round"/><rect y="837" width="620" height="90" fill="hsl(42.5 43.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(220.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LATTICE BEFORE EDDY</text>
+<path d="M44 709.4h72" stroke="hsl(220.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1985  ·  140 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(220.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

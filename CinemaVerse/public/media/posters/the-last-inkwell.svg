@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Last Inkwell poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(34.3 31.1% 6%)"/><stop offset="0.5" stop-color="hsl(50.3 35.6% 13%)"/><stop offset="1" stop-color="hsl(14 40% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(14 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(14 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 448.2 85.7 464.4Q128.6 406.6 171.4 422.8Q214.3 304.1 257.1 320.3Q300 304.1 342.9 345.6Q385.8 329.4 428.6 359.6Q471.5 343.4 514.3 433.3Q557.2 417.1 600 558L610 1158Z" fill="hsl(218.8 31.1% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 594.6 66.7 613Q100 546.6 133.3 565Q166.7 425.1 200 443.5Q233.4 425.1 266.7 535.5Q300 377.1 333.3 395.5Q366.7 377.1 400 420Q433.4 401.6 466.7 532.8Q500 514.4 533.3 622.6Q566.7 604.2 600 666L610 1266Z" fill="hsl(218.8 35.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 724.7 54.5 738.7Q81.8 691.2 109.1 705.2Q136.4 672.1 163.6 686.1Q190.9 552 218.2 566Q245.5 552 272.7 631.2Q300 617.2 327.3 642.3Q354.6 628.3 381.8 681.1Q409.1 644.2 436.4 658.2Q463.7 644.2 490.9 715.4Q518.2 699.4 545.5 713.4Q572.8 699.4 600 792L610 1392Z" fill="hsl(226.8 40% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(14 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LAST INKWELL</text>
+<path d="M44 709.4h72" stroke="hsl(14 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1984  ·  145 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(14 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

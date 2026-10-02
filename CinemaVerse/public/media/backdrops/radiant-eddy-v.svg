@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Radiant Eddy V backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(212.8 43.9% 6%)"/><stop offset="0.5" stop-color="hsl(228.8 50.1% 13%)"/><stop offset="1" stop-color="hsl(183.5 56.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(183.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(183.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="691" cy="454.3" r="392.5" fill="url(#glow)"/>
+<circle cx="691" cy="454.3" r="78.5" fill="hsl(183.5 96% 78%)" opacity=".85"/>
+<path d="M439.5 0L601.5 0L-10.5 900L-325.5 900Z" fill="hsl(183.5 96% 78%)" opacity=".04"/><path d="M1446.8 0L1608.8 0L996.8 900L681.8 900Z" fill="hsl(183.5 96% 78%)" opacity=".04"/><path d="M953.7 0L1115.7 0L503.7 900L188.7 900Z" fill="hsl(183.5 96% 78%)" opacity=".04"/><path d="M587.3 0L749.3 0L137.3 900L-177.7 900Z" fill="hsl(183.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(39.2 50.1% 10%)"/><path d="M883.3 184.6L1395.9 184.6L1498.5 900L842.3 900Z" fill="hsl(183.5 96% 78%)" opacity="0.1"/><path d="M883.3 184.6L1395.9 184.6L1554.8 900L819.7 900Z" fill="hsl(183.5 96% 78%)" opacity="0"/><path d="M883.3 184.6L1395.9 184.6L1611.2 900L797.2 900Z" fill="hsl(183.5 96% 78%)" opacity="0"/><rect x="883.3" y="144" width="512.6" height="405.6" fill="hsl(212.8 43.9% 6%)"/><rect x="883.3" y="144" width="512.6" height="405.6" fill="hsl(183.5 100% 62% / 0.4)" opacity=".5"/><path d="M883.3 144h512.6v405.6h-512.6Z" fill="none" stroke="hsl(53.2 62.7% 3%)" stroke-width="7"/><path d="M883.3 346.8h512.6M1139.6 144v405.6" stroke="hsl(53.2 62.7% 3%)" stroke-width="4"/><path d="M427.4 864q-19 -105.6 19 -130.9q21.1 25.3 12.7 63.4q-4.2 42.2 4.2 67.6Z" fill="hsl(53.2 62.7% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

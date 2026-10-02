@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Silent Halo poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(201.8 33.9% 6%)"/><stop offset="0.5" stop-color="hsl(217.8 38.7% 13%)"/><stop offset="1" stop-color="hsl(178.2 43.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(178.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(178.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 373.5L41.8 373.5L52.8 539.5L81.5 539.5L95.2 360.5L191.4 360.5L200.1 516L246.4 516L253.8 405.7L332.8 405.7L340.3 408.3L438.8 408.3L443.9 418.8L479.7 418.8L486.9 530.2L580.6 530.2L589.7 393L636.1 393L610 1248Z" fill="hsl(46.6 33.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(54.6 43.6% 6%)"/><path d="M98.4 121.2l-8.3 52.2M595.9 611.6l-5.3 32.9M94.4 393.9l-6.3 39.3M315.1 583.2l-13.8 86.5M13.8 390.1l-9.8 61.4M551.8 591.5l-8.4 52.4M395.1 398.8l-6.9 43.2M413.8 517l-9 56.1M572.2 264.2l-13 81.6M104.3 556.7l-7.3 45.6M278.1 38.8l-8.1 50.9M32.9 379.6l-8.3 51.7M525.8 511l-11.9 74.4M538.8 391.3l-4.6 28.7M345.4 705.7l-11.6 72.8M555.6 52.4l-9.1 56.7M556.4 524.5l-13.8 86.4M272.8 621l-13.3 83.1M104.3 127.8l-5.4 34M496.4 222.8l-11 69.1M110.2 233.9l-9.3 58.4M141.4 457.6l-9.6 59.9M422.4 512.2l-8.9 55.3M594.3 106.8l-12.2 76.5M132 696.4l-4.9 30.8M383.9 596.2l-10.9 67.8M387.2 62.1l-7.4 46.2M258.9 425.4l-7.5 46.7M368 250.5l-12.7 79.3M311.1 312.9l-7.4 46.3M278.3 99.6l-10.8 67.3M585 209.5l-11.6 72.2M296.9 361.5l-12 75.2M110.9 558.3l-8.2 51.2M314.7 35.6l-12.1 75.5M192.5 443.3l-13.2 82.6M326.9 452.3l-8.1 50.6M292.4 194l-10.2 63.9M290.7 479.1l-8.6 53.5M159.5 258.7l-9.4 58.8M117.8 266.8l-6.4 40.3M466.9 768.9l-10.2 63.5M403.4 449.9l-6.8 42.8M357.6 193.8l-6.8 42.3M471.9 32.3l-12.2 76.1M144.9 131.9l-10.5 65.7" fill="none" stroke="hsl(178.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="374" cy="837" rx="132" ry="27" fill="hsl(178.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(178.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SILENT HALO</text>
+<path d="M44 709.4h72" stroke="hsl(178.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1996  ·  94 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(178.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

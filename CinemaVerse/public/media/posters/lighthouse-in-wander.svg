@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Lighthouse in Wander poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(32.9 46.2% 6%)"/><stop offset="0.5" stop-color="hsl(48.9 52.8% 13%)"/><stop offset="1" stop-color="hsl(355.9 59.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(355.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(355.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 506L69.4 506L79.6 549.3L120.9 549.3L131.2 545.9L162.3 545.9L170.3 458.4L220.8 458.4L224 380.4L267.7 380.4L276 386.5L370.4 386.5L377.5 538.9L434 538.9L443.9 375.8L498.2 375.8L506.5 489.3L575.8 489.3L585.8 521.2L634.7 521.2L610 1248Z" fill="hsl(188.5 46.2% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(196.5 59.4% 6%)"/><path d="M13.1 178.2l-13.5 84.2M575.8 392.2l-10.4 65.1M379.3 461.1l-7.3 45.4M303.7 797.2l-10.1 63M412.4 611.4l-12.8 80M464.8 149.4l-8.5 53.1M168.8 88.9l-4.8 29.8M173 460l-6.6 41M315.4 531.2l-7.5 46.6M517.4 527.3l-10.1 63.4M333.6 454l-10.1 62.8M72.1 394.4l-7.2 44.9M563.8 729.1l-9.7 60.7M188.9 619.9l-11.4 71.5M489.1 220.5l-10.5 65.9M440.8 621.9l-9 56.4M43.1 321.4l-13.3 83M525.7 555.1l-12.3 76.7M301.9 451.7l-8 49.8M391.9 360.5l-4.7 29.3M529.4 311l-8.1 50.8M410.2 346.1l-5.5 34.2M291 667.1l-7.5 46.6M214.9 67l-12.5 77.9M271.3 478.2l-5.1 31.7M82.3 2l-9.5 59.3M73.8 488.8l-12.8 79.7M119.5 436.1l-8.4 52.6M593.5 739.1l-9 56M481.8 596.2l-9.3 58.1M264.8 429.2l-9.3 58.1M445.1 560.7l-6 37.5M75.8 5.1l-12.2 76.5M390.7 749.1l-4.4 27.8M383.2 675l-7.6 47.8M287.8 751.4l-9.6 60.3M530.6 686.8l-6.5 40.8M344.3 394.9l-4.9 30.6M343.9 421l-12 74.9M46.2 805.4l-8.5 53.2M117.4 19.8l-12.6 78.5M594.4 287.9l-5 31M362.4 733.3l-9.8 61M449.7 174.2l-10.6 66M426.1 448.6l-4.6 28.7M186.6 31.7l-10.7 66.7" fill="none" stroke="hsl(355.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="205" cy="837" rx="132" ry="27" fill="hsl(355.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(355.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">LIGHTHOUSE IN WANDER</text>
+<path d="M44 709.4h72" stroke="hsl(355.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2017  ·  162 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(355.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

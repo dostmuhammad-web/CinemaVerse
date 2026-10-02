@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Nocturne in Quiver backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(207.8 48.3% 6%)"/><stop offset="0.5" stop-color="hsl(223.8 55.3% 13%)"/><stop offset="1" stop-color="hsl(170.7 62.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(170.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(170.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1092.2" cy="410.1" r="691" fill="url(#glow)"/>
+<circle cx="1092.2" cy="410.1" r="138.2" fill="hsl(170.7 96% 78%)" opacity=".85"/>
+<path d="M576.7 0L738.7 0L126.7 900L-188.3 900Z" fill="hsl(170.7 96% 78%)" opacity=".04"/><path d="M393 0L555 0L-57 900L-372 900Z" fill="hsl(170.7 96% 78%)" opacity=".04"/><path d="M365.6 0L527.6 0L-84.4 900L-399.4 900Z" fill="hsl(170.7 96% 78%)" opacity=".04"/><path d="M311.2 0L473.2 0L-138.8 900L-453.8 900Z" fill="hsl(170.7 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(38.5 55.3% 10%)"/><path d="M553.5 191.1L1252.3 191.1L1392 900L497.6 900Z" fill="hsl(170.7 96% 78%)" opacity="0.1"/><path d="M553.5 191.1L1252.3 191.1L1468.9 900L466.9 900Z" fill="hsl(170.7 96% 78%)" opacity="0"/><path d="M553.5 191.1L1252.3 191.1L1545.8 900L436.1 900Z" fill="hsl(170.7 96% 78%)" opacity="0"/><rect x="553.5" y="144" width="698.8" height="471.2" fill="hsl(207.8 48.3% 6%)"/><rect x="553.5" y="144" width="698.8" height="471.2" fill="hsl(170.7 100% 62% / 0.4)" opacity=".5"/><path d="M553.5 144h698.8v471.2h-698.8Z" fill="none" stroke="hsl(52.5 69.1% 3%)" stroke-width="7"/><path d="M553.5 379.6h698.8M902.9 144v471.2" stroke="hsl(52.5 69.1% 3%)" stroke-width="4"/><path d="M572 864q-16.3 -90.5 16.3 -112.2q18.1 21.7 10.9 54.3q-3.6 36.2 3.6 57.9Z" fill="hsl(52.5 69.1% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

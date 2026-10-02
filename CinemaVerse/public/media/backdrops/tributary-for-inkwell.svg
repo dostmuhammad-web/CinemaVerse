@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Tributary for Inkwell backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(221.1 38.7% 6%)"/><stop offset="0.5" stop-color="hsl(237.1 44.2% 13%)"/><stop offset="1" stop-color="hsl(186.2 49.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(186.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(186.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="646.2" cy="311.5" r="509" fill="url(#glow)"/>
+<circle cx="646.2" cy="311.5" r="101.8" fill="hsl(186.2 96% 78%)" opacity=".85"/>
+<path d="M1440.5 0L1602.5 0L990.5 900L675.5 900Z" fill="hsl(186.2 96% 78%)" opacity=".04"/><path d="M495.7 0L657.7 0L45.7 900L-269.3 900Z" fill="hsl(186.2 96% 78%)" opacity=".04"/><path d="M472.3 0L634.3 0L22.3 900L-292.7 900Z" fill="hsl(186.2 96% 78%)" opacity=".04"/><path d="M482.4 0L644.4 0L32.4 900L-282.6 900Z" fill="hsl(186.2 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(49.5 44.2% 10%)"/><path d="M630.8 182.7L1296.8 182.7L1430 900L577.5 900Z" fill="hsl(186.2 96% 78%)" opacity="0.1"/><path d="M630.8 182.7L1296.8 182.7L1503.3 900L548.2 900Z" fill="hsl(186.2 96% 78%)" opacity="0"/><path d="M630.8 182.7L1296.8 182.7L1576.6 900L518.9 900Z" fill="hsl(186.2 96% 78%)" opacity="0"/><rect x="630.8" y="144" width="666" height="387.4" fill="hsl(221.1 38.7% 6%)"/><rect x="630.8" y="144" width="666" height="387.4" fill="hsl(186.2 100% 62% / 0.4)" opacity=".5"/><path d="M630.8 144h666v387.4h-666Z" fill="none" stroke="hsl(63.5 55.3% 3%)" stroke-width="7"/><path d="M630.8 337.7h666M963.8 144v387.4" stroke="hsl(63.5 55.3% 3%)" stroke-width="4"/><path d="M1028.3 864q-17.2 -95.8 17.2 -118.7q19.2 23 11.5 57.5q-3.8 38.3 3.8 61.3Z" fill="hsl(63.5 55.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

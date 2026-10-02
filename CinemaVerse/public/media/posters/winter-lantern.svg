@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Winter Lantern poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(36.1 44% 6%)"/><stop offset="0.5" stop-color="hsl(52.1 50.2% 13%)"/><stop offset="1" stop-color="hsl(15.1 56.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(15.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(15.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(176.3 50.2% 10%)"/><path d="M6.5 0L73.2 0L54.5 738L25.2 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.6"/><path d="M68.4 0L135.1 0L116.4 738L87.1 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.3"/><path d="M138.5 0L205.2 0L186.5 738L157.2 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.5"/><path d="M207.4 0L274.1 0L255.4 738L226.1 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.5"/><path d="M267.5 0L334.2 0L315.5 738L286.2 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.3"/><path d="M337 0L403.7 0L385 738L355.7 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.6"/><path d="M405.5 0L472.2 0L453.5 738L424.2 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.6"/><path d="M468.5 0L535.2 0L516.5 738L487.2 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.6"/><path d="M535 0L601.7 0L583 738L553.7 738Z" fill="hsl(184.3 56.5% 6%)" opacity="0.4"/><path d="M217.5 0L397.5 774L37.5 774Z" fill="hsl(15.1 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(15.1 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(190.3 62.8% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(15.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">WINTER LANTERN</text>
+<path d="M44 709.4h72" stroke="hsl(15.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2003  ·  115 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(15.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

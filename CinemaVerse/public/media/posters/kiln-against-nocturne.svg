@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Kiln against Nocturne poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(49.3 53.2% 24%)"/><stop offset="0.5" stop-color="hsl(69.3 47.9% 42%)"/><stop offset="1" stop-color="hsl(31 53.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(31 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(31 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="258.6" cy="351.8" r="253.7" fill="url(#glow)"/><circle cx="258.6" cy="351.8" r="60.4" fill="hsl(31 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 441.6 85.7 457.8Q128.6 408.9 171.4 425.1Q214.3 333.9 257.1 350.1Q300 333.9 342.9 396.3Q385.8 375.5 428.6 391.7Q471.5 375.5 514.3 463.7Q557.2 447.5 600 558L610 1158Z" fill="hsl(192.2 37.2% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 576.7 66.7 595.1Q100 485.1 133.3 503.5Q166.7 413.5 200 431.9Q233.4 413.5 266.7 477Q300 388.1 333.3 406.5Q366.7 388.1 400 435.5Q433.4 417.1 466.7 513.9Q500 495.5 533.3 557.2Q566.7 538.8 600 666L610 1266Z" fill="hsl(192.2 42.6% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 740.3 54.5 754.3Q81.8 696.8 109.1 710.8Q136.4 696.8 163.6 715Q190.9 561.2 218.2 575.2Q245.5 544.7 272.7 558.7Q300 544.7 327.3 582.1Q354.6 568.1 381.8 626Q409.1 612 436.4 668Q463.7 654 490.9 699.2Q518.2 685.2 545.5 766.5Q572.8 752.5 600 792L610 1392Z" fill="hsl(200.2 47.9% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(31 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KILN AGAINST NOCTURNE</text>
+<path d="M44 709.4h72" stroke="hsl(31 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1997  ·  150 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(31 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

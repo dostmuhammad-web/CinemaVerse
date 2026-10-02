@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Marrow &amp; Inlet poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(266.7 35.7% 6%)"/><stop offset="0.5" stop-color="hsl(282.7 40.8% 13%)"/><stop offset="1" stop-color="hsl(238.9 45.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(238.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(238.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M0.8 828L-128.6 828L0.8 273.3L130.2 828ZM46.9 828L-25.8 828L46.9 480.8L119.6 828ZM73.1 828L-34.3 828L73.1 318.3L180.5 828ZM114.5 828L-7.6 828L114.5 183.9L236.6 828ZM149.1 828L63.3 828L149.1 449.1L234.9 828ZM196 828L125.7 828L196 464.4L266.3 828ZM234.6 828L157 828L234.6 474.6L312.2 828ZM258.9 828L144.8 828L258.9 290.4L373 828ZM310 828L165.8 828L310 211.6L454.2 828ZM339.7 828L236.5 828L339.7 232.2L442.9 828ZM384.7 828L319.4 828L384.7 509L450 828ZM420 828L301 828L420 246.7L539 828ZM447.6 828L325.9 828L447.6 334.9L569.3 828ZM485.3 828L402.6 828L485.3 340L568 828ZM512.3 828L399.7 828L512.3 345.5L624.9 828ZM563.9 828L488.1 828L563.9 522.5L639.7 828Z" fill="hsl(63.7 40.8% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(77.7 51% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(238.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MARROW &amp; INLET</text>
+<path d="M44 709.4h72" stroke="hsl(238.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1983  ·  123 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(238.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

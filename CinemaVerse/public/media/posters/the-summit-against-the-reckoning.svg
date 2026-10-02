@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Summit against the Reckoning poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(27 46.7% 6%)"/><stop offset="0.5" stop-color="hsl(43 53.3% 13%)"/><stop offset="1" stop-color="hsl(3.2 60% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(3.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(3.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1194L-10 594L0 594Q60 553.9 120 560.4Q180 519.1 240 525.6Q300 488.6 360 495.1Q420 488.6 480 546.4Q540 539.9 600 594L610 1194Z" fill="hsl(201.5 46.7% 15%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q75 651.9 150 657.3Q225 638.5 300 643.9Q375 638.5 450 685.7Q525 680.3 600 720L610 1320Z" fill="hsl(201.5 53.3% 10%)"/><path d="M-10 1455L-10 855L0 855Q75 813.2 150 817.5Q225 787.5 300 791.8Q375 787.5 450 813.2Q525 808.9 600 855L610 1455Z" fill="hsl(209.5 60% 6%)"/><path d="M-10 1545L-10 945L0 945Q100 917.8 200 920.5Q300 906.9 400 909.6Q500 906.9 600 945L610 1545Z" fill="hsl(215.5 66.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(3.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE SUMMIT AGAINST THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RECKONING</text>
+<path d="M44 726.8h72" stroke="hsl(3.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2023  ·  110 MIN  ·  WESTERN</text>
+<text x="556" y="750.8" fill="hsl(3.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

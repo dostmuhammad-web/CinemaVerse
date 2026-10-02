@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bearing Requiem poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(309.7 71.6% 24%)"/><stop offset="0.5" stop-color="hsl(329.7 64.4% 62%)"/><stop offset="1" stop-color="hsl(270 71.6% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(270 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(270 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="364.1" cy="285.4" r="325.1" fill="url(#glow)"/><circle cx="364.1" cy="285.4" r="77.4" fill="hsl(270 96% 88%)" opacity=".92"/>
+<circle cx="136.3" cy="409.3" r="98.3" fill="hsl(270 96% 88%)" opacity="0.2"/><circle cx="203.8" cy="316.4" r="60.2" fill="hsl(270 92% 52%)" opacity="0.2"/><circle cx="508.3" cy="118.1" r="150.2" fill="hsl(270 96% 88%)" opacity="0.3"/><circle cx="101.6" cy="342.1" r="106.2" fill="hsl(270 92% 52%)" opacity="0.2"/><circle cx="421.5" cy="309" r="138.7" fill="hsl(270 96% 88%)" opacity="0.3"/><circle cx="302.2" cy="444.1" r="113.4" fill="hsl(270 92% 52%)" opacity="0.2"/><circle cx="49.5" cy="572.3" r="184" fill="hsl(270 96% 88%)" opacity="0.3"/><circle cx="12.4" cy="502.6" r="143.4" fill="hsl(270 92% 52%)" opacity="0.3"/><circle cx="130" cy="208.5" r="88.1" fill="hsl(270 96% 88%)" opacity="0.3"/><path d="M-10 1428L-10 828L0 828Q37.5 797.2 75 805.8Q112.5 758.6 150 767.2Q187.5 688 225 696.6Q262.5 688 300 725.2Q337.5 705.6 375 714.2Q412.5 705.6 450 737.2Q487.5 728.6 525 795.6Q562.5 787 600 828L610 1428Z" fill="hsl(137 64.4% 10%)" opacity=".9"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(270 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BEARING REQUIEM</text>
+<path d="M44 709.4h72" stroke="hsl(270 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2024  ·  98 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(270 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

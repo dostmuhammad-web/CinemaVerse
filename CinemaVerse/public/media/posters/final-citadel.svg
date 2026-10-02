@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Final Citadel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(16.1 55.4% 24%)"/><stop offset="0.5" stop-color="hsl(36.1 49.9% 42%)"/><stop offset="1" stop-color="hsl(347.9 55.4% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(347.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(347.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="381.2" cy="278.1" r="260.8" fill="url(#glow)"/><circle cx="381.2" cy="278.1" r="62.1" fill="hsl(347.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1158L-10 558L0 558Q42.9 473.2 85.7 489.4Q128.6 357.8 171.4 374Q214.3 357.8 257.1 387.2Q300 296.3 342.9 312.5Q385.8 296.3 428.6 368.9Q471.5 352.7 514.3 469.8Q557.2 453.6 600 558L610 1158Z" fill="hsl(175.5 38.8% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 541.1 66.7 559.5Q100 470.5 133.3 488.9Q166.7 398.7 200 417.1Q233.4 387.7 266.7 406.1Q300 387.7 333.3 473.1Q366.7 454.7 400 493.6Q433.4 475.2 466.7 512.3Q500 493.9 533.3 620.4Q566.7 602 600 666L610 1266Z" fill="hsl(175.5 44.3% 18%)"/><path d="M-10 1392L-10 792L0 792Q27.3 760.7 54.5 774.7Q81.8 690.8 109.1 704.8Q136.4 654.7 163.6 668.7Q190.9 650.8 218.2 664.8Q245.5 650.8 272.7 683.4Q300 624.7 327.3 638.7Q354.6 585.4 381.8 599.4Q409.1 585.4 436.4 640.5Q463.7 626.5 490.9 698.4Q518.2 684.4 545.5 741Q572.8 727 600 792L610 1392Z" fill="hsl(183.5 49.9% 10%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(347.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FINAL CITADEL</text>
+<path d="M44 709.4h72" stroke="hsl(347.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2007  ·  136 MIN  ·  BIOGRAPHY</text>
+<text x="556" y="733.4" fill="hsl(347.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Summit against the Reckoning backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(27 46.7% 6%)"/><stop offset="0.5" stop-color="hsl(43 53.3% 13%)"/><stop offset="1" stop-color="hsl(3.2 60% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(3.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(3.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="615.7" cy="477.9" r="453.5" fill="url(#glow)"/>
+<circle cx="615.7" cy="477.9" r="90.7" fill="hsl(3.2 96% 78%)" opacity=".85"/>
+<path d="M889.7 0L1051.7 0L439.7 900L124.7 900Z" fill="hsl(3.2 96% 78%)" opacity=".04"/><path d="M1097.2 0L1259.2 0L647.2 900L332.2 900Z" fill="hsl(3.2 96% 78%)" opacity=".04"/><path d="M1380.7 0L1542.7 0L930.7 900L615.7 900Z" fill="hsl(3.2 96% 78%)" opacity=".04"/><path d="M708.8 0L870.8 0L258.8 900L-56.2 900Z" fill="hsl(3.2 96% 78%)" opacity=".04"/><path d="M-10 1194L-10 594L0 594Q160 547.8 320 554.3Q480 498.4 640 504.9Q800 498.4 960 527.4Q1120 520.9 1280 549.9Q1440 543.4 1600 594L1610 1194Z" fill="hsl(201.5 46.7% 15%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q200 680.3 400 685.7Q600 627.1 800 632.5Q1000 627.1 1200 674.2Q1400 668.8 1600 720L1610 1320Z" fill="hsl(201.5 53.3% 10%)"/><path d="M-10 1455L-10 855L0 855Q200 816 400 820.3Q600 784.9 800 789.2Q1000 784.9 1200 816.6Q1400 812.3 1600 855L1610 1455Z" fill="hsl(209.5 60% 6%)"/><path d="M-10 1545L-10 945L0 945Q266.7 913.3 533.3 916Q800 908.9 1066.7 911.6Q1333.4 908.9 1600 945L1610 1545Z" fill="hsl(215.5 66.6% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

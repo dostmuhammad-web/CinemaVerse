@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Cobalt Nocturne backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(48.7 43.5% 6%)"/><stop offset="0.5" stop-color="hsl(64.7 49.7% 13%)"/><stop offset="1" stop-color="hsl(10.5 55.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(10.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(10.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="424.7" cy="407.4" r="404" fill="url(#glow)"/>
+<circle cx="424.7" cy="407.4" r="80.8" fill="hsl(10.5 96% 88%)" opacity=".85"/>
+<path d="M176.3 0L338.3 0L-273.7 900L-588.7 900Z" fill="hsl(10.5 96% 88%)" opacity=".04"/><path d="M26.3 0L188.3 0L-423.7 900L-738.7 900Z" fill="hsl(10.5 96% 88%)" opacity=".04"/><path d="M347.1 0L509.1 0L-102.9 900L-417.9 900Z" fill="hsl(10.5 96% 88%)" opacity=".04"/><path d="M683.8 0L845.8 0L233.8 900L-81.2 900Z" fill="hsl(10.5 96% 88%)" opacity=".04"/><circle cx="693.7" cy="432.1" r="78.8" fill="hsl(10.5 96% 88%)" opacity="0.3"/><circle cx="220.2" cy="503.3" r="75" fill="hsl(10.5 92% 62%)" opacity="0.2"/><circle cx="1421.3" cy="397.8" r="124.5" fill="hsl(10.5 96% 88%)" opacity="0.1"/><circle cx="637.9" cy="639.3" r="178.3" fill="hsl(10.5 92% 62%)" opacity="0.2"/><circle cx="1027.8" cy="653" r="97.6" fill="hsl(10.5 96% 88%)" opacity="0.3"/><circle cx="651.3" cy="565.2" r="150.1" fill="hsl(10.5 92% 62%)" opacity="0.1"/><circle cx="1596.9" cy="419.1" r="159.2" fill="hsl(10.5 96% 88%)" opacity="0.3"/><circle cx="672.3" cy="626.5" r="52.9" fill="hsl(10.5 92% 62%)" opacity="0.3"/><circle cx="496" cy="559.1" r="53.6" fill="hsl(10.5 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 785.5 200 794.1Q300 742.1 400 750.7Q500 690.7 600 699.3Q700 682.2 800 690.8Q900 682.2 1000 741.7Q1100 717.6 1200 726.2Q1300 717.6 1400 784.8Q1500 776.2 1600 828L1610 1428Z" fill="hsl(244.3 55.9% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Parliament of the Wander backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(225.7 45.1% 6%)"/><stop offset="0.5" stop-color="hsl(241.7 51.5% 13%)"/><stop offset="1" stop-color="hsl(197 57.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(197 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(197 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="737.5" cy="410.6" r="409.5" fill="url(#glow)"/>
+<circle cx="737.5" cy="410.6" r="81.9" fill="hsl(197 96% 78%)" opacity=".85"/>
+<path d="M961.5 0L1123.5 0L511.5 900L196.5 900Z" fill="hsl(197 96% 78%)" opacity=".04"/><path d="M444.7 0L606.7 0L-5.3 900L-320.3 900Z" fill="hsl(197 96% 78%)" opacity=".04"/><path d="M1387.1 0L1549.1 0L937.1 900L622.1 900Z" fill="hsl(197 96% 78%)" opacity=".04"/><path d="M1372.6 0L1534.6 0L922.6 900L607.6 900Z" fill="hsl(197 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(55.9 51.5% 10%)"/><path d="M619.5 180.8L1129.1 180.8L1231 900L578.7 900Z" fill="hsl(197 96% 78%)" opacity="0.1"/><path d="M619.5 180.8L1129.1 180.8L1287.1 900L556.3 900Z" fill="hsl(197 96% 78%)" opacity="0"/><path d="M619.5 180.8L1129.1 180.8L1343.1 900L533.9 900Z" fill="hsl(197 96% 78%)" opacity="0"/><rect x="619.5" y="144" width="509.6" height="368" fill="hsl(225.7 45.1% 6%)"/><rect x="619.5" y="144" width="509.6" height="368" fill="hsl(197 100% 62% / 0.4)" opacity=".5"/><path d="M619.5 144h509.6v368h-509.6Z" fill="none" stroke="hsl(69.9 64.4% 3%)" stroke-width="7"/><path d="M619.5 328h509.6M874.3 144v368" stroke="hsl(69.9 64.4% 3%)" stroke-width="4"/><path d="M963.1 864q-19.2 -106.9 19.2 -132.6q21.4 25.7 12.8 64.2q-4.3 42.8 4.3 68.4Z" fill="hsl(69.9 64.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

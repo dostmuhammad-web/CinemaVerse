@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Threshold beneath the Ember poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(226.9 29.3% 6%)"/><stop offset="0.5" stop-color="hsl(242.9 33.5% 13%)"/><stop offset="1" stop-color="hsl(205 37.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(205 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(205 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="920" fill="hsl(60.5 33.5% 10%)"/><path d="M155 184.1L374.7 184.1L418.7 900L137.4 900Z" fill="hsl(205 96% 78%)" opacity="0.1"/><path d="M155 184.1L374.7 184.1L442.8 900L127.8 900Z" fill="hsl(205 96% 78%)" opacity="0"/><path d="M155 184.1L374.7 184.1L467 900L118.1 900Z" fill="hsl(205 96% 78%)" opacity="0"/><rect x="155" y="144" width="219.7" height="400.6" fill="hsl(226.9 29.3% 6%)"/><rect x="155" y="144" width="219.7" height="400.6" fill="hsl(205 100% 62% / 0.4)" opacity=".5"/><path d="M155 144h219.7v400.6h-219.7Z" fill="none" stroke="hsl(74.5 41.9% 3%)" stroke-width="7"/><path d="M155 344.3h219.7M264.9 144v400.6" stroke="hsl(74.5 41.9% 3%)" stroke-width="4"/><path d="M443.4 864q-19.9 -110.7 19.9 -137.3q22.1 26.6 13.3 66.4q-4.4 44.3 4.4 70.9Z" fill="hsl(74.5 41.9% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(205 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE THRESHOLD BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">EMBER</text>
+<path d="M44 726.8h72" stroke="hsl(205 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1972  ·  114 MIN  ·  DRAMA</text>
+<text x="556" y="750.8" fill="hsl(205 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

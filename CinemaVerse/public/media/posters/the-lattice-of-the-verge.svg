@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Lattice of the Verge poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(285.5 61.2% 24%)"/><stop offset="0.5" stop-color="hsl(305.5 55% 42%)"/><stop offset="1" stop-color="hsl(255.9 61.2% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(255.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(255.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="218.9" cy="309.3" r="433.9" fill="url(#glow)"/><circle cx="218.9" cy="309.3" r="103.3" fill="hsl(255.9 96% 78%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(86.9 48.9% 18%)"/><path d="M0.2 0L66.9 0L48.2 738L18.9 738Z" fill="hsl(94.9 55% 10%)" opacity="0.5"/><path d="M73 0L139.7 0L121 738L91.7 738Z" fill="hsl(94.9 55% 10%)" opacity="0.3"/><path d="M136.8 0L203.5 0L184.8 738L155.5 738Z" fill="hsl(94.9 55% 10%)" opacity="0.5"/><path d="M204.3 0L271 0L252.3 738L223 738Z" fill="hsl(94.9 55% 10%)" opacity="0.5"/><path d="M272.3 0L339 0L320.3 738L291 738Z" fill="hsl(94.9 55% 10%)" opacity="0.5"/><path d="M339.9 0L406.6 0L387.9 738L358.6 738Z" fill="hsl(94.9 55% 10%)" opacity="0.7"/><path d="M402.4 0L469.1 0L450.4 738L421.1 738Z" fill="hsl(94.9 55% 10%)" opacity="0.3"/><path d="M471.2 0L537.9 0L519.2 738L489.9 738Z" fill="hsl(94.9 55% 10%)" opacity="0.4"/><path d="M540.6 0L607.3 0L588.6 738L559.3 738Z" fill="hsl(94.9 55% 10%)" opacity="0.3"/><path d="M355.9 0L535.9 774L175.9 774Z" fill="hsl(255.9 96% 78%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(255.9 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(100.9 61.2% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(255.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LATTICE OF THE VERGE</text>
+<path d="M44 709.4h72" stroke="hsl(255.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2021  ·  135 MIN  ·  MUSIC</text>
+<text x="556" y="733.4" fill="hsl(255.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

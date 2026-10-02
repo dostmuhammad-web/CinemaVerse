@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Frequency at Alibi poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(211.7 38.9% 6%)"/><stop offset="0.5" stop-color="hsl(227.7 44.4% 13%)"/><stop offset="1" stop-color="hsl(174.6 50% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(174.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(174.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 367.4L76 367.4L83.2 344.5L114.3 344.5L117.6 434.9L155.3 434.9L165.7 470.3L236.7 470.3L249.7 525.9L338.1 525.9L349.4 342.8L436.7 342.8L446.7 514L486.1 514L495.9 347.1L549.9 347.1L555 405.5L588.2 405.5L599.9 468.3L650.1 468.3L610 1248Z" fill="hsl(42.1 38.9% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(50.1 50% 6%)"/><path d="M390.2 59.9l-4.4 27.4M357.3 728.7l-8.6 53.7M399.2 632.8l-12.7 79.5M88.1 26.4l-8.5 53.3M107.8 747.7l-13.6 85.1M155.1 251.9l-4.4 27.7M2.4 667.6l-8.6 53.6M149.9 26.7l-14.4 89.9M11.9 619.7l-8.9 55.6M155.2 377.7l-5.5 34.2M419.8 174.4l-13.3 82.9M128.4 237.2l-7.3 45.6M336.1 702.9l-6.4 39.9M587.5 220l-14.4 89.7M486.9 21.2l-6.4 40.1M209.9 474.5l-12.3 76.7M246.3 444.2l-8.6 53.7M97.2 139.9l-11 68.6M299.2 261.8l-7.4 46.3M38.8 740l-8.9 55.6M531.7 125.9l-5.9 36.6M491.9 484.6l-4.5 28.2M22.3 301.3l-13.8 86M176.6 226.1l-13.3 83M428.6 253.2l-5.2 32.8M25.4 398.8l-11.9 74.6M110.9 79.2l-9.6 59.9M276.3 25.8l-7.1 44.5M498.7 459l-14.2 88.7M65.9 246.1l-10.1 63.4M426.3 363.4l-11 68.8M15.5 763.8l-12.1 75.5M308.6 490.6l-10.4 64.7M421 198.5l-10.8 67.7M417 436.5l-12.4 77.5M309.1 664.5l-6.2 39M507.4 785.9l-12.8 80.2M210.8 576l-7.7 48M377.1 205.3l-8 50M263.1 805.9l-8 50.1M177.1 195.5l-12.9 80.4M342.7 589.5l-6.2 38.7M143.6 3.5l-11.7 73.4M161.6 795.8l-12.4 77.3M236.6 211.6l-5.3 33M447.1 381.9l-12.5 78" fill="none" stroke="hsl(174.6 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="305.9" cy="837" rx="132" ry="27" fill="hsl(174.6 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(174.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">FREQUENCY AT ALIBI</text>
+<path d="M44 709.4h72" stroke="hsl(174.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1998  ·  92 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(174.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

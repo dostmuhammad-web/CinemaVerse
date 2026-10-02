@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Kingdom at Estuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(56.4 29.2% 6%)"/><stop offset="0.5" stop-color="hsl(72.4 33.4% 13%)"/><stop offset="1" stop-color="hsl(43.7 37.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(43.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(43.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(257.5 33.4% 10%)"/><path d="M7.4 0L74.1 0L55.4 738L26.1 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.4"/><path d="M69.2 0L135.9 0L117.2 738L87.9 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.3"/><path d="M134.9 0L201.6 0L182.9 738L153.6 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.6"/><path d="M205.5 0L272.2 0L253.5 738L224.2 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.3"/><path d="M269.6 0L336.3 0L317.6 738L288.3 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.3"/><path d="M338.6 0L405.3 0L386.6 738L357.3 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.6"/><path d="M402.9 0L469.6 0L450.9 738L421.6 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.6"/><path d="M468.5 0L535.2 0L516.5 738L487.2 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.7"/><path d="M535 0L601.7 0L583 738L553.7 738Z" fill="hsl(265.5 37.5% 6%)" opacity="0.5"/><path d="M289.7 0L469.7 774L109.7 774Z" fill="hsl(43.7 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(43.7 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(271.5 41.7% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(43.7 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">KINGDOM AT ESTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(43.7 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1967  ·  127 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(43.7 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

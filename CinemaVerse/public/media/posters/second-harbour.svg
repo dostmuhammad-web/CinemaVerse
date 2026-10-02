@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Second Harbour poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(254 46.5% 6%)"/><stop offset="0.5" stop-color="hsl(270 53.2% 13%)"/><stop offset="1" stop-color="hsl(213.1 59.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(213.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(213.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-5 828L-54.8 828L-5 530.1L44.8 828ZM37.7 828L-56.1 828L37.7 383L131.5 828ZM69.9 828L-14.8 828L69.9 457.1L154.6 828ZM101 828L-36.6 828L101 201.3L238.6 828ZM137.2 828L37.4 828L137.2 393.4L237 828ZM176 828L99.2 828L176 459.2L252.8 828ZM212.3 828L95.9 828L212.3 262.3L328.7 828ZM257 828L119.3 828L257 296.4L394.7 828ZM299.2 828L217.1 828L299.2 425.8L381.3 828ZM330.5 828L177.8 828L330.5 217.2L483.2 828ZM363.2 828L287.7 828L363.2 452.2L438.7 828ZM417.7 828L347.5 828L417.7 417.2L487.9 828ZM439.9 828L341.8 828L439.9 407.7L538 828ZM481.7 828L360.5 828L481.7 220.1L602.9 828ZM531.1 828L407.7 828L531.1 347.1L654.5 828ZM560.7 828L496.1 828L560.7 451.7L625.3 828Z" fill="hsl(98.6 53.2% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(112.6 66.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(213.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SECOND HARBOUR</text>
+<path d="M44 709.4h72" stroke="hsl(213.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2026  ·  118 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(213.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

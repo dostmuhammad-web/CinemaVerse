@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Latitude against the Summit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(360 31.8% 6%)"/><stop offset="0.5" stop-color="hsl(16 36.3% 13%)"/><stop offset="1" stop-color="hsl(327.6 40.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(327.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(327.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="810.9" cy="276.7" r="621" fill="url(#glow)"/>
+<circle cx="810.9" cy="276.7" r="124.2" fill="hsl(327.6 96% 78%)" opacity=".85"/>
+<path d="M1396.4 0L1558.4 0L946.4 900L631.4 900Z" fill="hsl(327.6 96% 78%)" opacity=".04"/><path d="M310.5 0L472.5 0L-139.5 900L-454.5 900Z" fill="hsl(327.6 96% 78%)" opacity=".04"/><path d="M762.4 0L924.4 0L312.4 900L-2.6 900Z" fill="hsl(327.6 96% 78%)" opacity=".04"/><path d="M191.7 0L353.7 0L-258.3 900L-573.3 900Z" fill="hsl(327.6 96% 78%)" opacity=".04"/><path d="M31.2 828L-48.1 828L31.2 466.2L110.5 828ZM110.1 828L32.6 828L110.1 396.1L187.6 828ZM201.2 828L78.5 828L201.2 261.7L323.9 828ZM313.2 828L174.3 828L313.2 277L452.1 828ZM388.2 828L312.7 828L388.2 524.1L463.7 828ZM509 828L371 828L509 271.7L647 828ZM590.2 828L481.6 828L590.2 318.6L698.8 828ZM681.9 828L605.7 828L681.9 523.4L758.1 828ZM774.8 828L711 828L774.8 546.1L838.6 828ZM890.5 828L754.6 828L890.5 252.2L1026.4 828ZM1001.4 828L905.7 828L1001.4 420.6L1097.1 828ZM1078.4 828L958.2 828L1078.4 356.8L1198.6 828ZM1224.3 828L1113.2 828L1224.3 266.1L1335.4 828ZM1268.7 828L1166 828L1268.7 316.4L1371.4 828ZM1379.2 828L1285.2 828L1379.2 254.6L1473.2 828ZM1523.4 828L1390.6 828L1523.4 246.3L1656.2 828Z" fill="hsl(185.1 36.3% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(199.1 45.4% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Cascade: Last Light poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(4.8 32.9% 6%)"/><stop offset="0.5" stop-color="hsl(20.8 37.6% 13%)"/><stop offset="1" stop-color="hsl(342.4 42.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(342.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(342.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 477.5 85.7 493.7Q128.6 326.2 171.4 342.4Q214.3 264.8 257.1 281Q300 264.8 342.9 421.1Q385.8 375.8 428.6 392Q471.5 375.8 514.3 473.3Q557.2 457.1 600 558L610 1158Z" fill="hsl(160.1 32.9% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 538.5 66.7 556.9Q100 524.5 133.3 542.9Q166.7 389.6 200 408Q233.4 383.1 266.7 401.5Q300 348.7 333.3 367.1Q366.7 348.7 400 435Q433.4 416.6 466.7 483.5Q500 465.1 533.3 592.4Q566.7 574 600 666L610 1266Z" fill="hsl(160.1 37.6% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 725.7 54.5 739.7Q81.8 675 109.1 689Q136.4 594.2 163.6 608.2Q190.9 589.4 218.2 603.4Q245.5 589.4 272.7 627.9Q300 613.9 327.3 638.2Q354.6 624.2 381.8 708.7Q409.1 601.3 436.4 615.3Q463.7 601.3 490.9 683.2Q518.2 669.2 545.5 743.5Q572.8 729.5 600 792L610 1392Z" fill="hsl(168.1 42.3% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(342.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CASCADE: LAST LIGHT</text>
+<path d="M44 709.4h72" stroke="hsl(342.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1994  ·  118 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(342.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

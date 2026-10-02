@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Plinth with the Carousel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(260.2 34.6% 6%)"/><stop offset="0.5" stop-color="hsl(276.2 39.6% 13%)"/><stop offset="1" stop-color="hsl(220.8 44.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(220.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(220.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-8.9 828L-82.7 828L-8.9 507.6L64.9 828ZM45 828L-32.2 828L45 467.3L122.2 828ZM62.9 828L-43.7 828L62.9 369.2L169.5 828ZM102.6 828L17.9 828L102.6 336.6L187.3 828ZM158.6 828L40.9 828L158.6 300.7L276.3 828ZM183.7 828L95.9 828L183.7 349.1L271.5 828ZM211.4 828L93.5 828L211.4 300.7L329.3 828ZM263.9 828L169.6 828L263.9 263.3L358.2 828ZM300.8 828L212.1 828L300.8 465.3L389.5 828ZM331.3 828L268.9 828L331.3 440.4L393.7 828ZM378.6 828L294 828L378.6 407.4L463.2 828ZM401.6 828L246.8 828L401.6 217.7L556.4 828ZM437.2 828L365.3 828L437.2 501.2L509.1 828ZM499.3 828L427.9 828L499.3 510.3L570.7 828ZM529.8 828L436.5 828L529.8 315L623.1 828ZM570.5 828L482.9 828L570.5 292.8L658.1 828Z" fill="hsl(82.7 39.6% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(96.7 49.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(220.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE PLINTH WITH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CAROUSEL</text>
+<path d="M44 726.8h72" stroke="hsl(220.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1982  ·  106 MIN  ·  MYSTERY</text>
+<text x="556" y="750.8" fill="hsl(220.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

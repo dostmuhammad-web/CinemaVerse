@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Observatory &amp; Sable poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(185.8 33.4% 6%)"/><stop offset="0.5" stop-color="hsl(201.8 38.1% 13%)"/><stop offset="1" stop-color="hsl(149.1 42.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(149.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(149.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 445.6L87.2 445.6L93.1 492.2L182.3 492.2L189.4 420.6L222.5 420.6L231.4 363.8L314.8 363.8L327.5 458.2L362.3 458.2L365.5 509.8L407.5 509.8L414.1 452.3L468.5 452.3L479.7 361.3L558.1 361.3L561.3 478.1L589 478.1L599.2 515.7L688.8 515.7L610 1248Z" fill="hsl(359.3 33.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(7.3 42.9% 6%)"/><path d="M455.7 506.6l-12.5 77.9M216.4 257.2l-9.1 56.7M337.1 622l-11.9 74.1M200.5 791.2l-12.2 76.2M41.2 753.8l-5 31.5M248.8 446.9l-13.5 84.4M332.2 306.1l-4.8 30M529.9 664.7l-13.7 85.4M82.6 627.3l-13.4 83.9M377.2 721.9l-9.2 57.5M28.9 475.2l-11.6 72.3M191.6 633.3l-6.6 41.5M491.7 127l-5.5 34.3M184.2 574.9l-10.2 63.8M172.7 425.3l-4.7 29.3M276.2 675.3l-9.1 56.8M358.4 731.5l-12.5 78.4M304.5 746.7l-13.7 85.7M187.5 426.3l-5.1 32.1M443.2 261.9l-10.9 67.9M516.3 295.3l-6.8 42.3M494 98.4l-7.2 45.2M416.7 253.6l-13.6 85.1M184.3 650.8l-10.7 66.7M117.6 388l-13.3 83.2M84.3 6.7l-11.4 71.5M81.7 314.9l-9 56M538.7 346.6l-9.6 60M77.9 545.9l-4.8 29.8M435.8 409.4l-13.9 87.1M220.4 644.6l-9.3 58.2M116.1 781.7l-10.8 67.3M72.3 224l-6.8 42.6M119.8 437.8l-6.2 38.9M119.6 650.1l-13.2 82.6M292.4 206.4l-12.7 79.6M440.4 282.4l-10 62.4M34.9 597.8l-5.5 34.5M308.9 333.6l-10.7 66.6M413.1 598.1l-4.6 28.9M192.9 393.4l-11 68.6M568.5 251.2l-12.8 79.9M220.4 241.4l-6.2 39M234.4 249l-8.8 54.9M553.2 364.3l-10.4 65.3M236.9 27.5l-9.9 61.8" fill="none" stroke="hsl(149.1 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="320.9" cy="837" rx="132" ry="27" fill="hsl(149.1 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(149.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">OBSERVATORY &amp; SABLE</text>
+<path d="M44 709.4h72" stroke="hsl(149.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1986  ·  129 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(149.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

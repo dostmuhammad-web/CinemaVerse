@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Northern Summit backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(200.3 38.3% 6%)"/><stop offset="0.5" stop-color="hsl(216.3 43.8% 13%)"/><stop offset="1" stop-color="hsl(172.5 49.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(172.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(172.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="451.2" cy="434.1" r="481" fill="url(#glow)"/>
+<circle cx="451.2" cy="434.1" r="96.2" fill="hsl(172.5 96% 78%)" opacity=".85"/>
+<path d="M563.2 0L725.2 0L113.2 900L-201.8 900Z" fill="hsl(172.5 96% 78%)" opacity=".04"/><path d="M529.1 0L691.1 0L79.1 900L-235.9 900Z" fill="hsl(172.5 96% 78%)" opacity=".04"/><path d="M1202.5 0L1364.5 0L752.5 900L437.5 900Z" fill="hsl(172.5 96% 78%)" opacity=".04"/><path d="M321 0L483 0L-129 900L-444 900Z" fill="hsl(172.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(11 43.8% 10%)"/><path d="M579.6 189L1077.6 189L1177.2 900L539.8 900Z" fill="hsl(172.5 96% 78%)" opacity="0.1"/><path d="M579.6 189L1077.6 189L1232 900L517.8 900Z" fill="hsl(172.5 96% 78%)" opacity="0"/><path d="M579.6 189L1077.6 189L1286.8 900L495.9 900Z" fill="hsl(172.5 96% 78%)" opacity="0"/><rect x="579.6" y="144" width="498" height="450.5" fill="hsl(200.3 38.3% 6%)"/><rect x="579.6" y="144" width="498" height="450.5" fill="hsl(172.5 100% 62% / 0.4)" opacity=".5"/><path d="M579.6 144h498v450.5h-498Z" fill="none" stroke="hsl(25 54.8% 3%)" stroke-width="7"/><path d="M579.6 369.2h498M828.6 144v450.5" stroke="hsl(25 54.8% 3%)" stroke-width="4"/><path d="M805.3 864q-19.4 -107.8 19.4 -133.7q21.6 25.9 12.9 64.7q-4.3 43.1 4.3 69Z" fill="hsl(25 54.8% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

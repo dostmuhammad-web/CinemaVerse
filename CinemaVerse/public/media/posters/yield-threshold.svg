@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Yield &amp; Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(35.5 34.7% 6%)"/><stop offset="0.5" stop-color="hsl(51.5 39.6% 13%)"/><stop offset="1" stop-color="hsl(10.3 44.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(10.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(10.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(173.1 39.6% 10%)"/><path d="M7.4 0L74.1 0L55.4 738L26.1 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.5"/><path d="M76 0L142.7 0L124 738L94.7 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.7"/><path d="M134 0L200.7 0L182 738L152.7 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.5"/><path d="M208.6 0L275.3 0L256.6 738L227.3 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.3"/><path d="M266.9 0L333.6 0L314.9 738L285.6 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.4"/><path d="M336.6 0L403.3 0L384.6 738L355.3 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.6"/><path d="M408.8 0L475.5 0L456.8 738L427.5 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.7"/><path d="M474.3 0L541 0L522.3 738L493 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.6"/><path d="M538.5 0L605.2 0L586.5 738L557.2 738Z" fill="hsl(181.1 44.6% 6%)" opacity="0.4"/><path d="M332.1 0L512.1 774L152.1 774Z" fill="hsl(10.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(10.3 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(187.1 49.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(10.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">YIELD &amp; THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(10.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1988  ·  125 MIN  ·  COMEDY</text>
+<text x="556" y="733.4" fill="hsl(10.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Golden Inkwell poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(205 42.5% 6%)"/><stop offset="0.5" stop-color="hsl(221 48.6% 13%)"/><stop offset="1" stop-color="hsl(195.6 54.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(195.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(195.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 437.4L85 437.4L89 551.8L116.5 551.8L124.6 355.9L171 355.9L179.5 522.5L231.8 522.5L246.6 541.1L320.7 541.1L332.9 505.3L369.1 505.3L383.6 510L445.4 510L450.9 424.1L477.4 424.1L492.3 524.6L565.4 524.6L578.9 368.9L609 368.9L610 1248Z" fill="hsl(26.9 42.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(34.9 54.7% 6%)"/><path d="M290.5 560.2l-12.7 79.3M549.1 242.2l-5.7 35.6M286.3 581.9l-12.5 78.2M396.2 579.6l-5.7 35.6M430.3 677.5l-8.9 55.6M302.3 662.4l-8.3 51.8M101.1 564.4l-5 31.1M307.1 353.9l-10.8 67.4M139.7 517.2l-11.8 73.4M317.6 339.2l-12.4 77.4M472.7 128.3l-5.5 34.2M417.3 240.2l-4.8 29.8M403.5 637.8l-5.7 35.5M24.1 588l-12.8 80M498.8 635.6l-8.4 52.4M437.8 182l-12.3 76.7M420.6 256.2l-7.9 49.6M470.1 294.4l-12.9 80.4M181.2 149l-9.5 59.5M378.4 326.9l-6.3 39.6M389.5 542l-8.8 55.3M69.5 737.4l-7.2 45M66.6 201l-10.9 68M363.4 418.1l-7.4 46.4M170.7 59l-5.7 35.9M468.4 433.4l-12.4 77.2M32.5 800.2l-8.6 53.8M34.9 642.2l-10.9 68.2M480.7 194.6l-9.5 59.1M274.9 414.6l-9.1 57M132.3 565.6l-12.6 79M334.2 613.5l-10.9 68M380.7 215.6l-4.5 27.8M424 69.4l-13.5 84.1M59.3 762.7l-8.7 54.5M82 763l-12.6 78.9M301.1 583.9l-10.9 68.2M413.1 533.5l-11.4 71.3M539.4 84.9l-11.5 72.1M251 707.4l-10.3 64.3M522.3 606.4l-12.5 78.1M72.9 485.4l-11 68.7M82.1 219.3l-11.9 74.2M233.5 38.7l-10.6 66.1M396.9 266.4l-8.6 53.5M418.1 353l-9.8 61" fill="none" stroke="hsl(195.6 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="325.3" cy="837" rx="132" ry="27" fill="hsl(195.6 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(195.6 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE GOLDEN INKWELL</text>
+<path d="M44 709.4h72" stroke="hsl(195.6 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2003  ·  110 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(195.6 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Iron Nexus backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(22.9 48.7% 24%)"/><stop offset="0.5" stop-color="hsl(42.9 43.8% 42%)"/><stop offset="1" stop-color="hsl(355.6 48.7% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(355.6 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(355.6 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="803" cy="414.8" r="497.5" fill="url(#glow)"/>
+<circle cx="803" cy="414.8" r="99.5" fill="hsl(355.6 96% 78%)" opacity=".85"/>
+<path d="M11.1 0L173.1 0L-438.9 900L-753.9 900Z" fill="hsl(355.6 96% 78%)" opacity=".04"/><path d="M257.5 0L419.5 0L-192.5 900L-507.5 900Z" fill="hsl(355.6 96% 78%)" opacity=".04"/><path d="M924.4 0L1086.4 0L474.4 900L159.4 900Z" fill="hsl(355.6 96% 78%)" opacity=".04"/><path d="M1397.9 0L1559.9 0L947.9 900L632.9 900Z" fill="hsl(355.6 96% 78%)" opacity=".04"/><path d="M-10 1158L-10 558L0 558Q114.3 465.9 228.6 482.1Q342.9 404.7 457.1 420.9Q571.4 288.9 685.7 305.1Q800 288.9 914.3 342Q1028.6 325.8 1142.9 370.5Q1257.2 354.3 1371.4 456.3Q1485.7 440.1 1600 558L1610 1158Z" fill="hsl(161.3 34.1% 30%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q88.9 539.9 177.8 558.3Q266.7 470.9 355.6 489.3Q444.5 463.5 533.3 481.9Q622.2 463.5 711.1 517.5Q800 440.5 888.9 458.9Q977.8 440.5 1066.7 484.1Q1155.6 432.3 1244.4 450.7Q1333.3 432.3 1422.2 574Q1511.1 555.6 1600 666L1610 1266Z" fill="hsl(161.3 38.9% 18%)"/><path d="M-10 1392L-10 792L0 792Q72.8 708.4 145.5 722.4Q218.2 685.2 290.9 699.2Q363.7 685.2 436.4 701.6Q509.1 591.9 581.8 605.9Q654.6 589.3 727.3 603.3Q800 589.3 872.7 605.1Q945.5 591.1 1018.2 628.7Q1090.9 614.7 1163.6 709.4Q1236.4 695.4 1309.1 714.2Q1381.8 700.2 1454.5 731.2Q1527.3 717.2 1600 792L1610 1392Z" fill="hsl(169.3 43.8% 10%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

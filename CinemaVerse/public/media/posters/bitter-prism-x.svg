@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Bitter Prism X poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(189.9 39.7% 6%)"/><stop offset="0.5" stop-color="hsl(205.9 45.4% 13%)"/><stop offset="1" stop-color="hsl(181.4 51.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(181.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(181.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 502.6L39.3 502.6L42.5 457.7L100.6 457.7L114.6 437.5L173.3 437.5L187.1 429L256.9 429L260.6 378.5L312.9 378.5L322.5 511.2L377.4 511.2L391.8 477.9L421.2 477.9L435.2 449.5L461.4 449.5L468.2 521.4L561.9 521.4L572.2 392.9L627.3 392.9L610 1248Z" fill="hsl(344.2 39.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(352.2 51.1% 6%)"/><path d="M375.4 336.1l-12.7 79.5M168.4 681l-12.4 77.5M259.9 340.5l-6.7 41.9M58.5 619.5l-10.2 63.6M222 353l-12.7 79.2M16.8 117.2l-12.2 76.3M11.7 149.5l-14.2 88.8M48.9 757.3l-13.2 82.5M533.8 664.9l-6.6 41.2M301.9 261.6l-5.9 37.2M467.5 40.5l-10.9 68.3M318.1 470.8l-12.7 79.2M159.7 177.5l-12 75.3M507.9 528.5l-12.5 78.4M265.8 303.4l-9.8 61.2M510.4 144.7l-8.6 53.9M285.5 332.3l-7.3 45.7M345.2 427.8l-6.3 39.2M11.9 51.7l-6.3 39.6M35 727.3l-4.9 30.3M264.5 648.4l-5.4 34M501.6 547.9l-8 50M304.6 459.1l-11.7 73.1M45.3 483.3l-6.4 40.2M358.8 148.6l-4.4 27.7M449.5 640.8l-9 56.5M561.1 682.9l-12.3 76.7M513.7 291l-5.6 35.1M398.5 676.5l-12.6 78.9M10.9 138.8l-4.7 29.2M298.8 17.9l-9.4 58.8M207.9 480.4l-11.6 72.7M366.7 374.6l-4.7 29.7M413.1 15.1l-12.8 80.2M141 373.7l-11.5 72.1M404.8 51.8l-8.9 55.7M391.6 397.4l-14 87.3M590.9 202.5l-4.7 29.4M44.7 657.5l-11.5 71.9M410.2 218.3l-12.3 76.7M508.9 322.9l-6.9 43.4M159.4 517.4l-5.2 32.5M185.2 42.3l-13.7 85.5M408.1 768.6l-6.5 40.6M171.4 345.7l-12.8 80M569.4 543l-10.2 64" fill="none" stroke="hsl(181.4 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="323.3" cy="837" rx="132" ry="27" fill="hsl(181.4 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(181.4 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BITTER PRISM X</text>
+<path d="M44 709.4h72" stroke="hsl(181.4 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2008  ·  106 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(181.4 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

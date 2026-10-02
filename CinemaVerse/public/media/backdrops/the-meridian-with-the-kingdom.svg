@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Meridian with the Kingdom backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(178.3 26.5% 6%)"/><stop offset="0.5" stop-color="hsl(194.3 30.3% 13%)"/><stop offset="1" stop-color="hsl(166.5 34.1% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(166.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(166.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1145.2" cy="487.5" r="528.5" fill="url(#glow)"/>
+<circle cx="1145.2" cy="487.5" r="105.7" fill="hsl(166.5 96% 78%)" opacity=".85"/>
+<path d="M833.5 0L995.5 0L383.5 900L68.5 900Z" fill="hsl(166.5 96% 78%)" opacity=".04"/><path d="M605 0L767 0L155 900L-160 900Z" fill="hsl(166.5 96% 78%)" opacity=".04"/><path d="M1387.4 0L1549.4 0L937.4 900L622.4 900Z" fill="hsl(166.5 96% 78%)" opacity=".04"/><path d="M51.5 0L213.5 0L-398.5 900L-713.5 900Z" fill="hsl(166.5 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(331.6 30.3% 10%)"/><path d="M411.8 182.5L961.8 182.5L1071.8 900L367.8 900Z" fill="hsl(166.5 96% 78%)" opacity="0.1"/><path d="M411.8 182.5L961.8 182.5L1132.3 900L343.6 900Z" fill="hsl(166.5 96% 78%)" opacity="0"/><path d="M411.8 182.5L961.8 182.5L1192.8 900L319.4 900Z" fill="hsl(166.5 96% 78%)" opacity="0"/><rect x="411.8" y="144" width="550" height="385.3" fill="hsl(178.3 26.5% 6%)"/><rect x="411.8" y="144" width="550" height="385.3" fill="hsl(166.5 100% 62% / 0.4)" opacity=".5"/><path d="M411.8 144h550v385.3h-550Z" fill="none" stroke="hsl(345.6 37.9% 3%)" stroke-width="7"/><path d="M411.8 336.6h550M686.8 144v385.3" stroke="hsl(345.6 37.9% 3%)" stroke-width="4"/><path d="M570.5 864q-18.5 -102.9 18.5 -127.5q20.6 24.7 12.3 61.7q-4.1 41.1 4.1 65.8Z" fill="hsl(345.6 37.9% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

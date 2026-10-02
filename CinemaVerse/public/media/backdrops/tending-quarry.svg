@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Tending Quarry backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(41.3 48.4% 6%)"/><stop offset="0.5" stop-color="hsl(57.3 55.3% 13%)"/><stop offset="1" stop-color="hsl(21.3 62.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(21.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(21.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1279.2" cy="443.4" r="633.5" fill="url(#glow)"/>
+<circle cx="1279.2" cy="443.4" r="126.7" fill="hsl(21.3 96% 88%)" opacity=".85"/>
+<path d="M478.2 0L640.2 0L28.2 900L-286.8 900Z" fill="hsl(21.3 96% 88%)" opacity=".04"/><path d="M713.5 0L875.5 0L263.5 900L-51.5 900Z" fill="hsl(21.3 96% 88%)" opacity=".04"/><path d="M301.6 0L463.6 0L-148.4 900L-463.4 900Z" fill="hsl(21.3 96% 88%)" opacity=".04"/><path d="M1069.2 0L1231.2 0L619.2 900L304.2 900Z" fill="hsl(21.3 96% 88%)" opacity=".04"/><circle cx="410.3" cy="315.4" r="78.1" fill="hsl(21.3 96% 88%)" opacity="0.2"/><circle cx="715.2" cy="364.4" r="184.4" fill="hsl(21.3 92% 62%)" opacity="0.1"/><circle cx="227.1" cy="153.5" r="145.1" fill="hsl(21.3 96% 88%)" opacity="0.3"/><circle cx="1048.1" cy="648.1" r="144.6" fill="hsl(21.3 92% 62%)" opacity="0.1"/><circle cx="1270.2" cy="233.3" r="76" fill="hsl(21.3 96% 88%)" opacity="0.3"/><circle cx="1443" cy="345" r="158.2" fill="hsl(21.3 92% 62%)" opacity="0.3"/><circle cx="1358.8" cy="539.4" r="155.7" fill="hsl(21.3 96% 88%)" opacity="0.2"/><circle cx="659.5" cy="438" r="166" fill="hsl(21.3 92% 62%)" opacity="0.1"/><circle cx="1058.1" cy="553.9" r="87" fill="hsl(21.3 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 765.2 200 773.8Q300 714.9 400 723.5Q500 714.9 600 726.2Q700 717.5 800 726.1Q900 717.5 1000 756Q1100 723.8 1200 732.4Q1300 723.8 1400 782.6Q1500 774 1600 828L1610 1428Z" fill="hsl(248 62.2% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

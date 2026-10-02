@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Delta for the Sable backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(340.7 36.4% 6%)"/><stop offset="0.5" stop-color="hsl(356.7 41.6% 13%)"/><stop offset="1" stop-color="hsl(331.4 46.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(331.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(331.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="424.8" cy="498.1" r="648.5" fill="url(#glow)"/>
+<circle cx="424.8" cy="498.1" r="129.7" fill="hsl(331.4 96% 78%)" opacity=".85"/>
+<path d="M100.8 0L262.8 0L-349.2 900L-664.2 900Z" fill="hsl(331.4 96% 78%)" opacity=".04"/><path d="M559.1 0L721.1 0L109.1 900L-205.9 900Z" fill="hsl(331.4 96% 78%)" opacity=".04"/><path d="M1435.1 0L1597.1 0L985.1 900L670.1 900Z" fill="hsl(331.4 96% 78%)" opacity=".04"/><path d="M468.3 0L630.3 0L18.3 900L-296.7 900Z" fill="hsl(331.4 96% 78%)" opacity=".04"/><path d="M-8.2 828L-131.8 828L-8.2 292.3L115.4 828ZM71 828L-33 828L71 342.4L175 828ZM167.3 828L26 828L167.3 215.3L308.6 828ZM329.1 828L201.5 828L329.1 269.7L456.7 828ZM366.4 828L293.1 828L366.4 450.9L439.7 828ZM482.1 828L418.7 828L482.1 445.7L545.5 828ZM600.2 828L501.3 828L600.2 426.6L699.1 828ZM701.8 828L638.6 828L701.8 502L765 828ZM806.5 828L712.9 828L806.5 375.1L900.1 828ZM895.9 828L812 828L895.9 337.1L979.8 828ZM1017.1 828L885.8 828L1017.1 276.2L1148.4 828ZM1126.9 828L997.8 828L1126.9 231.5L1256 828ZM1219.5 828L1147.7 828L1219.5 492.5L1291.3 828ZM1280.4 828L1175.2 828L1280.4 337.6L1385.6 828ZM1411 828L1329 828L1411 497.7L1493 828ZM1506.2 828L1422.9 828L1506.2 479.4L1589.5 828Z" fill="hsl(153.2 41.6% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(167.2 51.9% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

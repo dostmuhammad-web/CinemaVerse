@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Sparrow &amp; Sanctuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(317.7 59% 24%)"/><stop offset="0.5" stop-color="hsl(337.7 53.1% 62%)"/><stop offset="1" stop-color="hsl(291.9 59% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(291.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(291.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="255.7" cy="231.9" r="278" fill="url(#glow)"/><circle cx="255.7" cy="231.9" r="66.2" fill="hsl(291.9 96% 88%)" opacity=".92"/>
+<rect width="620" height="738" fill="hsl(124.6 47.2% 18%)"/><path d="M8.8 0L75.5 0L56.8 738L27.5 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.7"/><path d="M69 0L135.7 0L117 738L87.7 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.6"/><path d="M140.4 0L207.1 0L188.4 738L159.1 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.6"/><path d="M205 0L271.7 0L253 738L223.7 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.3"/><path d="M272.6 0L339.3 0L320.6 738L291.3 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.6"/><path d="M339.1 0L405.8 0L387.1 738L357.8 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.7"/><path d="M403.1 0L469.8 0L451.1 738L421.8 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.5"/><path d="M469.3 0L536 0L517.3 738L488 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.4"/><path d="M539.2 0L605.9 0L587.2 738L557.9 738Z" fill="hsl(132.6 53.1% 10%)" opacity="0.5"/><path d="M263.8 0L443.8 774L83.8 774Z" fill="hsl(291.9 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(291.9 92% 52%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(138.6 59% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(291.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SPARROW &amp; SANCTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(291.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2012  ·  85 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(291.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

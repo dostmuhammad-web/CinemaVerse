@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Tundra before the Hollow poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(226 43.4% 6%)"/><stop offset="0.5" stop-color="hsl(242 49.6% 13%)"/><stop offset="1" stop-color="hsl(208.5 55.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(208.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(208.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 478.7L20.6 478.7L35.3 399.7L99 399.7L112.2 500.9L150.6 500.9L158.7 436.2L224.7 436.2L228.3 397.6L297.7 397.6L304.9 387.1L346.8 387.1L359.4 392.4L459.2 392.4L473.4 383.2L534.7 383.2L543.2 525.8L634.9 525.8L610 1248Z" fill="hsl(25.6 43.4% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(33.6 55.8% 6%)"/><path d="M238.6 390.6l-6.3 39.1M241.5 713.4l-14 87.8M200.6 409.5l-13.7 85.5M335.2 139.9l-5.5 34.3M53.7 47.4l-9.7 60.4M26.9 719.2l-8.2 51.3M494.4 439.2l-9.4 58.5M282.5 174.5l-11.5 71.8M469.6 200.8l-9.5 59.3M525.5 580.9l-4.9 30.9M595.3 390.9l-10.5 65.4M555.6 228.4l-13.9 87.2M83.4 676.6l-7.1 44.3M523.2 519.2l-12.5 78.4M489.5 612.7l-9.9 61.9M299.1 284.5l-11.4 71.2M161.4 48.1l-4.5 28.3M128.2 563.1l-13.7 85.4M316.3 495.6l-4.8 29.8M556.2 709l-10.3 64.6M455 523.4l-12 75.3M301.2 120.5l-10.9 68.4M460.9 644.5l-5.6 34.8M491.1 495.4l-14 87.7M53.8 57.3l-11.5 72.2M253.4 285.6l-5.1 32.2M299.5 426.6l-7.8 48.4M472.4 212.7l-8.3 51.9M529.9 684.1l-13.1 81.9M67.8 753.9l-14.1 87.9M64.6 482.4l-11.5 72M573.3 18.7l-11.6 72.2M443.9 429.4l-5.6 35.3M592.5 294.8l-4.9 30.7M571.7 90.4l-12.7 79.5M564.5 37.6l-10.3 64.6M510.3 552.2l-9.1 57M87 412.7l-4.6 28.5M8.1 726.7l-11 68.9M219.9 642.4l-10.9 68M321.2 358l-11.2 69.8M229.4 483.6l-10.3 64.5M327.8 146.6l-10.6 66.3M20.8 436.7l-12.8 80.2M57.3 516.8l-11.7 72.9M11.5 214.8l-13.3 83.3" fill="none" stroke="hsl(208.5 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="282.4" cy="837" rx="132" ry="27" fill="hsl(208.5 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(208.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE TUNDRA BEFORE THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HOLLOW</text>
+<path d="M44 726.8h72" stroke="hsl(208.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  98 MIN  ·  THRILLER</text>
+<text x="556" y="750.8" fill="hsl(208.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

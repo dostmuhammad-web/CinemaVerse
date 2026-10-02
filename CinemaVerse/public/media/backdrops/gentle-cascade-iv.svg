@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Gentle Cascade IV backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(179.9 44.6% 6%)"/><stop offset="0.5" stop-color="hsl(195.9 51% 13%)"/><stop offset="1" stop-color="hsl(169.7 57.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(169.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(169.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="538.1" cy="277.6" r="333.5" fill="url(#glow)"/>
+<circle cx="538.1" cy="277.6" r="66.7" fill="hsl(169.7 96% 78%)" opacity=".85"/>
+<path d="M1052.9 0L1214.9 0L602.9 900L287.9 900Z" fill="hsl(169.7 96% 78%)" opacity=".04"/><path d="M191.3 0L353.3 0L-258.7 900L-573.7 900Z" fill="hsl(169.7 96% 78%)" opacity=".04"/><path d="M131.8 0L293.8 0L-318.2 900L-633.2 900Z" fill="hsl(169.7 96% 78%)" opacity=".04"/><path d="M1079.8 0L1241.8 0L629.8 900L314.8 900Z" fill="hsl(169.7 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(333.9 51% 10%)"/><path d="M791.2 184.1L1480 184.1L1617.8 900L736.1 900Z" fill="hsl(169.7 96% 78%)" opacity="0.1"/><path d="M791.2 184.1L1480 184.1L1693.5 900L705.8 900Z" fill="hsl(169.7 96% 78%)" opacity="0"/><path d="M791.2 184.1L1480 184.1L1769.3 900L675.5 900Z" fill="hsl(169.7 96% 78%)" opacity="0"/><rect x="791.2" y="144" width="688.8" height="401.5" fill="hsl(179.9 44.6% 6%)"/><rect x="791.2" y="144" width="688.8" height="401.5" fill="hsl(169.7 100% 62% / 0.4)" opacity=".5"/><path d="M791.2 144h688.8v401.5h-688.8Z" fill="none" stroke="hsl(347.9 63.8% 3%)" stroke-width="7"/><path d="M791.2 344.7h688.8M1135.6 144v401.5" stroke="hsl(347.9 63.8% 3%)" stroke-width="4"/><path d="M997.9 864q-21.6 -120.3 21.6 -149.1q24.1 28.9 14.4 72.2q-4.8 48.1 4.8 77Z" fill="hsl(347.9 63.8% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

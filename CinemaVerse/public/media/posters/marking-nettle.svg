@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Marking Nettle poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(202.6 44.2% 6%)"/><stop offset="0.5" stop-color="hsl(218.6 50.5% 13%)"/><stop offset="1" stop-color="hsl(176.3 56.8% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(176.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(176.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1158L-10 558L0 558Q42.9 451.8 85.7 468Q128.6 416.5 171.4 432.7Q214.3 377.3 257.1 393.5Q300 323.5 342.9 339.7Q385.8 323.5 428.6 423.7Q471.5 407.5 514.3 510Q557.2 493.8 600 558L610 1158Z" fill="hsl(14.3 44.2% 15%)" opacity=".75"/><path d="M-10 1266L-10 666L0 666Q33.4 590.9 66.7 609.3Q100 502.9 133.3 521.3Q166.7 442.3 200 460.7Q233.4 442.3 266.7 470Q300 451.6 333.3 511.9Q366.7 456.9 400 475.3Q433.4 448.3 466.7 466.7Q500 448.3 533.3 545.2Q566.7 526.8 600 666L610 1266Z" fill="hsl(14.3 50.5% 10%)"/><path d="M-10 1392L-10 792L0 792Q27.3 736.1 54.5 750.1Q81.8 633.7 109.1 647.7Q136.4 633.7 163.6 674.2Q190.9 611.2 218.2 625.2Q245.5 611.2 272.7 635.1Q300 583.3 327.3 597.3Q354.6 583.3 381.8 598.2Q409.1 584.2 436.4 654.8Q463.7 640.8 490.9 698.1Q518.2 684.1 545.5 748.8Q572.8 734.8 600 792L610 1392Z" fill="hsl(22.3 56.8% 6%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(176.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">MARKING NETTLE</text>
+<path d="M44 709.4h72" stroke="hsl(176.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  135 MIN  ·  ADVENTURE</text>
+<text x="556" y="733.4" fill="hsl(176.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

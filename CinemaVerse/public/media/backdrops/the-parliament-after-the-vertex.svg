@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Parliament after the Vertex backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(19.5 37.3% 6%)"/><stop offset="0.5" stop-color="hsl(35.5 42.6% 13%)"/><stop offset="1" stop-color="hsl(358.7 47.9% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(358.7 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(358.7 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="549.8" cy="390.6" r="550.5" fill="url(#glow)"/>
+<circle cx="549.8" cy="390.6" r="110.1" fill="hsl(358.7 96% 78%)" opacity=".85"/>
+<path d="M1261.6 0L1423.6 0L811.6 900L496.6 900Z" fill="hsl(358.7 96% 78%)" opacity=".04"/><path d="M1077.1 0L1239.1 0L627.1 900L312.1 900Z" fill="hsl(358.7 96% 78%)" opacity=".04"/><path d="M1334.9 0L1496.9 0L884.9 900L569.9 900Z" fill="hsl(358.7 96% 78%)" opacity=".04"/><path d="M306.1 0L468.1 0L-143.9 900L-458.9 900Z" fill="hsl(358.7 96% 78%)" opacity=".04"/><path d="M-10 1194L-10 594L0 594Q160 540.5 320 547Q480 517.4 640 523.9Q800 514.9 960 521.4Q1120 514.9 1280 565.6Q1440 559.1 1600 594L1610 1194Z" fill="hsl(159 37.3% 15%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q200 652.6 400 658Q600 652.6 800 666.7Q1000 661.3 1200 675.6Q1400 670.2 1600 720L1610 1320Z" fill="hsl(159 42.6% 10%)"/><path d="M-10 1455L-10 855L0 855Q200 819.7 400 824Q600 788.2 800 792.5Q1000 788.2 1200 807.4Q1400 803.1 1600 855L1610 1455Z" fill="hsl(167 47.9% 6%)"/><path d="M-10 1545L-10 945L0 945Q266.7 915.3 533.3 918Q800 905.3 1066.7 908Q1333.4 905.3 1600 945L1610 1545Z" fill="hsl(173 53.2% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

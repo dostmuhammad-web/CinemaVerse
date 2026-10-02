@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Granite: Cold Start poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(320.8 34% 6%)"/><stop offset="0.5" stop-color="hsl(336.8 38.8% 13%)"/><stop offset="1" stop-color="hsl(312.5 43.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(312.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(312.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(136.8 38.8% 10%)"/><path d="M5.1 0L71.8 0L53.1 738L23.8 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.4"/><path d="M66.8 0L133.5 0L114.8 738L85.5 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.6"/><path d="M141.4 0L208.1 0L189.4 738L160.1 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.4"/><path d="M204.9 0L271.6 0L252.9 738L223.6 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.5"/><path d="M274.7 0L341.4 0L322.7 738L293.4 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.5"/><path d="M339.8 0L406.5 0L387.8 738L358.5 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.4"/><path d="M402.1 0L468.8 0L450.1 738L420.8 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.5"/><path d="M470.5 0L537.2 0L518.5 738L489.2 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.4"/><path d="M540.3 0L607 0L588.3 738L559 738Z" fill="hsl(144.8 43.7% 6%)" opacity="0.5"/><path d="M292.2 0L472.2 774L112.2 774Z" fill="hsl(312.5 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(312.5 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(150.8 48.6% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(312.5 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">GRANITE: COLD START</text>
+<path d="M44 709.4h72" stroke="hsl(312.5 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1989  ·  86 MIN  ·  ANIMATION</text>
+<text x="556" y="733.4" fill="hsl(312.5 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

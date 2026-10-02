@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Radiant Carousel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(217.5 45.3% 6%)"/><stop offset="0.5" stop-color="hsl(233.5 51.8% 13%)"/><stop offset="1" stop-color="hsl(199.2 58.3% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(199.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(199.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 433.2L19.9 433.2L30.1 518.7L114.2 518.7L125.8 463.6L195 463.6L207.9 428.5L292.3 428.5L296.3 539.4L330.1 539.4L344 500.8L414.2 500.8L420.2 375.1L482.2 375.1L491.6 411.2L590.9 411.2L595.7 453.6L645.2 453.6L610 1248Z" fill="hsl(50.5 45.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(58.5 58.3% 6%)"/><path d="M342.3 734.7l-6.1 38.2M516.9 233.1l-13.5 84.6M546.5 51.8l-12.9 80.5M255.9 427.5l-6.4 40.2M212.2 79.3l-5.8 36.1M149.3 20.8l-5.5 34.4M263.3 196.5l-8.7 54.5M16 314.4l-12.7 79.3M245.8 181.2l-9.4 58.7M305.3 464.1l-10.9 68M22.7 341.7l-9.5 59.4M520.3 467.9l-7.6 47.3M227.5 404.3l-10.8 67.6M209.1 357.7l-10 62.4M233 125.5l-12.6 79M545 162.4l-4.8 30.3M573.9 485.9l-5.1 32.1M93.3 162.3l-5.1 31.6M185.1 790.6l-10.5 65.6M1.4 530l-12.6 78.9M38.6 709.4l-11.5 71.7M517.1 215.5l-9.5 59.2M79 175.2l-5.2 32.3M276.8 139.4l-8.1 50.9M44.5 404.9l-6.3 39.2M209.7 136.1l-13.1 81.6M422.2 679.4l-9.2 57.7M112.1 794.4l-14.2 89M272.6 235.5l-12 74.7M488.7 784.5l-8.4 52.8M293.2 623.3l-4.6 28.6M107 476.5l-4.4 27.6M63.4 159.6l-8.8 55.3M227.2 202.4l-6.8 42.6M433 65.2l-7.1 44.6M217.5 285l-5.1 32.1M146.8 341l-13.5 84.1M301.9 127.2l-9.2 57.6M450.3 431.7l-7.9 49.3M398.8 141.9l-4.6 28.5M3.2 598.2l-5.4 33.8M72 637.6l-13.4 83.8M403.5 519l-11.9 74.5M319.9 715.6l-13 81.1M305 263.1l-11.2 69.7M94 31.9l-6.2 38.7" fill="none" stroke="hsl(199.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="322" cy="837" rx="132" ry="27" fill="hsl(199.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(199.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">RADIANT CAROUSEL</text>
+<path d="M44 709.4h72" stroke="hsl(199.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2010  ·  95 MIN  ·  CRIME</text>
+<text x="556" y="733.4" fill="hsl(199.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

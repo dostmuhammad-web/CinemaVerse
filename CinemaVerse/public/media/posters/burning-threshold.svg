@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Burning Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(53.5 34.5% 6%)"/><stop offset="0.5" stop-color="hsl(69.5 39.5% 13%)"/><stop offset="1" stop-color="hsl(25.3 44.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(25.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(25.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<rect width="620" height="738" fill="hsl(223.1 39.5% 10%)"/><path d="M3.9 0L70.6 0L51.9 738L22.6 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.7"/><path d="M70.2 0L136.9 0L118.2 738L88.9 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.7"/><path d="M136 0L202.7 0L184 738L154.7 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.5"/><path d="M208.1 0L274.8 0L256.1 738L226.8 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.3"/><path d="M271.1 0L337.8 0L319.1 738L289.8 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.6"/><path d="M339.7 0L406.4 0L387.7 738L358.4 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.4"/><path d="M404.1 0L470.8 0L452.1 738L422.8 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.5"/><path d="M470.5 0L537.2 0L518.5 738L489.2 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.4"/><path d="M538.7 0L605.4 0L586.7 738L557.4 738Z" fill="hsl(231.1 44.4% 6%)" opacity="0.7"/><path d="M359.4 0L539.4 774L179.4 774Z" fill="hsl(25.3 96% 88%)" opacity=".1"/><ellipse cx="300" cy="774" rx="204" ry="63" fill="hsl(25.3 92% 62%)" opacity=".2"/><rect y="738" width="620" height="180" fill="hsl(237.1 49.3% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(25.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BURNING THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(25.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1986  ·  94 MIN  ·  FAMILY</text>
+<text x="556" y="733.4" fill="hsl(25.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Signal &amp; Vertex poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(21.7 45.3% 24%)"/><stop offset="0.5" stop-color="hsl(41.7 40.8% 42%)"/><stop offset="1" stop-color="hsl(6.8 45.3% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(6.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(6.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="461.4" cy="291.1" r="368.8" fill="url(#glow)"/><circle cx="461.4" cy="291.1" r="87.8" fill="hsl(6.8 96% 78%)" opacity=".92"/>
+<path d="M-10 1194L-10 594L0 594Q60 559.5 120 566Q180 512 240 518.5Q300 512 360 537.5Q420 531 480 558.5Q540 552 600 594L610 1194Z" fill="hsl(177.4 31.7% 30%)" opacity=".8"/><path d="M-10 1320L-10 720L0 720Q75 674.3 150 679.7Q225 635.3 300 640.7Q375 635.3 450 679Q525 673.6 600 720L610 1320Z" fill="hsl(177.4 36.2% 18%)"/><path d="M-10 1455L-10 855L0 855Q75 818.7 150 823Q225 778.9 300 783.2Q375 778.9 450 808.6Q525 804.3 600 855L610 1455Z" fill="hsl(185.4 40.8% 10%)"/><path d="M-10 1545L-10 945L0 945Q100 906.4 200 909.1Q300 906.4 400 924.8Q500 922.1 600 945L610 1545Z" fill="hsl(191.4 45.3% 5%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(6.8 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">SIGNAL &amp; VERTEX</text>
+<path d="M44 709.4h72" stroke="hsl(6.8 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1988  ·  146 MIN  ·  WESTERN</text>
+<text x="556" y="733.4" fill="hsl(6.8 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

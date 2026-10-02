@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Restive Lattice poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(352.3 30.5% 6%)"/><stop offset="0.5" stop-color="hsl(8.3 34.8% 13%)"/><stop offset="1" stop-color="hsl(317.9 39.2% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(317.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(317.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 432.1L50.8 432.1L59.5 464.8L97.3 464.8L104.7 518.3L147.1 518.3L156.4 395.5L212.6 395.5L226 560.9L260.2 560.9L273.4 531.6L367.1 531.6L373.7 438.9L439.9 438.9L452.1 416.3L535 416.3L538.2 395.9L579.1 395.9L589.3 518.3L634.9 518.3L610 1248Z" fill="hsl(145.1 30.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(153.1 39.2% 6%)"/><path d="M449.6 535.8l-12.9 80.5M512.2 316.4l-10.6 66.1M467.9 49.9l-11.1 69.4M328.1 12l-9.3 57.9M448.6 70.1l-5.3 33.1M234.3 218.9l-11.3 70.9M513.6 285l-5.3 33M155.5 720.5l-8.8 55.1M235.5 575.1l-7.8 48.5M452.8 260.7l-10.9 68.4M175.7 716.9l-5 31M168.1 236.2l-6.4 39.9M46.9 653.6l-7.7 47.8M576.5 89.5l-5.6 34.9M368.5 488.5l-13.5 84.6M561.4 321.9l-14.2 88.6M279.3 619.4l-7.1 44.4M160.6 56l-7.8 48.7M568.4 512.7l-4.5 28.2M456 76.8l-7.3 45.6M560.2 319.5l-5.9 37.1M589.2 37.6l-12 74.9M162 388.6l-11.4 71.1M412.3 701.6l-7.4 46.5M401.2 717.1l-4.6 28.8M560.1 554.4l-7.1 44.2M64.7 319.5l-9.7 60.8M407.2 691.7l-11.3 70.5M564.1 333.4l-9.2 57.4M283.8 50.1l-5.6 34.9M202 640.2l-6 37.5M443.1 551.2l-13.3 83.2M472 15.5l-6.9 43.2M10 17.2l-10.3 64.4M335.8 386.1l-5.3 33.3M51.1 69.4l-5.6 35M188.4 806.1l-12.5 78.3M497.5 752.4l-6.9 42.8M344.2 675.6l-13.7 85.7M153.4 128.2l-8 50.2M487.1 101.9l-13.4 83.5M214.8 23.6l-13.3 82.9M212.9 68.9l-14.4 89.7M230.2 41.2l-5.5 34.3M388.2 9.6l-8.9 55.8M464.4 752.7l-10.6 66.1" fill="none" stroke="hsl(317.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="394.6" cy="837" rx="132" ry="27" fill="hsl(317.9 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(317.9 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE RESTIVE LATTICE</text>
+<path d="M44 709.4h72" stroke="hsl(317.9 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1985  ·  117 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(317.9 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

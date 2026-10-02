@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Vessel of Migration backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(340 59% 24%)"/><stop offset="0.5" stop-color="hsl(360 53.1% 62%)"/><stop offset="1" stop-color="hsl(308.8 59% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(308.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(308.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1168.1" cy="332.9" r="453.5" fill="url(#glow)"/>
+<circle cx="1168.1" cy="332.9" r="90.7" fill="hsl(308.8 96% 88%)" opacity=".85"/>
+<path d="M13.5 0L175.5 0L-436.5 900L-751.5 900Z" fill="hsl(308.8 96% 88%)" opacity=".04"/><path d="M1012.2 0L1174.2 0L562.2 900L247.2 900Z" fill="hsl(308.8 96% 88%)" opacity=".04"/><path d="M235.6 0L397.6 0L-214.4 900L-529.4 900Z" fill="hsl(308.8 96% 88%)" opacity=".04"/><path d="M590.2 0L752.2 0L140.2 900L-174.8 900Z" fill="hsl(308.8 96% 88%)" opacity=".04"/><circle cx="1547.9" cy="270.1" r="85.1" fill="hsl(308.8 96% 88%)" opacity="0.3"/><circle cx="871.6" cy="536" r="61.8" fill="hsl(308.8 92% 52%)" opacity="0.2"/><circle cx="466.4" cy="607.3" r="94.9" fill="hsl(308.8 96% 88%)" opacity="0.1"/><circle cx="962" cy="266" r="102.9" fill="hsl(308.8 92% 52%)" opacity="0.1"/><circle cx="928.2" cy="285.4" r="115.3" fill="hsl(308.8 96% 88%)" opacity="0.3"/><circle cx="1383.7" cy="484.7" r="154.6" fill="hsl(308.8 92% 52%)" opacity="0.3"/><circle cx="155" cy="609.8" r="188.1" fill="hsl(308.8 96% 88%)" opacity="0.1"/><circle cx="986.5" cy="177.8" r="65.7" fill="hsl(308.8 92% 52%)" opacity="0.3"/><circle cx="4.1" cy="231.3" r="85.7" fill="hsl(308.8 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q100 768.8 200 777.4Q300 766.7 400 775.3Q500 702.2 600 710.8Q700 698.1 800 706.7Q900 698.1 1000 715.2Q1100 706.6 1200 760.7Q1300 752.1 1400 770.4Q1500 761.8 1600 828L1610 1428Z" fill="hsl(184.2 53.1% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

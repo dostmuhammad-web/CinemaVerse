@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Last Bastion poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(253.8 43.6% 6%)"/><stop offset="0.5" stop-color="hsl(269.8 49.8% 13%)"/><stop offset="1" stop-color="hsl(234.3 56% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(234.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(234.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 369.8L24 369.8L30.8 541.4L59.5 541.4L68.9 450.5L142.1 450.5L151.8 484.9L223.5 484.9L236.7 410.5L270.6 410.5L276.6 443.4L323.4 443.4L336.6 538.8L397.2 538.8L409.2 452.2L458.5 452.2L462.7 451.1L492.3 451.1L498.6 431.2L559 431.2L568.6 362L633.9 362L610 1248Z" fill="hsl(73.4 43.6% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(81.4 56% 6%)"/><path d="M272.7 710.2l-11.6 72.5M561.8 455.2l-11.6 72.3M428.9 247l-9.2 57.6M580.7 535.6l-5.6 34.8M588.2 478.4l-12.1 75.3M494.6 609.7l-13.5 84.6M474.4 740.4l-10.8 67.4M168.8 392.7l-4.9 30.6M558.8 392.9l-11.1 69.2M530.1 134.2l-5.7 35.7M116 291.9l-12.8 80M17.4 158.1l-4.9 30.5M409.5 238.9l-5.2 32.7M489 488.2l-5.1 31.6M156.2 398.3l-11.3 70.6M326.4 754l-13.6 84.7M51.9 225.6l-5.8 36.5M595.4 479.6l-13.1 82M248.5 245.4l-6.2 38.9M339.9 526.1l-12.6 78.6M243.1 595l-11.5 71.8M408.7 237.1l-11.5 71.9M11.1 209.1l-11.9 74.5M252.8 616.6l-7.3 45.6M19.7 177.5l-4.6 29M87.5 500.3l-6.1 38.2M506.4 348.7l-5.3 33M416.7 355.1l-9.5 59.1M224.8 96.1l-4.4 27.5M260.1 706.6l-12.6 78.9M594.6 415.7l-5 31.4M71.5 256.4l-4.8 29.8M293.2 641.6l-7.4 46.4M26.7 500.4l-5.4 33.7M98.1 716l-11.5 72.1M193.1 485.4l-5.8 36.1M282 438.9l-13.7 85.6M123.7 0.1l-14.2 88.6M418.6 6.2l-5.6 35M549.9 690.8l-14.3 89.5M409.7 155.5l-8.4 52.8M506.6 0.4l-7.7 48.2M569.2 0.1l-5.9 36.7M195.5 647.4l-5.6 34.9M162.5 582l-11.1 69.5M193 59.4l-11.4 71.4" fill="none" stroke="hsl(234.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="315.8" cy="837" rx="132" ry="27" fill="hsl(234.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(234.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE LAST BASTION</text>
+<path d="M44 709.4h72" stroke="hsl(234.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2015  ·  136 MIN  ·  MYSTERY</text>
+<text x="556" y="733.4" fill="hsl(234.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

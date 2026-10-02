@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Fathom for the Quarry backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(336.6 30.3% 6%)"/><stop offset="0.5" stop-color="hsl(352.6 34.6% 13%)"/><stop offset="1" stop-color="hsl(320.5 39% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(320.5 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(320.5 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1305.6" cy="359.4" r="667" fill="url(#glow)"/>
+<circle cx="1305.6" cy="359.4" r="133.4" fill="hsl(320.5 96% 78%)" opacity=".85"/>
+<path d="M1089.6 0L1251.6 0L639.6 900L324.6 900Z" fill="hsl(320.5 96% 78%)" opacity=".04"/><path d="M761.7 0L923.7 0L311.7 900L-3.3 900Z" fill="hsl(320.5 96% 78%)" opacity=".04"/><path d="M1496.4 0L1658.4 0L1046.4 900L731.4 900Z" fill="hsl(320.5 96% 78%)" opacity=".04"/><path d="M733.7 0L895.7 0L283.7 900L-31.3 900Z" fill="hsl(320.5 96% 78%)" opacity=".04"/><path d="M14.9 828L-124.2 828L14.9 195.2L154 828ZM109.4 828L20.3 828L109.4 300.2L198.5 828ZM218.1 828L64.4 828L218.1 225.6L371.8 828ZM296.2 828L215.8 828L296.2 420.4L376.6 828ZM369.9 828L240.2 828L369.9 191.3L499.6 828ZM491.6 828L418.1 828L491.6 464.8L565.1 828ZM611.1 828L546.6 828L611.1 512.2L675.6 828ZM690.9 828L564.3 828L690.9 257.2L817.5 828ZM814.5 828L715.1 828L814.5 207.6L913.9 828ZM918.2 828L855 828L918.2 529.9L981.4 828ZM1026.9 828L966.4 828L1026.9 489.8L1087.4 828ZM1120.9 828L992.3 828L1120.9 227.7L1249.5 828ZM1182.4 828L1035.6 828L1182.4 250.3L1329.2 828ZM1303 828L1227 828L1303 530.4L1379 828ZM1413.5 828L1317.2 828L1413.5 410.8L1509.8 828ZM1514.5 828L1429.9 828L1514.5 427.2L1599.1 828Z" fill="hsl(117.8 34.6% 10%)" opacity=".9"/><rect y="828" width="1620" height="92" fill="hsl(131.8 43.3% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Cutting Threshold poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(209.6 39.7% 6%)"/><stop offset="0.5" stop-color="hsl(225.6 45.3% 13%)"/><stop offset="1" stop-color="hsl(173.3 51% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(173.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(173.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 362.3L50.2 362.3L59.7 380.8L149.6 380.8L161 373.2L189.5 373.2L193.6 422.7L250.3 422.7L258.5 399L296 399L306.7 398.5L361.7 398.5L368.5 443.5L411.2 443.5L417 494.9L462.6 494.9L476 388.6L571.2 388.6L575 502.6L613.3 502.6L610 1248Z" fill="hsl(354.2 39.7% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(2.2 51% 6%)"/><path d="M308.6 182.9l-6.4 40.2M577.3 655.4l-7.8 49M275.6 709.5l-6.2 38.8M321.6 420.1l-8.1 50.3M293.7 151.8l-8.3 52.1M130.3 310l-14.1 88M220 235l-12.8 79.7M134.3 713.4l-6.2 39M408.6 766.1l-7 44M539.5 543.5l-4.9 30.6M27.4 224.5l-7.3 45.6M476.8 238.3l-8.3 52.1M61.2 288.7l-13.3 83.2M173.5 553.3l-11.6 72.3M371.9 90.2l-10.6 66.4M415.2 292.6l-7.9 49.3M462.2 281.6l-4.6 29M154.6 776.8l-7.4 46.3M57.7 782.1l-4.9 30.5M483.1 605.2l-12.2 76.3M257.3 485.6l-6.6 41.3M506.4 746.6l-9.6 59.9M109.8 626.8l-9.9 61.6M455.6 126.7l-11.4 71.5M388.2 794.6l-14.1 87.9M425.8 232.9l-11.3 70.7M237.6 742.5l-12.6 78.8M20.5 647.3l-7.2 45.1M595.2 401.3l-7.7 48.1M34.5 23.9l-7.2 44.9M342.5 264.9l-14 87.8M149.6 76.5l-11.9 74.7M37.1 252.1l-12.3 76.8M553.8 718l-4.6 28.5M446.7 154.4l-13.1 81.9M84 550.7l-5.7 35.3M567.5 584.6l-9 56.4M128.4 340l-5.3 33.4M112.2 490.5l-4.9 30.9M241.1 496l-13.7 85.4M372.1 225.1l-5.5 34.5M257.4 700.1l-5.4 33.6M590.6 409.8l-5 31.3M236.4 509.6l-11.5 72.1M378.6 697.8l-11 68.5M337.6 369l-6.7 41.7" fill="none" stroke="hsl(173.3 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="384.2" cy="837" rx="132" ry="27" fill="hsl(173.3 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(173.3 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">CUTTING THRESHOLD</text>
+<path d="M44 709.4h72" stroke="hsl(173.3 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2008  ·  126 MIN  ·  THRILLER</text>
+<text x="556" y="733.4" fill="hsl(173.3 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

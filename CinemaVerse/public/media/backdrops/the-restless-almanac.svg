@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Restless Almanac backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(201.2 42.4% 6%)"/><stop offset="0.5" stop-color="hsl(217.2 48.5% 13%)"/><stop offset="1" stop-color="hsl(190.4 54.5% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(190.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(190.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="503" cy="484.9" r="587" fill="url(#glow)"/>
+<circle cx="503" cy="484.9" r="117.4" fill="hsl(190.4 96% 78%)" opacity=".85"/>
+<path d="M1525.2 0L1687.2 0L1075.2 900L760.2 900Z" fill="hsl(190.4 96% 78%)" opacity=".04"/><path d="M1511.6 0L1673.6 0L1061.6 900L746.6 900Z" fill="hsl(190.4 96% 78%)" opacity=".04"/><path d="M70.5 0L232.5 0L-379.5 900L-694.5 900Z" fill="hsl(190.4 96% 78%)" opacity=".04"/><path d="M977.7 0L1139.7 0L527.7 900L212.7 900Z" fill="hsl(190.4 96% 78%)" opacity=".04"/><rect width="1620" height="920" fill="hsl(13.2 48.5% 10%)"/><path d="M553.7 180.7L1156 180.7L1276.4 900L505.5 900Z" fill="hsl(190.4 96% 78%)" opacity="0.1"/><path d="M553.7 180.7L1156 180.7L1342.7 900L479 900Z" fill="hsl(190.4 96% 78%)" opacity="0"/><path d="M553.7 180.7L1156 180.7L1408.9 900L452.5 900Z" fill="hsl(190.4 96% 78%)" opacity="0"/><rect x="553.7" y="144" width="602.3" height="366.5" fill="hsl(201.2 42.4% 6%)"/><rect x="553.7" y="144" width="602.3" height="366.5" fill="hsl(190.4 100% 62% / 0.4)" opacity=".5"/><path d="M553.7 144h602.3v366.5h-602.3Z" fill="none" stroke="hsl(27.2 60.6% 3%)" stroke-width="7"/><path d="M553.7 327.3h602.3M854.8 144v366.5" stroke="hsl(27.2 60.6% 3%)" stroke-width="4"/><path d="M997 864q-20.4 -113.4 20.4 -140.6q22.7 27.2 13.6 68.1q-4.5 45.4 4.5 72.6Z" fill="hsl(27.2 60.6% 3%)"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

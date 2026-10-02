@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="The Threshold beneath the Expedition poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(24.9 53% 24%)"/><stop offset="0.5" stop-color="hsl(44.9 47.7% 42%)"/><stop offset="1" stop-color="hsl(5.9 53% 58%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(5.9 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(5.9 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="196.2" cy="284.9" r="491.4" fill="url(#glow)"/><circle cx="196.2" cy="284.9" r="117" fill="hsl(5.9 96% 78%)" opacity=".92"/>
+<path d="M-10 1248L-10 648L-10 525.1L38.2 525.1L43 499L98.5 499L105 496.8L195 496.8L202.5 411.4L253.3 411.4L257.4 348.1L349.3 348.1L363.7 403.1L393.6 403.1L396.7 456.5L484.4 456.5L492 417.5L531.7 417.5L546.5 370.5L596.1 370.5L605.3 538.3L642.6 538.3L610 1248Z" fill="hsl(224.3 37.1% 30%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(232.3 47.7% 10%)"/><path d="M465.2 154.9l-10.9 68.3M284.9 319.7l-6.9 43M530.4 216.5l-5.1 31.8M508.1 596.9l-6 37.7M197.4 242.1l-10.5 65.7M271.3 358.6l-11.6 72.6M251.5 669.6l-10.4 65.1M22.9 748.2l-13 81.4M424.9 629.6l-12.7 79.6M69.4 491.2l-6.6 41.1M10.3 432.3l-6.1 38M8.4 254.3l-7.1 44.3M433.8 524.1l-7.8 49M214.4 203.8l-7.7 47.9M366.7 101.8l-8.5 52.9M148.9 749.3l-10.2 63.9M239.1 476.2l-5.5 34.2M473 32.7l-5 31.5M505.7 755.3l-9.2 57.8M440 794.3l-8.7 54.7M116.5 737.1l-8.5 53.4M231.3 403l-9.9 61.9M377.4 762l-13.5 84.4M231.4 610.6l-5.8 36.5M261.4 662.6l-5.2 32.2M491.8 677.5l-13.3 83.3M302.8 266.6l-12.7 79.3M573.7 156.6l-5.2 32.7M553.5 407.4l-14.4 89.9M489.1 483.3l-6.9 43.4M561.7 96.9l-12.2 76.4M316 23.6l-9.2 57.2M180.7 403.9l-4.9 30.9M535.6 39.5l-7.9 49.1M122 736.1l-7.2 44.8M463.3 792.5l-10.5 65.8M407.4 161.4l-7.6 47.2M543.2 421.3l-14.3 89.4M354.1 628.8l-8.3 52.1M588.8 523.2l-9 56.4M587.9 35.6l-4.6 28.6M17.7 738.3l-6.5 40.7M580.2 152.5l-12 75.2M402 46l-5.2 32.6M157.2 540.4l-9.7 60.9M170.4 725.8l-14.1 88.2" fill="none" stroke="hsl(5.9 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="232.3" cy="837" rx="132" ry="27" fill="hsl(5.9 92% 52%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(5.9 92% 52%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="651.4" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">THE THRESHOLD BENEATH THE</text><text x="44" y="686.1" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">EXPEDITION</text>
+<path d="M44 726.8h72" stroke="hsl(5.9 92% 52%)" stroke-width="2.5"/>
+<text x="44" y="750.8" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">1992  ·  123 MIN  ·  ACTION</text>
+<text x="556" y="750.8" fill="hsl(5.9 92% 52%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

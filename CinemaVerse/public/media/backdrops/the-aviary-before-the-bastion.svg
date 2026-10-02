@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Aviary before the Bastion backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(335.6 36.5% 24%)"/><stop offset="0.5" stop-color="hsl(355.6 32.8% 62%)"/><stop offset="1" stop-color="hsl(304.4 36.5% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(304.4 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(304.4 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="894.3" cy="326.7" r="388" fill="url(#glow)"/>
+<circle cx="894.3" cy="326.7" r="77.6" fill="hsl(304.4 96% 88%)" opacity=".85"/>
+<path d="M779.8 0L941.8 0L329.8 900L14.8 900Z" fill="hsl(304.4 96% 88%)" opacity=".04"/><path d="M890.4 0L1052.4 0L440.4 900L125.4 900Z" fill="hsl(304.4 96% 88%)" opacity=".04"/><path d="M1051 0L1213 0L601 900L286 900Z" fill="hsl(304.4 96% 88%)" opacity=".04"/><path d="M86.8 0L248.8 0L-363.2 900L-678.2 900Z" fill="hsl(304.4 96% 88%)" opacity=".04"/><circle cx="491.3" cy="622" r="58.4" fill="hsl(304.4 96% 88%)" opacity="0.2"/><circle cx="1449.7" cy="180.3" r="61.7" fill="hsl(304.4 92% 52%)" opacity="0.2"/><circle cx="69.6" cy="481.4" r="105.3" fill="hsl(304.4 96% 88%)" opacity="0.3"/><circle cx="484.9" cy="459.3" r="157.4" fill="hsl(304.4 92% 52%)" opacity="0.2"/><circle cx="134" cy="503.6" r="185.6" fill="hsl(304.4 96% 88%)" opacity="0.3"/><circle cx="1491" cy="273.7" r="71.2" fill="hsl(304.4 92% 52%)" opacity="0.2"/><circle cx="253" cy="586.1" r="161.5" fill="hsl(304.4 96% 88%)" opacity="0.3"/><circle cx="886.3" cy="231.7" r="103.5" fill="hsl(304.4 92% 52%)" opacity="0.2"/><circle cx="617" cy="212.8" r="148.2" fill="hsl(304.4 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 767.6 200 776.2Q300 756.1 400 764.7Q500 693.6 600 702.2Q700 676.8 800 685.4Q900 676.8 1000 711Q1100 702.4 1200 767Q1300 758.4 1400 796.3Q1500 787.7 1600 828L1610 1428Z" fill="hsl(163.7 32.8% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

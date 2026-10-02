@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hollow for Nocturne poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(26 42.5% 6%)"/><stop offset="0.5" stop-color="hsl(42 48.5% 13%)"/><stop offset="1" stop-color="hsl(4.8 54.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(4.8 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(4.8 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 471.1L60 471.1L65.7 424.2L138.7 424.2L151.5 518.6L190.8 518.6L195.3 389.6L226.6 389.6L240.8 343.9L282.3 343.9L290.5 384.9L363.3 384.9L370.3 390.5L422.5 390.5L429.4 387.8L466 387.8L477.8 505.5L552.1 505.5L560.5 460.7L644 460.7L610 1248Z" fill="hsl(179.2 42.5% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(187.2 54.6% 6%)"/><path d="M381.7 801.4l-10.9 67.8M490.8 195.3l-9 56.3M430.4 400.5l-11.1 69.5M284.3 585.5l-12.7 79.5M334.6 719.8l-13.4 83.9M588.2 517.6l-6.8 42.3M63.4 308.8l-8.9 55.7M46.8 467l-13.9 87.1M583.9 90.3l-12.9 80.5M382.8 252l-8 50M31.1 576.1l-13.8 86M568.4 438.8l-8.7 54.4M457.4 497.5l-9.2 57.6M384.4 620.5l-7.3 45.4M193 155.8l-4.9 30.8M280.5 531.7l-12.9 80.4M156.8 257.2l-5.3 33.1M284.3 175.9l-5.6 35.3M44.6 121.7l-4.9 30.6M282.7 313.2l-7.3 45.6M382.5 628.2l-13 81.5M78.5 525.6l-11.1 69.4M379.6 600.3l-4.5 28.2M564.9 316.9l-5 31M177.9 504.5l-6.8 42.3M537.3 651l-8.1 50.7M524.6 190.4l-11.6 72.5M40.6 806.1l-11.4 71M236 437.5l-8.4 52.4M502.2 515.5l-9.5 59.5M453.4 792.3l-11.1 69.3M415.4 655l-9.8 61.1M108.8 74.6l-5.2 32.2M283.3 114.8l-12.6 78.5M130.5 630.3l-9.1 56.7M505.8 118.9l-4.7 29.2M380.4 531.7l-6.4 39.8M467.1 386l-11.6 72.7M301.9 375.3l-7 43.7M451.3 354.4l-8 49.8M513.1 273.8l-12.9 80.4M287.1 695.4l-9.6 59.8M237.5 290l-14.2 88.9M115.2 760.6l-8.7 54.5M442.3 741.1l-8.6 53.5M195.5 307.5l-9.8 61.4" fill="none" stroke="hsl(4.8 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="224.5" cy="837" rx="132" ry="27" fill="hsl(4.8 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(4.8 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">HOLLOW FOR NOCTURNE</text>
+<path d="M44 709.4h72" stroke="hsl(4.8 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2005  ·  136 MIN  ·  ACTION</text>
+<text x="556" y="733.4" fill="hsl(4.8 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

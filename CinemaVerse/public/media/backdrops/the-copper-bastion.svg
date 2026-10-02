@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="The Copper Bastion backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(314 54.1% 24%)"/><stop offset="0.5" stop-color="hsl(334 48.6% 62%)"/><stop offset="1" stop-color="hsl(306.2 54.1% 80%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(306.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(306.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="995.2" cy="379.2" r="656.5" fill="url(#glow)"/>
+<circle cx="995.2" cy="379.2" r="131.3" fill="hsl(306.2 96% 88%)" opacity=".85"/>
+<path d="M1440.2 0L1602.2 0L990.2 900L675.2 900Z" fill="hsl(306.2 96% 88%)" opacity=".04"/><path d="M1395.8 0L1557.8 0L945.8 900L630.8 900Z" fill="hsl(306.2 96% 88%)" opacity=".04"/><path d="M1070.2 0L1232.2 0L620.2 900L305.2 900Z" fill="hsl(306.2 96% 88%)" opacity=".04"/><path d="M666.3 0L828.3 0L216.3 900L-98.7 900Z" fill="hsl(306.2 96% 88%)" opacity=".04"/><circle cx="1477.3" cy="191.6" r="171" fill="hsl(306.2 96% 88%)" opacity="0.1"/><circle cx="1129.1" cy="229.5" r="133.2" fill="hsl(306.2 92% 52%)" opacity="0.2"/><circle cx="418.2" cy="653.1" r="92.1" fill="hsl(306.2 96% 88%)" opacity="0.1"/><circle cx="174.6" cy="472.4" r="125.5" fill="hsl(306.2 92% 52%)" opacity="0.3"/><circle cx="491.3" cy="532.5" r="182.4" fill="hsl(306.2 96% 88%)" opacity="0.3"/><circle cx="127.8" cy="333.2" r="183.4" fill="hsl(306.2 92% 52%)" opacity="0.2"/><circle cx="998.8" cy="290.4" r="185.1" fill="hsl(306.2 96% 88%)" opacity="0.3"/><circle cx="55.7" cy="634.6" r="90.7" fill="hsl(306.2 92% 52%)" opacity="0.3"/><circle cx="1011.1" cy="109.4" r="136.4" fill="hsl(306.2 96% 88%)" opacity="0.2"/><path d="M-10 1428L-10 828L0 828Q100 781.1 200 789.7Q300 732.9 400 741.5Q500 724 600 732.6Q700 724 800 750.1Q900 741.5 1000 750.3Q1100 741.7 1200 751.2Q1300 742.6 1400 787.6Q1500 779 1600 828L1610 1428Z" fill="hsl(122.4 48.6% 10%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>

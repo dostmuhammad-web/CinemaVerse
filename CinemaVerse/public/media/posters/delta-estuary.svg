@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Delta &amp; Estuary poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(17.5 42.3% 6%)"/><stop offset="0.5" stop-color="hsl(33.5 48.4% 13%)"/><stop offset="1" stop-color="hsl(1.2 54.4% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(1.2 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(1.2 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M-10 1248L-10 648L-10 433.4L83.5 433.4L97.3 428.2L133 428.2L143.5 549.3L200.8 549.3L212 342.1L269.4 342.1L273 395.8L359.5 395.8L370.8 360.3L411.1 360.3L418.1 499.8L487.4 499.8L493.2 542L527.8 542L538.6 426.5L586.5 426.5L590.6 350.7L626 350.7L610 1248Z" fill="hsl(160.6 42.3% 15%)" opacity=".7"/><rect y="630" width="620" height="288" fill="hsl(168.6 54.4% 6%)"/><path d="M193.8 237.5l-12.2 76.4M185.4 692.9l-10.4 64.8M24.9 257.4l-6.1 37.8M515.4 241.8l-8.3 51.9M292.3 293.1l-8 49.8M312.6 385l-9.4 58.7M589.4 738.2l-7 44M142.5 406.9l-9.6 60.3M247 701.4l-11.8 73.7M70.8 378.7l-5.2 32.5M256.9 161.5l-4.5 27.8M389.7 295.2l-4.3 27M279.5 160.8l-7.5 46.7M153 599.2l-13.5 84.3M480.7 323.9l-13.5 84.3M442.7 730.5l-12.2 76.2M129.6 792.5l-4.8 30.3M415.5 42.3l-7.1 44.5M275.2 383.4l-10.2 63.8M560 113.1l-11.7 73.2M400.2 546.6l-12.2 76.3M595.2 543.1l-13.2 82.5M535.9 444.4l-13.4 84.1M8.7 554.9l-7.5 47.1M226.2 274.1l-7.4 46.4M328.9 49.7l-13.8 86.2M3.8 740.9l-8.7 54.6M573.1 714.2l-11.9 74.2M475.7 674.1l-6.7 42M210 277.7l-11 68.7M248.1 48.4l-10.1 63.4M475.5 7.9l-8.2 51.3M468.2 54.3l-5.6 35.1M358.6 612.5l-10.1 63.3M579.3 209.2l-7.2 45.3M558.9 740.4l-6.5 40.4M425.1 432.1l-14.3 89.2M115.4 21.3l-12.7 79.1M69.6 309.1l-7.6 47.5M63.6 286.4l-6.6 41.1M336.5 332.4l-13 81M577.7 703.9l-13.9 86.6M266.4 13.2l-12.2 76.5M179.9 60.4l-13.9 87M419.4 497.1l-5 31.4M282.8 645.9l-5.5 34.6" fill="none" stroke="hsl(1.2 96% 78%)" stroke-width="1.2" opacity=".3"/><ellipse cx="384.1" cy="837" rx="132" ry="27" fill="hsl(1.2 92% 62%)" opacity=".22"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(1.2 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DELTA &amp; ESTUARY</text>
+<path d="M44 709.4h72" stroke="hsl(1.2 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2014  ·  172 MIN  ·  WAR</text>
+<text x="556" y="733.4" fill="hsl(1.2 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

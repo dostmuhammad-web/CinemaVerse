@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Distant Kernel poster">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(256.6 47.2% 6%)"/><stop offset="0.5" stop-color="hsl(272.6 54% 13%)"/><stop offset="1" stop-color="hsl(234.1 60.7% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(234.1 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(234.1 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".42" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".72"/></radialGradient>
+<linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04050a" stop-opacity="0"/><stop offset=".55" stop-color="#04050a" stop-opacity=".72"/><stop offset="1" stop-color="#04050a" stop-opacity=".96"/></linearGradient>
+</defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+
+<path d="M11.4 828L-71 828L11.4 344.1L93.8 828ZM36.1 828L-70.6 828L36.1 313.7L142.8 828ZM86.9 828L-7.4 828L86.9 243.3L181.2 828ZM103.8 828L33.3 828L103.8 553.8L174.3 828ZM145.7 828L35.2 828L145.7 186L256.2 828ZM174.3 828L56.7 828L174.3 304.9L291.9 828ZM225.3 828L59.5 828L225.3 189.6L391.1 828ZM254.8 828L132.2 828L254.8 343.4L377.4 828ZM308.6 828L233.6 828L308.6 419.2L383.6 828ZM344.3 828L278.6 828L344.3 431.3L410 828ZM369.7 828L305.3 828L369.7 473.6L434.1 828ZM425.9 828L298.4 828L425.9 305.9L553.4 828ZM450 828L362.5 828L450 405.9L537.5 828ZM482 828L367.4 828L482 372.7L596.6 828ZM538.1 828L462 828L538.1 427.1L614.2 828ZM556.9 828L412.9 828L556.9 268.5L700.9 828Z" fill="hsl(77.4 54% 10%)" opacity=".9"/><rect y="828" width="620" height="92" fill="hsl(91.4 67.5% 3%)"/>
+<rect y="584" width="600" height="316" fill="url(#scrim)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<rect x="18" y="18" width="564" height="864" fill="none" stroke="#ffffff" stroke-opacity=".16"/>
+<path d="M18 54V18h36M546 18h36v36M18 846v36h36M546 900h36v-36" fill="none" stroke="hsl(234.1 92% 62%)" stroke-opacity=".55" stroke-width="2"/>
+<text x="44" y="668.7" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">DISTANT KERNEL</text>
+<path d="M44 709.4h72" stroke="hsl(234.1 92% 62%)" stroke-width="2.5"/>
+<text x="44" y="733.4" fill="#ffffff" fill-opacity=".72" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="2.6">2025  ·  112 MIN  ·  FANTASY</text>
+<text x="556" y="733.4" fill="hsl(234.1 92% 62%)" fill-opacity=".85" text-anchor="end" font-family="Verdana,DejaVu Sans,sans-serif" font-size="12.5" letter-spacing="4">CINEMAVERSE</text>
+</svg>

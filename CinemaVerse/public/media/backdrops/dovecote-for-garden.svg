@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Dovecote for Garden backdrop">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(45.7 28.4% 6%)"/><stop offset="0.5" stop-color="hsl(61.7 32.5% 13%)"/><stop offset="1" stop-color="hsl(28.3 36.6% 22%)"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="hsl(28.3 100% 62% / 0.4)"/><stop offset="1" stop-color="hsl(28.3 100% 62% / 0.4)" stop-opacity="0"/></radialGradient>
+<linearGradient id="vig" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="758.1" cy="321.8" r="711" fill="url(#glow)"/>
+<circle cx="758.1" cy="321.8" r="142.2" fill="hsl(28.3 96% 88%)" opacity=".85"/>
+<path d="M1439.2 0L1601.2 0L989.2 900L674.2 900Z" fill="hsl(28.3 96% 88%)" opacity=".04"/><path d="M1489.3 0L1651.3 0L1039.3 900L724.3 900Z" fill="hsl(28.3 96% 88%)" opacity=".04"/><path d="M817.3 0L979.3 0L367.3 900L52.3 900Z" fill="hsl(28.3 96% 88%)" opacity=".04"/><path d="M1387.9 0L1549.9 0L937.9 900L622.9 900Z" fill="hsl(28.3 96% 88%)" opacity=".04"/><circle cx="58.3" cy="193.8" r="142.3" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="770.2" cy="324.2" r="175.3" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="844.9" cy="119" r="171.8" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="1082" cy="394.9" r="118" fill="hsl(28.3 92% 62%)" opacity="0.2"/><circle cx="657.2" cy="355.2" r="60.3" fill="hsl(28.3 96% 88%)" opacity="0.1"/><circle cx="1313" cy="622.6" r="79.2" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="293.5" cy="382.1" r="90.1" fill="hsl(28.3 96% 88%)" opacity="0.3"/><circle cx="770.2" cy="250.9" r="46.3" fill="hsl(28.3 92% 62%)" opacity="0.3"/><circle cx="77.4" cy="643.9" r="109.7" fill="hsl(28.3 96% 88%)" opacity="0.1"/><path d="M-10 1428L-10 828L0 828Q100 779.8 200 788.4Q300 743 400 751.6Q500 709.1 600 717.7Q700 690.5 800 699.1Q900 690.5 1000 728.9Q1100 720.3 1200 773Q1300 764.4 1400 795.2Q1500 786.6 1600 828L1610 1428Z" fill="hsl(247.8 36.6% 6%)" opacity=".9"/>
+<rect width="1600" height="900" fill="url(#vig)"/>
+</svg>
